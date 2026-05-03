@@ -1,0 +1,790 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Your Cart</title>
+    <script>
+      !(function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+          n.callMethod
+            ? n.callMethod.apply(n, arguments)
+            : n.queue.push(arguments);
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = "2.0";
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s);
+      })(
+        window,
+        document,
+        "script",
+        "https://connect.facebook.net/en_US/fbevents.js",
+      );
+      fbq("init", "9083739771684521");
+      fbq("track", "PageView");
+    </script>
+    <noscript
+      ><img
+        height="1"
+        width="1"
+        style="display: none"
+        src="https://www.facebook.com/tr?id=9083739771684521&ev=PageView&noscript=1"
+    /></noscript>
+    <link rel="icon" type="image/png" href="icon/32.png" />
+    <link rel="apple-touch-icon" href="icon/180.png" />
+    <style>
+      /* ================= RESET & GLOBAL ================= */
+      :root {
+        --header-height: 50px;
+        --accent-color: #b28900;
+        --sidebar-width: 280px;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        padding-top: var(--header-height);
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        background: #f4f4f4;
+        color: #333;
+        -webkit-font-smoothing: antialiased;
+        padding-bottom: 120px; /* Footer space */
+      }
+
+      /* ================= HEADER ================= */
+      .site-header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: var(--header-height);
+        background-color: #000;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 15px;
+        z-index: 1000;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+
+      .header-left,
+      .header-right {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        font-size: 0.9rem;
+        font-weight: 700;
+      }
+      .hamburger-icon {
+        font-size: 1.4rem;
+        line-height: 1;
+      }
+
+      .header-title {
+        font-size: 1.1rem;
+        font-weight: 500;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+      }
+
+      /* ================= SIDEBAR ================= */
+      .sidebar-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.6);
+        z-index: 1001;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.3s;
+      }
+      .sidebar-overlay.active {
+        opacity: 1;
+        visibility: visible;
+      }
+
+      .sidebar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        width: 85%;
+        max-width: var(--sidebar-width);
+        background: #fff;
+        z-index: 1002;
+        transform: translateX(-100%);
+        transition: transform 0.3s ease-in-out;
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+      }
+      .sidebar.active {
+        transform: translateX(0);
+      }
+
+      .menu-link {
+        display: block;
+        padding: 15px 0;
+        font-size: 1rem;
+        font-weight: 600;
+        color: #333;
+        border-bottom: 1px solid #eee;
+        text-decoration: none;
+        text-transform: uppercase;
+      }
+
+      /* ================= CART GRID LAYOUT ================= */
+      #capture-area {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 15px 10px;
+      }
+
+      .cart-items-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        gap: 15px;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      /* Card Style */
+      .cart-item {
+        background: #fff;
+        padding: 15px;
+        display: flex;
+        align-items: flex-start;
+        border-radius: 6px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+        position: relative;
+        height: 100%;
+      }
+
+      .cart-item-img {
+        width: 75px;
+        height: 85px;
+        object-fit: contain;
+        flex-shrink: 0;
+        margin-right: 15px;
+        align-self: flex-start;
+        background: #f9f9f9;
+        border-radius: 4px;
+        padding: 2px;
+      }
+
+      .item-content {
+        flex-grow: 1;
+        width: 100%;
+        font-size: 0.9rem;
+      }
+
+      .item-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 8px;
+        height: 2.6em;
+        overflow: hidden;
+      }
+      .item-title {
+        font-family: "Times New Roman", serif;
+        font-size: 1rem;
+        color: #0c3e6d;
+        margin: 0;
+        padding-right: 5px;
+        line-height: 1.3;
+        font-weight: 400;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .remove-btn-icon {
+        background: none;
+        border: none;
+        color: #ccc;
+        font-size: 1.3rem;
+        cursor: pointer;
+        padding: 0;
+        line-height: 1;
+        margin-left: 5px;
+      }
+      .remove-btn-icon:hover {
+        color: #d9534f;
+      }
+
+      .info-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 6px 0;
+        border-top: 1px dashed #eee;
+        font-size: 0.9rem;
+        color: #555;
+      }
+      .info-row:last-child {
+        border-bottom: none;
+        padding-bottom: 0;
+      }
+
+      .info-label {
+        font-family: "Times New Roman", serif;
+        font-style: italic;
+        color: #888;
+      }
+
+      .qty-wrapper {
+        display: flex;
+        border: 1px solid #ddd;
+        border-radius: 3px;
+        overflow: hidden;
+        height: 28px;
+      }
+      .qty-btn {
+        background: #fdfdfd;
+        border: none;
+        width: 28px;
+        font-size: 1rem;
+        cursor: pointer;
+        color: #555;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-right: 1px solid #ddd;
+      }
+      .qty-btn:last-child {
+        border-right: none;
+        border-left: 1px solid #ddd;
+      }
+      .qty-display {
+        width: 32px;
+        text-align: center;
+        line-height: 28px;
+        font-size: 0.9rem;
+        background: #fff;
+      }
+
+      .subtotal-val {
+        color: #b28900;
+        font-weight: bold;
+        font-size: 1rem;
+      }
+
+      /* ================= SUMMARY & FOOTER ================= */
+      .cart-summary {
+        background: #fff;
+        padding: 20px;
+        margin-top: 20px;
+        border-top: 1px solid #eee;
+        border-bottom: 1px solid #eee;
+        width: 100%;
+        border-radius: 6px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+      }
+      .cart-summary h2 {
+        font-size: 1.2rem;
+        margin-top: 0;
+        margin-bottom: 15px;
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: 700;
+        letter-spacing: 0.5px;
+      }
+      .summary-row {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 8px;
+        font-size: 1rem;
+        color: #555;
+      }
+      .summary-total {
+        margin-top: 15px;
+        padding-top: 15px;
+        border-top: 2px solid #eee;
+        font-weight: bold;
+        font-size: 1.25rem;
+        color: #000;
+      }
+      .discount-text {
+        color: #28a745;
+      }
+
+      /* Fixed Bottom Actions */
+      .cart-actions {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background: #fff;
+        padding: 12px;
+        display: flex;
+        gap: 10px;
+        box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05);
+        z-index: 100;
+      }
+      .action-btn {
+        flex: 1;
+        padding: 12px;
+        border: none;
+        border-radius: 4px;
+        font-size: 0.95rem;
+        font-weight: bold;
+        cursor: pointer;
+        text-transform: uppercase;
+      }
+      .btn-clear {
+        background: #f0f0f0;
+        color: #333;
+        flex: 0.6; /* Clear 按钮稍小一点 */
+      }
+      .btn-order {
+        background: #25d366; /* WhatsApp Green */
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px; /* Added gap for icon spacing */
+      }
+
+      /* Discount Tiers */
+      .tiers-container {
+        margin-top: 20px;
+        background: #fff;
+        padding: 20px;
+        text-align: center;
+        width: 100%;
+        border-radius: 6px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+      }
+      .tiers-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        justify-content: center;
+        margin-top: 12px;
+      }
+      .tier-badge {
+        font-size: 0.85rem;
+        padding: 6px 10px;
+        background: #f5f5f5;
+        border-radius: 4px;
+        color: #555;
+        border: 1px solid #eee;
+      }
+      .tier-badge.active {
+        background: #d4edda;
+        color: #155724;
+        border: 1px solid #c3e6cb;
+        font-weight: bold;
+      }
+
+      /* Empty State */
+      .empty-state {
+        text-align: center;
+        padding: 50px 20px;
+      }
+      .btn-continue {
+        display: inline-block;
+        margin-top: 20px;
+        background: #000;
+        color: #fff;
+        padding: 10px 25px;
+        text-decoration: none;
+        border-radius: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-left" id="menu-trigger" onclick="toggleSidebar()">
+        <span class="hamburger-icon">☰</span>
+        <span style="margin-left: 5px">MENU</span>
+      </div>
+
+      <div class="header-title">SHOPPING CART</div>
+
+      <div class="header-right" onclick="handleBack()">
+        <span>◀ BACK</span>
+      </div>
+    </header>
+
+    <div
+      class="sidebar-overlay"
+      id="sidebar-overlay"
+      onclick="toggleSidebar()"
+    ></div>
+    <div class="sidebar" id="sidebar">
+      <div
+        style="
+          font-weight: 700;
+          padding-bottom: 15px;
+          border-bottom: 2px solid #000;
+          margin-bottom: 10px;
+        "
+      >
+        MENU
+      </div>
+      <nav>
+        <a class="menu-link" href="index.html">Home</a>
+        <a class="menu-link" href="index.html">Shop All</a>
+        <a class="menu-link" href="https://wa.me/17253041220" target="_blank"
+          >Contact Us</a
+        >
+      </nav>
+    </div>
+
+    <div id="capture-area">
+      <ul id="cart-items-list" class="cart-items-list"></ul>
+
+      <div id="cart-summary" class="cart-summary" style="display: none">
+        <h2>Order Summary</h2>
+        <div class="summary-row">
+          <span>LV Quantity</span>
+          <span id="lv-count">0</span>
+        </div>
+        <div class="summary-row">
+          <span>Other Quantity</span>
+          <span id="other-brands-count">0</span>
+        </div>
+        <div
+          class="summary-row"
+          style="border-top: 1px solid #eee; padding-top: 8px; margin-top: 8px"
+        >
+          <span>Subtotal</span>
+          <span id="subtotal-price">$0.00</span>
+        </div>
+        <div class="summary-row discount-text">
+          <span>Volume Discount</span>
+          <span id="discount-amount">-$0.00</span>
+        </div>
+        <div class="summary-row summary-total">
+          <span>Total</span>
+          <span id="total-price">$0.00</span>
+        </div>
+
+        <div
+          id="upsell-message"
+          style="
+            margin-top: 15px;
+            padding: 8px;
+            background: #e7f3ff;
+            color: #0056b3;
+            font-size: 0.85rem;
+            text-align: center;
+            display: none;
+            border-radius: 4px;
+          "
+        ></div>
+      </div>
+
+      <div id="discount-tiers" class="tiers-container" style="display: none">
+        <h3
+          style="
+            margin: 0;
+            font-size: 0.9rem;
+            color: #777;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+          "
+        >
+          Volume Discounts
+        </h3>
+        <div id="tiers-list" class="tiers-grid"></div>
+      </div>
+    </div>
+
+    <div class="cart-actions">
+      <button id="clear-cart-btn" class="action-btn btn-clear">Clear</button>
+      <button id="send-order-btn" class="action-btn btn-order">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="18"
+          height="18"
+          fill="currentColor"
+          viewBox="0 0 16 16"
+        >
+          <path
+            d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.06 3.973L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"
+          />
+        </svg>
+        <span>Checkout</span>
+      </button>
+    </div>
+
+    <script src="db.js"></script>
+    <script>
+      // ================= UI Logic =================
+      function toggleSidebar() {
+        document.getElementById("sidebar").classList.toggle("active");
+        document.getElementById("sidebar-overlay").classList.toggle("active");
+      }
+
+      // ================= Back Button Logic =================
+      function handleBack() {
+        // 如果有历史记录且来自同一站点，则回退保留位置
+        if (
+          document.referrer &&
+          document.referrer.includes(window.location.host)
+        ) {
+          history.back();
+        } else {
+          // 否则默认跳回首页
+          window.location.href = "index.html";
+        }
+      }
+
+      // ================= Cart Logic =================
+      const cartItemsList = document.getElementById("cart-items-list");
+      const clearCartBtn = document.getElementById("clear-cart-btn");
+      const sendOrderBtn = document.getElementById("send-order-btn");
+
+      const summaryEls = {
+        total: document.getElementById("total-price"),
+        subtotal: document.getElementById("subtotal-price"),
+        discount: document.getElementById("discount-amount"),
+        lv: document.getElementById("lv-count"),
+        other: document.getElementById("other-brands-count"),
+        upsell: document.getElementById("upsell-message"),
+        tiersList: document.getElementById("tiers-list"),
+        container: document.getElementById("cart-summary"),
+        tiersContainer: document.getElementById("discount-tiers"),
+      };
+
+      const whatsappNumber = "17253041220";
+
+      const tiers = [
+        { min: 1, max: 1, percent: 0 },
+        { min: 2, max: 2, percent: 0.03 },
+        { min: 3, max: 4, percent: 0.05 },
+        { min: 5, max: 9, percent: 0.08 },
+        { min: 10, max: 19, percent: 0.14 },
+        { min: 20, max: 29, percent: 0.24 },
+        { min: 30, max: 49, percent: 0.26 },
+        { min: 50, max: 79, percent: 0.29 },
+        { min: 80, max: 100, percent: 0.32 },
+        { min: 101, max: Infinity, percent: 0.35 },
+      ];
+
+      function loadCart() {
+        return JSON.parse(localStorage.getItem("perfumeCart") || "[]");
+      }
+      function saveCart(cart) {
+        localStorage.setItem("perfumeCart", JSON.stringify(cart));
+        window.dispatchEvent(new Event("storage"));
+      }
+
+      function renderCart() {
+        const cart = loadCart();
+        cartItemsList.innerHTML = "";
+
+        if (cart.length === 0) {
+          cartItemsList.innerHTML = `
+            <div class="empty-state">
+                <p style="color:#999; font-size:1.1rem;">Your cart is empty.</p>
+                <a href="index.html" class="btn-continue">Continue Shopping</a>
+            </div>
+          `;
+          summaryEls.container.style.display = "none";
+          summaryEls.tiersContainer.style.display = "none";
+          return;
+        }
+
+        summaryEls.container.style.display = "block";
+        summaryEls.tiersContainer.style.display = "block";
+
+        cart.forEach((item, index) => {
+          const price = Number(item.price) || 0;
+          const subtotal = (price * item.quantity).toFixed(2);
+          const displayTitle = item.caption;
+
+          const li = document.createElement("li");
+          li.className = "cart-item";
+          li.innerHTML = `
+                <img src="${item.img}" class="cart-item-img" alt="Product">
+                <div class="item-content">
+                    <div class="item-header">
+                        <h3 class="item-title">${displayTitle}</h3>
+                        <button class="remove-btn-icon" onclick="removeItem(${index})">&times;</button>
+                    </div>
+                    
+                    <div class="info-row">
+                        <span class="info-label">Price</span>
+                        <span>$${price.toFixed(2)}</span>
+                    </div>
+
+                    <div class="info-row">
+                        <span class="info-label">Quantity</span>
+                        <div class="qty-wrapper">
+                            <button class="qty-btn" onclick="updateQty(${index}, -1)">-</button>
+                            <div class="qty-display">${item.quantity}</div>
+                            <button class="qty-btn" onclick="updateQty(${index}, 1)">+</button>
+                        </div>
+                    </div>
+
+                    <div class="info-row">
+                        <span class="info-label">Subtotal</span>
+                        <span class="subtotal-val">$${subtotal}</span>
+                    </div>
+                </div>
+            `;
+          cartItemsList.appendChild(li);
+        });
+
+        calculateTotals(cart);
+      }
+
+      function calculateTotals(cart) {
+        let totalQty = 0;
+        let subtotal = 0;
+        let lv = 0;
+        let other = 0;
+
+        cart.forEach((item) => {
+          const qty = item.quantity;
+          totalQty += qty;
+          subtotal += item.price * qty;
+          if (item.caption.toLowerCase().includes("louis vuitton")) lv += qty;
+          else other += qty;
+        });
+
+        // Discount Logic
+        const tier = tiers.find(
+          (t) => totalQty >= t.min && totalQty <= t.max,
+        ) || { percent: 0 };
+        const discountVal = subtotal * tier.percent;
+        const finalTotal = subtotal - discountVal;
+
+        // Render Summary
+        summaryEls.lv.textContent = lv;
+        summaryEls.other.textContent = other;
+        summaryEls.subtotal.textContent = `$${subtotal.toFixed(2)}`;
+        summaryEls.discount.textContent = `-$${discountVal.toFixed(2)} (${(
+          tier.percent * 100
+        ).toFixed(0)}%)`;
+        summaryEls.total.textContent = `$${Math.round(finalTotal).toFixed(2)}`;
+
+        // Upsell Logic
+        const nextTier = tiers.find((t) => t.min > totalQty);
+        if (nextTier && totalQty >= 5) {
+          const needed = nextTier.min - totalQty;
+          if (needed <= 5) {
+            summaryEls.upsell.style.display = "block";
+            summaryEls.upsell.textContent = `Add ${needed} more items to get ${(
+              nextTier.percent * 100
+            ).toFixed(0)}% Off!`;
+          } else {
+            summaryEls.upsell.style.display = "none";
+          }
+        } else {
+          summaryEls.upsell.style.display = "none";
+        }
+
+        // Render Tiers Badges
+        summaryEls.tiersList.innerHTML = tiers
+          .map((t) => {
+            const active =
+              totalQty >= t.min && totalQty <= t.max ? "active" : "";
+            const label =
+              t.max === Infinity ? `${t.min}+` : `${t.min}-${t.max}`;
+            return `<div class="tier-badge ${active}">${label}: ${(
+              t.percent * 100
+            ).toFixed(0)}%</div>`;
+          })
+          .join("");
+      }
+
+      // Actions
+      window.updateQty = (index, change) => {
+        const cart = loadCart();
+        if (cart[index]) {
+          cart[index].quantity += change;
+          if (cart[index].quantity <= 0) {
+            cart.splice(index, 1);
+          }
+          saveCart(cart);
+          renderCart();
+        }
+      };
+
+      window.removeItem = (index) => {
+        if (confirm("Remove this item?")) {
+          const cart = loadCart();
+          cart.splice(index, 1);
+          saveCart(cart);
+          renderCart();
+        }
+      };
+
+      clearCartBtn.onclick = () => {
+        if (confirm("Clear entire cart?")) {
+          localStorage.removeItem("perfumeCart");
+          renderCart();
+        }
+      };
+
+      // ================= FIXED SEND ORDER LOGIC =================
+      sendOrderBtn.onclick = () => {
+        const cart = loadCart();
+        if (cart.length === 0) return alert("Cart is empty");
+
+        let totalQty = 0;
+        let lvCount = 0;
+        let otherCount = 0;
+
+        cart.forEach((item) => {
+          const qty = item.quantity;
+          totalQty += qty;
+          if (item.caption.toLowerCase().includes("louis vuitton")) {
+            lvCount += qty;
+          } else {
+            otherCount += qty;
+          }
+        });
+
+        // 1. 使用 \n 来代替 %0A，让 JS 字符串自然换行
+        let msg = `*New Order Request* 📦\n`;
+        msg += `----------------------------\n`;
+
+        cart.forEach((item) => {
+          // 这里不需要手动处理 &，因为最后会统一 encode
+          msg += `${item.caption} x *${item.quantity}*\n\n`;
+        });
+
+        msg += `----------------------------\n`;
+        msg += `LV Quantity: ${lvCount}\n`;
+        msg += `Other Quantity: ${otherCount}\n`;
+        msg += `*Total Quantity: ${totalQty} pcs*\n`;
+
+        msg += `----------------------------\n`;
+        msg += `*Total Amount:* ${summaryEls.total.textContent}`;
+
+        // 2. 关键步骤：使用 encodeURIComponent 对整个消息进行编码
+        // 这样 & 会被转换为 %26，换行符 \n 会被转换为 %0A，避免链接截断
+        const encodedMsg = encodeURIComponent(msg);
+
+        window.open(
+          `https://wa.me/${whatsappNumber}?text=${encodedMsg}`,
+          "_blank",
+        );
+      };
+
+      // Init
+      document.addEventListener("DOMContentLoaded", renderCart);
+    </script>
+  </body>
+</html>
