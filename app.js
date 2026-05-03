@@ -10,7 +10,7 @@ fetch("products.json")
           <h3>${p.name}</h3>
           <p>${p.price}</p>
           <a href="${p.link}">
-            <button>Order on WhatsApp</button>
+            <button>Order</button>
           </a>
         </div>
       `;
