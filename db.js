@@ -18,8 +18,8 @@ document.addEventListener("DOMContentLoaded", () => {
 async function initProductData() {
   // ⚡️ [重要修改] 更新版本号 V4 -> V5
   // 这会强制浏览器忽略旧缓存，确保加载包含 Inventory 的新数据
-  const cacheKey = "perfumeDB_Data_V6";
-  const timeKey = "perfumeDB_Time_V6";
+  const cacheKey = "perfumeDB_Data_V7";
+  const timeKey = "perfumeDB_Time_V7";
 
   const now = new Date().getTime();
   const cachedTime = localStorage.getItem(timeKey);
@@ -112,7 +112,7 @@ function parseCSV(csvText) {
           header === "inventory"
         ) {
           val = Number(val);
-          if (header === "price") val = val + 15;
+          if (header === "price") val = val + 35;
         }
 
         obj[header] = val;
