@@ -192,6 +192,53 @@
         border-color: #b9722a;
         color: #b9722a;
       }
+      .fsq-box {
+        background: var(--panel);
+        border-bottom: 1px solid var(--border);
+        padding: 8px 18px;
+        font-size: 13px;
+      }
+      .fsq-box > summary {
+        cursor: pointer;
+        font-weight: 700;
+        color: var(--accent-dark);
+        list-style: none;
+      }
+      .fsq-box > summary::-webkit-details-marker {
+        display: none;
+      }
+      .fsq-body {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        align-items: center;
+        margin-top: 10px;
+      }
+      .fsq-body input {
+        flex: 1 1 260px;
+        min-width: 180px;
+        font: inherit;
+        padding: 9px 12px;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        outline: none;
+      }
+      .fsq-body .btn {
+        padding: 9px 14px;
+      }
+      .fsq-status {
+        font-weight: 700;
+      }
+      .fsq-note {
+        flex-basis: 100%;
+        margin: 4px 0 0;
+        font-size: 12px;
+        color: var(--muted);
+      }
+      .card .rating {
+        color: #b9722a;
+        font-weight: 700;
+      }
       .chip.intl-toggle.active {
         background: #b9722a;
         border-color: #b9722a;
@@ -558,6 +605,32 @@
       <span class="chip preset" data-kw="">✖ Clear</span>
     </div>
 
+    <details class="fsq-box" id="fsqBox">
+      <summary>🔑 Upgrade to verified data (ratings, hours) — add a Foursquare API key</summary>
+      <div class="fsq-body">
+        <input
+          type="password"
+          id="fsqKey"
+          placeholder="Paste your Foursquare Service API key"
+          autocomplete="off"
+        />
+        <button class="btn" id="fsqSave">Save &amp; use</button>
+        <button class="btn secondary" id="fsqClear">Remove</button>
+        <a
+          href="https://foursquare.com/products/places/"
+          target="_blank"
+          rel="noopener"
+          >Get a free key ↗</a
+        >
+        <span id="fsqStatus" class="fsq-status"></span>
+        <p class="fsq-note">
+          Free, no credit card. The key is stored only in this browser. If your
+          browser blocks the request, the dashboard automatically falls back to
+          free OpenStreetMap data — so it never breaks.
+        </p>
+      </div>
+    </details>
+
     <div class="statusbar">
       <span class="spinner" id="spinner"></span>
       <span id="status"
@@ -757,9 +830,143 @@
         );
       }
 
+      var dataSource = "OpenStreetMap"; // updated per fetch
+
+      function getFsqKey() {
+        try {
+          return localStorage.getItem("fsq_key") || "";
+        } catch (e) {
+          return "";
+        }
+      }
+
+      function updateFsqStatus() {
+        var s = document.getElementById("fsqStatus");
+        if (!s) return;
+        if (getFsqKey()) {
+          s.textContent = "✅ Verified data ON";
+          s.style.color = "#2e7d32";
+        } else {
+          s.textContent = "Using free OpenStreetMap data";
+          s.style.color = "var(--muted)";
+        }
+      }
+
+      // Dispatcher: use Foursquare (verified) when a key is set, otherwise the
+      // free OpenStreetMap source. Any Foursquare failure falls back to OSM so
+      // the dashboard never breaks.
       function fetchStores(lat, lon, radius) {
         setStatus("Loading live store data…", true);
         el("csvBtn").disabled = true;
+        var key = getFsqKey();
+        if (key) {
+          return fetchStoresFSQ(lat, lon, radius, key).catch(function (err) {
+            console.warn("Foursquare unavailable, falling back to OSM:", err);
+            setStatus(
+              "Verified source unavailable in-browser — loading OpenStreetMap data…",
+              true
+            );
+            return fetchStoresOSM(lat, lon, radius);
+          });
+        }
+        return fetchStoresOSM(lat, lon, radius);
+      }
+
+      // Map a Foursquare category name into our internal buckets.
+      function fsqCat(n) {
+        n = (n || "").toLowerCase();
+        if (/convenience/.test(n))
+          return { cat: "convenience", label: "Convenience Store" };
+        if (/supermarket|warehouse/.test(n))
+          return { cat: "supermarket", label: "Supermarket" };
+        if (
+          /grocery|market|deli|butcher|bakery|wholesale|spice|food (store|shop)|farmers/.test(
+            n
+          )
+        )
+          return { cat: "grocery", label: n || "Grocery / Food Shop" };
+        if (/caf|coffee|tea|dessert|ice cream|juice|bubble/.test(n))
+          return { cat: "cafe", label: n || "Café" };
+        if (/fast food|quick|takeaway|food truck|food stand/.test(n))
+          return { cat: "fast_food", label: n || "Fast Food" };
+        return { cat: "restaurant", label: n || "Restaurant" };
+      }
+
+      // Foursquare Places API (verified data with ratings).
+      function fetchStoresFSQ(lat, lon, radius, key) {
+        dataSource = "Foursquare (verified)";
+        var fields =
+          "name,location,categories,latitude,longitude,distance,tel,website,rating,hours";
+        var url =
+          "https://places-api.foursquare.com/places/search?ll=" +
+          lat +
+          "," +
+          lon +
+          "&radius=" +
+          Math.min(radius, 100000) +
+          "&limit=50&fields=" +
+          fields;
+        return fetch(url, {
+          headers: {
+            Authorization: "Bearer " + key,
+            Accept: "application/json",
+            "X-Places-Api-Version": "2025-06-17",
+          },
+        })
+          .then(function (r) {
+            if (!r.ok) throw new Error("Foursquare HTTP " + r.status);
+            return r.json();
+          })
+          .then(function (data) {
+            var out = [];
+            (data.results || []).forEach(function (p) {
+              var catName =
+                p.categories && p.categories.length
+                  ? p.categories[0].name
+                  : "";
+              var c = fsqCat(catName);
+              var elat = p.latitude,
+                elon = p.longitude;
+              if (elat == null || elon == null) return;
+              var name = p.name || "(Unnamed " + c.label + ")";
+              var cats = (p.categories || [])
+                .map(function (x) {
+                  return x.name;
+                })
+                .join(" ");
+              var search = (name + " " + cats + " " + c.label).toLowerCase();
+              out.push({
+                name: name,
+                cat: c.cat,
+                label: c.label,
+                lat: elat,
+                lon: elon,
+                address:
+                  (p.location && p.location.formatted_address) ||
+                  (p.location && p.location.address) ||
+                  "",
+                phone: p.tel || "",
+                website: p.website || "",
+                hours: (p.hours && p.hours.display) || "",
+                cuisine: catName,
+                diet: "",
+                brand: "",
+                image: "",
+                rating: p.rating != null ? p.rating + "/10" : "",
+                search: search,
+                intl: INTL_RE.test(search),
+                dist:
+                  p.distance != null
+                    ? p.distance / 1000
+                    : haversine(lat, lon, elat, elon),
+              });
+            });
+            return out;
+          });
+      }
+
+      function fetchStoresOSM(lat, lon, radius) {
+        dataSource = "OpenStreetMap";
         var body = "data=" + encodeURIComponent(buildQuery(lat, lon, radius));
         return overpassFetch(body)
           .then(function (data) {
@@ -1014,6 +1221,11 @@
             (s.address ? '<div class="meta">📍 ' + esc(s.address) + "</div>" : "") +
             (s.phone ? '<div class="meta">📞 ' + esc(s.phone) + "</div>" : "") +
             (s.hours ? '<div class="meta">🕒 ' + esc(s.hours) + "</div>" : "") +
+            (s.rating
+              ? '<div class="meta"><span class="rating">⭐ ' +
+                esc(s.rating) +
+                "</span></div>"
+              : "") +
             '<div class="actions">' +
             '<a href="' +
             reviews +
@@ -1068,7 +1280,9 @@
             (activeCat === "all" ? "" : " in “" + activeCat + "”") +
             " · " +
             allStores.length +
-            " total nearby.",
+            " total nearby · source: " +
+            dataSource +
+            ".",
           false
         );
       }
@@ -1176,6 +1390,7 @@
           "Phone",
           "Website",
           "Hours",
+          "Rating",
           "Latitude",
           "Longitude",
           "Google_Maps",
@@ -1183,7 +1398,8 @@
         ];
         // Title block at the top of every export
         var rows = [
-          ["USA Store Finder — Live Export"],
+          ["Desi & International Store Finder — Live Export"],
+          ["Data source:", dataSource],
           ["WhatsApp:", WA],
           ["Exported:", new Date().toLocaleString()],
           [],
@@ -1200,6 +1416,7 @@
             s.phone,
             s.website,
             s.hours,
+            s.rating || "",
             s.lat,
             s.lon,
             "https://www.google.com/maps/search/?api=1&query=" +
@@ -1364,6 +1581,26 @@
           intlOnly = !intlOnly;
           this.classList.toggle("active", intlOnly);
           if (allStores.length) render();
+        });
+
+        // Foursquare verified-data key.
+        updateFsqStatus();
+        el("fsqSave").addEventListener("click", function () {
+          var k = el("fsqKey").value.trim();
+          if (!k) return;
+          try {
+            localStorage.setItem("fsq_key", k);
+          } catch (e) {}
+          el("fsqKey").value = "";
+          updateFsqStatus();
+          if (center) runSearch(center.lat, center.lon, "Search center");
+        });
+        el("fsqClear").addEventListener("click", function () {
+          try {
+            localStorage.removeItem("fsq_key");
+          } catch (e) {}
+          updateFsqStatus();
+          if (center) runSearch(center.lat, center.lon, "Search center");
         });
 
         // Cuisine preset chips — one tap fills the keyword filter.
