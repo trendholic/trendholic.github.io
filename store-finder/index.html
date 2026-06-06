@@ -606,27 +606,34 @@
     </div>
 
     <details class="fsq-box" id="fsqBox">
-      <summary>🔑 Upgrade to verified data (ratings, hours) — add a Foursquare API key</summary>
+      <summary>🔑 Upgrade to verified data (ratings, hours) — fast Foursquare source</summary>
       <div class="fsq-body">
+        <input
+          type="text"
+          id="fsqProxy"
+          placeholder="Proxy URL (recommended) — e.g. https://fsq-proxy.you.workers.dev"
+          autocomplete="off"
+        />
         <input
           type="password"
           id="fsqKey"
-          placeholder="Paste your Foursquare Service API key"
+          placeholder="…or paste a Foursquare key directly (may be blocked by browser)"
           autocomplete="off"
         />
         <button class="btn" id="fsqSave">Save &amp; use</button>
         <button class="btn secondary" id="fsqClear">Remove</button>
         <a
-          href="https://foursquare.com/products/places/"
+          href="https://github.com/trendholic/trendholic.github.io/blob/main/store-finder/PROXY-SETUP.md"
           target="_blank"
           rel="noopener"
-          >Get a free key ↗</a
+          >Setup guide ↗</a
         >
         <span id="fsqStatus" class="fsq-status"></span>
         <p class="fsq-note">
-          Free, no credit card. The key is stored only in this browser. If your
-          browser blocks the request, the dashboard automatically falls back to
-          free OpenStreetMap data — so it never breaks.
+          The free proxy (a Cloudflare Worker, ~5-min setup) gives fast verified
+          results and keeps your key hidden. See the setup guide. Values are
+          stored only in this browser, and the dashboard always falls back to
+          free OpenStreetMap if the source is unreachable — so it never breaks.
         </p>
       </div>
     </details>
@@ -872,11 +879,22 @@
         }
       }
 
+      function getFsqProxy() {
+        try {
+          return localStorage.getItem("fsq_proxy") || "";
+        } catch (e) {
+          return "";
+        }
+      }
+
       function updateFsqStatus() {
         var s = document.getElementById("fsqStatus");
         if (!s) return;
-        if (getFsqKey()) {
-          s.textContent = "✅ Verified data ON";
+        if (getFsqProxy()) {
+          s.textContent = "✅ Verified data ON (proxy)";
+          s.style.color = "#2e7d32";
+        } else if (getFsqKey()) {
+          s.textContent = "✅ Verified data ON (direct key)";
           s.style.color = "#2e7d32";
         } else {
           s.textContent = "Using free OpenStreetMap data";
@@ -884,18 +902,17 @@
         }
       }
 
-      // Dispatcher: use Foursquare (verified) when a key is set, otherwise the
-      // free OpenStreetMap source. Any Foursquare failure falls back to OSM so
-      // the dashboard never breaks.
+      // Dispatcher: use Foursquare (verified) when a proxy URL or key is set,
+      // otherwise the free OpenStreetMap source. Any Foursquare failure falls
+      // back to OSM so the dashboard never breaks.
       function fetchStores(lat, lon, radius) {
         setStatus("Loading live store data…", true);
         el("csvBtn").disabled = true;
-        var key = getFsqKey();
-        if (key) {
-          return fetchStoresFSQ(lat, lon, radius, key).catch(function (err) {
+        if (getFsqProxy() || getFsqKey()) {
+          return fetchStoresFSQ(lat, lon, radius).catch(function (err) {
             console.warn("Foursquare unavailable, falling back to OSM:", err);
             setStatus(
-              "Verified source unavailable in-browser — loading OpenStreetMap data…",
+              "Verified source unavailable — loading OpenStreetMap data…",
               true
             );
             return fetchStoresOSM(lat, lon, radius);
@@ -925,12 +942,12 @@
       }
 
       // Foursquare Places API (verified data with ratings).
-      function fetchStoresFSQ(lat, lon, radius, key) {
+      function fetchStoresFSQ(lat, lon, radius) {
         dataSource = "Foursquare (verified)";
         var fields =
           "name,location,categories,latitude,longitude,distance,tel,website,rating,hours";
-        var url =
-          "https://places-api.foursquare.com/places/search?ll=" +
+        var qs =
+          "?ll=" +
           lat +
           "," +
           lon +
@@ -938,13 +955,21 @@
           Math.min(radius, 100000) +
           "&limit=50&fields=" +
           fields;
-        return fetch(url, {
-          headers: {
-            Authorization: "Bearer " + key,
+        var proxy = getFsqProxy();
+        var url, headers;
+        if (proxy) {
+          // Proxy injects the key + version + CORS headers server-side.
+          url = proxy.replace(/\/+$/, "") + qs;
+          headers = { Accept: "application/json" };
+        } else {
+          url = "https://places-api.foursquare.com/places/search" + qs;
+          headers = {
+            Authorization: "Bearer " + getFsqKey(),
             Accept: "application/json",
             "X-Places-Api-Version": "2025-06-17",
-          },
-        })
+          };
+        }
+        return fetch(url, { headers: headers })
           .then(function (r) {
             if (!r.ok) throw new Error("Foursquare HTTP " + r.status);
             return r.json();
@@ -1625,13 +1650,16 @@
           if (allStores.length) render();
         });
 
-        // Foursquare verified-data key.
+        // Foursquare verified-data (proxy URL and/or direct key).
         updateFsqStatus();
+        el("fsqProxy").value = getFsqProxy();
         el("fsqSave").addEventListener("click", function () {
+          var p = el("fsqProxy").value.trim();
           var k = el("fsqKey").value.trim();
-          if (!k) return;
+          if (!p && !k) return;
           try {
-            localStorage.setItem("fsq_key", k);
+            if (p) localStorage.setItem("fsq_proxy", p);
+            if (k) localStorage.setItem("fsq_key", k);
           } catch (e) {}
           el("fsqKey").value = "";
           updateFsqStatus();
@@ -1640,7 +1668,10 @@
         el("fsqClear").addEventListener("click", function () {
           try {
             localStorage.removeItem("fsq_key");
+            localStorage.removeItem("fsq_proxy");
           } catch (e) {}
+          el("fsqProxy").value = "";
+          el("fsqKey").value = "";
           updateFsqStatus();
           if (center) runSearch(center.lat, center.lon, "Search center");
         });
