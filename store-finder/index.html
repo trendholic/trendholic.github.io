@@ -672,12 +672,12 @@
       // ====================================================================
       "use strict";
 
-      // Multiple Overpass mirrors — tried in order so a busy server never
-      // breaks the dashboard.
+      // Full-planet Overpass mirrors — RACED in parallel so the fastest one
+      // wins (regional/partial mirrors are intentionally excluded).
       var OVERPASS_ENDPOINTS = [
         "https://overpass-api.de/api/interpreter",
         "https://overpass.private.coffee/api/interpreter",
-        "https://overpass.osm.ch/api/interpreter",
+        "https://overpass.kumi.systems/api/interpreter",
       ];
       var NOMINATIM = "https://nominatim.openstreetmap.org/search";
 
@@ -712,25 +712,57 @@
 
       var intlOnly = true; // default: hide generic American stores
 
-      // POST the query to each endpoint until one succeeds.
-      function overpassFetch(body, idx) {
-        idx = idx || 0;
-        if (idx >= OVERPASS_ENDPOINTS.length)
-          return Promise.reject(new Error("All Overpass servers are busy"));
-        return fetch(OVERPASS_ENDPOINTS[idx], {
-          method: "POST",
-          headers: { "Content-Type": "application/x-www-form-urlencoded" },
-          body: body,
-        })
-          .then(function (r) {
+      // Race the query across all mirrors in parallel and resolve with the
+      // FIRST valid response (HTTP 200 + a usable JSON body). Each request has
+      // its own timeout so a hung server can't stall the dashboard.
+      function overpassFetch(body) {
+        var controllers = [];
+        function one(ep) {
+          var ctrl = new AbortController();
+          controllers.push(ctrl);
+          var to = setTimeout(function () {
+            ctrl.abort();
+          }, 25000);
+          return fetch(ep, {
+            method: "POST",
+            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+            body: body,
+            signal: ctrl.signal,
+          }).then(function (r) {
+            clearTimeout(to);
             if (!r.ok) throw new Error("Overpass " + r.status);
-            return r.json();
-          })
-          .catch(function (err) {
-            if (idx + 1 < OVERPASS_ENDPOINTS.length)
-              return overpassFetch(body, idx + 1);
-            throw err;
+            return r.json().then(function (j) {
+              if (!j || !j.elements) throw new Error("Overpass empty/invalid");
+              return j;
+            });
           });
+        }
+        var attempts = OVERPASS_ENDPOINTS.map(one);
+        // First successful attempt wins; ignore the slower/failed ones.
+        return firstFulfilled(attempts).then(function (data) {
+          controllers.forEach(function (c) {
+            try {
+              c.abort();
+            } catch (e) {}
+          });
+          return data;
+        });
+      }
+
+      // Resolve with the first promise to fulfil; reject only if all reject.
+      function firstFulfilled(promises) {
+        return new Promise(function (resolve, reject) {
+          var pending = promises.length,
+            errors = [];
+          if (!pending) reject(new Error("no endpoints"));
+          promises.forEach(function (p) {
+            p.then(resolve, function (e) {
+              errors.push(e);
+              if (--pending === 0)
+                reject(new Error("All Overpass servers are busy"));
+            });
+          });
+        });
       }
 
       var map, centerMarker, layerGroup;
@@ -821,7 +853,7 @@
         var shop =
           '["shop"~"^(supermarket|convenience|grocery|greengrocer|general|deli|butcher|bakery|wholesale|frozen_food|spices|health_food|farm|food|seafood|dairy|pasta|confectionery|tea|coffee|beverages|chemist)$"]';
         return (
-          "[out:json][timeout:40];(" +
+          "[out:json][timeout:25];(" +
           "node" + amenity + around +
           "way" + amenity + around +
           "node" + shop + around +
@@ -965,8 +997,17 @@
           });
       }
 
+      var osmCache = {}; // key -> { t: timestamp, data: stores[] }
+      var CACHE_TTL = 10 * 60 * 1000; // 10 min
+
       function fetchStoresOSM(lat, lon, radius) {
         dataSource = "OpenStreetMap";
+        var ckey =
+          lat.toFixed(3) + "," + lon.toFixed(3) + ":" + radius;
+        var hit = osmCache[ckey];
+        if (hit && Date.now() - hit.t < CACHE_TTL) {
+          return Promise.resolve(hit.data); // instant repeat search
+        }
         var body = "data=" + encodeURIComponent(buildQuery(lat, lon, radius));
         return overpassFetch(body)
           .then(function (data) {
@@ -1041,6 +1082,7 @@
               seen[key] = 1;
               dedup.push(s);
             });
+            osmCache[ckey] = { t: Date.now(), data: dedup };
             return dedup;
           });
       }
