@@ -1,0 +1,844 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>USA Food & Grocery Store Finder — Live Dashboard</title>
+    <meta
+      name="description"
+      content="Search real restaurants, grocery stores, supermarkets and convenience stores across the whole USA. Live data, distance from your location, map view, and one-click export to a spreadsheet."
+    />
+
+    <!-- Leaflet map (open-source, no API key) -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <style>
+      :root {
+        --accent: #b28900;
+        --accent-dark: #8a6900;
+        --bg: #f4f5f7;
+        --panel: #ffffff;
+        --text: #1c1e21;
+        --muted: #65676b;
+        --border: #e2e4e8;
+        --green: #2e7d32;
+        --font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        --shadow: 0 1px 3px rgba(0, 0, 0, 0.08), 0 4px 16px rgba(0, 0, 0, 0.06);
+      }
+      * {
+        box-sizing: border-box;
+        -webkit-tap-highlight-color: transparent;
+      }
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        background: var(--bg);
+        color: var(--text);
+        font-family: var(--font);
+        font-size: 15px;
+        line-height: 1.45;
+      }
+      a {
+        color: var(--accent-dark);
+      }
+
+      /* ---------- Header ---------- */
+      header {
+        background: #fff;
+        border-bottom: 1px solid var(--border);
+        padding: 14px 18px;
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+      }
+      header h1 {
+        margin: 0;
+        font-size: 19px;
+        letter-spacing: 0.2px;
+      }
+      header h1 .dot {
+        color: var(--accent);
+      }
+      header p.sub {
+        margin: 4px 0 0;
+        font-size: 12.5px;
+        color: var(--muted);
+      }
+
+      /* ---------- Controls bar ---------- */
+      .controls {
+        background: var(--panel);
+        border-bottom: 1px solid var(--border);
+        padding: 12px 18px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        align-items: center;
+        position: sticky;
+        top: 64px;
+        z-index: 900;
+      }
+      .controls input[type="text"],
+      .controls select {
+        font: inherit;
+        padding: 10px 12px;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        background: #fff;
+        outline: none;
+      }
+      .controls input[type="text"]:focus,
+      .controls select:focus {
+        border-color: var(--accent);
+        box-shadow: 0 0 0 3px rgba(178, 137, 0, 0.12);
+      }
+      #placeInput {
+        flex: 1 1 240px;
+        min-width: 180px;
+      }
+      .btn {
+        font: inherit;
+        font-weight: 600;
+        padding: 10px 16px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        background: var(--accent);
+        color: #fff;
+        transition: background 0.15s, transform 0.05s;
+      }
+      .btn:hover {
+        background: var(--accent-dark);
+      }
+      .btn:active {
+        transform: translateY(1px);
+      }
+      .btn.secondary {
+        background: #fff;
+        color: var(--text);
+        border: 1px solid var(--border);
+      }
+      .btn.secondary:hover {
+        background: #f0f1f3;
+      }
+      .btn[disabled] {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+      .chip-row {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        padding: 0 18px 12px;
+        background: var(--panel);
+        border-bottom: 1px solid var(--border);
+      }
+      .chip {
+        font-size: 13px;
+        padding: 6px 12px;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        background: #fff;
+        cursor: pointer;
+        user-select: none;
+      }
+      .chip.active {
+        background: var(--accent);
+        color: #fff;
+        border-color: var(--accent);
+      }
+
+      /* ---------- Layout ---------- */
+      .layout {
+        display: flex;
+        gap: 0;
+        height: calc(100vh - 210px);
+        min-height: 420px;
+      }
+      #map {
+        flex: 1 1 50%;
+        min-width: 0;
+        z-index: 1;
+      }
+      .results {
+        flex: 1 1 50%;
+        min-width: 0;
+        overflow-y: auto;
+        background: var(--bg);
+        padding: 12px;
+      }
+      @media (max-width: 820px) {
+        .layout {
+          flex-direction: column;
+          height: auto;
+        }
+        #map {
+          height: 320px;
+          flex: none;
+        }
+        .results {
+          height: auto;
+        }
+      }
+
+      /* ---------- Status ---------- */
+      .statusbar {
+        padding: 10px 18px;
+        font-size: 13px;
+        color: var(--muted);
+        background: var(--panel);
+        border-bottom: 1px solid var(--border);
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+      .spinner {
+        width: 14px;
+        height: 14px;
+        border: 2px solid var(--border);
+        border-top-color: var(--accent);
+        border-radius: 50%;
+        animation: spin 0.7s linear infinite;
+        display: none;
+      }
+      .spinner.show {
+        display: inline-block;
+      }
+      @keyframes spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+
+      /* ---------- Cards ---------- */
+      .card {
+        background: #fff;
+        border: 1px solid var(--border);
+        border-radius: 10px;
+        padding: 12px 14px;
+        margin-bottom: 10px;
+        box-shadow: var(--shadow);
+        cursor: pointer;
+        transition: border-color 0.15s;
+      }
+      .card:hover {
+        border-color: var(--accent);
+      }
+      .card.highlight {
+        border-color: var(--accent);
+        box-shadow: 0 0 0 2px rgba(178, 137, 0, 0.25);
+      }
+      .card .top {
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+        align-items: flex-start;
+      }
+      .card .name {
+        font-weight: 700;
+        font-size: 15.5px;
+      }
+      .card .dist {
+        flex: none;
+        font-size: 12.5px;
+        font-weight: 700;
+        color: var(--green);
+        white-space: nowrap;
+      }
+      .card .type {
+        display: inline-block;
+        font-size: 11px;
+        text-transform: capitalize;
+        background: #f0eada;
+        color: var(--accent-dark);
+        padding: 2px 8px;
+        border-radius: 999px;
+        margin: 6px 0;
+      }
+      .card .meta {
+        font-size: 13px;
+        color: var(--muted);
+        margin: 2px 0;
+      }
+      .card .actions {
+        margin-top: 8px;
+        display: flex;
+        gap: 14px;
+        flex-wrap: wrap;
+      }
+      .card .actions a {
+        font-size: 13px;
+        font-weight: 600;
+        text-decoration: none;
+      }
+      .empty {
+        text-align: center;
+        color: var(--muted);
+        padding: 40px 16px;
+        font-size: 14px;
+      }
+      footer {
+        padding: 14px 18px;
+        font-size: 11.5px;
+        color: var(--muted);
+        text-align: center;
+        background: var(--panel);
+        border-top: 1px solid var(--border);
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>USA Store Finder <span class="dot">●</span> Live Dashboard</h1>
+      <p class="sub">
+        Real restaurants, grocery stores, supermarkets &amp; convenience stores
+        across the entire USA — live data, distance from you, map &amp; export.
+      </p>
+    </header>
+
+    <div class="controls">
+      <input
+        type="text"
+        id="placeInput"
+        placeholder="Search a city, ZIP, or address (e.g. Chicago, 10001, Dallas TX)"
+        autocomplete="off"
+      />
+      <button class="btn" id="searchBtn">Search</button>
+      <button class="btn secondary" id="locBtn">📍 Use my location</button>
+      <select id="radiusSelect" title="Search radius">
+        <option value="1500">Within 1 km</option>
+        <option value="3000" selected>Within 3 km</option>
+        <option value="6000">Within 6 km</option>
+        <option value="12000">Within 12 km</option>
+        <option value="25000">Within 25 km</option>
+      </select>
+      <select id="sortSelect" title="Sort">
+        <option value="dist">Sort: Nearest</option>
+        <option value="name">Sort: Name A–Z</option>
+        <option value="type">Sort: Type</option>
+      </select>
+      <button class="btn secondary" id="csvBtn" disabled>⬇ Export CSV</button>
+    </div>
+
+    <div class="chip-row" id="chipRow">
+      <span class="chip active" data-cat="all">All</span>
+      <span class="chip" data-cat="restaurant">Restaurants</span>
+      <span class="chip" data-cat="fast_food">Fast Food</span>
+      <span class="chip" data-cat="cafe">Cafés</span>
+      <span class="chip" data-cat="supermarket">Supermarkets</span>
+      <span class="chip" data-cat="grocery">Grocery</span>
+      <span class="chip" data-cat="convenience">Convenience</span>
+    </div>
+
+    <div class="statusbar">
+      <span class="spinner" id="spinner"></span>
+      <span id="status"
+        >Search a place or tap “Use my location” to load nearby stores.</span
+      >
+    </div>
+
+    <div class="layout">
+      <div id="map"></div>
+      <div class="results" id="results">
+        <div class="empty">
+          Results will appear here. Each card shows distance, address, phone,
+          hours and links to open in Google / Apple Maps.
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      Live data © OpenStreetMap contributors via the Overpass API · Geocoding by
+      Nominatim · No tracking, no API keys. Distances are straight-line
+      ("as the crow flies") from your chosen center point.
+    </footer>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script>
+      // ====================================================================
+      //  USA Store Finder — vanilla JS, no build step, no keys.
+      //  Data: OpenStreetMap Overpass API. Geocoding: Nominatim.
+      // ====================================================================
+      "use strict";
+
+      var OVERPASS = "https://overpass-api.de/api/interpreter";
+      var NOMINATIM = "https://nominatim.openstreetmap.org/search";
+
+      var map, centerMarker, layerGroup;
+      var allStores = []; // full fetched list (with distances)
+      var activeCat = "all"; // category chip filter
+      var center = null; // { lat, lon } current search center
+
+      var el = function (id) {
+        return document.getElementById(id);
+      };
+      var statusEl = el("status");
+      var spinner = el("spinner");
+
+      // ---------- Map init ----------
+      function initMap() {
+        map = L.map("map", { zoomControl: true }).setView([39.5, -98.35], 4); // USA
+        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          maxZoom: 19,
+          attribution: "© OpenStreetMap",
+        }).addTo(map);
+        layerGroup = L.layerGroup().addTo(map);
+      }
+
+      function setStatus(msg, busy) {
+        statusEl.textContent = msg;
+        spinner.classList.toggle("show", !!busy);
+      }
+
+      // ---------- Helpers ----------
+      function haversine(lat1, lon1, lat2, lon2) {
+        var R = 6371; // km
+        var dLat = ((lat2 - lat1) * Math.PI) / 180;
+        var dLon = ((lon2 - lon1) * Math.PI) / 180;
+        var a =
+          Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+          Math.cos((lat1 * Math.PI) / 180) *
+            Math.cos((lat2 * Math.PI) / 180) *
+            Math.sin(dLon / 2) *
+            Math.sin(dLon / 2);
+        return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+      }
+
+      function fmtDist(km) {
+        if (km < 1) return Math.round(km * 1000) + " m";
+        var mi = km * 0.621371;
+        return km.toFixed(1) + " km · " + mi.toFixed(1) + " mi";
+      }
+
+      // Map an OSM element to a normalized store object, or null if not relevant.
+      function classify(tags) {
+        if (!tags) return null;
+        if (tags.amenity === "restaurant")
+          return { cat: "restaurant", label: "Restaurant" };
+        if (tags.amenity === "fast_food")
+          return { cat: "fast_food", label: "Fast Food" };
+        if (tags.amenity === "cafe") return { cat: "cafe", label: "Café" };
+        if (tags.shop === "supermarket")
+          return { cat: "supermarket", label: "Supermarket" };
+        if (tags.shop === "convenience")
+          return { cat: "convenience", label: "Convenience Store" };
+        if (
+          tags.shop === "grocery" ||
+          tags.shop === "greengrocer" ||
+          tags.shop === "general" ||
+          tags.shop === "deli" ||
+          tags.shop === "butcher" ||
+          tags.shop === "bakery"
+        )
+          return { cat: "grocery", label: "Grocery / Food Shop" };
+        return null;
+      }
+
+      function buildAddress(t) {
+        var parts = [];
+        if (t["addr:housenumber"] && t["addr:street"])
+          parts.push(t["addr:housenumber"] + " " + t["addr:street"]);
+        else if (t["addr:street"]) parts.push(t["addr:street"]);
+        if (t["addr:city"]) parts.push(t["addr:city"]);
+        if (t["addr:state"]) parts.push(t["addr:state"]);
+        if (t["addr:postcode"]) parts.push(t["addr:postcode"]);
+        return parts.join(", ");
+      }
+
+      // ---------- Overpass query ----------
+      function buildQuery(lat, lon, radius) {
+        // Pull all food + grocery related nodes/ways within radius.
+        return (
+          "[out:json][timeout:30];(" +
+          'node["amenity"~"^(restaurant|fast_food|cafe)$"](around:' +
+          radius +
+          "," +
+          lat +
+          "," +
+          lon +
+          ");" +
+          'way["amenity"~"^(restaurant|fast_food|cafe)$"](around:' +
+          radius +
+          "," +
+          lat +
+          "," +
+          lon +
+          ");" +
+          'node["shop"~"^(supermarket|convenience|grocery|greengrocer|general|deli|butcher|bakery)$"](around:' +
+          radius +
+          "," +
+          lat +
+          "," +
+          lon +
+          ");" +
+          'way["shop"~"^(supermarket|convenience|grocery|greengrocer|general|deli|butcher|bakery)$"](around:' +
+          radius +
+          "," +
+          lat +
+          "," +
+          lon +
+          ");" +
+          ");out center 400;"
+        );
+      }
+
+      function fetchStores(lat, lon, radius) {
+        setStatus("Loading live store data…", true);
+        el("csvBtn").disabled = true;
+        var body = "data=" + encodeURIComponent(buildQuery(lat, lon, radius));
+        return fetch(OVERPASS, {
+          method: "POST",
+          headers: { "Content-Type": "application/x-www-form-urlencoded" },
+          body: body,
+        })
+          .then(function (r) {
+            if (!r.ok) throw new Error("Overpass " + r.status);
+            return r.json();
+          })
+          .then(function (data) {
+            var out = [];
+            (data.elements || []).forEach(function (e) {
+              var t = e.tags || {};
+              var c = classify(t);
+              if (!c) return;
+              var elat = e.lat != null ? e.lat : e.center && e.center.lat;
+              var elon = e.lon != null ? e.lon : e.center && e.center.lon;
+              if (elat == null || elon == null) return;
+              var name = t.name || "(Unnamed " + c.label + ")";
+              out.push({
+                name: name,
+                cat: c.cat,
+                label: c.label,
+                lat: elat,
+                lon: elon,
+                address: buildAddress(t),
+                phone: t.phone || t["contact:phone"] || "",
+                website: t.website || t["contact:website"] || "",
+                hours: t.opening_hours || "",
+                cuisine: t.cuisine || "",
+                brand: t.brand || "",
+                dist: haversine(lat, lon, elat, elon),
+              });
+            });
+            return out;
+          });
+      }
+
+      // ---------- Geocode a place name ----------
+      function geocode(q) {
+        var url =
+          NOMINATIM +
+          "?format=json&limit=1&countrycodes=us&q=" +
+          encodeURIComponent(q);
+        return fetch(url, { headers: { Accept: "application/json" } })
+          .then(function (r) {
+            return r.json();
+          })
+          .then(function (arr) {
+            if (!arr || !arr.length) return null;
+            return {
+              lat: parseFloat(arr[0].lat),
+              lon: parseFloat(arr[0].lon),
+              name: arr[0].display_name,
+            };
+          });
+      }
+
+      // ---------- Render ----------
+      function visibleStores() {
+        var list = allStores.filter(function (s) {
+          return activeCat === "all" || s.cat === activeCat;
+        });
+        var sort = el("sortSelect").value;
+        list.sort(function (a, b) {
+          if (sort === "name") return a.name.localeCompare(b.name);
+          if (sort === "type") return a.label.localeCompare(b.label);
+          return a.dist - b.dist;
+        });
+        return list;
+      }
+
+      function render() {
+        var list = visibleStores();
+        var container = el("results");
+        layerGroup.clearLayers();
+
+        if (!list.length) {
+          container.innerHTML =
+            '<div class="empty">No matching stores found here. Try a larger radius or a different category.</div>';
+          el("csvBtn").disabled = true;
+          return;
+        }
+
+        var html = "";
+        list.forEach(function (s, i) {
+          var gmaps =
+            "https://www.google.com/maps/search/?api=1&query=" +
+            s.lat +
+            "," +
+            s.lon;
+          var amaps = "https://maps.apple.com/?ll=" + s.lat + "," + s.lon +
+            "&q=" + encodeURIComponent(s.name);
+          html +=
+            '<div class="card" data-i="' +
+            i +
+            '">' +
+            '<div class="top"><span class="name">' +
+            esc(s.name) +
+            '</span><span class="dist">' +
+            fmtDist(s.dist) +
+            "</span></div>" +
+            '<span class="type">' +
+            esc(s.label) +
+            (s.cuisine ? " · " + esc(s.cuisine.replace(/;/g, ", ")) : "") +
+            "</span>" +
+            (s.address ? '<div class="meta">📍 ' + esc(s.address) + "</div>" : "") +
+            (s.phone ? '<div class="meta">📞 ' + esc(s.phone) + "</div>" : "") +
+            (s.hours ? '<div class="meta">🕒 ' + esc(s.hours) + "</div>" : "") +
+            '<div class="actions">' +
+            '<a href="' +
+            gmaps +
+            '" target="_blank" rel="noopener">Google Maps ↗</a>' +
+            '<a href="' +
+            amaps +
+            '" target="_blank" rel="noopener">Apple Maps ↗</a>' +
+            (s.website
+              ? '<a href="' +
+                esc(s.website) +
+                '" target="_blank" rel="noopener">Website ↗</a>'
+              : "") +
+            "</div></div>";
+
+          // marker
+          var m = L.marker([s.lat, s.lon]).bindPopup(
+            "<b>" +
+              esc(s.name) +
+              "</b><br>" +
+              esc(s.label) +
+              "<br>" +
+              fmtDist(s.dist) +
+              " away"
+          );
+          m._storeIndex = i;
+          layerGroup.addLayer(m);
+        });
+        container.innerHTML = html;
+        el("csvBtn").disabled = false;
+
+        // card -> map link
+        Array.prototype.forEach.call(
+          container.querySelectorAll(".card"),
+          function (card) {
+            card.addEventListener("click", function () {
+              var s = list[parseInt(card.getAttribute("data-i"), 10)];
+              map.setView([s.lat, s.lon], 16);
+              layerGroup.eachLayer(function (lyr) {
+                if (lyr._storeIndex === parseInt(card.getAttribute("data-i"), 10))
+                  lyr.openPopup();
+              });
+            });
+          }
+        );
+
+        setStatus(
+          list.length +
+            " place(s) shown" +
+            (activeCat === "all" ? "" : " in “" + activeCat + "”") +
+            " · " +
+            allStores.length +
+            " total nearby.",
+          false
+        );
+      }
+
+      function esc(s) {
+        return String(s)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;");
+      }
+
+      // ---------- Core search flow ----------
+      function runSearch(lat, lon, placeLabel) {
+        center = { lat: lat, lon: lon };
+        var radius = parseInt(el("radiusSelect").value, 10);
+        map.setView([lat, lon], radius > 10000 ? 11 : 13);
+        if (centerMarker) map.removeLayer(centerMarker);
+        centerMarker = L.circleMarker([lat, lon], {
+          radius: 8,
+          color: "#b28900",
+          fillColor: "#b28900",
+          fillOpacity: 0.9,
+        })
+          .addTo(map)
+          .bindPopup("Search center" + (placeLabel ? "<br>" + esc(placeLabel) : ""));
+
+        fetchStores(lat, lon, radius)
+          .then(function (stores) {
+            allStores = stores;
+            if (!stores.length) {
+              setStatus(
+                "No stores found within range. Try a larger radius.",
+                false
+              );
+            }
+            render();
+          })
+          .catch(function (err) {
+            console.error(err);
+            setStatus(
+              "Couldn't load data (the free Overpass server may be busy). Wait a few seconds and try again.",
+              false
+            );
+          });
+      }
+
+      // ---------- Events ----------
+      function doPlaceSearch() {
+        var q = el("placeInput").value.trim();
+        if (!q) {
+          el("placeInput").focus();
+          return;
+        }
+        setStatus('Finding "' + q + '"…', true);
+        geocode(q)
+          .then(function (loc) {
+            if (!loc) {
+              setStatus(
+                'Could not find "' + q + '". Try a city, ZIP, or full address.',
+                false
+              );
+              return;
+            }
+            runSearch(loc.lat, loc.lon, loc.name);
+          })
+          .catch(function () {
+            setStatus("Location lookup failed. Check your connection.", false);
+          });
+      }
+
+      function useMyLocation() {
+        if (!navigator.geolocation) {
+          setStatus("Geolocation not supported by this browser.", false);
+          return;
+        }
+        setStatus("Getting your location…", true);
+        navigator.geolocation.getCurrentPosition(
+          function (pos) {
+            runSearch(pos.coords.latitude, pos.coords.longitude, "My location");
+          },
+          function (err) {
+            setStatus(
+              "Location blocked (" +
+                err.message +
+                "). Type a city or ZIP instead.",
+              false
+            );
+          },
+          { enableHighAccuracy: true, timeout: 10000 }
+        );
+      }
+
+      function exportCSV() {
+        var list = visibleStores();
+        if (!list.length) return;
+        var headers = [
+          "Name",
+          "Type",
+          "Cuisine/Brand",
+          "Distance_km",
+          "Distance_mi",
+          "Address",
+          "Phone",
+          "Website",
+          "Hours",
+          "Latitude",
+          "Longitude",
+          "Google_Maps",
+        ];
+        var rows = [headers];
+        list.forEach(function (s) {
+          rows.push([
+            s.name,
+            s.label,
+            s.cuisine || s.brand || "",
+            s.dist.toFixed(2),
+            (s.dist * 0.621371).toFixed(2),
+            s.address,
+            s.phone,
+            s.website,
+            s.hours,
+            s.lat,
+            s.lon,
+            "https://www.google.com/maps/search/?api=1&query=" +
+              s.lat +
+              "," +
+              s.lon,
+          ]);
+        });
+        var csv = rows
+          .map(function (r) {
+            return r
+              .map(function (c) {
+                var v = c == null ? "" : String(c);
+                return '"' + v.replace(/"/g, '""') + '"';
+              })
+              .join(",");
+          })
+          .join("\r\n");
+        var blob = new Blob(["﻿" + csv], {
+          type: "text/csv;charset=utf-8;",
+        });
+        var url = URL.createObjectURL(blob);
+        var a = document.createElement("a");
+        a.href = url;
+        a.download =
+          "usa-stores-" + new Date().toISOString().slice(0, 10) + ".csv";
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      }
+
+      // wire up
+      window.addEventListener("DOMContentLoaded", function () {
+        initMap();
+        el("searchBtn").addEventListener("click", doPlaceSearch);
+        el("placeInput").addEventListener("keydown", function (e) {
+          if (e.key === "Enter") doPlaceSearch();
+        });
+        el("locBtn").addEventListener("click", useMyLocation);
+        el("csvBtn").addEventListener("click", exportCSV);
+        el("radiusSelect").addEventListener("change", function () {
+          if (center) runSearch(center.lat, center.lon, "Search center");
+        });
+        el("sortSelect").addEventListener("change", render);
+        Array.prototype.forEach.call(
+          document.querySelectorAll(".chip"),
+          function (chip) {
+            chip.addEventListener("click", function () {
+              document
+                .querySelectorAll(".chip")
+                .forEach(function (c) {
+                  c.classList.remove("active");
+                });
+              chip.classList.add("active");
+              activeCat = chip.getAttribute("data-cat");
+              if (allStores.length) render();
+            });
+          }
+        );
+      });
+    </script>
+  </body>
+</html>
