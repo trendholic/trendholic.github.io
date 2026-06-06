@@ -171,6 +171,22 @@
         border-color: #128c7e;
         color: #fff;
       }
+      .chip .badge {
+        display: inline-block;
+        margin-left: 6px;
+        min-width: 16px;
+        padding: 0 5px;
+        font-size: 11px;
+        font-weight: 700;
+        line-height: 16px;
+        text-align: center;
+        border-radius: 999px;
+        background: rgba(0, 0, 0, 0.1);
+        color: inherit;
+      }
+      .chip.active .badge {
+        background: rgba(255, 255, 255, 0.3);
+      }
       .chip.intl-toggle {
         font-weight: 700;
         border-color: #b9722a;
@@ -737,7 +753,7 @@
           "way" + amenity + around +
           "node" + shop + around +
           "way" + shop + around +
-          ");out center 800;"
+          ");out center 1000;"
         );
       }
 
@@ -799,7 +815,26 @@
                 dist: haversine(lat, lon, elat, elon),
               });
             });
-            return out;
+            // De-duplicate: the same place can be mapped as both a node and a
+            // way (or twice), so collapse identical name + ~110 m location.
+            var seen = {},
+              dedup = [];
+            out.forEach(function (s) {
+              if (s.name.indexOf("(Unnamed") === 0) {
+                dedup.push(s);
+                return;
+              }
+              var key =
+                s.name.toLowerCase() +
+                "|" +
+                s.lat.toFixed(3) +
+                "|" +
+                s.lon.toFixed(3);
+              if (seen[key]) return;
+              seen[key] = 1;
+              dedup.push(s);
+            });
+            return dedup;
           });
       }
 
@@ -883,14 +918,68 @@
         );
       }
 
+      // Live match-count badges on category & preset chips.
+      function setBadge(chip, n) {
+        var b = chip.querySelector(".badge");
+        if (n == null) {
+          if (b) b.remove();
+          return;
+        }
+        if (!b) {
+          b = document.createElement("span");
+          b.className = "badge";
+          chip.appendChild(b);
+        }
+        b.textContent = n;
+      }
+
+      function updateCounts() {
+        var base = allStores.filter(function (s) {
+          return !intlOnly || s.intl;
+        });
+        Array.prototype.forEach.call(
+          document.querySelectorAll("#chipRow .chip"),
+          function (chip) {
+            var cat = chip.getAttribute("data-cat");
+            var n =
+              cat === "all"
+                ? base.length
+                : base.filter(function (s) {
+                    return s.cat === cat;
+                  }).length;
+            setBadge(chip, n);
+          }
+        );
+        var catBase = base.filter(function (s) {
+          return activeCat === "all" || s.cat === activeCat;
+        });
+        Array.prototype.forEach.call(
+          document.querySelectorAll("#presetRow .preset"),
+          function (chip) {
+            var kw = (chip.getAttribute("data-kw") || "").toLowerCase();
+            if (!kw) {
+              setBadge(chip, null);
+              return;
+            }
+            setBadge(
+              chip,
+              catBase.filter(function (s) {
+                return s.search.indexOf(kw) !== -1;
+              }).length
+            );
+          }
+        );
+      }
+
       function render() {
         var list = visibleStores();
         var container = el("results");
         layerGroup.clearLayers();
+        updateCounts();
 
         if (!list.length) {
           container.innerHTML =
-            '<div class="empty">No matching stores found here. Try a larger radius or a different category.</div>';
+            '<div class="empty">No matching stores found here. Try a larger radius, turn off “International only”, or a different category.</div>';
           el("csvBtn").disabled = true;
           return;
         }
