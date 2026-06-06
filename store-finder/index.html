@@ -290,9 +290,99 @@
         background: var(--panel);
         border-top: 1px solid var(--border);
       }
+      /* ---------- Password gate ---------- */
+      #gate {
+        position: fixed;
+        inset: 0;
+        z-index: 5000;
+        background: linear-gradient(135deg, #1c1e21, #3a3320);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+      }
+      #gate.hidden {
+        display: none;
+      }
+      .gate-card {
+        background: #fff;
+        border-radius: 16px;
+        padding: 32px 28px;
+        width: 100%;
+        max-width: 360px;
+        text-align: center;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+      }
+      .gate-logo {
+        font-size: 38px;
+      }
+      .gate-card h2 {
+        margin: 8px 0 2px;
+        font-size: 20px;
+      }
+      .gate-card p {
+        margin: 0 0 18px;
+        color: var(--muted);
+        font-size: 13.5px;
+      }
+      .gate-card input[type="password"] {
+        width: 100%;
+        font: inherit;
+        padding: 12px 14px;
+        border: 1px solid var(--border);
+        border-radius: 9px;
+        outline: none;
+        margin-bottom: 10px;
+      }
+      .gate-card input[type="password"]:focus {
+        border-color: var(--accent);
+        box-shadow: 0 0 0 3px rgba(178, 137, 0, 0.15);
+      }
+      .gate-card .btn {
+        width: 100%;
+      }
+      .gate-err {
+        color: #d9534f;
+        font-size: 13px;
+        min-height: 18px;
+        margin-top: 10px;
+      }
+      .gate-remember {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        justify-content: center;
+        font-size: 12.5px;
+        color: var(--muted);
+        margin-top: 14px;
+      }
     </style>
   </head>
   <body>
+    <!-- ============ Password gate (client-side) ============ -->
+    <div id="gate" aria-hidden="false">
+      <div class="gate-card">
+        <div class="gate-logo">🔒</div>
+        <h2>USA Store Finder</h2>
+        <p>This dashboard is password protected.</p>
+        <form id="gateForm">
+          <input
+            type="password"
+            id="gatePw"
+            placeholder="Enter password"
+            autocomplete="current-password"
+            autofocus
+          />
+          <button type="submit" class="btn">Unlock</button>
+        </form>
+        <div id="gateErr" class="gate-err"></div>
+        <label class="gate-remember">
+          <input type="checkbox" id="gateRemember" checked /> Keep me unlocked on
+          this device
+        </label>
+      </div>
+    </div>
+
     <header>
       <h1>USA Store Finder <span class="dot">●</span> Live Dashboard</h1>
       <p class="sub">
@@ -811,7 +901,66 @@
       }
 
       // wire up
+      // ---------- Password gate (client-side, SHA-256) ----------
+      // NOTE: This is a deterrent for a public static site, not bank-grade
+      // security. The plaintext password is never stored here — only its hash.
+      var GATE_HASH =
+        "aa44de19af069a28e1afaf8e8ac4f49fc40353b890b7177c976a036ad6383b3e";
+      var GATE_KEY = "storefinder_unlocked_v1";
+
+      function sha256Hex(str) {
+        var buf = new TextEncoder().encode(str);
+        return crypto.subtle.digest("SHA-256", buf).then(function (hash) {
+          return Array.prototype.map
+            .call(new Uint8Array(hash), function (b) {
+              return b.toString(16).padStart(2, "0");
+            })
+            .join("");
+        });
+      }
+
+      function unlock() {
+        var g = document.getElementById("gate");
+        if (g) g.classList.add("hidden");
+        var pw = document.getElementById("placeInput");
+        if (pw) pw.focus();
+      }
+
+      function initGate() {
+        var gate = document.getElementById("gate");
+        if (!gate) return;
+        // already unlocked on this device?
+        try {
+          if (localStorage.getItem(GATE_KEY) === GATE_HASH) {
+            unlock();
+            return;
+          }
+        } catch (e) {}
+
+        var form = document.getElementById("gateForm");
+        var input = document.getElementById("gatePw");
+        var err = document.getElementById("gateErr");
+        form.addEventListener("submit", function (e) {
+          e.preventDefault();
+          err.textContent = "";
+          sha256Hex(input.value).then(function (h) {
+            if (h === GATE_HASH) {
+              try {
+                if (document.getElementById("gateRemember").checked)
+                  localStorage.setItem(GATE_KEY, GATE_HASH);
+              } catch (e) {}
+              unlock();
+            } else {
+              err.textContent = "Wrong password. Try again.";
+              input.value = "";
+              input.focus();
+            }
+          });
+        });
+      }
+
       window.addEventListener("DOMContentLoaded", function () {
+        initGate();
         initMap();
         el("searchBtn").addEventListener("click", doPlaceSearch);
         el("placeInput").addEventListener("keydown", function (e) {
