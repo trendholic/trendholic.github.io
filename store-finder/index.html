@@ -290,6 +290,58 @@
         background: var(--panel);
         border-top: 1px solid var(--border);
       }
+      /* ---------- Card thumbnail ---------- */
+      .card-row {
+        display: flex;
+        gap: 12px;
+        align-items: stretch;
+      }
+      .card-main {
+        flex: 1 1 auto;
+        min-width: 0;
+      }
+      .thumb {
+        flex: 0 0 84px;
+        width: 84px;
+        border-radius: 9px;
+        overflow: hidden;
+        background: #eee;
+        position: relative;
+      }
+      .thumb img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+      .thumb-fallback::after {
+        content: attr(data-e);
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 30px;
+      }
+      /* ---------- Logout button ---------- */
+      #logoutBtn {
+        font: inherit;
+        font-size: 12px;
+        padding: 4px 10px;
+        border: 1px solid var(--border);
+        border-radius: 7px;
+        background: #fff;
+        cursor: pointer;
+        margin-left: auto;
+      }
+      #logoutBtn:hover {
+        background: #f0f1f3;
+      }
+      header .head-row {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
       /* ---------- Password gate ---------- */
       #gate {
         position: fixed;
@@ -384,7 +436,10 @@
     </div>
 
     <header>
-      <h1>USA Store Finder <span class="dot">●</span> Live Dashboard</h1>
+      <div class="head-row">
+        <h1>USA Store Finder <span class="dot">●</span> Live Dashboard</h1>
+        <button id="logoutBtn" title="Lock the dashboard">🔒 Lock</button>
+      </div>
       <p class="sub">
         Real restaurants, grocery stores, supermarkets &amp; convenience stores
         across the entire USA — live data, distance from you, map &amp; export.
@@ -616,6 +671,7 @@
                 hours: t.opening_hours || "",
                 cuisine: t.cuisine || "",
                 brand: t.brand || "",
+                image: t.image || t["image:0"] || "",
                 dist: haversine(lat, lon, elat, elon),
               });
             });
@@ -657,6 +713,44 @@
         return list;
       }
 
+      // Themed visuals per category (emoji + gradient) — instant, never 404s.
+      function catVisual(cat) {
+        var map = {
+          restaurant: { e: "🍽️", g: "#c0392b,#e67e22" },
+          fast_food: { e: "🍔", g: "#d35400,#f39c12" },
+          cafe: { e: "☕", g: "#6f4e37,#a47551" },
+          supermarket: { e: "🛒", g: "#1e7e34,#5cb85c" },
+          grocery: { e: "🥦", g: "#2e7d32,#8bc34a" },
+          convenience: { e: "🏪", g: "#2c3e50,#3498db" },
+        };
+        return map[cat] || { e: "📍", g: "#555,#999" };
+      }
+
+      function thumbHTML(s) {
+        var v = catVisual(s.cat);
+        if (s.image) {
+          // Real OSM photo if present; fall back to themed tile on error.
+          return (
+            '<div class="thumb"><img src="' +
+            esc(s.image) +
+            '" alt="" loading="lazy" ' +
+            "onerror=\"this.parentNode.classList.add('thumb-fallback');" +
+            "this.parentNode.style.background='linear-gradient(135deg," +
+            v.g +
+            ")';this.remove();this.parentNode.setAttribute('data-e','" +
+            v.e +
+            "');\" /></div>"
+          );
+        }
+        return (
+          '<div class="thumb thumb-fallback" data-e="' +
+          v.e +
+          '" style="background:linear-gradient(135deg,' +
+          v.g +
+          ')"></div>'
+        );
+      }
+
       function render() {
         var list = visibleStores();
         var container = el("results");
@@ -678,10 +772,15 @@
             s.lon;
           var amaps = "https://maps.apple.com/?ll=" + s.lat + "," + s.lon +
             "&q=" + encodeURIComponent(s.name);
+          var reviews =
+            "https://www.google.com/maps/search/?api=1&query=" +
+            encodeURIComponent(s.name + " " + (s.address || "")) ;
           html +=
             '<div class="card" data-i="' +
             i +
-            '">' +
+            '"><div class="card-row">' +
+            thumbHTML(s) +
+            '<div class="card-main">' +
             '<div class="top"><span class="name">' +
             esc(s.name) +
             '</span><span class="dist">' +
@@ -696,8 +795,11 @@
             (s.hours ? '<div class="meta">🕒 ' + esc(s.hours) + "</div>" : "") +
             '<div class="actions">' +
             '<a href="' +
+            reviews +
+            '" target="_blank" rel="noopener">⭐ Ratings &amp; reviews ↗</a>' +
+            '<a href="' +
             gmaps +
-            '" target="_blank" rel="noopener">Google Maps ↗</a>' +
+            '" target="_blank" rel="noopener">Directions ↗</a>' +
             '<a href="' +
             amaps +
             '" target="_blank" rel="noopener">Apple Maps ↗</a>' +
@@ -706,7 +808,7 @@
                 esc(s.website) +
                 '" target="_blank" rel="noopener">Website ↗</a>'
               : "") +
-            "</div></div>";
+            "</div></div></div></div>";
 
           // marker
           var m = L.marker([s.lat, s.lon]).bindPopup(
@@ -940,27 +1042,54 @@
         var form = document.getElementById("gateForm");
         var input = document.getElementById("gatePw");
         var err = document.getElementById("gateErr");
+        var tries = 0;
+        var lockedUntil = 0;
         form.addEventListener("submit", function (e) {
           e.preventDefault();
           err.textContent = "";
+          if (Date.now() < lockedUntil) {
+            err.textContent =
+              "Too many attempts. Wait " +
+              Math.ceil((lockedUntil - Date.now()) / 1000) +
+              "s.";
+            return;
+          }
           sha256Hex(input.value).then(function (h) {
             if (h === GATE_HASH) {
               try {
                 if (document.getElementById("gateRemember").checked)
                   localStorage.setItem(GATE_KEY, GATE_HASH);
               } catch (e) {}
+              tries = 0;
               unlock();
             } else {
-              err.textContent = "Wrong password. Try again.";
+              tries++;
               input.value = "";
               input.focus();
+              if (tries >= 5) {
+                lockedUntil = Date.now() + 30000; // 30s cooldown
+                err.textContent =
+                  "Too many wrong attempts. Locked for 30 seconds.";
+              } else {
+                err.textContent =
+                  "Wrong password. Try again. (" + (5 - tries) + " left)";
+              }
             }
           });
         });
       }
 
+      function lockNow() {
+        try {
+          localStorage.removeItem(GATE_KEY);
+        } catch (e) {}
+        location.reload();
+      }
+
       window.addEventListener("DOMContentLoaded", function () {
         initGate();
+        var lb = document.getElementById("logoutBtn");
+        if (lb) lb.addEventListener("click", lockNow);
         initMap();
         el("searchBtn").addEventListener("click", doPlaceSearch);
         el("placeInput").addEventListener("keydown", function (e) {
