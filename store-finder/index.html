@@ -171,6 +171,16 @@
         border-color: #128c7e;
         color: #fff;
       }
+      .chip.intl-toggle {
+        font-weight: 700;
+        border-color: #b9722a;
+        color: #b9722a;
+      }
+      .chip.intl-toggle.active {
+        background: #b9722a;
+        border-color: #b9722a;
+        color: #fff;
+      }
 
       /* ---------- Layout ---------- */
       .layout {
@@ -466,12 +476,13 @@
 
     <header>
       <div class="head-row">
-        <h1>USA Store Finder <span class="dot">●</span> Live Dashboard</h1>
+        <h1>Desi &amp; International Store Finder <span class="dot">●</span> USA</h1>
         <button id="logoutBtn" title="Lock the dashboard">🔒 Lock</button>
       </div>
       <p class="sub">
-        Restaurants, grocery stores, supermarkets &amp; Indian / Pakistani / Asian /
-        ethnic food shops across the whole USA — live data, distance, map &amp; export.
+        Indian, Pakistani, Bangladeshi, Asian, Egyptian, Turkish, Arab, halal,
+        Hindu &amp; other international restaurants &amp; grocery stores across the
+        USA — live data, distance, map &amp; export.
       </p>
     </header>
 
@@ -517,6 +528,9 @@
     </div>
 
     <div class="chip-row preset-row" id="presetRow">
+      <span class="chip intl-toggle active" id="intlToggle"
+        >🌍 International / Halal / Desi only</span
+      >
       <span class="preset-label">Quick filter:</span>
       <span class="chip preset" data-kw="indian">🇮🇳 Indian</span>
       <span class="chip preset" data-kw="pakistani">🇵🇰 Pakistani</span>
@@ -577,6 +591,37 @@
         "https://overpass.osm.ch/api/interpreter",
       ];
       var NOMINATIM = "https://nominatim.openstreetmap.org/search";
+
+      // Match desi / Indian / Pakistani / Asian / Middle-Eastern / Egyptian /
+      // Turkish / halal / Hindu / and other international stores. Used to drop
+      // generic American / untagged places when "International only" is on.
+      var INTL_RE = new RegExp(
+        "\\b(" +
+          // South Asian / desi / Hindu
+          "india\\w*|pakistan\\w*|bangladesh\\w*|desi|punjab\\w*|gujarati|" +
+          "tandoor\\w*|biryani|sri.?lanka\\w*|nepal\\w*|tibetan|bhutan\\w*|" +
+          "hindu|jain|masala|tikka|samosa|paratha|naan|curry|chaat|dosa|" +
+          "patel|apna|swad|sona|namaste|bombay|delhi|lahore|karachi|" +
+          // East / SE Asian
+          "asia\\w*|chinese|china|thai|vietnam\\w*|korean|korea|japanese|japan|" +
+          "sushi|ramen|dim.?sum|szechuan|sichuan|cantonese|filipino|pinoy|" +
+          "indonesian|malaysian|singapore\\w*|burmese|cambodian|lao\\w*|" +
+          "noodle\\w*|dumpling\\w*|hotpot|pho|teriyaki|" +
+          // Middle Eastern / halal / Egyptian / Turkish
+          "halal|zabiha|turkish|turkey|arab\\w*|lebanese|lebanon|persian|" +
+          "iran\\w*|egypt\\w*|mediterranean|kebab|kabab|shawarma|shwarma|" +
+          "falafel|hummus|middle.?eastern|syrian|iraqi|moroccan|afghan\\w*|" +
+          "yemen\\w*|uzbek\\w*|kurdish|gyro|" +
+          // Other international
+          "mexican|mexico|latin|peruvian|caribbean|jamaican|ethiopian|" +
+          "eritrean|african|nigerian|somali|greek|kosher|halal|" +
+          // ethnic-grocery name signals
+          "bazaar|mandi|sabzi|spice|spices|saffron" +
+          ")\\b",
+        "i"
+      );
+
+      var intlOnly = true; // default: hide generic American stores
 
       // POST the query to each endpoint until one succeeds.
       function overpassFetch(body, idx) {
@@ -750,6 +795,7 @@
                 brand: t.brand || "",
                 image: t.image || t["image:0"] || "",
                 search: search,
+                intl: INTL_RE.test(search),
                 dist: haversine(lat, lon, elat, elon),
               });
             });
@@ -782,6 +828,7 @@
         var kwRaw = (el("keywordInput").value || "").toLowerCase().trim();
         var kws = kwRaw ? kwRaw.split(/[\s,]+/).filter(Boolean) : [];
         var list = allStores.filter(function (s) {
+          if (intlOnly && !s.intl) return false; // drop generic American stores
           if (activeCat !== "all" && s.cat !== activeCat) return false;
           // every keyword must appear somewhere in the searchable blob
           for (var i = 0; i < kws.length; i++) {
@@ -1222,6 +1269,13 @@
             });
           }
         );
+
+        // International-only toggle.
+        el("intlToggle").addEventListener("click", function () {
+          intlOnly = !intlOnly;
+          this.classList.toggle("active", intlOnly);
+          if (allStores.length) render();
+        });
 
         // Cuisine preset chips — one tap fills the keyword filter.
         Array.prototype.forEach.call(
