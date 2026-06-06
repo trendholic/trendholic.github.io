@@ -101,6 +101,10 @@
         flex: 1 1 240px;
         min-width: 180px;
       }
+      #keywordInput {
+        flex: 1 1 200px;
+        min-width: 160px;
+      }
       .btn {
         font: inherit;
         font-weight: 600;
@@ -290,6 +294,16 @@
         background: var(--panel);
         border-top: 1px solid var(--border);
       }
+      .wa-line {
+        font-size: 14px;
+        font-weight: 700;
+        color: #128c7e;
+        margin-bottom: 6px;
+      }
+      .wa-line a {
+        color: #128c7e;
+        text-decoration: none;
+      }
       /* ---------- Card thumbnail ---------- */
       .card-row {
         display: flex;
@@ -441,8 +455,8 @@
         <button id="logoutBtn" title="Lock the dashboard">🔒 Lock</button>
       </div>
       <p class="sub">
-        Real restaurants, grocery stores, supermarkets &amp; convenience stores
-        across the entire USA — live data, distance from you, map &amp; export.
+        Restaurants, grocery stores, supermarkets &amp; Indian / Pakistani / Asian /
+        ethnic food shops across the whole USA — live data, distance, map &amp; export.
       </p>
     </header>
 
@@ -450,7 +464,13 @@
       <input
         type="text"
         id="placeInput"
-        placeholder="Search a city, ZIP, or address (e.g. Chicago, 10001, Dallas TX)"
+        placeholder="Place in USA: city, ZIP or address (e.g. Edison NJ, Jackson Heights NY, Chicago)"
+        autocomplete="off"
+      />
+      <input
+        type="text"
+        id="keywordInput"
+        placeholder="Filter: indian, halal, asian, pakistani, kebab…"
         autocomplete="off"
       />
       <button class="btn" id="searchBtn">Search</button>
@@ -461,6 +481,7 @@
         <option value="6000">Within 6 km</option>
         <option value="12000">Within 12 km</option>
         <option value="25000">Within 25 km</option>
+        <option value="50000">Within 50 km</option>
       </select>
       <select id="sortSelect" title="Sort">
         <option value="dist">Sort: Nearest</option>
@@ -498,6 +519,12 @@
     </div>
 
     <footer>
+      <div class="wa-line">
+        📱 WhatsApp:
+        <a href="https://wa.me/13313049903" target="_blank" rel="noopener"
+          >+1 (331) 304-9903</a
+        >
+      </div>
       Live data © OpenStreetMap contributors via the Overpass API · Geocoding by
       Nominatim · No tracking, no API keys. Distances are straight-line
       ("as the crow flies") from your chosen center point.
@@ -515,8 +542,35 @@
       // ====================================================================
       "use strict";
 
-      var OVERPASS = "https://overpass-api.de/api/interpreter";
+      // Multiple Overpass mirrors — tried in order so a busy server never
+      // breaks the dashboard.
+      var OVERPASS_ENDPOINTS = [
+        "https://overpass-api.de/api/interpreter",
+        "https://overpass.private.coffee/api/interpreter",
+        "https://overpass.osm.ch/api/interpreter",
+      ];
       var NOMINATIM = "https://nominatim.openstreetmap.org/search";
+
+      // POST the query to each endpoint until one succeeds.
+      function overpassFetch(body, idx) {
+        idx = idx || 0;
+        if (idx >= OVERPASS_ENDPOINTS.length)
+          return Promise.reject(new Error("All Overpass servers are busy"));
+        return fetch(OVERPASS_ENDPOINTS[idx], {
+          method: "POST",
+          headers: { "Content-Type": "application/x-www-form-urlencoded" },
+          body: body,
+        })
+          .then(function (r) {
+            if (!r.ok) throw new Error("Overpass " + r.status);
+            return r.json();
+          })
+          .catch(function (err) {
+            if (idx + 1 < OVERPASS_ENDPOINTS.length)
+              return overpassFetch(body, idx + 1);
+            throw err;
+          });
+      }
 
       var map, centerMarker, layerGroup;
       var allStores = []; // full fetched list (with distances)
@@ -567,24 +621,21 @@
       // Map an OSM element to a normalized store object, or null if not relevant.
       function classify(tags) {
         if (!tags) return null;
-        if (tags.amenity === "restaurant")
+        var a = tags.amenity,
+          s = tags.shop;
+        if (a === "restaurant" || a === "pub" || a === "bar")
           return { cat: "restaurant", label: "Restaurant" };
-        if (tags.amenity === "fast_food")
+        if (a === "fast_food" || a === "food_court")
           return { cat: "fast_food", label: "Fast Food" };
-        if (tags.amenity === "cafe") return { cat: "cafe", label: "Café" };
-        if (tags.shop === "supermarket")
+        if (a === "cafe" || a === "ice_cream")
+          return { cat: "cafe", label: "Café" };
+        if (s === "supermarket")
           return { cat: "supermarket", label: "Supermarket" };
-        if (tags.shop === "convenience")
+        if (s === "convenience")
           return { cat: "convenience", label: "Convenience Store" };
-        if (
-          tags.shop === "grocery" ||
-          tags.shop === "greengrocer" ||
-          tags.shop === "general" ||
-          tags.shop === "deli" ||
-          tags.shop === "butcher" ||
-          tags.shop === "bakery"
-        )
-          return { cat: "grocery", label: "Grocery / Food Shop" };
+        if (s === "wholesale" || a === "marketplace")
+          return { cat: "grocery", label: "Wholesale / Market" };
+        if (s) return { cat: "grocery", label: "Grocery / Food Shop" };
         return null;
       }
 
@@ -601,38 +652,20 @@
 
       // ---------- Overpass query ----------
       function buildQuery(lat, lon, radius) {
-        // Pull all food + grocery related nodes/ways within radius.
+        // Pull a wide net of food + grocery places (incl. ethnic/Asian/halal
+        // shops, marketplaces, wholesalers) within radius — nodes & ways.
+        var around = "(around:" + radius + "," + lat + "," + lon + ");";
+        var amenity =
+          '["amenity"~"^(restaurant|fast_food|cafe|food_court|ice_cream|marketplace|pub|bar)$"]';
+        var shop =
+          '["shop"~"^(supermarket|convenience|grocery|greengrocer|general|deli|butcher|bakery|wholesale|frozen_food|spices|health_food|farm|food|seafood|dairy|pasta|confectionery|tea|coffee|beverages|chemist)$"]';
         return (
-          "[out:json][timeout:30];(" +
-          'node["amenity"~"^(restaurant|fast_food|cafe)$"](around:' +
-          radius +
-          "," +
-          lat +
-          "," +
-          lon +
-          ");" +
-          'way["amenity"~"^(restaurant|fast_food|cafe)$"](around:' +
-          radius +
-          "," +
-          lat +
-          "," +
-          lon +
-          ");" +
-          'node["shop"~"^(supermarket|convenience|grocery|greengrocer|general|deli|butcher|bakery)$"](around:' +
-          radius +
-          "," +
-          lat +
-          "," +
-          lon +
-          ");" +
-          'way["shop"~"^(supermarket|convenience|grocery|greengrocer|general|deli|butcher|bakery)$"](around:' +
-          radius +
-          "," +
-          lat +
-          "," +
-          lon +
-          ");" +
-          ");out center 400;"
+          "[out:json][timeout:40];(" +
+          "node" + amenity + around +
+          "way" + amenity + around +
+          "node" + shop + around +
+          "way" + shop + around +
+          ");out center 800;"
         );
       }
 
@@ -640,15 +673,7 @@
         setStatus("Loading live store data…", true);
         el("csvBtn").disabled = true;
         var body = "data=" + encodeURIComponent(buildQuery(lat, lon, radius));
-        return fetch(OVERPASS, {
-          method: "POST",
-          headers: { "Content-Type": "application/x-www-form-urlencoded" },
-          body: body,
-        })
-          .then(function (r) {
-            if (!r.ok) throw new Error("Overpass " + r.status);
-            return r.json();
-          })
+        return overpassFetch(body)
           .then(function (data) {
             var out = [];
             (data.elements || []).forEach(function (e) {
@@ -659,6 +684,30 @@
               var elon = e.lon != null ? e.lon : e.center && e.center.lon;
               if (elat == null || elon == null) return;
               var name = t.name || "(Unnamed " + c.label + ")";
+              var cuisine = t.cuisine || "";
+              var diet = Object.keys(t)
+                .filter(function (k) {
+                  return k.indexOf("diet:") === 0 && t[k] !== "no";
+                })
+                .map(function (k) {
+                  return k.slice(5);
+                })
+                .join(" ");
+              var origin = t["origin"] || t["origin:country"] || "";
+              // searchable blob for the deep keyword filter
+              var search = (
+                name +
+                " " +
+                cuisine +
+                " " +
+                diet +
+                " " +
+                origin +
+                " " +
+                (t.brand || "") +
+                " " +
+                c.label
+              ).toLowerCase();
               out.push({
                 name: name,
                 cat: c.cat,
@@ -669,9 +718,11 @@
                 phone: t.phone || t["contact:phone"] || "",
                 website: t.website || t["contact:website"] || "",
                 hours: t.opening_hours || "",
-                cuisine: t.cuisine || "",
+                cuisine: cuisine,
+                diet: diet,
                 brand: t.brand || "",
                 image: t.image || t["image:0"] || "",
+                search: search,
                 dist: haversine(lat, lon, elat, elon),
               });
             });
@@ -701,8 +752,15 @@
 
       // ---------- Render ----------
       function visibleStores() {
+        var kwRaw = (el("keywordInput").value || "").toLowerCase().trim();
+        var kws = kwRaw ? kwRaw.split(/[\s,]+/).filter(Boolean) : [];
         var list = allStores.filter(function (s) {
-          return activeCat === "all" || s.cat === activeCat;
+          if (activeCat !== "all" && s.cat !== activeCat) return false;
+          // every keyword must appear somewhere in the searchable blob
+          for (var i = 0; i < kws.length; i++) {
+            if (s.search.indexOf(kws[i]) === -1) return false;
+          }
+          return true;
         });
         var sort = el("sortSelect").value;
         list.sort(function (a, b) {
@@ -944,6 +1002,7 @@
       function exportCSV() {
         var list = visibleStores();
         if (!list.length) return;
+        var WA = "+1 (331) 304-9903";
         var headers = [
           "Name",
           "Type",
@@ -957,8 +1016,16 @@
           "Latitude",
           "Longitude",
           "Google_Maps",
+          "Order/Contact_WhatsApp",
         ];
-        var rows = [headers];
+        // Title block at the top of every export
+        var rows = [
+          ["USA Store Finder — Live Export"],
+          ["WhatsApp:", WA],
+          ["Exported:", new Date().toLocaleString()],
+          [],
+          headers,
+        ];
         list.forEach(function (s) {
           rows.push([
             s.name,
@@ -976,8 +1043,12 @@
               s.lat +
               "," +
               s.lon,
+            WA,
           ]);
         });
+        // Footer line at the bottom of every export
+        rows.push([]);
+        rows.push(["📱 Orders / Contact on WhatsApp:", WA]);
         var csv = rows
           .map(function (r) {
             return r
@@ -1101,6 +1172,9 @@
           if (center) runSearch(center.lat, center.lon, "Search center");
         });
         el("sortSelect").addEventListener("change", render);
+        el("keywordInput").addEventListener("input", function () {
+          if (allStores.length) render();
+        });
         Array.prototype.forEach.call(
           document.querySelectorAll(".chip"),
           function (chip) {
