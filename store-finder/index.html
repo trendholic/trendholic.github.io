@@ -156,6 +156,21 @@
         color: #fff;
         border-color: var(--accent);
       }
+      .preset-row {
+        padding-top: 4px;
+        align-items: center;
+      }
+      .preset-label {
+        font-size: 12.5px;
+        font-weight: 700;
+        color: var(--muted);
+        margin-right: 2px;
+      }
+      .chip.preset.active {
+        background: #128c7e;
+        border-color: #128c7e;
+        color: #fff;
+      }
 
       /* ---------- Layout ---------- */
       .layout {
@@ -499,6 +514,18 @@
       <span class="chip" data-cat="supermarket">Supermarkets</span>
       <span class="chip" data-cat="grocery">Grocery</span>
       <span class="chip" data-cat="convenience">Convenience</span>
+    </div>
+
+    <div class="chip-row preset-row" id="presetRow">
+      <span class="preset-label">Quick filter:</span>
+      <span class="chip preset" data-kw="indian">🇮🇳 Indian</span>
+      <span class="chip preset" data-kw="pakistani">🇵🇰 Pakistani</span>
+      <span class="chip preset" data-kw="halal">☪️ Halal</span>
+      <span class="chip preset" data-kw="asian">🥢 Asian</span>
+      <span class="chip preset" data-kw="chinese">🥡 Chinese</span>
+      <span class="chip preset" data-kw="bangladeshi">🇧🇩 Bangladeshi</span>
+      <span class="chip preset" data-kw="mexican">🌮 Mexican</span>
+      <span class="chip preset" data-kw="">✖ Clear</span>
     </div>
 
     <div class="statusbar">
@@ -1172,15 +1199,20 @@
           if (center) runSearch(center.lat, center.lon, "Search center");
         });
         el("sortSelect").addEventListener("change", render);
+
+        // Clear preset highlight when the user types their own keyword.
         el("keywordInput").addEventListener("input", function () {
+          syncPresetHighlight();
           if (allStores.length) render();
         });
+
+        // Category chips (only inside #chipRow).
         Array.prototype.forEach.call(
-          document.querySelectorAll(".chip"),
+          document.querySelectorAll("#chipRow .chip"),
           function (chip) {
             chip.addEventListener("click", function () {
               document
-                .querySelectorAll(".chip")
+                .querySelectorAll("#chipRow .chip")
                 .forEach(function (c) {
                   c.classList.remove("active");
                 });
@@ -1190,7 +1222,32 @@
             });
           }
         );
+
+        // Cuisine preset chips — one tap fills the keyword filter.
+        Array.prototype.forEach.call(
+          document.querySelectorAll("#presetRow .preset"),
+          function (chip) {
+            chip.addEventListener("click", function () {
+              var kw = chip.getAttribute("data-kw") || "";
+              el("keywordInput").value = kw;
+              syncPresetHighlight();
+              if (allStores.length) render();
+            });
+          }
+        );
       });
+
+      // Highlight the preset chip that matches the current keyword box.
+      function syncPresetHighlight() {
+        var kw = (el("keywordInput").value || "").trim().toLowerCase();
+        Array.prototype.forEach.call(
+          document.querySelectorAll("#presetRow .preset"),
+          function (chip) {
+            var ck = (chip.getAttribute("data-kw") || "").toLowerCase();
+            chip.classList.toggle("active", ck !== "" && ck === kw);
+          }
+        );
+      }
     </script>
   </body>
 </html>
