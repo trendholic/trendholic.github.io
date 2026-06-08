@@ -235,7 +235,7 @@
         transition: background 0.3s;
 
         position: sticky;
-        top: calc(var(--header-height) + 45px);
+        top: var(--header-height);
         z-index: 990;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
       }
@@ -281,203 +281,6 @@
         color: #ffd700;
         font-weight: bold;
         margin-left: 3px;
-      }
-
-      /* ================= Top Nav (Home / Categories / Brands) ================= */
-      .top-nav {
-        position: sticky;
-        top: var(--header-height);
-        z-index: 991;
-        display: flex;
-        background: #fff;
-        border-bottom: 1px solid #eee;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
-      }
-      .top-nav-item {
-        flex: 1;
-        text-align: center;
-        padding: 12px 4px;
-        font-size: 0.85rem;
-        font-weight: 700;
-        letter-spacing: 0.5px;
-        color: #555;
-        cursor: pointer;
-        border-bottom: 3px solid transparent;
-        transition: all 0.2s;
-      }
-      .top-nav-item.active,
-      .top-nav-item:hover {
-        color: #000;
-        border-bottom-color: var(--accent-color);
-      }
-
-      /* ================= Category Pills Bar ================= */
-      .category-bar {
-        display: flex;
-        gap: 8px;
-        overflow-x: auto;
-        padding: 12px 12px 10px 12px;
-        background: #fff;
-        margin-bottom: 8px;
-        -webkit-overflow-scrolling: touch;
-        scrollbar-width: none;
-      }
-      .category-bar::-webkit-scrollbar {
-        display: none;
-      }
-      .cat-pill {
-        flex: 0 0 auto;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        gap: 4px;
-        min-width: 66px;
-        padding: 8px 6px;
-        border-radius: 12px;
-        background: #f5f5f5;
-        border: 1.5px solid #eee;
-        cursor: pointer;
-        transition: all 0.2s;
-      }
-      .cat-pill .cat-icon {
-        font-size: 1.5rem;
-        line-height: 1;
-      }
-      .cat-pill .cat-name {
-        font-size: 0.68rem;
-        font-weight: 700;
-        color: #555;
-        text-align: center;
-        white-space: nowrap;
-        letter-spacing: 0.3px;
-      }
-      .cat-pill.active {
-        background: var(--accent-color);
-        border-color: var(--accent-color);
-      }
-      .cat-pill.active .cat-name {
-        color: #fff;
-      }
-
-      /* ================= Reseller / Wholesale Application Form ================= */
-      .reseller-cta {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 8px;
-        margin: 0 12px 12px 12px;
-        padding: 14px;
-        border-radius: 12px;
-        background: linear-gradient(135deg, #111 0%, #2a2a2a 100%);
-        border: 2px solid #ffd700;
-        color: #fff;
-        font-weight: 700;
-        font-size: 0.95rem;
-        cursor: pointer;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-      }
-      .reseller-cta span.cta-sub {
-        color: #ffd700;
-        font-weight: 600;
-        font-size: 0.78rem;
-      }
-      .ws-form-content {
-        max-width: 440px;
-        max-height: 90vh;
-        overflow-y: auto;
-        text-align: left;
-        padding: 0;
-      }
-      .ws-form-head {
-        background: linear-gradient(135deg, #111 0%, #2a2a2a 100%);
-        color: #fff;
-        padding: 22px 20px 18px 20px;
-        text-align: center;
-        position: sticky;
-        top: 0;
-        z-index: 2;
-      }
-      .ws-form-head h2 {
-        margin: 0 0 4px 0;
-        font-size: 1.2rem;
-      }
-      .ws-form-head p {
-        margin: 0;
-        font-size: 0.8rem;
-        color: #ccc;
-      }
-      .ws-form-body {
-        padding: 18px 20px 8px 20px;
-      }
-      .ws-field {
-        margin-bottom: 14px;
-      }
-      .ws-field label {
-        display: flex;
-        align-items: center;
-        gap: 6px;
-        font-size: 0.8rem;
-        font-weight: 700;
-        color: #333;
-        margin-bottom: 5px;
-      }
-      .ws-field label .req {
-        color: #d9534f;
-        font-weight: 700;
-      }
-      .ws-field input,
-      .ws-field textarea {
-        width: 100%;
-        padding: 11px 12px;
-        border: 1.5px solid #ddd;
-        border-radius: 8px;
-        font-size: 0.9rem;
-        font-family: inherit;
-        background: #fafafa;
-        transition: border-color 0.2s;
-      }
-      .ws-field input:focus,
-      .ws-field textarea:focus {
-        outline: none;
-        border-color: var(--accent-color);
-        background: #fff;
-      }
-      .ws-field textarea {
-        resize: vertical;
-        min-height: 60px;
-      }
-      .ws-field input[type="file"] {
-        padding: 9px;
-        background: #fff;
-        font-size: 0.8rem;
-      }
-      .ws-upload-hint {
-        font-size: 0.7rem;
-        color: #999;
-        margin-top: 3px;
-      }
-      .ws-submit-btn {
-        width: 100%;
-        padding: 15px;
-        margin: 8px 0 4px 0;
-        background: #000;
-        color: #fff;
-        border-radius: 10px;
-        font-size: 1rem;
-        font-weight: 700;
-        letter-spacing: 0.5px;
-        cursor: pointer;
-      }
-      .ws-submit-btn:disabled {
-        opacity: 0.6;
-        cursor: not-allowed;
-      }
-      .ws-privacy {
-        font-size: 0.7rem;
-        color: #999;
-        text-align: center;
-        padding: 0 20px 12px 20px;
       }
 
       /* ================= NEW Floating Capsule Bottom Bar (Split Pill Design) ================= */
@@ -1182,23 +985,6 @@
       </div>
     </header>
 
-    <!-- Top Navigation: Home / Categories / Brands -->
-    <nav class="top-nav" id="top-nav">
-      <div
-        class="top-nav-item active"
-        id="topnav-home"
-        onclick="navTo('home')"
-      >
-        🏠 Home
-      </div>
-      <div class="top-nav-item" id="topnav-categories" onclick="navTo('categories')">
-        🗂️ Categories
-      </div>
-      <div class="top-nav-item" id="topnav-brands" onclick="navTo('brands')">
-        🏷️ Brands
-      </div>
-    </nav>
-
     <div class="sidebar-overlay" id="sidebar-overlay"></div>
     <div class="sidebar" id="sidebar">
       <div class="sidebar-header">
@@ -1241,12 +1027,6 @@
           <a class="menu-link" href="cart.html">My Cart</a>
           <a
             class="menu-link"
-            onclick="openWholesaleForm()"
-            style="color: #b28900; font-weight: 700"
-            >🤝 Become a Reseller</a
-          >
-          <a
-            class="menu-link"
             onclick="openTrackingModal()"
             style="
               color: #000;
@@ -1280,23 +1060,6 @@
     <div id="home-view">
       <div id="wholesale-banner" class="ws-banner">
         <div id="ws-content" class="ws-pills"></div>
-      </div>
-
-      <!-- Shop by Category -->
-      <div class="category-bar" id="category-bar"></div>
-
-      <!-- Become a Reseller CTA -->
-      <div
-        class="reseller-cta"
-        id="reseller-cta"
-        onclick="openWholesaleForm()"
-      >
-        <span style="font-size: 1.3rem">🤝</span>
-        <div style="text-align: left">
-          Become a Reseller
-          <br />
-          <span class="cta-sub">Apply for wholesale pricing →</span>
-        </div>
       </div>
 
       <div id="home-content">
@@ -1539,150 +1302,6 @@
       </div>
     </div>
 
-    <!-- ================= Reseller / Wholesale Application Form ================= -->
-    <div id="wholesale-modal" class="modal">
-      <div class="modal-content ws-form-content">
-        <div class="modal-close" onclick="closeWholesaleForm()">&times;</div>
-        <div class="ws-form-head">
-          <h2>🤝 Become a Reseller</h2>
-          <p>Apply for wholesale pricing &amp; trade account access</p>
-        </div>
-
-        <!--
-          Submissions (including uploaded documents) are delivered by FormSubmit.
-          To change the recipient, replace the email in the action below.
-          NOTE: FormSubmit sends a one-time activation email on the first submission.
-        -->
-        <form
-          id="wholesale-form"
-          action="https://formsubmit.co/onlinetrader002@gmail.com"
-          method="POST"
-          enctype="multipart/form-data"
-          onsubmit="return handleWholesaleSubmit(this)"
-        >
-          <input type="hidden" name="_subject" value="New Reseller Application" />
-          <input type="hidden" name="_template" value="table" />
-          <input type="hidden" name="_captcha" value="false" />
-          <input
-            type="hidden"
-            name="_next"
-            value="https://trendholic.github.io/index.html"
-          />
-
-          <div class="ws-form-body">
-            <div class="ws-field">
-              <label
-                >👤 Name <span class="req">*</span></label
-              >
-              <input type="text" name="Name" placeholder="Full name" required />
-            </div>
-
-            <div class="ws-field">
-              <label
-                >✉️ Email <span class="req">*</span></label
-              >
-              <input
-                type="email"
-                name="Email"
-                placeholder="you@company.com"
-                required
-              />
-            </div>
-
-            <div class="ws-field">
-              <label
-                >🏢 Company Name <span class="req">*</span></label
-              >
-              <input
-                type="text"
-                name="Company Name"
-                placeholder="Registered business name"
-                required
-              />
-            </div>
-
-            <div class="ws-field">
-              <label
-                >📍 Company Address <span class="req">*</span></label
-              >
-              <textarea
-                name="Company Address"
-                placeholder="Street, City, State, ZIP"
-                required
-              ></textarea>
-            </div>
-
-            <div class="ws-field">
-              <label
-                >💳 Payable Contact Details <span class="req">*</span></label
-              >
-              <input
-                type="text"
-                name="Payable Contact Details"
-                placeholder="Accounts payable name / email / phone"
-                required
-              />
-            </div>
-
-            <div class="ws-field">
-              <label>🏦 Bank Details</label>
-              <input
-                type="text"
-                name="Bank Details"
-                placeholder="Bank name / account (optional)"
-              />
-            </div>
-
-            <div class="ws-field">
-              <label
-                >📞 Phone <span class="req">*</span></label
-              >
-              <input
-                type="tel"
-                name="Phone"
-                placeholder="e.g. +1 331 304 9903"
-                required
-              />
-            </div>
-
-            <div class="ws-field">
-              <label
-                >📄 Upload Resale Certificate <span class="req">*</span></label
-              >
-              <input
-                type="file"
-                name="Resale Certificate"
-                accept="image/*,.pdf"
-                required
-              />
-              <div class="ws-upload-hint">Image or PDF</div>
-            </div>
-
-            <div class="ws-field">
-              <label
-                >🪪 Upload State Issued ID <span class="req">*</span></label
-              >
-              <input
-                type="file"
-                name="State Issued ID"
-                accept="image/*,.pdf"
-                required
-              />
-              <div class="ws-upload-hint">Image or PDF</div>
-            </div>
-
-            <button type="submit" class="ws-submit-btn" id="ws-submit-btn">
-              SUBMIT APPLICATION
-            </button>
-          </div>
-          <div class="ws-privacy">
-            🔒 Your documents are sent securely and used only to verify your
-            wholesale account.
-          </div>
-        </form>
-      </div>
-    </div>
-
     <script src="db.js"></script>
     <script>
       // ================= Tracking & Checkout Logic =================
@@ -1826,19 +1445,6 @@
         "Versace",
       ];
       const FEATURED_BRANDS_LOWER = FEATURED_BRANDS.map((b) => b.toLowerCase());
-
-      // Shop-by-category pills (matched against each product's `category` field)
-      const CATEGORIES = [
-        { name: "All", icon: "🛒" },
-        { name: "NUTS", icon: "🥜" },
-        { name: "SPICES", icon: "🌶️" },
-        { name: "RICE", icon: "🍚" },
-        { name: "SNACK", icon: "🍪" },
-        { name: "DALS & BEANS", icon: "🫘" },
-        { name: "DRINKS", icon: "🥤" },
-        { name: "FROZEN", icon: "🧊" },
-        { name: "FLOUR", icon: "🌾" },
-      ];
       const discountTiers = [
         { min: 1, max: 1, percent: 0 },
         { min: 2, max: 2, percent: 0.03 },
@@ -1863,7 +1469,6 @@
         loadCart();
         setupMenu();
         renderSidebarBrands();
-        renderCategoryBar();
         setupModalBackdropClosing();
         setupSearch();
 
@@ -2013,99 +1618,6 @@
         otherDiv.onclick = () => scrollToBrand("Other");
         list.appendChild(otherDiv);
       }
-
-      // --- Category Pills ---
-      function renderCategoryBar() {
-        const bar = document.getElementById("category-bar");
-        if (!bar) return;
-        bar.innerHTML = "";
-        CATEGORIES.forEach((cat, i) => {
-          const pill = document.createElement("div");
-          pill.className = "cat-pill" + (i === 0 ? " active" : "");
-          pill.dataset.cat = cat.name;
-          pill.innerHTML = `<span class="cat-icon">${cat.icon}</span><span class="cat-name">${cat.name}</span>`;
-          pill.onclick = () => selectCategory(cat.name);
-          bar.appendChild(pill);
-        });
-      }
-
-      function setActiveCategoryPill(name) {
-        document.querySelectorAll(".cat-pill").forEach((p) => {
-          p.classList.toggle("active", p.dataset.cat === name);
-        });
-      }
-
-      window.selectCategory = function (name) {
-        setActiveCategoryPill(name);
-        if (name === "All") {
-          // "All" returns to the full home view
-          handleMenuClick("Home");
-        } else {
-          switchToGrid("Category:" + name);
-        }
-      };
-
-      // --- Top Nav (Home / Categories / Brands) ---
-      function setActiveTopNav(key) {
-        document.querySelectorAll(".top-nav-item").forEach((el) => {
-          el.classList.remove("active");
-        });
-        const el = document.getElementById("topnav-" + key);
-        if (el) el.classList.add("active");
-      }
-
-      window.navTo = function (target) {
-        setActiveTopNav(target);
-        // Ensure we are on the home view before scrolling to a section
-        if (viewMode !== "home") {
-          viewMode = "home";
-          document.getElementById("home-view").style.display = "block";
-          document.getElementById("grid-view").style.display = "none";
-        }
-        if (target === "home") {
-          setActiveCategoryPill("All");
-          window.scrollTo({ top: 0, behavior: "smooth" });
-        } else if (target === "categories") {
-          const bar = document.getElementById("category-bar");
-          scrollToWithOffset(bar);
-        } else if (target === "brands") {
-          // Jump to the first rendered brand section, fallback to sidebar
-          const firstBrand = document.querySelector(
-            '#home-content [id^="brand-"]',
-          );
-          if (firstBrand) scrollToWithOffset(firstBrand);
-          else document.getElementById("menu-trigger").click();
-        }
-      };
-
-      function scrollToWithOffset(element) {
-        if (!element) return;
-        const headerOffset = 110;
-        const top =
-          element.getBoundingClientRect().top + window.pageYOffset - headerOffset;
-        window.scrollTo({ top, behavior: "smooth" });
-      }
-
-      // --- Reseller / Wholesale Application Form ---
-      window.openWholesaleForm = function () {
-        document.getElementById("sidebar").classList.remove("active");
-        document.getElementById("sidebar-overlay").classList.remove("active");
-        document.getElementById("wholesale-modal").classList.add("open");
-      };
-      window.closeWholesaleForm = function () {
-        document.getElementById("wholesale-modal").classList.remove("open");
-      };
-      window.handleWholesaleSubmit = function (form) {
-        // Native browser validation already enforces required fields + file uploads.
-        // Give feedback then let the multipart POST proceed (FormSubmit delivers files).
-        const btn = document.getElementById("ws-submit-btn");
-        if (btn) {
-          btn.disabled = true;
-          btn.textContent = "SUBMITTING…";
-        }
-        showToast("Submitting your application… 📨");
-        return true;
-      };
 
       function generatePictureHTML(src, alt) {
         const webpSrc = src.replace(/\.(jpg|png|jpeg)$/i, ".webp");
@@ -2420,32 +1932,6 @@
         } else if (criteria === "Set") {
           filtered = db.filter((p) => p.name.toUpperCase().includes("SET"));
           title = "Gift Sets Collection";
-        } else if (criteria.startsWith("Category:")) {
-          const cat = criteria.split(":")[1];
-          const catLower = cat.toLowerCase();
-          const tokens = catLower.split(/[^a-z]+/).filter(Boolean);
-          // Whether the dataset actually carries a "category" column.
-          const hasCategoryData = db.some(
-            (p) => (p.category || "").trim() !== "",
-          );
-          filtered = db.filter((p) => {
-            const pc = (p.category || "").toLowerCase().trim();
-            if (pc) {
-              if (pc === catLower) return true;
-              if (tokens.some((t) => pc.includes(t) || t.includes(pc)))
-                return true;
-              if (hasCategoryData) return false;
-            }
-            // Fallback (no category column yet): match the product name.
-            if (!hasCategoryData) {
-              const pn = (p.name || "").toLowerCase();
-              return tokens.some((t) => pn.includes(t));
-            }
-            return false;
-          });
-          title = cat;
-          setActiveCategoryPill(cat);
-          setActiveTopNav("categories");
         } else if (criteria.startsWith("Gender:")) {
           const targetGender = criteria.split(":")[1];
           filtered = db.filter((p) => {
@@ -2676,8 +2162,6 @@
           viewMode = "home";
           document.getElementById("home-view").style.display = "block";
           document.getElementById("grid-view").style.display = "none";
-          setActiveTopNav("home");
-          setActiveCategoryPill("All");
           window.scrollTo({ top: 0 });
         } else switchToGrid(action);
       };
