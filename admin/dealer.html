@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dealer · TrendHolic Admin</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { chip, money, fmtDate, escapeHtml, toast, loadingState, emptyState, errorState } from "/assets/ui.js";
+const page = await initPage({ portal:"admin", active:"dealers", title:"Dealer Detail", guard:"admin" });
+if(page && page.connected){
+  const main = page.main; main.innerHTML = loadingState();
+  const id = new URLSearchParams(location.search).get("id");
+  if(!id){ main.innerHTML = errorState("No dealer specified"); }
+  else {
+    const [dq, tiersq, appsq, ordersq, notesq, auditq] = await Promise.all([
+      supabase.from("dealers").select("*").eq("id",id).maybeSingle(),
+      supabase.from("dealer_tiers").select("id,key,name").eq("is_active",true).order("sort_order"),
+      supabase.from("dealer_applications").select("status,submitted_at,decision,decision_reason").eq("applicant_user_id",id).order("submitted_at",{ascending:false}),
+      supabase.from("orders").select("id,order_number,placed_at,order_status,payment_status,total_cents,currency").eq("dealer_id",id).order("placed_at",{ascending:false}),
+      supabase.from("admin_notes").select("note,created_at").eq("dealer_id",id).order("created_at",{ascending:false}),
+      supabase.from("admin_audit_log").select("action,created_at,previous_value,new_value").eq("entity_type","dealer").eq("entity_id",id).order("created_at",{ascending:false}),
+    ]);
+    const d = dq.data;
+    if(!d){ main.innerHTML = errorState("Dealer not found"); }
+    else {
+      const tiers = tiersq.data||[];
+      const tierName = (tiers.find(t=>t.id===d.tier_id)||{}).name || "—";
+      const orders = ordersq.data||[];
+      const volume = orders.filter(o=>o.order_status!=="cancelled").reduce((s,o)=>s+(o.total_cents||0),0);
+      main.innerHTML = `
+      <div class="btn-row" style="justify-content:space-between;align-items:center">
+        <h2>${escapeHtml(d.business_name)}</h2><a class="btn btn-sm" href="/admin/dealers.html">← Dealers</a></div>
+      <div class="grid cols-2" style="margin:14px 0">
+        <div class="card"><h3>Profile</h3><dl class="kv">
+          <dt>Contact</dt><dd>${escapeHtml(d.contact_name||"—")}</dd>
+          <dt>Email</dt><dd>${escapeHtml(d.email||"—")}</dd>
+          <dt>Phone</dt><dd>${escapeHtml(d.phone||"—")}</dd>
+          <dt>Address</dt><dd>${escapeHtml([d.address,d.city,d.state,d.zip].filter(Boolean).join(", ")||"—")}</dd>
+          <dt>Type</dt><dd>${escapeHtml(d.business_type||"—")}</dd>
+          <dt>Website</dt><dd>${escapeHtml(d.website||"—")}</dd>
+          <dt>Status</dt><dd>${chip(d.status)}</dd>
+          <dt>Tier</dt><dd><span class="chip gold">${escapeHtml(tierName)}</span></dd>
+          <dt>Lifetime volume</dt><dd class="tnum"><b>${money(volume)}</b></dd>
+        </dl>
+        <button class="btn btn-sm" id="docsBtn" style="margin-top:8px">View documents</button>
+        <div id="docs" class="hint" style="margin-top:6px"></div></div>
+        <div class="card"><h3>Actions</h3>
+          <div class="field"><label>Change tier</label>
+            <select id="tier">${tiers.map(t=>`<option value="${t.key}" ${t.id===d.tier_id?"selected":""}>${escapeHtml(t.name)}</option>`).join("")}</select></div>
+          <div class="btn-row">
+            <button class="btn btn-sm btn-primary" id="applyTier">Apply tier</button>
+            ${d.status==="approved"?`<button class="btn btn-sm btn-crit" data-s="suspended">Suspend</button>`:""}
+            ${d.status==="suspended"?`<button class="btn btn-sm btn-good" data-s="approved">Reactivate</button>`:""}
+            ${d.status!=="closed"?`<button class="btn btn-sm" data-s="closed">Close</button>`:""}
+          </div>
+          <div class="field" style="margin-top:14px"><label>Add admin note</label><textarea id="note"></textarea></div>
+          <button class="btn btn-sm" id="addNote">Save note</button>
+        </div>
+      </div>
+      <div class="section-title">Order history</div>
+      <div class="table-wrap"><table class="data"><thead><tr><th>Order</th><th>Date</th><th>Status</th><th>Payment</th><th>Total</th></tr></thead>
+        <tbody>${orders.map(o=>`<tr class="row-link" onclick="location.href='/admin/order.html?id=${o.id}'">
+          <td class="mono">${escapeHtml(o.order_number)}</td><td>${fmtDate(o.placed_at)}</td>
+          <td>${chip(o.order_status)}</td><td>${chip(o.payment_status)}</td>
+          <td class="tnum">${money(o.total_cents,o.currency)}</td></tr>`).join("")||`<tr><td colspan="5">${emptyState("No orders")}</td></tr>`}</tbody></table></div>
+      <div class="grid cols-2" style="margin-top:20px">
+        <div><div class="section-title">Application history</div><div class="card">
+          ${(appsq.data||[]).map(a=>`<div style="padding:6px 0;border-bottom:1px solid var(--rule)">
+            ${chip(a.status)} · ${fmtDate(a.submitted_at)} ${a.decision_reason?`<div class="hint">${escapeHtml(a.decision_reason)}</div>`:""}</div>`).join("")||'<span class="hint">None</span>'}</div></div>
+        <div><div class="section-title">Admin notes &amp; audit</div><div class="card">
+          ${(notesq.data||[]).map(n=>`<div style="padding:6px 0;border-bottom:1px solid var(--rule)"><b>Note</b> · ${fmtDate(n.created_at)}<div class="hint">${escapeHtml(n.note)}</div></div>`).join("")}
+          ${(auditq.data||[]).map(a=>`<div style="padding:6px 0;border-bottom:1px solid var(--rule)"><b>${escapeHtml(a.action)}</b> · ${fmtDate(a.created_at)}</div>`).join("")}
+          ${(!(notesq.data||[]).length && !(auditq.data||[]).length)?'<span class="hint">No notes or audit yet</span>':''}</div></div>
+      </div>`;
+
+      document.getElementById("applyTier").onclick = async ()=>{
+        const { error } = await supabase.rpc("admin_set_dealer_tier",{ p_dealer:id, p_tier_key:document.getElementById("tier").value });
+        toast(error?error.message:"Tier updated", error?"crit":"good"); if(!error) setTimeout(()=>location.reload(),700);
+      };
+      main.querySelectorAll("[data-s]").forEach(b=> b.onclick = async ()=>{
+        const { error } = await supabase.rpc("admin_set_dealer_status",{ p_dealer:id, p_status:b.dataset.s, p_note:null });
+        toast(error?error.message:"Status updated", error?"crit":"good"); if(!error) setTimeout(()=>location.reload(),700);
+      });
+      document.getElementById("addNote").onclick = async ()=>{
+        const note=document.getElementById("note").value.trim(); if(!note) return;
+        const { error } = await supabase.from("admin_notes").insert({ dealer_id:id, admin_id:page.user.id, note });
+        toast(error?error.message:"Note saved", error?"crit":"good"); if(!error) setTimeout(()=>location.reload(),700);
+      };
+      document.getElementById("docsBtn").onclick = async ()=>{
+        const box=document.getElementById("docs"); box.textContent="Loading…";
+        const { data, error } = await supabase.storage.from("dealer-docs").list(id,{limit:100});
+        if(error){ box.textContent=error.message; return; }
+        if(!data.length){ box.textContent="No documents."; return; }
+        box.innerHTML = data.map(f=>`<div><a href="#" data-p="${id}/${f.name}">${escapeHtml(f.name)}</a></div>`).join("");
+        box.querySelectorAll("[data-p]").forEach(a=> a.onclick=async(e)=>{
+          e.preventDefault();
+          const { data:res, error:err } = await supabase.functions.invoke("sign-document-url",{ body:{ path:a.dataset.p } });
+          if(err||!res?.url){ toast("Could not open document","crit"); return; } window.open(res.url,"_blank");
+        });
+      };
+    }
+  }
+}
+</script>
+</body>
+</html>

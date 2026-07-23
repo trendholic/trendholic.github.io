@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Products · TrendHolic Admin</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+<style>table.data input{width:90px;padding:5px}</style>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { money, escapeHtml, toast, loadingState, emptyState, debounce, dollarsToCents } from "/assets/ui.js";
+const page = await initPage({ portal:"admin", active:"products", title:"Products &amp; Wholesale Eligibility", guard:"admin" });
+if(page && page.connected){
+  const main = page.main; main.innerHTML = loadingState();
+  const [{ data: products }, { data: pw }] = await Promise.all([
+    supabase.from("products").select("id,sku,name,brand,retail_price_cents,is_active").order("sku"),
+    supabase.from("product_wholesale").select("product_id,is_wholesale_eligible,base_wholesale_price_cents,allow_base_fallback,moq,order_increment"),
+  ]);
+  const pwMap={}; (pw||[]).forEach(r=>pwMap[r.product_id]=r);
+  main.innerHTML = `<div class="toolbar"><input class="grow" id="q" placeholder="Search product / SKU / brand…">
+    <select id="ef"><option value="">All</option><option value="1">Wholesale-eligible</option><option value="0">Not eligible</option></select>
+    <span class="hint">Set per-tier prices on the <a href="/admin/pricing.html">Pricing</a> page. Changes are audited.</span></div>
+    <div id="wrap"></div>`;
+  const wrap=document.getElementById("wrap");
+  const dollars=c=>c==null?"":(c/100).toFixed(2);
+
+  function render(){
+    const term=document.getElementById("q").value.trim().toLowerCase();
+    const ef=document.getElementById("ef").value;
+    const list=(products||[]).filter(p=>{
+      if(term && !`${p.sku} ${p.name} ${p.brand}`.toLowerCase().includes(term)) return false;
+      if(ef!==""){ const e=!!(pwMap[p.id]||{}).is_wholesale_eligible; if(ef==="1"&&!e) return false; if(ef==="0"&&e) return false; }
+      return true;
+    });
+    if(!list.length){ wrap.innerHTML=emptyState("No products"); return; }
+    wrap.innerHTML=`<div class="table-wrap"><table class="data">
+      <thead><tr><th>Product</th><th>SKU</th><th>Retail</th><th>Base WS ($)</th><th>MOQ</th><th>Inc</th><th>Eligible</th><th></th></tr></thead>
+      <tbody>${list.slice(0,400).map(p=>{ const w=pwMap[p.id]||{}; return `<tr data-id="${p.id}">
+        <td>${escapeHtml(p.name||"")}<div class="hint">${escapeHtml(p.brand||"")}</div></td>
+        <td class="mono">${escapeHtml(p.sku)}</td>
+        <td class="tnum">${money(p.retail_price_cents)}</td>
+        <td><input data-base value="${dollars(w.base_wholesale_price_cents)}" placeholder="—"></td>
+        <td><input data-moq style="width:64px" value="${w.moq??1}"></td>
+        <td><input data-inc style="width:64px" value="${w.order_increment??1}"></td>
+        <td style="text-align:center"><input type="checkbox" data-elig ${w.is_wholesale_eligible?"checked":""}></td>
+        <td><button class="btn btn-sm btn-primary" data-save>Save</button></td></tr>`; }).join("")}</tbody></table></div>`;
+    wrap.querySelectorAll("[data-save]").forEach(b=>b.onclick=()=>save(b.closest("tr")));
+  }
+  async function save(tr){
+    const id=tr.dataset.id, btn=tr.querySelector("[data-save]");
+    const baseRaw=tr.querySelector("[data-base]").value.trim();
+    const base = baseRaw===""?null:dollarsToCents(baseRaw);
+    if(base!==null && (!Number.isInteger(base)||base<0)){ toast("Invalid base price","crit"); return; }
+    const moq=parseInt(tr.querySelector("[data-moq]").value)||1;
+    const inc=parseInt(tr.querySelector("[data-inc]").value)||1;
+    if(moq<1||inc<1){ toast("MOQ / increment must be ≥ 1","crit"); return; }
+    btn.disabled=true; btn.textContent="…";
+    const { error } = await supabase.rpc("admin_set_product_wholesale",
+      { p_product:id, p_eligible:tr.querySelector("[data-elig]").checked, p_base_cents:base, p_moq:moq, p_increment:inc, p_allow_base:true });
+    toast(error?error.message:"Saved", error?"crit":"good");
+    btn.disabled=false; btn.textContent="Save";
+    if(!error){ pwMap[id]={...(pwMap[id]||{}), is_wholesale_eligible:tr.querySelector("[data-elig]").checked, base_wholesale_price_cents:base, moq, order_increment:inc}; }
+  }
+  document.getElementById("q").addEventListener("input",debounce(render,200));
+  document.getElementById("ef").onchange=render;
+  render();
+}
+</script>
+</body>
+</html>

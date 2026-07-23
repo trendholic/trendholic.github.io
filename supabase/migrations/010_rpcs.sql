@@ -174,6 +174,26 @@ begin
     'Account status updated', p_status::text, '/dealer/dashboard.html');
 end $$;
 
+-- ---- admin: change an existing dealer's tier (audited) ---------------------
+create or replace function public.admin_set_dealer_tier(
+  p_dealer uuid, p_tier_key text
+) returns void language plpgsql security definer
+set search_path = pg_catalog, public as $$
+declare v_tier uuid; v_old uuid;
+begin
+  if not public.is_admin() then raise exception 'admin only'; end if;
+  select id into v_tier from public.dealer_tiers where key = p_tier_key and is_active;
+  if v_tier is null then raise exception 'unknown tier'; end if;
+  select tier_id into v_old from public.dealers where id = p_dealer;
+  if not found then raise exception 'dealer not found'; end if;
+
+  update public.dealers set tier_id = v_tier, updated_at = now() where id = p_dealer;
+  perform public._audit('dealer.tier_change','dealer', p_dealer::text,
+    to_jsonb(v_old), to_jsonb(v_tier), jsonb_build_object('tier', p_tier_key));
+  perform public._notify(p_dealer,'dealer','dealer.tier',
+    'Pricing tier updated', 'Your wholesale tier has changed.', '/dealer/dashboard.html');
+end $$;
+
 -- ---- admin: set product wholesale eligibility / base price / MOQ -----------
 create or replace function public.admin_set_product_wholesale(
   p_product uuid, p_eligible boolean, p_base_cents int,
@@ -268,6 +288,30 @@ begin
     to_jsonb(v_old), to_jsonb(p_status), null);
   perform public._notify(v_dealer,'dealer','payment.status',
     'Payment '||p_status::text, 'Your payment status changed.', '/dealer/order.html?id='||p_order);
+end $$;
+
+-- ---- admin: set fulfillment meta (carrier / tracking / admin note) ---------
+create or replace function public.admin_update_order_meta(
+  p_order uuid, p_carrier text default null, p_tracking text default null, p_admin_note text default null
+) returns void language plpgsql security definer
+set search_path = pg_catalog, public as $$
+declare v_dealer uuid;
+begin
+  if not public.is_admin() then raise exception 'admin only'; end if;
+  select dealer_id into v_dealer from public.orders where id = p_order;
+  if not found then raise exception 'order not found'; end if;
+  update public.orders set
+    carrier = coalesce(p_carrier, carrier),
+    tracking_number = coalesce(p_tracking, tracking_number),
+    admin_note = coalesce(p_admin_note, admin_note),
+    updated_at = now()
+  where id = p_order;
+  perform public._audit('order.meta','order', p_order::text, null,
+    jsonb_build_object('carrier',p_carrier,'tracking',p_tracking), null);
+  if p_tracking is not null then
+    perform public._notify(v_dealer,'dealer','order.tracking',
+      'Tracking added', 'A tracking number was added to your order.', '/dealer/order.html?id='||p_order);
+  end if;
 end $$;
 
 -- ---- dealer: place a wholesale order (THE authoritative write path) ---------
@@ -399,10 +443,12 @@ grant execute on function
   public.update_my_dealer_profile(jsonb),
   public.admin_review_application(uuid,text,text,text),
   public.admin_set_dealer_status(uuid,dealer_status,text),
+  public.admin_set_dealer_tier(uuid,text),
   public.admin_set_product_wholesale(uuid,boolean,int,int,int,boolean),
   public.admin_upsert_tier_price(uuid,uuid,int,int,int),
   public.admin_set_order_status(uuid,order_status,text),
   public.admin_set_payment_status(uuid,payment_status,text),
+  public.admin_update_order_meta(uuid,text,text,text),
   public.place_wholesale_order(jsonb,jsonb,text,text)
   to authenticated;
 

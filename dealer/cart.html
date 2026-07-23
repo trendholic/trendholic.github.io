@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cart · TrendHolic Dealer</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { money, escapeHtml, toast, loadingState, emptyState } from "/assets/ui.js";
+import { getCart, setQty, removeItem, clearCart, lines } from "/assets/wcart.js";
+
+const page = await initPage({ portal:"dealer", active:"cart", title:"Wholesale Cart", guard:"dealer" });
+if(page && page.connected){
+  const main = page.main; main.innerHTML = loadingState();
+  const cart = getCart();
+  const ids = Object.keys(cart);
+  if(!ids.length){ main.innerHTML = `<div class="card">${emptyState("Your cart is empty","Add products from the catalog.")}
+     <div style="text-align:center"><a class="btn btn-primary" href="/dealer/catalog.html">Browse catalog</a></div></div>`; }
+  else {
+    const [{ data: pw }, { data: ptp }, { data: pdp }, { data: prod }] = await Promise.all([
+      supabase.from("product_wholesale").select("product_id,base_wholesale_price_cents,allow_base_fallback,currency,moq,order_increment,is_wholesale_eligible"),
+      supabase.from("product_tier_prices").select("product_id,price_cents,moq,order_increment,is_active"),
+      supabase.from("product_dealer_prices").select("product_id,price_cents,moq,order_increment,is_active"),
+      supabase.from("products").select("id,sku,name,brand"),
+    ]);
+    const pwMap={},tMap={},oMap={},pMap={};
+    (pw||[]).forEach(r=>pwMap[r.product_id]=r);
+    (ptp||[]).forEach(r=>{ if(r.is_active!==false) tMap[r.product_id]=r; });
+    (pdp||[]).forEach(r=>{ if(r.is_active!==false) oMap[r.product_id]=r; });
+    (prod||[]).forEach(p=>pMap[p.id]=p);
+
+    function resolve(pid){
+      const w=pwMap[pid]; if(!w||!w.is_wholesale_eligible) return null;
+      const ov=oMap[pid], t=tMap[pid];
+      let price=null;
+      if(ov) price=ov.price_cents; else if(t) price=t.price_cents;
+      else if(w.allow_base_fallback && w.base_wholesale_price_cents!=null) price=w.base_wholesale_price_cents;
+      if(price==null) return null;
+      return { price, currency:w.currency||"USD",
+        moq:(ov&&ov.moq)||(t&&t.moq)||w.moq||1, inc:(ov&&ov.order_increment)||(t&&t.order_increment)||w.order_increment||1 };
+    }
+    let currency="USD";
+    function draw(){
+      const c=getCart(); const rows=[]; let est=0;
+      for(const pid of Object.keys(c)){
+        const r=resolve(pid), p=pMap[pid]; if(!r||!p){ continue; }
+        currency=r.currency; const qty=c[pid]; const sub=r.price*qty; est+=sub;
+        rows.push(`<tr data-id="${pid}" data-moq="${r.moq}" data-inc="${r.inc}">
+          <td><b>${escapeHtml(p.sku)}</b> · ${escapeHtml(p.name||"")}<div class="hint">${escapeHtml(p.brand||"")}</div></td>
+          <td class="tnum">${money(r.price,r.currency)}<div class="hint">MOQ ${r.moq}${r.inc>1?` +${r.inc}`:""}</div></td>
+          <td><div class="qtybar" style="display:flex;gap:5px;align-items:center">
+            <button class="btn btn-sm" data-a="-">−</button>
+            <input value="${qty}" data-qty style="width:56px;text-align:center">
+            <button class="btn btn-sm" data-a="+">+</button></div></td>
+          <td class="tnum">${money(sub,r.currency)}</td>
+          <td><button class="btn btn-sm btn-ghost" data-del>✕</button></td></tr>`);
+      }
+      main.innerHTML = `
+      <div class="table-wrap"><table class="data">
+        <thead><tr><th>Product</th><th>Unit</th><th>Qty</th><th>Est. subtotal</th><th></th></tr></thead>
+        <tbody id="tb">${rows.join("")||`<tr><td colspan="5">${emptyState("Cart empty")}</td></tr>`}</tbody></table></div>
+      <div class="card" style="margin-top:16px;max-width:520px;margin-left:auto">
+        <div style="display:flex;justify-content:space-between;font-size:1.05rem">
+          <span>Estimated total</span><b class="tnum">${money(est,currency)}</b></div>
+        <p class="hint" style="margin:8px 0 0">This estimate is for reference only. The authoritative total is
+          recalculated server-side when you place the order. Orders are quote/invoice — an admin confirms your
+          order and sends an invoice for manual payment.</p>
+        <div class="field" style="margin-top:12px"><label>Order note (optional)</label><textarea id="note"></textarea></div>
+        <button class="btn btn-primary" id="place" style="width:100%">Place wholesale order</button>
+      </div>`;
+      const tb=document.getElementById("tb");
+      tb.addEventListener("click",(e)=>{
+        const tr=e.target.closest("tr"); if(!tr) return;
+        const pid=tr.dataset.id, moq=+tr.dataset.moq, inc=+tr.dataset.inc, input=tr.querySelector("[data-qty]");
+        if(e.target.dataset.del!==undefined){ removeItem(pid); draw(); return; }
+        let v=parseInt(input.value)||moq;
+        if(e.target.dataset.a==="+"){ v=v<moq?moq:v+inc; }
+        else if(e.target.dataset.a==="-"){ v=Math.max(moq,v-inc); }
+        setQty(pid, v); draw();
+      });
+      tb.addEventListener("change",(e)=>{
+        if(!e.target.hasAttribute("data-qty")) return;
+        const tr=e.target.closest("tr"); setQty(tr.dataset.id, Math.max(1, parseInt(e.target.value)||1)); draw();
+      });
+      const place=document.getElementById("place");
+      if(place) place.onclick = async ()=>{
+        place.disabled=true; place.textContent="Placing…";
+        const idem = (crypto.randomUUID?crypto.randomUUID():("k"+Date.now()+Math.round(performance.now())));
+        const { data, error } = await supabase.rpc("place_wholesale_order", {
+          p_lines: lines(), p_ship_to: null, p_note: document.getElementById("note").value.trim() || null,
+          p_idempotency_key: idem });
+        if(error){ toast(error.message,"crit"); place.disabled=false; place.textContent="Place wholesale order"; return; }
+        clearCart(); toast("Order placed","good");
+        location.href = "/dealer/order.html?id=" + data.order_id;
+      };
+    }
+    draw();
+  }
+}
+</script>
+</body>
+</html>

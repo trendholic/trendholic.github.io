@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Applications · TrendHolic Admin</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { chip, fmtDate, escapeHtml, toast, modal, loadingState, emptyState } from "/assets/ui.js";
+const page = await initPage({ portal:"admin", active:"applications", title:"Dealer Applications", guard:"admin" });
+if(page && page.connected){
+  const main = page.main;
+  const { data: tiers } = await supabase.from("dealer_tiers").select("key,name").eq("is_active",true).order("sort_order");
+  main.innerHTML = `<div class="toolbar">
+      <select id="sf"><option value="active">Active queue</option><option value="">All</option>
+        <option value="pending">Pending</option><option value="under_review">Under review</option>
+        <option value="info_requested">Info requested</option><option value="approved">Approved</option>
+        <option value="rejected">Rejected</option></select></div>
+    <div id="list">${loadingState()}</div>`;
+  const sf = document.getElementById("sf"), list = document.getElementById("list");
+
+  async function load(){
+    list.innerHTML = loadingState();
+    let q = supabase.from("dealer_applications").select("*").order("submitted_at",{ascending:false});
+    const v = sf.value;
+    if(v==="active") q=q.in("status",["pending","under_review","info_requested"]);
+    else if(v) q=q.eq("status",v);
+    const { data, error } = await q;
+    if(error){ list.innerHTML=`<div class="card">${escapeHtml(error.message)}</div>`; return; }
+    if(!data.length){ list.innerHTML=`<div class="card">${emptyState("No applications")}</div>`; return; }
+    list.innerHTML = `<div class="table-wrap"><table class="data">
+      <thead><tr><th>Business</th><th>Contact</th><th>Type</th><th>Volume</th><th>Status</th><th>Submitted</th><th></th></tr></thead>
+      <tbody>${data.map(a=>`<tr>
+        <td><b>${escapeHtml(a.business_name)}</b><div class="hint">${escapeHtml(a.email||"")}</div></td>
+        <td>${escapeHtml(a.contact_name||"")}<div class="hint">${escapeHtml(a.phone||"")}</div></td>
+        <td>${escapeHtml(a.business_type||"—")}</td>
+        <td>${escapeHtml(a.est_monthly_volume||"—")}</td>
+        <td>${chip(a.status)}</td><td>${fmtDate(a.submitted_at)}</td>
+        <td><button class="btn btn-sm" data-view='${a.id}'>Review</button></td></tr>`).join("")}</tbody></table></div>`;
+    list.querySelectorAll("[data-view]").forEach(b=> b.onclick=()=>review(data.find(x=>x.id===b.dataset.view)));
+  }
+
+  function review(a){
+    const canAct = ["pending","under_review","info_requested"].includes(a.status);
+    const m = modal("Application — "+a.business_name, `
+      <dl class="kv" style="margin-bottom:12px">
+        <dt>Contact</dt><dd>${escapeHtml(a.contact_name||"")}</dd>
+        <dt>Email</dt><dd>${escapeHtml(a.email||"")}</dd>
+        <dt>Phone</dt><dd>${escapeHtml(a.phone||"")}</dd>
+        <dt>Address</dt><dd>${escapeHtml([a.address,a.city,a.state,a.zip].filter(Boolean).join(", "))}</dd>
+        <dt>Type</dt><dd>${escapeHtml(a.business_type||"—")}</dd>
+        <dt>Website</dt><dd>${escapeHtml(a.website||"—")}</dd>
+        <dt>Social</dt><dd>${escapeHtml(a.social_media||"—")}</dd>
+        <dt>Est. volume</dt><dd>${escapeHtml(a.est_monthly_volume||"—")}</dd>
+        <dt>Notes</dt><dd>${escapeHtml(a.additional_notes||"—")}</dd>
+        <dt>Status</dt><dd>${chip(a.status)}</dd>
+      </dl>
+      <button class="btn btn-sm" id="docsBtn">View documents</button>
+      <div id="docs" class="hint" style="margin:8px 0"></div>
+      ${canAct ? `
+      <div class="field"><label>Tier (required to approve)</label>
+        <select id="tier"><option value="">Select tier…</option>
+        ${(tiers||[]).map(t=>`<option value="${t.key}">${escapeHtml(t.name)}</option>`).join("")}</select></div>
+      <div class="field"><label>Reason / message (reject or request info)</label><textarea id="reason"></textarea></div>
+      <div class="btn-row">
+        <button class="btn btn-good" data-act="approve">Approve</button>
+        <button class="btn" data-act="request_info">Request info</button>
+        <button class="btn btn-crit" data-act="reject">Reject</button>
+      </div>` : `<p class="hint">This application is closed (${a.status}).</p>`}`);
+
+    m.body.querySelector("#docsBtn").onclick = ()=>loadDocs(a.applicant_user_id, m.body.querySelector("#docs"));
+    m.body.querySelectorAll("[data-act]").forEach(btn=> btn.onclick = async ()=>{
+      const action = btn.dataset.act;
+      const tier = m.body.querySelector("#tier")?.value || null;
+      const reason = m.body.querySelector("#reason")?.value.trim() || null;
+      if(action==="approve" && !tier){ toast("Select a tier to approve","crit"); return; }
+      btn.disabled=true;
+      const { error } = await supabase.rpc("admin_review_application",
+        { p_app:a.id, p_action:action, p_tier_key:tier, p_reason:reason });
+      if(error){ toast(error.message,"crit"); btn.disabled=false; return; }
+      toast("Application "+action,"good"); m.close(); load();
+    });
+  }
+
+  async function loadDocs(uid, box){
+    box.textContent = "Loading documents…";
+    const { data, error } = await supabase.storage.from("dealer-docs").list(uid, { limit:100 });
+    if(error){ box.textContent = "Could not list documents: "+error.message; return; }
+    if(!data.length){ box.textContent = "No documents uploaded."; return; }
+    box.innerHTML = data.map(f=>`<div style="padding:4px 0"><a href="#" data-p="${uid}/${f.name}">${escapeHtml(f.name)}</a></div>`).join("");
+    box.querySelectorAll("[data-p]").forEach(a=> a.onclick = async (e)=>{
+      e.preventDefault(); a.textContent = "Signing…";
+      const { data:res, error:err } = await supabase.functions.invoke("sign-document-url",{ body:{ path:a.dataset.p } });
+      if(err||!res?.url){ toast("Could not open document","crit"); a.textContent=a.dataset.p.split("/").pop(); return; }
+      window.open(res.url,"_blank"); a.textContent = a.dataset.p.split("/").pop();
+    });
+  }
+
+  sf.onchange = load; load();
+}
+</script>
+</body>
+</html>

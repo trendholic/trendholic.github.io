@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dealers · TrendHolic Admin</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { chip, escapeHtml, toast, loadingState, emptyState, debounce } from "/assets/ui.js";
+const page = await initPage({ portal:"admin", active:"dealers", title:"Dealers", guard:"admin" });
+if(page && page.connected){
+  const main = page.main;
+  const { data: tiers } = await supabase.from("dealer_tiers").select("id,name").order("sort_order");
+  main.innerHTML = `<div class="toolbar">
+    <input class="grow" id="q" placeholder="Search business or email…">
+    <select id="sf"><option value="">All statuses</option><option value="approved">Approved</option>
+      <option value="suspended">Suspended</option><option value="closed">Closed</option></select>
+    <select id="tf"><option value="">All tiers</option>
+      ${(tiers||[]).map(t=>`<option value="${t.id}">${escapeHtml(t.name)}</option>`).join("")}</select></div>
+    <div id="list">${loadingState()}</div>`;
+  const q=document.getElementById("q"), sf=document.getElementById("sf"), tf=document.getElementById("tf"), list=document.getElementById("list");
+  const tierName = {}; (tiers||[]).forEach(t=>tierName[t.id]=t.name);
+
+  async function load(){
+    list.innerHTML = loadingState();
+    let query = supabase.from("dealers").select("id,business_name,email,phone,status,tier_id").order("created_at",{ascending:false});
+    if(sf.value) query=query.eq("status",sf.value);
+    if(tf.value) query=query.eq("tier_id",tf.value);
+    const { data, error } = await query;
+    if(error){ list.innerHTML=`<div class="card">${escapeHtml(error.message)}</div>`; return; }
+    const term=q.value.trim().toLowerCase();
+    const rows=(data||[]).filter(d=>!term || `${d.business_name} ${d.email}`.toLowerCase().includes(term));
+    if(!rows.length){ list.innerHTML=`<div class="card">${emptyState("No dealers")}</div>`; return; }
+    list.innerHTML = `<div class="table-wrap"><table class="data">
+      <thead><tr><th>Business</th><th>Contact</th><th>Tier</th><th>Status</th><th></th></tr></thead>
+      <tbody>${rows.map(d=>`<tr>
+        <td class="row-link" onclick="location.href='/admin/dealer.html?id=${d.id}'"><b>${escapeHtml(d.business_name)}</b>
+          <div class="hint">${escapeHtml(d.email||"")}</div></td>
+        <td>${escapeHtml(d.phone||"—")}</td>
+        <td><span class="chip gold">${escapeHtml(tierName[d.tier_id]||"—")}</span></td>
+        <td>${chip(d.status)}</td>
+        <td class="btn-row">
+          <a class="btn btn-sm" href="/admin/dealer.html?id=${d.id}">Open</a>
+          ${d.status==="approved"?`<button class="btn btn-sm btn-crit" data-sus="${d.id}">Suspend</button>`:""}
+          ${d.status==="suspended"?`<button class="btn btn-sm btn-good" data-act="${d.id}">Reactivate</button>`:""}
+        </td></tr>`).join("")}</tbody></table></div>`;
+    list.querySelectorAll("[data-sus]").forEach(b=>b.onclick=()=>setStatus(b.dataset.sus,"suspended"));
+    list.querySelectorAll("[data-act]").forEach(b=>b.onclick=()=>setStatus(b.dataset.act,"approved"));
+  }
+  async function setStatus(id,status){
+    const { error } = await supabase.rpc("admin_set_dealer_status",{ p_dealer:id, p_status:status, p_note:null });
+    if(error){ toast(error.message,"crit"); return; }
+    toast("Dealer "+status,"good"); load();
+  }
+  q.addEventListener("input",debounce(load,250)); sf.onchange=load; tf.onchange=load; load();
+}
+</script>
+</body>
+</html>

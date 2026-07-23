@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Orders · TrendHolic Admin</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { chip, money, fmtDate, escapeHtml, loadingState, emptyState, debounce } from "/assets/ui.js";
+const page = await initPage({ portal:"admin", active:"orders", title:"Wholesale Orders", guard:"admin" });
+if(page && page.connected){
+  const main = page.main;
+  main.innerHTML = `<div class="toolbar">
+    <input class="grow" id="q" placeholder="Search dealer or order #…">
+    <select id="os"><option value="">All order status</option>
+      ${["submitted","confirmed","processing","shipped","delivered","cancelled"].map(s=>`<option>${s}</option>`).join("")}</select>
+    <select id="ps"><option value="">All payment status</option>
+      ${["pending","invoice_sent","pending_payment","paid","partially_paid","refunded","cancelled"].map(s=>`<option>${s}</option>`).join("")}</select>
+    <input type="date" id="from"><input type="date" id="to"></div>
+    <div id="list">${loadingState()}</div>`;
+  const g=id=>document.getElementById(id), list=g("list");
+  async function load(){
+    list.innerHTML=loadingState();
+    let q=supabase.from("orders").select("id,order_number,placed_at,order_status,payment_status,total_cents,currency,tracking_number,dealer_id,dealers(business_name)").order("placed_at",{ascending:false});
+    if(g("os").value) q=q.eq("order_status",g("os").value);
+    if(g("ps").value) q=q.eq("payment_status",g("ps").value);
+    if(g("from").value) q=q.gte("placed_at",g("from").value);
+    if(g("to").value) q=q.lte("placed_at",g("to").value+"T23:59:59");
+    const { data, error } = await q;
+    if(error){ list.innerHTML=`<div class="card">${escapeHtml(error.message)}</div>`; return; }
+    const term=g("q").value.trim().toLowerCase();
+    const rows=(data||[]).filter(o=>!term||`${o.order_number} ${o.dealers?.business_name||""}`.toLowerCase().includes(term));
+    if(!rows.length){ list.innerHTML=`<div class="card">${emptyState("No orders")}</div>`; return; }
+    list.innerHTML=`<div class="table-wrap"><table class="data">
+      <thead><tr><th>Order</th><th>Dealer</th><th>Date</th><th>Status</th><th>Payment</th><th>Total</th><th>Tracking</th></tr></thead>
+      <tbody>${rows.map(o=>`<tr class="row-link" onclick="location.href='/admin/order.html?id=${o.id}'">
+        <td class="mono">${escapeHtml(o.order_number)}</td>
+        <td>${escapeHtml(o.dealers?.business_name||"—")}</td>
+        <td>${fmtDate(o.placed_at)}</td><td>${chip(o.order_status)}</td><td>${chip(o.payment_status)}</td>
+        <td class="tnum">${money(o.total_cents,o.currency)}</td>
+        <td>${o.tracking_number?escapeHtml(o.tracking_number):"—"}</td></tr>`).join("")}</tbody></table></div>`;
+  }
+  ["os","ps","from","to"].forEach(id=>g(id).onchange=load);
+  g("q").addEventListener("input",debounce(load,250)); load();
+}
+</script>
+</body>
+</html>

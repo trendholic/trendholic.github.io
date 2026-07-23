@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My Orders · TrendHolic Dealer</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { chip, money, fmtDate, escapeHtml, loadingState, emptyState } from "/assets/ui.js";
+const page = await initPage({ portal:"dealer", active:"orders", title:"My Orders", guard:"dealer" });
+if(page && page.connected){
+  const main = page.main; main.innerHTML = loadingState();
+  const { data: orders, error } = await supabase.from("orders")
+    .select("id,order_number,placed_at,order_status,payment_status,total_cents,currency,carrier,tracking_number,order_items(quantity)")
+    .order("placed_at",{ascending:false});
+  if(error){ main.innerHTML = `<div class="card">${escapeHtml(error.message)}</div>`; }
+  else if(!orders.length){ main.innerHTML = `<div class="card">${emptyState("No orders yet")}</div>`; }
+  else {
+    const rows = orders.map(o=>{
+      const qty=(o.order_items||[]).reduce((s,i)=>s+(i.quantity||0),0);
+      return `<tr class="row-link" onclick="location.href='/dealer/order.html?id=${o.id}'">
+        <td class="mono">${escapeHtml(o.order_number)}</td>
+        <td>${fmtDate(o.placed_at)}</td>
+        <td>${chip(o.order_status)}</td>
+        <td>${chip(o.payment_status)}</td>
+        <td class="tnum">${qty}</td>
+        <td class="tnum">${money(o.total_cents,o.currency)}</td>
+        <td>${o.tracking_number?escapeHtml(o.tracking_number):"—"}</td></tr>`;
+    }).join("");
+    main.innerHTML = `<div class="table-wrap"><table class="data">
+      <thead><tr><th>Order</th><th>Date</th><th>Status</th><th>Payment</th><th>Qty</th><th>Total</th><th>Tracking</th></tr></thead>
+      <tbody>${rows}</tbody></table></div>`;
+  }
+}
+</script>
+</body>
+</html>

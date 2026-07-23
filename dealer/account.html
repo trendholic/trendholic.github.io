@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Account · TrendHolic Dealer</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { chip, toast, escapeHtml, loadingState } from "/assets/ui.js";
+const page = await initPage({ portal:"dealer", active:"account", title:"Account", guard:"dealer" });
+if(page && page.connected){
+  const main = page.main; main.innerHTML = loadingState();
+  const { data: d } = await supabase.from("dealers")
+    .select("business_name,contact_name,email,phone,address,city,state,zip,website,social_media,status,tier_id")
+    .eq("id", page.user.id).maybeSingle();
+  const { data: tier } = await supabase.from("dealer_tiers").select("name").eq("id", d.tier_id).maybeSingle();
+  const f = (id,v)=>`<div class="field"><label>${id.replace(/_/g," ")}</label>
+     <input id="${id}" value="${escapeHtml(v||"")}"></div>`;
+  main.innerHTML = `
+    <div class="card" style="max-width:720px">
+      <div class="btn-row" style="justify-content:space-between;align-items:center;margin-bottom:8px">
+        <h2>${escapeHtml(d.business_name)}</h2>
+        <span>${chip(d.status)} <span class="chip gold">${escapeHtml(tier?.name||"—")}</span></span>
+      </div>
+      <p class="hint">Business name, approval status, tier, pricing and product access are managed by TrendHolic and cannot be edited here.</p>
+      <div class="section-title">Editable details</div>
+      <form id="f"><div class="form-grid">
+        ${f("contact_name",d.contact_name)}${f("phone",d.phone)}
+        <div class="field"><label>email (read-only)</label><input value="${escapeHtml(d.email||"")}" readonly></div>
+        ${f("website",d.website)}
+        <div class="field full">${""}</div>
+        ${f("address",d.address)}${f("city",d.city)}${f("state",d.state)}${f("zip",d.zip)}
+        ${f("social_media",d.social_media)}
+      </div>
+      <button class="btn btn-primary" id="save">Save changes</button></form>
+    </div>`;
+  document.getElementById("f").addEventListener("submit",e=>e.preventDefault());
+  document.getElementById("save").onclick = async ()=>{
+    const btn = document.getElementById("save"); btn.disabled=true; btn.textContent="Saving…";
+    const g = id => document.getElementById(id)?.value.trim();
+    const payload = { contact_name:g("contact_name"), phone:g("phone"), address:g("address"),
+      city:g("city"), state:g("state"), zip:g("zip"), website:g("website"), social_media:g("social_media") };
+    const { error } = await supabase.rpc("update_my_dealer_profile", { payload });
+    btn.disabled=false; btn.textContent="Save changes";
+    toast(error ? ("Save failed: "+error.message) : "Profile updated", error?"crit":"good");
+  };
+}
+</script>
+</body>
+</html>

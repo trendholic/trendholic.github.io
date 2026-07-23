@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Order · TrendHolic Dealer</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { chip, money, fmtDate, escapeHtml, loadingState, errorState } from "/assets/ui.js";
+const page = await initPage({ portal:"dealer", active:"orders", title:"Order Detail", guard:"dealer" });
+if(page && page.connected){
+  const main = page.main; main.innerHTML = loadingState();
+  const id = new URLSearchParams(location.search).get("id");
+  if(!id){ main.innerHTML = errorState("No order specified"); }
+  else {
+    const { data: o, error } = await supabase.from("orders")
+      .select("*, order_items(*), order_status_history(*)").eq("id", id).maybeSingle();
+    if(error || !o){ main.innerHTML = errorState(error?.message || "Order not found"); }
+    else {
+      const items = (o.order_items||[]).map(it=>`<tr>
+        <td><b>${escapeHtml(it.sku_snapshot||"")}</b> · ${escapeHtml(it.product_name_snapshot||"")}</td>
+        <td class="tnum">${money(it.unit_price_cents_snapshot,it.currency)}</td>
+        <td class="tnum">${it.quantity}</td>
+        <td class="tnum">${money(it.line_subtotal_cents_snapshot,it.currency)}</td></tr>`).join("");
+      const hist = (o.order_status_history||[]).sort((a,b)=>new Date(a.created_at)-new Date(b.created_at)).map(h=>`
+        <div style="padding:7px 0;border-bottom:1px solid var(--rule);font-size:.85rem">
+          ${fmtDate(h.created_at)} · <b>${escapeHtml(h.kind)}</b> → ${chip(h.new_value)}
+          ${h.note?`<div class="hint">${escapeHtml(h.note)}</div>`:""}</div>`).join("");
+      main.innerHTML = `
+      <div class="btn-row" style="justify-content:space-between;align-items:center">
+        <h2 class="mono">${escapeHtml(o.order_number)}</h2>
+        <a class="btn btn-sm" href="/dealer/orders.html">← All orders</a></div>
+      <div class="grid cols-2" style="margin:14px 0">
+        <div class="card"><dl class="kv">
+          <dt>Placed</dt><dd>${fmtDate(o.placed_at)}</dd>
+          <dt>Order status</dt><dd>${chip(o.order_status)}</dd>
+          <dt>Payment status</dt><dd>${chip(o.payment_status)}</dd>
+          <dt>Tier at purchase</dt><dd>${escapeHtml(o.tier_name_snapshot||"—")}</dd>
+          <dt>Carrier</dt><dd>${escapeHtml(o.carrier||"—")}</dd>
+          <dt>Tracking</dt><dd>${o.tracking_number?escapeHtml(o.tracking_number):"—"}</dd>
+        </dl></div>
+        <div class="card"><dl class="kv">
+          <dt>Subtotal</dt><dd class="tnum">${money(o.subtotal_cents,o.currency)}</dd>
+          <dt>Discount</dt><dd class="tnum">${money(o.discount_cents,o.currency)}</dd>
+          <dt>Total</dt><dd class="tnum"><b>${money(o.total_cents,o.currency)}</b></dd>
+        </dl>
+        ${o.dealer_note?`<p class="hint" style="margin-top:10px">Note: ${escapeHtml(o.dealer_note)}</p>`:""}</div>
+      </div>
+      <div class="section-title">Items (immutable snapshots)</div>
+      <div class="table-wrap"><table class="data">
+        <thead><tr><th>Product</th><th>Unit price</th><th>Qty</th><th>Line subtotal</th></tr></thead>
+        <tbody>${items}</tbody></table></div>
+      <div class="section-title">Status history</div>
+      <div class="card">${hist||'<span class="hint">No history</span>'}</div>`;
+    }
+  }
+}
+</script>
+</body>
+</html>

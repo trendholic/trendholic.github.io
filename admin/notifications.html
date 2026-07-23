@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Notifications · TrendHolic Admin</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { fmtDate, escapeHtml, toast, loadingState, emptyState } from "/assets/ui.js";
+const page = await initPage({ portal:"admin", active:"notifications", title:"Notifications", guard:"admin" });
+if(page && page.connected){
+  const main = page.main;
+  async function load(){
+    main.innerHTML = loadingState();
+    const { data, error } = await supabase.from("notifications")
+      .select("id,type,title,body,link_url,is_read,created_at").order("created_at",{ascending:false}).limit(200);
+    if(error){ main.innerHTML=`<div class="card">${escapeHtml(error.message)}</div>`; return; }
+    if(!data.length){ main.innerHTML=`<div class="card">${emptyState("No notifications")}</div>`; return; }
+    main.innerHTML=`<div class="toolbar"><button class="btn btn-sm" id="markAll">Mark all read</button></div>
+      <div class="card">${data.map(n=>`
+      <div style="padding:10px 0;border-bottom:1px solid var(--rule);display:flex;justify-content:space-between;gap:10px">
+        <div>${n.is_read?"":'<span class="chip gold">new</span> '}<b>${escapeHtml(n.title)}</b>
+          ${n.body?`<div class="hint">${escapeHtml(n.body)}</div>`:""}
+          ${n.link_url?`<a href="${escapeHtml(n.link_url)}" class="hint">Open →</a>`:""}</div>
+        <div class="hint" style="white-space:nowrap">${fmtDate(n.created_at)}</div></div>`).join("")}</div>`;
+    document.getElementById("markAll").onclick=async()=>{
+      const ids=data.filter(n=>!n.is_read).map(n=>n.id);
+      if(!ids.length) return;
+      const { error } = await supabase.from("notifications").update({is_read:true}).in("id",ids);
+      toast(error?error.message:"Marked read",error?"crit":"good"); if(!error) load();
+    };
+  }
+  load();
+}
+</script>
+</body>
+</html>

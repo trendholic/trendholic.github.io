@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Application Status · TrendHolic</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { chip, fmtDate, escapeHtml, loadingState, emptyState } from "/assets/ui.js";
+const page = await initPage({ portal:"dealer", active:"", title:"Application Status", guard:"auth" });
+if(page && page.connected){
+  const main = page.main; main.innerHTML = loadingState();
+  const { data: dealer } = await supabase.from("dealers")
+    .select("status,business_name").eq("id", page.user.id).maybeSingle();
+  if(dealer && dealer.status === "approved"){
+    location.replace("/dealer/dashboard.html");
+  } else {
+    const { data: apps } = await supabase.from("dealer_applications")
+      .select("status,submitted_at,decision_reason,info_request_message,business_name")
+      .eq("applicant_user_id", page.user.id).order("submitted_at",{ascending:false});
+    const a = apps && apps[0];
+    if(!a){
+      main.innerHTML = `<div class="card">${emptyState("No application found","Start your wholesale application.")}
+        <div style="text-align:center"><a class="btn btn-primary" href="/dealer/apply.html">Become a dealer</a></div></div>`;
+    } else {
+      main.innerHTML = `
+      <div class="card" style="max-width:640px">
+        <h2>${escapeHtml(a.business_name||"")}</h2>
+        <p style="margin:10px 0">Current status: ${chip(a.status)}</p>
+        <dl class="kv">
+          <dt>Submitted</dt><dd>${fmtDate(a.submitted_at)}</dd>
+          <dt>Status</dt><dd>${chip(a.status)}</dd>
+        </dl>
+        ${a.status==="info_requested" && a.info_request_message ? `
+          <div class="devbanner" style="margin-top:16px"><span>ℹ️</span><div>
+            <b>More information requested:</b><br>${escapeHtml(a.info_request_message)}</div></div>` : ""}
+        ${a.status==="rejected" ? `
+          <div style="margin-top:16px">
+            ${a.decision_reason?`<p class="hint">${escapeHtml(a.decision_reason)}</p>`:""}
+            <a class="btn btn-primary" href="/dealer/apply.html">Reapply</a></div>` : ""}
+        ${(a.status==="pending"||a.status==="under_review")?`
+          <p class="hint" style="margin-top:16px">Your application is being reviewed. You'll be notified by email.</p>`:""}
+      </div>`;
+    }
+  }
+}
+</script>
+</body>
+</html>

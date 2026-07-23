@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Become a Dealer · TrendHolic Wholesale</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<div class="auth-wrap">
+  <div class="auth-card wide">
+    <div class="auth-brand"><b>TREND</b>HOLIC</div>
+    <div class="auth-sub">Wholesale Dealer Application</div>
+    <div id="dev"></div>
+    <div id="mount"></div>
+    <div class="auth-alt">Already a dealer? <a href="/dealer/login.html">Dealer login</a>
+      &nbsp;·&nbsp; <a href="/index.html">← Back to store</a></div>
+  </div>
+</div>
+<script type="module">
+import { hasConfig, devBanner, toast, escapeHtml } from "/assets/ui.js";
+const mount = document.getElementById("mount");
+
+if(!hasConfig()){ document.getElementById("dev").innerHTML = devBanner(); renderForm(false, ""); }
+else { boot(); }
+
+const REQUIRED = ["business_name","contact_name","email","phone","business_type","est_monthly_volume"];
+
+async function boot(){
+  const { supabase } = await import("/assets/supabase.js");
+  window._sb = supabase;
+  const { data:{ session } } = await supabase.auth.getSession();
+  if(session){
+    const { data: apps } = await supabase.from("dealer_applications")
+      .select("status").eq("applicant_user_id", session.user.id)
+      .in("status",["pending","under_review","info_requested"]).limit(1);
+    if(apps && apps.length){
+      mount.innerHTML = `<div class="state"><div class="ic">✓</div>
+        <h3>Application already submitted</h3>
+        <div>You have an application under review.</div>
+        <a class="btn btn-primary" href="/dealer/application-status.html" style="margin-top:12px">View status</a></div>`;
+      return;
+    }
+    renderForm(true, session.user.email || "");
+  } else {
+    renderForm(false, "");
+  }
+}
+
+function renderForm(loggedIn, email){
+  mount.innerHTML = `
+  <form id="f" novalidate>
+    <div class="section-title">Account</div>
+    <div class="form-grid">
+      <div class="field ${loggedIn?"full":""}"><label>Email <span class="req">*</span></label>
+        <input id="email" type="email" value="${escapeHtml(email)}" ${loggedIn?"readonly":""} required></div>
+      ${loggedIn ? "" : `<div class="field"><label>Password <span class="req">*</span></label>
+        <input id="password" type="password" minlength="6" required>
+        <span class="hint">Use this to log in and track your application.</span></div>`}
+    </div>
+    <div class="section-title">Business</div>
+    <div class="form-grid">
+      <div class="field"><label>Business Name <span class="req">*</span></label><input id="business_name" required></div>
+      <div class="field"><label>Contact Name <span class="req">*</span></label><input id="contact_name" required></div>
+      <div class="field"><label>Phone <span class="req">*</span></label><input id="phone" required></div>
+      <div class="field full"><label>Business Address</label><input id="address"></div>
+      <div class="field"><label>City</label><input id="city"></div>
+      <div class="field"><label>State</label><input id="state"></div>
+      <div class="field"><label>ZIP</label><input id="zip"></div>
+      <div class="field"><label>Business Type <span class="req">*</span></label>
+        <select id="business_type" required>
+          <option value="">Select…</option><option>Retailer</option><option>Boutique</option>
+          <option>Online store</option><option>Distributor</option><option>Salon / Spa</option><option>Other</option>
+        </select></div>
+      <div class="field"><label>Website</label><input id="website" placeholder="https://"></div>
+      <div class="field"><label>Social Media</label><input id="social_media" placeholder="@handle or URL"></div>
+      <div class="field full"><label>Estimated Monthly Purchase Volume <span class="req">*</span></label>
+        <select id="est_monthly_volume" required>
+          <option value="">Select…</option><option>Under $1,000</option><option>$1,000–$5,000</option>
+          <option>$5,000–$20,000</option><option>$20,000+</option>
+        </select></div>
+      <div class="field full"><label>Additional Notes</label><textarea id="additional_notes"></textarea></div>
+    </div>
+    <div class="section-title">Documents <span style="text-transform:none;color:var(--muted);font-weight:400">(optional — stored privately)</span></div>
+    <div class="form-grid">
+      <div class="field"><label>Business License</label><input id="doc_license" type="file" accept=".pdf,.jpg,.jpeg,.png"></div>
+      <div class="field"><label>Resale Certificate</label><input id="doc_resale" type="file" accept=".pdf,.jpg,.jpeg,.png"></div>
+      <div class="field full"><label>Store / Business Photos</label><input id="doc_photos" type="file" accept=".jpg,.jpeg,.png" multiple></div>
+    </div>
+    <div id="uploads" class="hint"></div>
+    <div class="field err" id="err" style="display:none"></div>
+    <button class="btn btn-primary" id="go" style="width:100%" ${hasConfig()?"":"disabled"}>Submit application</button>
+  </form>`;
+  if(hasConfig()) document.getElementById("f").addEventListener("submit", submit);
+}
+
+function val(id){ const e=document.getElementById(id); return e?e.value.trim():""; }
+function setErr(m){ const e=document.getElementById("err"); e.textContent=m; e.style.display="block"; }
+
+async function submit(ev){
+  ev.preventDefault();
+  const err=document.getElementById("err"); err.style.display="none";
+  const go=document.getElementById("go");
+  const loggedIn = !document.getElementById("password");
+
+  // client-side validation (UX only; DB/RPC is authoritative)
+  for(const k of REQUIRED){
+    if(!val(k)){ setErr("Please complete all required fields."); return; }
+  }
+  const emailVal = val("email");
+  const supabase = window._sb || (await import("/assets/supabase.js")).supabase;
+
+  go.disabled=true; go.textContent="Submitting…";
+  let uid;
+  try{
+    if(!loggedIn){
+      const { data, error } = await supabase.auth.signUp({ email: emailVal, password: val("password") });
+      if(error) throw error;
+      if(!data.session){
+        mount.innerHTML = `<div class="state"><div class="ic">✉️</div><h3>Confirm your email</h3>
+          <div>We created your account. Please confirm your email, then
+          <a href="/dealer/login.html">log in</a> and complete your application (including document uploads).</div></div>`;
+        return;
+      }
+      uid = data.user.id;
+    } else {
+      const { data:{ user } } = await supabase.auth.getUser(); uid = user.id;
+    }
+
+    // upload optional documents (best-effort; documents are not mandatory)
+    await uploadAll(supabase, uid);
+
+    const payload = {
+      business_name:val("business_name"), contact_name:val("contact_name"), email:emailVal,
+      phone:val("phone"), address:val("address"), city:val("city"), state:val("state"),
+      zip:val("zip"), business_type:val("business_type"), website:val("website"),
+      social_media:val("social_media"), est_monthly_volume:val("est_monthly_volume"),
+      additional_notes:val("additional_notes")
+    };
+    const { error } = await supabase.rpc("submit_application", { payload });
+    if(error) throw error;
+
+    mount.innerHTML = `<div class="state"><div class="ic">✓</div><h3>Application submitted</h3>
+      <div>Thanks! Our team will review your application. You'll be notified by email.</div>
+      <a class="btn btn-primary" href="/dealer/application-status.html" style="margin-top:12px">View status</a></div>`;
+  }catch(e){
+    setErr(e.message || "Submission failed. Please try again.");
+    go.disabled=false; go.textContent="Submit application";
+  }
+}
+
+async function uploadAll(supabase, uid){
+  const box = document.getElementById("uploads"); box.innerHTML="";
+  const jobs = [];
+  const add = (input, type) => { for(const f of (input?.files||[])) jobs.push([f,type]); };
+  add(document.getElementById("doc_license"),"business_license");
+  add(document.getElementById("doc_resale"),"resale_certificate");
+  add(document.getElementById("doc_photos"),"store_photo");
+  for(const [file,type] of jobs){
+    const line = document.createElement("div");
+    line.textContent = `Uploading ${type} — ${file.name}…`; box.appendChild(line);
+    const ext = (file.name.split(".").pop()||"bin").toLowerCase();
+    const path = `${uid}/${type}-${Date.now()}-${Math.round(performance.now())}.${ext}`;
+    const { error } = await supabase.storage.from("dealer-docs").upload(path, file, { upsert:false });
+    line.textContent = error ? `⚠ ${type} — ${file.name} failed (${error.message})`
+                             : `✓ ${type} — ${file.name} uploaded`;
+  }
+}
+</script>
+</body>
+</html>

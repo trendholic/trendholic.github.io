@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Overview · TrendHolic Admin</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { chip, money, fmtDate, escapeHtml, loadingState, emptyState } from "/assets/ui.js";
+const page = await initPage({ portal:"admin", active:"dashboard", title:"Overview", guard:"admin" });
+if(page && page.connected){
+  const main = page.main; main.innerHTML = loadingState("Loading metrics…");
+  const count = (t, mod) => { let q=supabase.from(t).select("*",{count:"exact",head:true}); if(mod) q=mod(q); return q; };
+  const [dealers, approved, suspended, pendingApps, totalOrders, recentApps, recentOrders, orderSums] =
+   await Promise.all([
+    count("dealers"),
+    count("dealers", q=>q.eq("status","approved")),
+    count("dealers", q=>q.eq("status","suspended")),
+    count("dealer_applications", q=>q.in("status",["pending","under_review","info_requested"])),
+    count("orders"),
+    supabase.from("dealer_applications").select("id,business_name,status,submitted_at")
+      .order("submitted_at",{ascending:false}).limit(5),
+    supabase.from("orders").select("id,order_number,total_cents,currency,order_status,payment_status,placed_at")
+      .order("placed_at",{ascending:false}).limit(5),
+    supabase.from("orders").select("total_cents,order_status,placed_at").neq("order_status","cancelled").limit(5000),
+  ]);
+  const sums = orderSums.data || [];
+  const salesAll = sums.reduce((s,o)=>s+(o.total_cents||0),0);
+  const now = new Date(); const ym = now.getUTCFullYear()+"-"+(now.getUTCMonth()+1);
+  const salesMonth = sums.filter(o=>{ const d=new Date(o.placed_at); return d.getUTCFullYear()+"-"+(d.getUTCMonth()+1)===ym; })
+    .reduce((s,o)=>s+(o.total_cents||0),0);
+  const pendingOrders = sums.filter(o=>["submitted","confirmed","processing"].includes(o.order_status)).length;
+
+  const tile=(label,val,sub="")=>`<div class="stat"><div class="label">${label}</div>
+    <div class="value">${val}</div>${sub?`<div class="sub">${sub}</div>`:""}</div>`;
+  main.innerHTML = `
+    <div class="grid cols-4">
+      ${tile("Total dealers", dealers.count??0)}
+      ${tile("Approved", approved.count??0)}
+      ${tile("Suspended", suspended.count??0)}
+      ${tile("Pending applications", pendingApps.count??0)}
+      ${tile("Wholesale orders", totalOrders.count??0)}
+      ${tile("Pending orders", pendingOrders)}
+      ${tile("Wholesale sales", money(salesAll))}
+      ${tile("This month", money(salesMonth))}
+    </div>
+    <div class="grid cols-2" style="margin-top:20px">
+      <div><div class="section-title">Recent applications</div><div class="table-wrap"><table class="data">
+        <thead><tr><th>Business</th><th>Status</th><th>Submitted</th></tr></thead><tbody>
+        ${(recentApps.data||[]).map(a=>`<tr class="row-link" onclick="location.href='/admin/applications.html'">
+          <td>${escapeHtml(a.business_name)}</td><td>${chip(a.status)}</td><td>${fmtDate(a.submitted_at)}</td></tr>`).join("")
+          || `<tr><td colspan="3">${emptyState("None")}</td></tr>`}</tbody></table></div></div>
+      <div><div class="section-title">Recent orders</div><div class="table-wrap"><table class="data">
+        <thead><tr><th>Order</th><th>Status</th><th>Total</th></tr></thead><tbody>
+        ${(recentOrders.data||[]).map(o=>`<tr class="row-link" onclick="location.href='/admin/order.html?id=${o.id}'">
+          <td class="mono">${escapeHtml(o.order_number)}</td><td>${chip(o.order_status)}</td>
+          <td class="tnum">${money(o.total_cents,o.currency)}</td></tr>`).join("")
+          || `<tr><td colspan="3">${emptyState("None")}</td></tr>`}</tbody></table></div></div>
+    </div>
+    <p class="hint" style="margin-top:18px">Sales figures aggregate up to 5,000 most-recent non-cancelled orders client-side;
+      a database view/RPC is recommended for larger volumes (Phase 2).</p>`;
+}
+</script>
+</body>
+</html>

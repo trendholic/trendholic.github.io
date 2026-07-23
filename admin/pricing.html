@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pricing · TrendHolic Admin</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+<style>table.data input{width:88px;padding:5px} table.data input.mini{width:64px}</style>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { money, escapeHtml, toast, loadingState, emptyState, debounce, dollarsToCents } from "/assets/ui.js";
+const page = await initPage({ portal:"admin", active:"pricing", title:"Wholesale Pricing", guard:"admin" });
+if(page && page.connected){
+  const main = page.main; main.innerHTML = loadingState("Loading pricing…");
+  const [{ data: tiers }, { data: products }, { data: pw }, { data: ptp }] = await Promise.all([
+    supabase.from("dealer_tiers").select("id,key,name").eq("is_active",true).order("sort_order"),
+    supabase.from("products").select("id,sku,name,brand,retail_price_cents").order("sku"),
+    supabase.from("product_wholesale").select("product_id,is_wholesale_eligible,base_wholesale_price_cents,moq,order_increment"),
+    supabase.from("product_tier_prices").select("product_id,tier_id,price_cents"),
+  ]);
+  const pwMap={}; (pw||[]).forEach(r=>pwMap[r.product_id]=r);
+  const priceMap={}; (ptp||[]).forEach(r=>{ (priceMap[r.product_id]=priceMap[r.product_id]||{})[r.tier_id]=r.price_cents; });
+  const T = tiers||[];
+  const dollars = c => c==null? "" : (c/100).toFixed(2);
+
+  main.innerHTML = `<div class="toolbar"><input class="grow" id="q" placeholder="Search product / SKU / brand…">
+    <span class="hint">Prices in USD. Blank tier price = falls back to base. Changes are audited.</span></div>
+    <div id="wrap"></div>`;
+  const wrap=document.getElementById("wrap");
+
+  function render(){
+    const term=document.getElementById("q").value.trim().toLowerCase();
+    const list=(products||[]).filter(p=>!term||`${p.sku} ${p.name} ${p.brand}`.toLowerCase().includes(term));
+    if(!list.length){ wrap.innerHTML=emptyState("No products"); return; }
+    wrap.innerHTML = `<div class="table-wrap"><table class="data">
+      <thead><tr><th>Product</th><th>SKU</th><th>Retail</th>
+      ${T.map(t=>`<th>${escapeHtml(t.name)}</th>`).join("")}<th>MOQ</th><th>Inc</th><th>WS</th><th></th></tr></thead>
+      <tbody>${list.slice(0,300).map(p=>{
+        const w=pwMap[p.id]||{}; const pm=priceMap[p.id]||{};
+        return `<tr data-id="${p.id}">
+          <td>${escapeHtml(p.name||"")}<div class="hint">${escapeHtml(p.brand||"")}</div></td>
+          <td class="mono">${escapeHtml(p.sku)}</td>
+          <td class="tnum">${money(p.retail_price_cents)}</td>
+          ${T.map(t=>`<td><input data-tier="${t.id}" value="${dollars(pm[t.id])}" placeholder="—"></td>`).join("")}
+          <td><input class="mini" data-moq value="${w.moq??1}"></td>
+          <td><input class="mini" data-inc value="${w.order_increment??1}"></td>
+          <td style="text-align:center"><input type="checkbox" data-elig ${w.is_wholesale_eligible?"checked":""}></td>
+          <td><button class="btn btn-sm btn-primary" data-save>Save</button></td></tr>`;
+      }).join("")}</tbody></table></div>
+      ${list.length>300?`<p class="hint">Showing first 300 of ${list.length}. Refine your search.</p>`:""}`;
+    wrap.querySelectorAll("[data-save]").forEach(b=> b.onclick=()=>saveRow(b.closest("tr")));
+  }
+
+  async function saveRow(tr){
+    const id=tr.dataset.id, btn=tr.querySelector("[data-save]");
+    const moq=parseInt(tr.querySelector("[data-moq]").value)||1;
+    const inc=parseInt(tr.querySelector("[data-inc]").value)||1;
+    const elig=tr.querySelector("[data-elig]").checked;
+    if(moq<1||inc<1){ toast("MOQ and increment must be ≥ 1","crit"); return; }
+    btn.disabled=true; btn.textContent="…";
+    // eligibility + MOQ + increment (base price left unchanged here → pass current)
+    const base = (pwMap[id]||{}).base_wholesale_price_cents ?? null;
+    let { error } = await supabase.rpc("admin_set_product_wholesale",
+      { p_product:id, p_eligible:elig, p_base_cents:base, p_moq:moq, p_increment:inc, p_allow_base:true });
+    if(error){ toast(error.message,"crit"); btn.disabled=false; btn.textContent="Save"; return; }
+    // per-tier prices
+    for(const t of T){
+      const raw=tr.querySelector(`[data-tier="${t.id}"]`).value.trim();
+      if(raw===""){ continue; } // blank = leave/fallback (Phase 1 does not delete tier rows)
+      const cents=dollarsToCents(raw);
+      if(!Number.isInteger(cents)||cents<0){ toast(`Invalid price for ${t.name}`,"crit"); continue; }
+      const { error:e2 } = await supabase.rpc("admin_upsert_tier_price",
+        { p_product:id, p_tier:t.id, p_price_cents:cents, p_moq:null, p_increment:null });
+      if(e2){ toast(`${t.name}: ${e2.message}`,"crit"); }
+    }
+    toast("Saved","good"); btn.disabled=false; btn.textContent="Save";
+  }
+  document.getElementById("q").addEventListener("input",debounce(render,200));
+  render();
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Settings · TrendHolic Admin</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { escapeHtml, loadingState } from "/assets/ui.js";
+const page = await initPage({ portal:"admin", active:"settings", title:"Settings", guard:"admin" });
+if(page && page.connected){
+  const main = page.main; main.innerHTML = loadingState();
+  const [{ data: tiers }, { data: settings }, { data: admins }] = await Promise.all([
+    supabase.from("dealer_tiers").select("key,name,sort_order,is_active").order("sort_order"),
+    supabase.from("settings").select("key,value"),
+    supabase.from("admin_users").select("email,name,is_active").order("email"),
+  ]);
+  const sv = {}; (settings||[]).forEach(s=>sv[s.key]=s.value);
+  const yn = (b)=> b ? `<span class="chip good">Configured</span>` : `<span class="chip warn">Set in Supabase</span>`;
+  main.innerHTML = `
+    <div class="grid cols-2">
+      <div class="card"><h3>Dealer tiers</h3>
+        <div class="table-wrap"><table class="data"><thead><tr><th>Key</th><th>Name</th><th>Active</th></tr></thead>
+          <tbody>${(tiers||[]).map(t=>`<tr><td class="mono">${escapeHtml(t.key)}</td><td>${escapeHtml(t.name)}</td>
+            <td>${t.is_active?'<span class="chip good">Yes</span>':'<span class="chip mute">No</span>'}</td></tr>`).join("")}</tbody></table></div>
+        <p class="hint">Tier names are stored as data and can be renamed via SQL/admin tooling without code changes.</p></div>
+      <div class="card"><h3>System configuration</h3><dl class="kv">
+        <dt>Default tier</dt><dd class="mono">${escapeHtml(JSON.stringify(sv.default_tier_key ?? "—"))}</dd>
+        <dt>Currency</dt><dd class="mono">${escapeHtml(JSON.stringify(sv.wholesale_currency ?? "USD"))}</dd>
+        <dt>Admin users</dt><dd>${(admins||[]).length} (${(admins||[]).filter(a=>a.is_active).length} active)</dd>
+      </dl></div>
+    </div>
+    <div class="section-title">Edge Function configuration</div>
+    <div class="card"><p class="hint">Secrets live only in Supabase Edge Function settings and are never shown here or in the browser
+      (no service-role key, no Resend key). Status reflects whether the function contract exists in this deployment.</p>
+      <dl class="kv">
+        <dt>send-email (Resend)</dt><dd>${yn(false)} <span class="hint">requires RESEND_API_KEY, RESEND_FROM, WEBHOOK_SECRET</span></dd>
+        <dt>sign-document-url</dt><dd>${yn(false)} <span class="hint">requires SERVICE_ROLE</span></dd>
+        <dt>sync-products</dt><dd>${yn(false)} <span class="hint">requires SERVICE_ROLE, SHEET_CSV_URL, WEBHOOK_SECRET</span></dd>
+      </dl>
+      <p class="hint">Function status is not auto-probed in Phase 1 (would require an admin health endpoint); verify deployment in the Supabase dashboard.</p>
+    </div>
+    <div class="section-title">Administrators</div>
+    <div class="table-wrap"><table class="data"><thead><tr><th>Email</th><th>Name</th><th>Active</th></tr></thead>
+      <tbody>${(admins||[]).map(a=>`<tr><td>${escapeHtml(a.email)}</td><td>${escapeHtml(a.name||"—")}</td>
+        <td>${a.is_active?'<span class="chip good">Active</span>':'<span class="chip mute">Inactive</span>'}</td></tr>`).join("")}</tbody></table></div>`;
+}
+</script>
+</body>
+</html>

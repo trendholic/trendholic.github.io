@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wholesale Catalog · TrendHolic Dealer</title>
+<link rel="stylesheet" href="/assets/portal.css">
+<script src="/assets/config.js" onerror="void 0"></script>
+<style>
+  .cat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}
+  .pcard{background:var(--surface);border:1px solid var(--rule);border-radius:12px;overflow:hidden;
+    box-shadow:var(--shadow);display:flex;flex-direction:column}
+  .pcard img{width:100%;height:150px;object-fit:cover;background:var(--surface-2)}
+  .pcard .body{padding:12px 13px;display:flex;flex-direction:column;gap:5px;flex:1}
+  .pcard .nm{font-size:.86rem;font-weight:600;line-height:1.25;min-height:2.3em}
+  .pcard .br{font-size:.72rem;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+  .pcard .pr{font-size:1.15rem;font-weight:700;color:var(--gold);font-family:var(--serif)}
+  .pcard .moq{font-size:.72rem;color:var(--muted)}
+  .qtybar{display:flex;align-items:center;gap:6px;margin-top:6px}
+  .qtybar button{width:30px;height:30px;border:1px solid var(--rule);background:var(--surface);border-radius:7px;cursor:pointer;font-size:1rem;color:var(--ink)}
+  .qtybar input{width:56px;text-align:center;padding:5px}
+</style>
+</head>
+<body>
+<script type="module">
+import { initPage, supabase } from "/assets/layout.js";
+import { money, escapeHtml, toast, loadingState, emptyState, debounce } from "/assets/ui.js";
+import { setQty, getCart } from "/assets/wcart.js";
+
+const page = await initPage({ portal:"dealer", active:"catalog", title:"Wholesale Catalog", guard:"dealer" });
+if(page && page.connected){
+  const main = page.main;
+  main.innerHTML = `
+    <div class="toolbar">
+      <input class="grow" id="q" placeholder="Search name, SKU or brand…">
+      <select id="brand"><option value="">All brands</option></select>
+      <select id="cat"><option value="">All categories</option>
+        <option value="women">For Her</option><option value="men">For Him</option><option value="unisex">Unisex</option></select>
+    </div>
+    <div id="grid">${loadingState("Loading your catalog…")}</div>`;
+
+  // Pull only rows RLS lets this approved dealer see.
+  const [{ data: pw }, { data: ptp }, { data: pdp }, { data: prod }] = await Promise.all([
+    supabase.from("product_wholesale")
+      .select("product_id,is_wholesale_eligible,base_wholesale_price_cents,allow_base_fallback,currency,moq,order_increment"),
+    supabase.from("product_tier_prices").select("product_id,price_cents,moq,order_increment,is_active"),
+    supabase.from("product_dealer_prices").select("product_id,price_cents,moq,order_increment,is_active"),
+    supabase.from("products").select("id,sku,name,brand,gender,image_path,notes,is_active"),
+  ]);
+  const tierMap = {}; (ptp||[]).forEach(r=>{ if(r.is_active!==false) tierMap[r.product_id]=r; });
+  const ovMap = {}; (pdp||[]).forEach(r=>{ if(r.is_active!==false) ovMap[r.product_id]=r; });
+  const prodMap = {}; (prod||[]).forEach(p=>prodMap[p.id]=p);
+
+  // Build the display catalog applying the hierarchy (DISPLAY ONLY; server is authoritative).
+  const items = [];
+  (pw||[]).filter(w=>w.is_wholesale_eligible).forEach(w=>{
+    const p = prodMap[w.product_id]; if(!p || p.is_active===false) return;
+    const ov = ovMap[w.product_id], t = tierMap[w.product_id];
+    let price=null, src=null;
+    if(ov){ price=ov.price_cents; src="dealer_override"; }
+    else if(t){ price=t.price_cents; src="tier"; }
+    else if(w.allow_base_fallback && w.base_wholesale_price_cents!=null){ price=w.base_wholesale_price_cents; src="base"; }
+    if(price==null) return; // not available to this dealer
+    const moq = (ov&&ov.moq) || (t&&t.moq) || w.moq || 1;
+    const inc = (ov&&ov.order_increment) || (t&&t.order_increment) || w.order_increment || 1;
+    items.push({ id:w.product_id, sku:p.sku, name:p.name||p.sku, brand:p.brand||"", gender:(p.gender||"").toLowerCase(),
+      img:p.image_path, notes:p.notes, price, currency:w.currency||"USD", moq, inc });
+  });
+
+  const brands = [...new Set(items.map(i=>i.brand).filter(Boolean))].sort();
+  const bsel = document.getElementById("brand");
+  brands.forEach(b=>{ const o=document.createElement("option"); o.value=b; o.textContent=b; bsel.appendChild(o); });
+
+  const grid = document.getElementById("grid");
+  function catClass(g){ return g.includes("women")||g.includes("female")?"women":g.includes("men")||g.includes("male")?"men":"unisex"; }
+  function render(){
+    const q=document.getElementById("q").value.trim().toLowerCase();
+    const bf=bsel.value, cf=document.getElementById("cat").value;
+    const cart=getCart();
+    const list=items.filter(i=>{
+      if(bf && i.brand!==bf) return false;
+      if(cf && catClass(i.gender)!==cf) return false;
+      if(q && !(`${i.sku} ${i.name} ${i.brand}`.toLowerCase().includes(q))) return false;
+      return true;
+    });
+    if(!list.length){ grid.innerHTML = emptyState("No matching products"); return; }
+    grid.innerHTML = `<div class="cat-grid">${list.map(i=>{
+      const qty = cart[i.id] || i.moq;
+      const img = i.img ? `<img src="/${escapeHtml(i.img)}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">`
+                        : `<div style="height:150px;background:var(--surface-2)"></div>`;
+      return `<div class="pcard" data-id="${i.id}" data-moq="${i.moq}" data-inc="${i.inc}">
+        ${img}
+        <div class="body">
+          <div class="br">${escapeHtml(i.brand)}</div>
+          <div class="nm">${escapeHtml(i.sku)} · ${escapeHtml(i.name)}</div>
+          <div class="pr">${money(i.price,i.currency)}</div>
+          <div class="moq">MOQ ${i.moq}${i.inc>1?` · +${i.inc}`:""}</div>
+          <div class="qtybar">
+            <button data-a="-">−</button>
+            <input type="text" inputmode="numeric" value="${qty}" data-qty>
+            <button data-a="+">+</button>
+          </div>
+          <button class="btn btn-sm btn-primary" data-add style="margin-top:6px">Add to cart</button>
+        </div></div>`;
+    }).join("")}</div>`;
+  }
+  grid.addEventListener("click",(e)=>{
+    const card=e.target.closest(".pcard"); if(!card) return;
+    const moq=+card.dataset.moq, inc=+card.dataset.inc, input=card.querySelector("[data-qty]");
+    let v=parseInt(input.value)||moq;
+    if(e.target.dataset.a==="+"){ v = v<moq?moq:v+inc; input.value=v; }
+    else if(e.target.dataset.a==="-"){ v = Math.max(moq, v-inc); input.value=v; }
+    else if(e.target.hasAttribute("data-add")){
+      v=parseInt(input.value)||moq;
+      if(v<moq || (v-moq)%inc!==0){ toast(`Quantity must be ${moq} + multiples of ${inc}`,"crit"); return; }
+      setQty(card.dataset.id, v); toast("Added to cart","good");
+    }
+  });
+  document.getElementById("q").addEventListener("input", debounce(render,200));
+  bsel.addEventListener("change", render);
+  document.getElementById("cat").addEventListener("change", render);
+  render();
+}
+</script>
+</body>
+</html>
