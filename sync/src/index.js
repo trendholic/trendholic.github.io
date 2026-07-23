@@ -4,7 +4,7 @@
 // ============================================================================
 import CONFIG from "../config.js";
 import log from "./logger.js";
-import { limiter } from "./http.js";
+import { limiter, robotsAllows, robotsStatus } from "./http.js";
 import { closeBrowser } from "./browser.js";
 import * as crawl from "./crawl.js";
 import { translateProduct, persistTranslationCache } from "./translate.js";
@@ -24,6 +24,20 @@ async function main() {
   log.step("TrendHolic product sync starting");
   log.info(`source=${CONFIG.source.baseUrl} render=${CONFIG.source.render} ` +
            `translate=${CONFIG.translate.provider} dryRun=${CONFIG.dryRun}`);
+
+  // ---- PREFLIGHT: authorized-access / robots.txt permission -----------------
+  // If the supplier's robots.txt disallows automated crawling, abort safely and
+  // preserve the last-known-good catalog. Do NOT bypass. (Requirements 11/13/14.)
+  if (CONFIG.source.respectRobots && !(await robotsAllows(CONFIG.source.baseUrl.replace(/\/$/, "") + "/"))) {
+    log.error(`ABORT: automated access not permitted — ${await robotsStatus()}.`);
+    log.error("No crawl performed. Last-known-good catalog preserved (nothing overwritten).");
+    log.error("Authorized access required — choose ONE: (a) an official data feed/API/CSV/XML export from the");
+    log.error("supplier; (b) the supplier updates robots.txt to permit your bot; or (c) you provide explicit");
+    log.error("written authorization to crawl despite robots.txt, then set IGNORE_ROBOTS=1 knowingly.");
+    log.flush({ aborted: "robots_disallow" });
+    await closeBrowser();
+    process.exit(3);
+  }
 
   const categories = await safe(() => crawl.getCategories(), "getCategories", []);
   if (!categories.length) {
@@ -62,6 +76,17 @@ async function main() {
     // individual products failed) — enables safe deletion within it.
     crawledCategorySlugs.add(catSlug);
     products.forEach((p) => allProducts.push(p));
+  }
+
+  // ---- SAFETY GUARD: never wipe a good catalog on a bad/empty crawl ---------
+  // If we obtained zero products but a previous catalog exists, treat the source
+  // as unavailable, abort WITHOUT overwriting outputs, and preserve last-good.
+  if (allProducts.length === 0 && Object.keys(STATE.products).length > 0) {
+    log.error("ABORT: crawl produced 0 products but a previous catalog exists — source likely unavailable.");
+    log.error("Nothing overwritten; last-known-good catalog preserved. (Requirement 13.)");
+    log.flush({ aborted: "zero_products_guard" });
+    await closeBrowser();
+    process.exit(4);
   }
 
   // global de-duplication (removes duplicate products across the whole crawl)

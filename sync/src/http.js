@@ -13,14 +13,20 @@ async function throttle() {
 }
 
 // --- minimal robots.txt handling (per user-agent, path prefix rules) --------
-let robotsRules = null; // { disallow: string[], allow: string[] } or 'ALLOW_ALL'
+// States: rules object | 'ALLOW_ALL' (no robots / 404) | 'BLOCKED' (cannot
+// confirm permission → 5xx/403/429/network error). We FAIL CLOSED on BLOCKED:
+// a system restricted to authorized access must not crawl when robots.txt
+// cannot be retrieved or the source is access-restricted. (Requirements 13/14.)
+let robotsRules = null;
+export let robotsReason = "";
 async function loadRobots() {
   if (robotsRules !== null) return robotsRules;
-  if (!CONFIG.source.respectRobots) { robotsRules = "ALLOW_ALL"; return robotsRules; }
+  if (!CONFIG.source.respectRobots) { robotsRules = "ALLOW_ALL"; robotsReason = "robots ignored (IGNORE_ROBOTS)"; return robotsRules; }
   try {
     const url = new URL("/robots.txt", CONFIG.source.baseUrl).toString();
     const res = await fetch(url, { headers: { "User-Agent": CONFIG.source.userAgent } });
-    if (!res.ok) { robotsRules = "ALLOW_ALL"; return robotsRules; }
+    if (res.status === 404) { robotsRules = "ALLOW_ALL"; robotsReason = "no robots.txt (404) → allowed"; return robotsRules; }
+    if (!res.ok) { robotsRules = "BLOCKED"; robotsReason = `robots.txt fetch HTTP ${res.status} → cannot confirm permission`; return robotsRules; }
     const txt = await res.text();
     const rules = { disallow: [], allow: [] };
     let applies = false;
@@ -33,19 +39,24 @@ async function loadRobots() {
       else if (applies && key === "allow" && val) rules.allow.push(val);
     }
     robotsRules = rules;
-  } catch { robotsRules = "ALLOW_ALL"; }
+    robotsReason = rules.disallow.length ? `robots.txt disallow rules: ${rules.disallow.join(", ")}` : "robots.txt permits";
+  } catch (e) { robotsRules = "BLOCKED"; robotsReason = `robots.txt unreachable (${e.message}) → cannot confirm permission`; }
   return robotsRules;
 }
 
 export async function robotsAllows(urlStr) {
   const rules = await loadRobots();
   if (rules === "ALLOW_ALL") return true;
+  if (rules === "BLOCKED") return false;                 // fail closed
   const p = new URL(urlStr).pathname;
   const longest = (arr) => arr.filter((r) => p.startsWith(r)).sort((a, b) => b.length - a.length)[0];
   const dis = longest(rules.disallow), alw = longest(rules.allow);
   if (dis && (!alw || alw.length < dis.length)) return false;
   return true;
 }
+
+// expose the human-readable reason for the preflight abort message
+export async function robotsStatus() { await loadRobots(); return robotsReason; }
 
 // --- fetch text/buffer with retry + exponential backoff ---------------------
 async function withRetry(fn, label) {
