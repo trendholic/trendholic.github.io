@@ -1,7 +1,7 @@
 {
   "top": "Accessories",
   "slug": "accessories",
-  "source_domain": "acc.tangma2088.com",
+  "productCount": 4,
   "subcategoriesDiscovered": 35,
   "subcategories": [
     {
@@ -180,7 +180,6 @@
       "source_path": "0_198277"
     }
   ],
-  "productCount": 4,
   "products": [
     {
       "slug": "supreme-boxer-m-xxl-28-4096385",
@@ -248,12 +247,9 @@
       ],
       "pdfs": [],
       "synced_at": "2026-07-23T17:11:02.930Z",
-      "seo": {
-        "title": "Supreme boxer M-XXL 28 | TrendHolic Accessories",
-        "description": "Supreme boxer M-XXL 28 — Accessories. View images and details in the TrendHolic catalog.",
-        "canonical": "https://trendholic.github.io/catalog/product/supreme-boxer-m-xxl-28-4096385/",
-        "og_image": "https://trendholic.github.io/data/accessories/images/supreme-boxer-m-xxl-28-4096385-1.jpg"
-      }
+      "_url": "/catalog/product/supreme-boxer-m-xxl-28-4096385/",
+      "_canonical": "https://trendholic.github.io/catalog/product/supreme-boxer-m-xxl-28-4096385/",
+      "_og": "https://trendholic.github.io/data/accessories/images/supreme-boxer-m-xxl-28-4096385-1.jpg"
     },
     {
       "slug": "supreme-x-lv-boxer-m-xl-31-4096388",
@@ -331,12 +327,9 @@
       ],
       "pdfs": [],
       "synced_at": "2026-07-23T17:11:02.930Z",
-      "seo": {
-        "title": "Supreme X LV boxer M-XL 31 | TrendHolic Accessories",
-        "description": "Supreme X LV boxer M-XL 31 — Accessories. View images and details in the TrendHolic catalog.",
-        "canonical": "https://trendholic.github.io/catalog/product/supreme-x-lv-boxer-m-xl-31-4096388/",
-        "og_image": "https://trendholic.github.io/data/accessories/images/supreme-x-lv-boxer-m-xl-31-4096388-1.jpg"
-      }
+      "_url": "/catalog/product/supreme-x-lv-boxer-m-xl-31-4096388/",
+      "_canonical": "https://trendholic.github.io/catalog/product/supreme-x-lv-boxer-m-xl-31-4096388/",
+      "_og": "https://trendholic.github.io/data/accessories/images/supreme-x-lv-boxer-m-xl-31-4096388-1.jpg"
     },
     {
       "slug": "versace-woman-boxer-04-4096392",
@@ -438,12 +431,9 @@
       ],
       "pdfs": [],
       "synced_at": "2026-07-23T17:11:02.930Z",
-      "seo": {
-        "title": "Versace woman boxer 04 | TrendHolic Accessories",
-        "description": "Versace woman boxer 04 — Accessories. View images and details in the TrendHolic catalog.",
-        "canonical": "https://trendholic.github.io/catalog/product/versace-woman-boxer-04-4096392/",
-        "og_image": "https://trendholic.github.io/data/accessories/images/versace-woman-boxer-04-4096392-1.jpg"
-      }
+      "_url": "/catalog/product/versace-woman-boxer-04-4096392/",
+      "_canonical": "https://trendholic.github.io/catalog/product/versace-woman-boxer-04-4096392/",
+      "_og": "https://trendholic.github.io/data/accessories/images/versace-woman-boxer-04-4096392-1.jpg"
     },
     {
       "slug": "victorias-secret-boxer-m-xl-32-4096399",
@@ -537,12 +527,9 @@
       ],
       "pdfs": [],
       "synced_at": "2026-07-23T17:11:02.930Z",
-      "seo": {
-        "title": "Victorias secret boxer M-XL 32 | TrendHolic Accessories",
-        "description": "Victorias secret boxer M-XL 32 — Accessories. View images and details in the TrendHolic catalog.",
-        "canonical": "https://trendholic.github.io/catalog/product/victorias-secret-boxer-m-xl-32-4096399/",
-        "og_image": "https://trendholic.github.io/data/accessories/images/victorias-secret-boxer-m-xl-32-4096399-1.jpg"
-      }
+      "_url": "/catalog/product/victorias-secret-boxer-m-xl-32-4096399/",
+      "_canonical": "https://trendholic.github.io/catalog/product/victorias-secret-boxer-m-xl-32-4096399/",
+      "_og": "https://trendholic.github.io/data/accessories/images/victorias-secret-boxer-m-xl-32-4096399-1.jpg"
     }
   ]
 }

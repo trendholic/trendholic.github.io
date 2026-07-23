@@ -1,7 +1,7 @@
 {
   "top": "Apparel",
   "slug": "apparel",
-  "source_domain": "tangma2088.com",
+  "productCount": 1,
   "subcategoriesDiscovered": 56,
   "subcategories": [
     {
@@ -285,7 +285,6 @@
       "source_path": "0_9879"
     }
   ],
-  "productCount": 1,
   "products": [
     {
       "slug": "burberry-m-3xl-mdtrv2431-5716322",
@@ -415,12 +414,9 @@
       ],
       "pdfs": [],
       "synced_at": "2026-07-23T17:10:36.685Z",
-      "seo": {
-        "title": "Burberry M-3XL mdtrV2431 | TrendHolic Apparel",
-        "description": "Burberry M-3XL mdtrV2431 — Apparel. View images and details in the TrendHolic catalog.",
-        "canonical": "https://trendholic.github.io/catalog/product/burberry-m-3xl-mdtrv2431-5716322/",
-        "og_image": "https://trendholic.github.io/data/apparel/images/burberry-m-3xl-mdtrv2431-5716322-1.jpg"
-      }
+      "_url": "/catalog/product/burberry-m-3xl-mdtrv2431-5716322/",
+      "_canonical": "https://trendholic.github.io/catalog/product/burberry-m-3xl-mdtrv2431-5716322/",
+      "_og": "https://trendholic.github.io/data/apparel/images/burberry-m-3xl-mdtrv2431-5716322-1.jpg"
     }
   ]
 }

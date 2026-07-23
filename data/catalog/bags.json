@@ -1,7 +1,7 @@
 {
   "top": "Bags",
   "slug": "bags",
-  "source_domain": "bags.tangma2088.com",
+  "productCount": 2,
   "subcategoriesDiscovered": 54,
   "subcategories": [
     {
@@ -275,7 +275,6 @@
       "source_path": "0_35352"
     }
   ],
-  "productCount": 2,
   "products": [
     {
       "slug": "prada-1be106-23x24-5x15cm-ap-2020006",
@@ -389,12 +388,9 @@
       ],
       "pdfs": [],
       "synced_at": "2026-07-23T17:12:25.297Z",
-      "seo": {
-        "title": "Prada 1BE106 23x24 5x15cm AP | TrendHolic Bags",
-        "description": "Prada 1BE106 23x24 5x15cm AP — Bags. View images and details in the TrendHolic catalog.",
-        "canonical": "https://trendholic.github.io/catalog/product/prada-1be106-23x24-5x15cm-ap-2020006/",
-        "og_image": "https://trendholic.github.io/data/bags/images/prada-1be106-23x24-5x15cm-ap-2020006-1.jpg"
-      }
+      "_url": "/catalog/product/prada-1be106-23x24-5x15cm-ap-2020006/",
+      "_canonical": "https://trendholic.github.io/catalog/product/prada-1be106-23x24-5x15cm-ap-2020006/",
+      "_og": "https://trendholic.github.io/data/bags/images/prada-1be106-23x24-5x15cm-ap-2020006-1.jpg"
     },
     {
       "slug": "ysl-niki-633158-28x20x8cm-8d-2019997",
@@ -505,12 +501,9 @@
       ],
       "pdfs": [],
       "synced_at": "2026-07-23T17:12:25.297Z",
-      "seo": {
-        "title": "YSL niki 633158 28x20x8cm 8D | TrendHolic Bags",
-        "description": "YSL niki 633158 28x20x8cm 8D — Bags. View images and details in the TrendHolic catalog.",
-        "canonical": "https://trendholic.github.io/catalog/product/ysl-niki-633158-28x20x8cm-8d-2019997/",
-        "og_image": "https://trendholic.github.io/data/bags/images/ysl-niki-633158-28x20x8cm-8d-2019997-1.jpg"
-      }
+      "_url": "/catalog/product/ysl-niki-633158-28x20x8cm-8d-2019997/",
+      "_canonical": "https://trendholic.github.io/catalog/product/ysl-niki-633158-28x20x8cm-8d-2019997/",
+      "_og": "https://trendholic.github.io/data/bags/images/ysl-niki-633158-28x20x8cm-8d-2019997-1.jpg"
     }
   ]
 }
