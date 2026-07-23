@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "ok": 0,
+    "failed": 0,
+    "skipped": 0,
+    "unchanged": 0,
+    "translated": 0,
+    "translateFailed": 0,
+    "images": 0,
+    "downloadFailed": 0,
+    "categories": 0,
+    "productUrls": 0,
+    "aborted": "robots_disallow"
+  },
+  "failures": []
+}

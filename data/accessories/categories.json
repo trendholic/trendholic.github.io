@@ -1,0 +1,254 @@
+{
+  "top": "Accessories",
+  "source": "accessories",
+  "host": "acc.tangma2088.com",
+  "count": 35,
+  "updatedAt": "2026-07-23T17:10:45.973Z",
+  "categories": [
+    {
+      "name": "New Arrival 0723",
+      "slug": "new-arrival-0723",
+      "source_url": "https://acc.tangma2088.com/categoryen_16511.html?path=0_16511",
+      "source_path": "0_16511",
+      "parent_path": "0"
+    },
+    {
+      "name": "Jewelry 0707",
+      "slug": "jewelry-0707",
+      "source_url": "https://acc.tangma2088.com/categoryen_43569.html?path=0_43569",
+      "source_path": "0_43569",
+      "parent_path": "0"
+    },
+    {
+      "name": "Glasses 0629",
+      "slug": "glasses-0629",
+      "source_url": "https://acc.tangma2088.com/categoryen_392.html?path=0_392",
+      "source_path": "0_392",
+      "parent_path": "0"
+    },
+    {
+      "name": "Plain Glasses 0722",
+      "slug": "plain-glasses-0722",
+      "source_url": "https://acc.tangma2088.com/categoryen_391.html?path=0_391",
+      "source_path": "0_391",
+      "parent_path": "0"
+    },
+    {
+      "name": "Glasses Factory 0722",
+      "slug": "glasses-factory-0722",
+      "source_url": "https://acc.tangma2088.com/categoryen_28251.html?path=0_28251",
+      "source_path": "0_28251",
+      "parent_path": "0"
+    },
+    {
+      "name": "Belts 0715",
+      "slug": "belts-0715",
+      "source_url": "https://acc.tangma2088.com/categoryen_393.html?path=0_393",
+      "source_path": "0_393",
+      "parent_path": "0"
+    },
+    {
+      "name": "Watches 0721",
+      "slug": "watches-0721",
+      "source_url": "https://acc.tangma2088.com/categoryen_383.html?path=0_383",
+      "source_path": "0_383",
+      "parent_path": "0"
+    },
+    {
+      "name": "Caps 0714",
+      "slug": "caps-0714",
+      "source_url": "https://acc.tangma2088.com/categoryen_385.html?path=0_385",
+      "source_path": "0_385",
+      "parent_path": "0"
+    },
+    {
+      "name": "Bucket Hat 0713",
+      "slug": "bucket-hat-0713",
+      "source_url": "https://acc.tangma2088.com/categoryen_384.html?path=0_384",
+      "source_path": "0_384",
+      "parent_path": "0"
+    },
+    {
+      "name": "26 Hat 0717",
+      "slug": "26-hat-0717",
+      "source_url": "https://acc.tangma2088.com/categoryen_168165.html?path=0_168165",
+      "source_path": "0_168165",
+      "parent_path": "0"
+    },
+    {
+      "name": "More Caps Hats 0714",
+      "slug": "more-caps-hats-0714",
+      "source_url": "https://acc.tangma2088.com/categoryen_386.html?path=0_386",
+      "source_path": "0_386",
+      "parent_path": "0"
+    },
+    {
+      "name": "Perfume 0706",
+      "slug": "perfume-0706",
+      "source_url": "https://acc.tangma2088.com/categoryen_263724.html?path=0_263724",
+      "source_path": "0_263724",
+      "parent_path": "0"
+    },
+    {
+      "name": "Sock 0702",
+      "slug": "sock-0702",
+      "source_url": "https://acc.tangma2088.com/categoryen_380.html?path=0_380",
+      "source_path": "0_380",
+      "parent_path": "0"
+    },
+    {
+      "name": "Socks 0702",
+      "slug": "socks-0702",
+      "source_url": "https://acc.tangma2088.com/categoryen_70206.html?path=0_70206",
+      "source_path": "0_70206",
+      "parent_path": "0"
+    },
+    {
+      "name": "Scarf F1st 0707",
+      "slug": "scarf-f1st-0707",
+      "source_url": "https://acc.tangma2088.com/categoryen_390.html?path=0_390",
+      "source_path": "0_390",
+      "parent_path": "0"
+    },
+    {
+      "name": "Hair Band Clasp Tie 0627",
+      "slug": "hair-band-clasp-tie-0627",
+      "source_url": "https://acc.tangma2088.com/categoryen_121353.html?path=0_121353",
+      "source_path": "0_121353",
+      "parent_path": "0"
+    },
+    {
+      "name": "Boxers Brief 0723",
+      "slug": "boxers-brief-0723",
+      "source_url": "https://acc.tangma2088.com/categoryen_376.html?path=0_376",
+      "source_path": "0_376",
+      "parent_path": "0"
+    },
+    {
+      "name": "Bathrobe 0417",
+      "slug": "bathrobe-0417",
+      "source_url": "https://acc.tangma2088.com/categoryen_374.html?path=0_374",
+      "source_path": "0_374",
+      "parent_path": "0"
+    },
+    {
+      "name": "Pen 0608",
+      "slug": "pen-0608",
+      "source_url": "https://acc.tangma2088.com/categoryen_78941.html?path=0_78941",
+      "source_path": "0_78941",
+      "parent_path": "0"
+    },
+    {
+      "name": "Umbrella 0606",
+      "slug": "umbrella-0606",
+      "source_url": "https://acc.tangma2088.com/categoryen_278627.html?path=0_278627",
+      "source_path": "0_278627",
+      "parent_path": "0"
+    },
+    {
+      "name": "Towel 0316",
+      "slug": "towel-0316",
+      "source_url": "https://acc.tangma2088.com/categoryen_265945.html?path=0_265945",
+      "source_path": "0_265945",
+      "parent_path": "0"
+    },
+    {
+      "name": "Beddings 0608",
+      "slug": "beddings-0608",
+      "source_url": "https://acc.tangma2088.com/categoryen_265944.html?path=0_265944",
+      "source_path": "0_265944",
+      "parent_path": "0"
+    },
+    {
+      "name": "Blanket 0710",
+      "slug": "blanket-0710",
+      "source_url": "https://acc.tangma2088.com/categoryen_266070.html?path=0_266070",
+      "source_path": "0_266070",
+      "parent_path": "0"
+    },
+    {
+      "name": "Table Cushions 0701",
+      "slug": "table-cushions-0701",
+      "source_url": "https://acc.tangma2088.com/categoryen_265962.html?path=0_265962",
+      "source_path": "0_265962",
+      "parent_path": "0"
+    },
+    {
+      "name": "Pet Clothes",
+      "slug": "pet-clothes",
+      "source_url": "https://acc.tangma2088.com/categoryen_213021.html?path=0_213021",
+      "source_path": "0_213021",
+      "parent_path": "0"
+    },
+    {
+      "name": "Thermos 0411",
+      "slug": "thermos-0411",
+      "source_url": "https://acc.tangma2088.com/categoryen_275116.html?path=0_275116",
+      "source_path": "0_275116",
+      "parent_path": "0"
+    },
+    {
+      "name": "Fear Of God 0202",
+      "slug": "fear-of-god-0202",
+      "source_url": "https://acc.tangma2088.com/categoryen_262711.html?path=0_262711",
+      "source_path": "0_262711",
+      "parent_path": "0"
+    },
+    {
+      "name": "Electronis 0322",
+      "slug": "electronis-0322",
+      "source_url": "https://acc.tangma2088.com/categoryen_363.html?path=0_363",
+      "source_path": "0_363",
+      "parent_path": "0"
+    },
+    {
+      "name": "Toy 0411",
+      "slug": "toy-0411",
+      "source_url": "https://acc.tangma2088.com/categoryen_275073.html?path=0_275073",
+      "source_path": "0_275073",
+      "parent_path": "0"
+    },
+    {
+      "name": "Mobile phone shell 0717",
+      "slug": "mobile-phone-shell-0717",
+      "source_url": "https://acc.tangma2088.com/categoryen_375.html?path=0_375",
+      "source_path": "0_375",
+      "parent_path": "0"
+    },
+    {
+      "name": "Gloves 0717",
+      "slug": "gloves-0717",
+      "source_url": "https://acc.tangma2088.com/categoryen_305348.html?path=0_305348",
+      "source_path": "0_305348",
+      "parent_path": "0"
+    },
+    {
+      "name": "Tie 0606",
+      "slug": "tie-0606",
+      "source_url": "https://acc.tangma2088.com/categoryen_144106.html?path=0_144106",
+      "source_path": "0_144106",
+      "parent_path": "0"
+    },
+    {
+      "name": "Silk Sock 0307",
+      "slug": "silk-sock-0307",
+      "source_url": "https://acc.tangma2088.com/categoryen_377.html?path=0_377",
+      "source_path": "0_377",
+      "parent_path": "0"
+    },
+    {
+      "name": "Underware Sleepware 0307",
+      "slug": "underware-sleepware-0307",
+      "source_url": "https://acc.tangma2088.com/categoryen_378.html?path=0_378",
+      "source_path": "0_378",
+      "parent_path": "0"
+    },
+    {
+      "name": "Sunglasses A",
+      "slug": "sunglasses-a",
+      "source_url": "https://acc.tangma2088.com/categoryen_198277.html?path=0_198277",
+      "source_path": "0_198277",
+      "parent_path": "0"
+    }
+  ]
+}

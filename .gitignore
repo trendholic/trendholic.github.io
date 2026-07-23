@@ -1,0 +1,13 @@
+# Wholesale portal PUBLIC runtime config (project URL + anon key).
+# Kept out of git so credentials aren't committed; created during deploy.
+assets/config.js
+
+# Never commit secrets or local Supabase env
+.env
+.env.*
+supabase/.env
+supabase/.branches
+supabase/.temp
+
+# product sync
+sync/node_modules/

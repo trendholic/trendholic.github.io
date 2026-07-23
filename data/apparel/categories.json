@@ -1,0 +1,401 @@
+{
+  "top": "Apparel",
+  "source": "apparel",
+  "host": "tangma2088.com",
+  "count": 56,
+  "updatedAt": "2026-07-23T17:10:23.014Z",
+  "categories": [
+    {
+      "name": "2025 New",
+      "slug": "2025-new",
+      "source_url": "https://tangma2088.com/categoryen_3.html?path=0_3",
+      "source_path": "0_3",
+      "parent_path": "0"
+    },
+    {
+      "name": "Bikini",
+      "slug": "bikini",
+      "source_url": "https://tangma2088.com/categoryEN_981.html?path=0_981",
+      "source_path": "0_981",
+      "parent_path": "0"
+    },
+    {
+      "name": "Dress",
+      "slug": "dress",
+      "source_url": "https://tangma2088.com/categoryen_170.html?path=0_170",
+      "source_path": "0_170",
+      "parent_path": "0"
+    },
+    {
+      "name": "Ralph Lauren",
+      "slug": "ralph-lauren",
+      "source_url": "https://tangma2088.com/categoryen_68696.html?path=0_68696",
+      "source_path": "0_68696",
+      "parent_path": "0"
+    },
+    {
+      "name": "Lacoste",
+      "slug": "lacoste",
+      "source_url": "https://tangma2088.com/categoryen_67580.html?path=0_67580",
+      "source_path": "0_67580",
+      "parent_path": "0"
+    },
+    {
+      "name": "High Quality 0801",
+      "slug": "high-quality-0801",
+      "source_url": "https://tangma2088.com/categoryen_139496.html",
+      "source_path": null,
+      "parent_path": null
+    },
+    {
+      "name": "By Style 0723",
+      "slug": "by-style-0723",
+      "source_url": "https://tangma2088.com/categoryen_1580.html?path=0_1580",
+      "source_path": "0_1580",
+      "parent_path": "0"
+    },
+    {
+      "name": "T Shirt 0723",
+      "slug": "t-shirt-0723",
+      "source_url": "https://tangma2088.com/categoryen_11.html?path=0_11",
+      "source_path": "0_11",
+      "parent_path": "0"
+    },
+    {
+      "name": "High Quality 0717",
+      "slug": "high-quality-0717",
+      "source_url": "https://tangma2088.com/categoryen_139496.html?path=0_139496",
+      "source_path": "0_139496",
+      "parent_path": "0"
+    },
+    {
+      "name": "Polo Short 0723",
+      "slug": "polo-short-0723",
+      "source_url": "https://tangma2088.com/categoryen_10.html?path=0_10",
+      "source_path": "0_10",
+      "parent_path": "0"
+    },
+    {
+      "name": "Jacket 0723",
+      "slug": "jacket-0723",
+      "source_url": "https://tangma2088.com/categoryen_394.html?path=0_394",
+      "source_path": "0_394",
+      "parent_path": "0"
+    },
+    {
+      "name": "Down Jacket 0720",
+      "slug": "down-jacket-0720",
+      "source_url": "https://tangma2088.com/categoryen_87630.html?path=0_87630",
+      "source_path": "0_87630",
+      "parent_path": "0"
+    },
+    {
+      "name": "Bikini 0613",
+      "slug": "bikini-0613",
+      "source_url": "https://tangma2088.com/categoryen_58658.html?path=0_58658",
+      "source_path": "0_58658",
+      "parent_path": "0"
+    },
+    {
+      "name": "Spring Summer Kid Clothes 0721",
+      "slug": "spring-summer-kid-clothes-0721",
+      "source_url": "https://tangma2088.com/categoryen_345535.html?path=0_345535",
+      "source_path": "0_345535",
+      "parent_path": "0"
+    },
+    {
+      "name": "Fashion Dress 0714",
+      "slug": "fashion-dress-0714",
+      "source_url": "https://tangma2088.com/categoryen_155306.html?path=0_155306",
+      "source_path": "0_155306",
+      "parent_path": "0"
+    },
+    {
+      "name": "Lululemon ALO 不接急单 0714",
+      "slug": "lululemon-alo-0714",
+      "source_url": "https://tangma2088.com/categoryen_41628.html?path=0_41628",
+      "source_path": "0_41628",
+      "parent_path": "0"
+    },
+    {
+      "name": "Louis Vuitton",
+      "slug": "louis-vuitton",
+      "source_url": "https://tangma2088.com/categoryen_1595.html?path=0_1595",
+      "source_path": "0_1595",
+      "parent_path": "0"
+    },
+    {
+      "name": "Gucci",
+      "slug": "gucci",
+      "source_url": "https://tangma2088.com/categoryen_1602.html?path=0_1602",
+      "source_path": "0_1602",
+      "parent_path": "0"
+    },
+    {
+      "name": "AF HOC",
+      "slug": "af-hoc",
+      "source_url": "https://tangma2088.com/categoryen_65045.html?path=0_65045",
+      "source_path": "0_65045",
+      "parent_path": "0"
+    },
+    {
+      "name": "Adidas NIKE Jordan",
+      "slug": "adidas-nike-jordan",
+      "source_url": "https://tangma2088.com/categoryen_1618.html?path=0_1618",
+      "source_path": "0_1618",
+      "parent_path": "0"
+    },
+    {
+      "name": "AAPE BAPE",
+      "slug": "aape-bape",
+      "source_url": "https://tangma2088.com/categoryen_1619.html?path=0_1619",
+      "source_path": "0_1619",
+      "parent_path": "0"
+    },
+    {
+      "name": "Amiri",
+      "slug": "amiri",
+      "source_url": "https://tangma2088.com/categoryen_61968.html?path=0_61968",
+      "source_path": "0_61968",
+      "parent_path": "0"
+    },
+    {
+      "name": "Armani",
+      "slug": "armani",
+      "source_url": "https://tangma2088.com/categoryen_1616.html?path=0_1616",
+      "source_path": "0_1616",
+      "parent_path": "0"
+    },
+    {
+      "name": "Balenciaga",
+      "slug": "balenciaga",
+      "source_url": "https://tangma2088.com/categoryen_1615.html?path=0_1615",
+      "source_path": "0_1615",
+      "parent_path": "0"
+    },
+    {
+      "name": "Balmain",
+      "slug": "balmain",
+      "source_url": "https://tangma2088.com/categoryen_1614.html?path=0_1614",
+      "source_path": "0_1614",
+      "parent_path": "0"
+    },
+    {
+      "name": "Burberry",
+      "slug": "burberry",
+      "source_url": "https://tangma2088.com/categoryen_1611.html?path=0_1611",
+      "source_path": "0_1611",
+      "parent_path": "0"
+    },
+    {
+      "name": "Chanel",
+      "slug": "chanel",
+      "source_url": "https://tangma2088.com/categoryen_1610.html?path=0_1610",
+      "source_path": "0_1610",
+      "parent_path": "0"
+    },
+    {
+      "name": "Chrome Hearts",
+      "slug": "chrome-hearts",
+      "source_url": "https://tangma2088.com/categoryen_1609.html?path=0_1609",
+      "source_path": "0_1609",
+      "parent_path": "0"
+    },
+    {
+      "name": "DG",
+      "slug": "dg",
+      "source_url": "https://tangma2088.com/categoryen_1607.html?path=0_1607",
+      "source_path": "0_1607",
+      "parent_path": "0"
+    },
+    {
+      "name": "Dior",
+      "slug": "dior",
+      "source_url": "https://tangma2088.com/categoryen_1606.html?path=0_1606",
+      "source_path": "0_1606",
+      "parent_path": "0"
+    },
+    {
+      "name": "DSQ",
+      "slug": "dsq",
+      "source_url": "https://tangma2088.com/categoryen_1605.html?path=0_1605",
+      "source_path": "0_1605",
+      "parent_path": "0"
+    },
+    {
+      "name": "Fear Of God",
+      "slug": "fear-of-god",
+      "source_url": "https://tangma2088.com/categoryen_19629.html?path=0_19629",
+      "source_path": "0_19629",
+      "parent_path": "0"
+    },
+    {
+      "name": "Fendi",
+      "slug": "fendi",
+      "source_url": "https://tangma2088.com/categoryen_1604.html?path=0_1604",
+      "source_path": "0_1604",
+      "parent_path": "0"
+    },
+    {
+      "name": "Gallery Dept",
+      "slug": "gallery-dept",
+      "source_url": "https://tangma2088.com/categoryen_40865.html?path=0_40865",
+      "source_path": "0_40865",
+      "parent_path": "0"
+    },
+    {
+      "name": "Givenchy",
+      "slug": "givenchy",
+      "source_url": "https://tangma2088.com/categoryen_1603.html?path=0_1603",
+      "source_path": "0_1603",
+      "parent_path": "0"
+    },
+    {
+      "name": "Juicy",
+      "slug": "juicy",
+      "source_url": "https://tangma2088.com/categoryen_1600.html?path=0_1600",
+      "source_path": "0_1600",
+      "parent_path": "0"
+    },
+    {
+      "name": "Moncler",
+      "slug": "moncler",
+      "source_url": "https://tangma2088.com/categoryen_1593.html?path=0_1593",
+      "source_path": "0_1593",
+      "parent_path": "0"
+    },
+    {
+      "name": "Moschino",
+      "slug": "moschino",
+      "source_url": "https://tangma2088.com/categoryen_1592.html?path=0_1592",
+      "source_path": "0_1592",
+      "parent_path": "0"
+    },
+    {
+      "name": "Off White",
+      "slug": "off-white",
+      "source_url": "https://tangma2088.com/categoryen_1591.html?path=0_1591",
+      "source_path": "0_1591",
+      "parent_path": "0"
+    },
+    {
+      "name": "Palm Angels",
+      "slug": "palm-angels",
+      "source_url": "https://tangma2088.com/categoryen_1590.html?path=0_1590",
+      "source_path": "0_1590",
+      "parent_path": "0"
+    },
+    {
+      "name": "Philipp Plein",
+      "slug": "philipp-plein",
+      "source_url": "https://tangma2088.com/categoryen_1589.html?path=0_1589",
+      "source_path": "0_1589",
+      "parent_path": "0"
+    },
+    {
+      "name": "Prada",
+      "slug": "prada",
+      "source_url": "https://tangma2088.com/categoryen_1587.html?path=0_1587",
+      "source_path": "0_1587",
+      "parent_path": "0"
+    },
+    {
+      "name": "REPRESENT",
+      "slug": "represent",
+      "source_url": "https://tangma2088.com/categoryen_40773.html?path=0_40773",
+      "source_path": "0_40773",
+      "parent_path": "0"
+    },
+    {
+      "name": "RHUDE",
+      "slug": "rhude",
+      "source_url": "https://tangma2088.com/categoryen_49906.html?path=0_49906",
+      "source_path": "0_49906",
+      "parent_path": "0"
+    },
+    {
+      "name": "Stone Island",
+      "slug": "stone-island",
+      "source_url": "https://tangma2088.com/categoryen_1586.html?path=0_1586",
+      "source_path": "0_1586",
+      "parent_path": "0"
+    },
+    {
+      "name": "Supreme",
+      "slug": "supreme",
+      "source_url": "https://tangma2088.com/categoryen_1585.html?path=0_1585",
+      "source_path": "0_1585",
+      "parent_path": "0"
+    },
+    {
+      "name": "Tommy",
+      "slug": "tommy",
+      "source_url": "https://tangma2088.com/categoryen_1584.html?path=0_1584",
+      "source_path": "0_1584",
+      "parent_path": "0"
+    },
+    {
+      "name": "Trapstar",
+      "slug": "trapstar",
+      "source_url": "https://tangma2088.com/categoryen_45005.html?path=0_45005",
+      "source_path": "0_45005",
+      "parent_path": "0"
+    },
+    {
+      "name": "Valentino",
+      "slug": "valentino",
+      "source_url": "https://tangma2088.com/categoryen_1583.html?path=0_1583",
+      "source_path": "0_1583",
+      "parent_path": "0"
+    },
+    {
+      "name": "Versace",
+      "slug": "versace",
+      "source_url": "https://tangma2088.com/categoryen_1582.html?path=0_1582",
+      "source_path": "0_1582",
+      "parent_path": "0"
+    },
+    {
+      "name": "YSL",
+      "slug": "ysl",
+      "source_url": "https://tangma2088.com/categoryen_1581.html?path=0_1581",
+      "source_path": "0_1581",
+      "parent_path": "0"
+    },
+    {
+      "name": "BOSS",
+      "slug": "boss",
+      "source_url": "https://tangma2088.com/categoryen_1612.html?path=0_1612",
+      "source_path": "0_1612",
+      "parent_path": "0"
+    },
+    {
+      "name": "CK",
+      "slug": "ck",
+      "source_url": "https://tangma2088.com/categoryen_1608.html?path=0_1608",
+      "source_path": "0_1608",
+      "parent_path": "0"
+    },
+    {
+      "name": "Hermes",
+      "slug": "hermes",
+      "source_url": "https://tangma2088.com/categoryen_1601.html?path=0_1601",
+      "source_path": "0_1601",
+      "parent_path": "0"
+    },
+    {
+      "name": "Kenzo",
+      "slug": "kenzo",
+      "source_url": "https://tangma2088.com/categoryen_1599.html?path=0_1599",
+      "source_path": "0_1599",
+      "parent_path": "0"
+    },
+    {
+      "name": "Hotsale updating",
+      "slug": "hotsale-updating",
+      "source_url": "https://tangma2088.com/categoryen_9879.html?path=0_9879",
+      "source_path": "0_9879",
+      "parent_path": "0"
+    }
+  ]
+}

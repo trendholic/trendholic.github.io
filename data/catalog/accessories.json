@@ -1,0 +1,535 @@
+{
+  "top": "Accessories",
+  "slug": "accessories",
+  "productCount": 4,
+  "subcategoriesDiscovered": 35,
+  "subcategories": [
+    {
+      "name": "New Arrival 0723",
+      "slug": "new-arrival-0723",
+      "source_path": "0_16511"
+    },
+    {
+      "name": "Jewelry 0707",
+      "slug": "jewelry-0707",
+      "source_path": "0_43569"
+    },
+    {
+      "name": "Glasses 0629",
+      "slug": "glasses-0629",
+      "source_path": "0_392"
+    },
+    {
+      "name": "Plain Glasses 0722",
+      "slug": "plain-glasses-0722",
+      "source_path": "0_391"
+    },
+    {
+      "name": "Glasses Factory 0722",
+      "slug": "glasses-factory-0722",
+      "source_path": "0_28251"
+    },
+    {
+      "name": "Belts 0715",
+      "slug": "belts-0715",
+      "source_path": "0_393"
+    },
+    {
+      "name": "Watches 0721",
+      "slug": "watches-0721",
+      "source_path": "0_383"
+    },
+    {
+      "name": "Caps 0714",
+      "slug": "caps-0714",
+      "source_path": "0_385"
+    },
+    {
+      "name": "Bucket Hat 0713",
+      "slug": "bucket-hat-0713",
+      "source_path": "0_384"
+    },
+    {
+      "name": "26 Hat 0717",
+      "slug": "26-hat-0717",
+      "source_path": "0_168165"
+    },
+    {
+      "name": "More Caps Hats 0714",
+      "slug": "more-caps-hats-0714",
+      "source_path": "0_386"
+    },
+    {
+      "name": "Perfume 0706",
+      "slug": "perfume-0706",
+      "source_path": "0_263724"
+    },
+    {
+      "name": "Sock 0702",
+      "slug": "sock-0702",
+      "source_path": "0_380"
+    },
+    {
+      "name": "Socks 0702",
+      "slug": "socks-0702",
+      "source_path": "0_70206"
+    },
+    {
+      "name": "Scarf F1st 0707",
+      "slug": "scarf-f1st-0707",
+      "source_path": "0_390"
+    },
+    {
+      "name": "Hair Band Clasp Tie 0627",
+      "slug": "hair-band-clasp-tie-0627",
+      "source_path": "0_121353"
+    },
+    {
+      "name": "Boxers Brief 0723",
+      "slug": "boxers-brief-0723",
+      "source_path": "0_376"
+    },
+    {
+      "name": "Bathrobe 0417",
+      "slug": "bathrobe-0417",
+      "source_path": "0_374"
+    },
+    {
+      "name": "Pen 0608",
+      "slug": "pen-0608",
+      "source_path": "0_78941"
+    },
+    {
+      "name": "Umbrella 0606",
+      "slug": "umbrella-0606",
+      "source_path": "0_278627"
+    },
+    {
+      "name": "Towel 0316",
+      "slug": "towel-0316",
+      "source_path": "0_265945"
+    },
+    {
+      "name": "Beddings 0608",
+      "slug": "beddings-0608",
+      "source_path": "0_265944"
+    },
+    {
+      "name": "Blanket 0710",
+      "slug": "blanket-0710",
+      "source_path": "0_266070"
+    },
+    {
+      "name": "Table Cushions 0701",
+      "slug": "table-cushions-0701",
+      "source_path": "0_265962"
+    },
+    {
+      "name": "Pet Clothes",
+      "slug": "pet-clothes",
+      "source_path": "0_213021"
+    },
+    {
+      "name": "Thermos 0411",
+      "slug": "thermos-0411",
+      "source_path": "0_275116"
+    },
+    {
+      "name": "Fear Of God 0202",
+      "slug": "fear-of-god-0202",
+      "source_path": "0_262711"
+    },
+    {
+      "name": "Electronis 0322",
+      "slug": "electronis-0322",
+      "source_path": "0_363"
+    },
+    {
+      "name": "Toy 0411",
+      "slug": "toy-0411",
+      "source_path": "0_275073"
+    },
+    {
+      "name": "Mobile phone shell 0717",
+      "slug": "mobile-phone-shell-0717",
+      "source_path": "0_375"
+    },
+    {
+      "name": "Gloves 0717",
+      "slug": "gloves-0717",
+      "source_path": "0_305348"
+    },
+    {
+      "name": "Tie 0606",
+      "slug": "tie-0606",
+      "source_path": "0_144106"
+    },
+    {
+      "name": "Silk Sock 0307",
+      "slug": "silk-sock-0307",
+      "source_path": "0_377"
+    },
+    {
+      "name": "Underware Sleepware 0307",
+      "slug": "underware-sleepware-0307",
+      "source_path": "0_378"
+    },
+    {
+      "name": "Sunglasses A",
+      "slug": "sunglasses-a",
+      "source_path": "0_198277"
+    }
+  ],
+  "products": [
+    {
+      "slug": "supreme-boxer-m-xxl-28-4096385",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4096387",
+      "source_parent_product_id": "4096385",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4096387.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/supreme-boxer-m-xxl-28-4096385/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4096387.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Supreme%20boxer%20M-XXL%2028%20(5)_4096385.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Supreme%20boxer%20M-XXL%2028%20(7)_4096386.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Supreme%20boxer%20M-XXL%2028%20(8)_4096387.jpg"
+      ],
+      "source_last_seen": "2026-07-23T17:11:02.930Z",
+      "name": "Supreme boxer M-XXL 28",
+      "english_product_name": "Supreme boxer M-XXL 28",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4096385",
+      "parent_product_id": "4096385",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/supreme-boxer-m-xxl-28-4096385-1.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Supreme%20boxer%20M-XXL%2028%20(5)_4096385.jpg",
+          "content_hash": "ac4520e92bf3fdf769529bc2d4598f46847bcd10",
+          "alt": "Supreme boxer M-XXL 28"
+        },
+        {
+          "src": "/data/accessories/images/supreme-boxer-m-xxl-28-4096385-2.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Supreme%20boxer%20M-XXL%2028%20(7)_4096386.jpg",
+          "content_hash": "13f58321606666372c2f58a154036c2430f7bc97",
+          "alt": "Supreme boxer M-XXL 28"
+        },
+        {
+          "src": "/data/accessories/images/supreme-boxer-m-xxl-28-4096385-3.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Supreme%20boxer%20M-XXL%2028%20(8)_4096387.jpg",
+          "content_hash": "8c391364bbf1ed4b822230baf8be8f4b97bf3fb5",
+          "alt": "Supreme boxer M-XXL 28"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-23T17:11:02.930Z",
+      "_url": "/catalog/product/supreme-boxer-m-xxl-28-4096385/",
+      "_canonical": "https://trendholic.github.io/catalog/product/supreme-boxer-m-xxl-28-4096385/",
+      "_og": "https://trendholic.github.io/data/accessories/images/supreme-boxer-m-xxl-28-4096385-1.jpg"
+    },
+    {
+      "slug": "supreme-x-lv-boxer-m-xl-31-4096388",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4096391",
+      "source_parent_product_id": "4096388",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4096391.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/supreme-x-lv-boxer-m-xl-31-4096388/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4096391.html",
+        "https://acc.tangma2088.com/productinfoen_4096390.html",
+        "https://acc.tangma2088.com/productinfoen_4096389.html",
+        "https://acc.tangma2088.com/productinfoen_4096388.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Supreme%20X%20LV%20boxer%20M-XL%2031%20(1)_4096388.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Supreme%20X%20LV%20boxer%20M-XL%2031%20(2)_4096389.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Supreme%20X%20LV%20boxer%20M-XL%2031%20(3)_4096390.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Supreme%20X%20LV%20boxer%20M-XL%2031%20(4)_4096391.jpg"
+      ],
+      "source_last_seen": "2026-07-23T17:11:02.930Z",
+      "name": "Supreme X LV boxer M-XL 31",
+      "english_product_name": "Supreme X LV boxer M-XL 31",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4096388",
+      "parent_product_id": "4096388",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/supreme-x-lv-boxer-m-xl-31-4096388-1.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Supreme%20X%20LV%20boxer%20M-XL%2031%20(1)_4096388.jpg",
+          "content_hash": "82328b3d5ec135ef58e2c597260fe35a7d65ea86",
+          "alt": "Supreme X LV boxer M-XL 31"
+        },
+        {
+          "src": "/data/accessories/images/supreme-x-lv-boxer-m-xl-31-4096388-2.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Supreme%20X%20LV%20boxer%20M-XL%2031%20(2)_4096389.jpg",
+          "content_hash": "b3a9451726ba77e65b94fe97db2b8a107b8f78e1",
+          "alt": "Supreme X LV boxer M-XL 31"
+        },
+        {
+          "src": "/data/accessories/images/supreme-x-lv-boxer-m-xl-31-4096388-3.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Supreme%20X%20LV%20boxer%20M-XL%2031%20(3)_4096390.jpg",
+          "content_hash": "00fb4f03ee11036754704777de2fd7dae32f9f28",
+          "alt": "Supreme X LV boxer M-XL 31"
+        },
+        {
+          "src": "/data/accessories/images/supreme-x-lv-boxer-m-xl-31-4096388-4.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Supreme%20X%20LV%20boxer%20M-XL%2031%20(4)_4096391.jpg",
+          "content_hash": "82f645c9db54240ce2622186fcf499f59c610f55",
+          "alt": "Supreme X LV boxer M-XL 31"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-23T17:11:02.930Z",
+      "_url": "/catalog/product/supreme-x-lv-boxer-m-xl-31-4096388/",
+      "_canonical": "https://trendholic.github.io/catalog/product/supreme-x-lv-boxer-m-xl-31-4096388/",
+      "_og": "https://trendholic.github.io/data/accessories/images/supreme-x-lv-boxer-m-xl-31-4096388-1.jpg"
+    },
+    {
+      "slug": "versace-woman-boxer-04-4096392",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4096398",
+      "source_parent_product_id": "4096392",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4096398.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/versace-woman-boxer-04-4096392/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4096398.html",
+        "https://acc.tangma2088.com/productinfoen_4096397.html",
+        "https://acc.tangma2088.com/productinfoen_4096396.html",
+        "https://acc.tangma2088.com/productinfoen_4096395.html",
+        "https://acc.tangma2088.com/productinfoen_4096394.html",
+        "https://acc.tangma2088.com/productinfoen_4096393.html",
+        "https://acc.tangma2088.com/productinfoen_4096392.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(3)_4096392.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(4)_4096393.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(5)_4096394.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(6)_4096395.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(7)_4096396.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(8)_4096397.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(9)_4096398.jpg"
+      ],
+      "source_last_seen": "2026-07-23T17:11:02.930Z",
+      "name": "Versace woman boxer 04",
+      "english_product_name": "Versace woman boxer 04",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4096392",
+      "parent_product_id": "4096392",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/versace-woman-boxer-04-4096392-1.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(3)_4096392.jpg",
+          "content_hash": "9bd3c8ccf761d47dbfa1e04517b6362e9a0713cd",
+          "alt": "Versace woman boxer 04"
+        },
+        {
+          "src": "/data/accessories/images/versace-woman-boxer-04-4096392-2.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(4)_4096393.jpg",
+          "content_hash": "4ba8f1cabb1eee7ffd0b62205d129be29e9573d8",
+          "alt": "Versace woman boxer 04"
+        },
+        {
+          "src": "/data/accessories/images/versace-woman-boxer-04-4096392-3.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(5)_4096394.jpg",
+          "content_hash": "bcbe2d08524b115b56d1a0401e7224f0c1c5e995",
+          "alt": "Versace woman boxer 04"
+        },
+        {
+          "src": "/data/accessories/images/versace-woman-boxer-04-4096392-4.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(6)_4096395.jpg",
+          "content_hash": "fdfcb3f5ebd885eee8ed4e2c8169ee66b7c8582f",
+          "alt": "Versace woman boxer 04"
+        },
+        {
+          "src": "/data/accessories/images/versace-woman-boxer-04-4096392-5.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(7)_4096396.jpg",
+          "content_hash": "d65f8154af4621ee0c762293685901a041984e71",
+          "alt": "Versace woman boxer 04"
+        },
+        {
+          "src": "/data/accessories/images/versace-woman-boxer-04-4096392-6.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(8)_4096397.jpg",
+          "content_hash": "35726d04b561f6513c90ed70cbca69de7c2d76a1",
+          "alt": "Versace woman boxer 04"
+        },
+        {
+          "src": "/data/accessories/images/versace-woman-boxer-04-4096392-7.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Versace%20woman%20boxer%2004%20(9)_4096398.jpg",
+          "content_hash": "6e1e23c578b643c3b41c259f27ac8da00491c962",
+          "alt": "Versace woman boxer 04"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-23T17:11:02.930Z",
+      "_url": "/catalog/product/versace-woman-boxer-04-4096392/",
+      "_canonical": "https://trendholic.github.io/catalog/product/versace-woman-boxer-04-4096392/",
+      "_og": "https://trendholic.github.io/data/accessories/images/versace-woman-boxer-04-4096392-1.jpg"
+    },
+    {
+      "slug": "victorias-secret-boxer-m-xl-32-4096399",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4096404",
+      "source_parent_product_id": "4096399",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4096404.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/victorias-secret-boxer-m-xl-32-4096399/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4096404.html",
+        "https://acc.tangma2088.com/productinfoen_4096403.html",
+        "https://acc.tangma2088.com/productinfoen_4096402.html",
+        "https://acc.tangma2088.com/productinfoen_4096401.html",
+        "https://acc.tangma2088.com/productinfoen_4096400.html",
+        "https://acc.tangma2088.com/productinfoen_4096399.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Victorias%20secret%20boxer%20M-XL%2032%20(1)_4096399.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Victorias%20secret%20boxer%20M-XL%2032%20(2)_4096400.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Victorias%20secret%20boxer%20M-XL%2032%20(3)_4096401.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Victorias%20secret%20boxer%20M-XL%2032%20(4)_4096402.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Victorias%20secret%20boxer%20M-XL%2032%20(5)_4096403.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Victorias%20secret%20boxer%20M-XL%2032%20(6)_4096404.jpg"
+      ],
+      "source_last_seen": "2026-07-23T17:11:02.930Z",
+      "name": "Victorias secret boxer M-XL 32",
+      "english_product_name": "Victorias secret boxer M-XL 32",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4096399",
+      "parent_product_id": "4096399",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/victorias-secret-boxer-m-xl-32-4096399-1.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Victorias%20secret%20boxer%20M-XL%2032%20(1)_4096399.jpg",
+          "content_hash": "4799338b259413136f514c3538b2d159f8f2d1a4",
+          "alt": "Victorias secret boxer M-XL 32"
+        },
+        {
+          "src": "/data/accessories/images/victorias-secret-boxer-m-xl-32-4096399-2.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Victorias%20secret%20boxer%20M-XL%2032%20(2)_4096400.jpg",
+          "content_hash": "2d6cda6c1f3827b47cb16336e4b67e933b103648",
+          "alt": "Victorias secret boxer M-XL 32"
+        },
+        {
+          "src": "/data/accessories/images/victorias-secret-boxer-m-xl-32-4096399-3.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Victorias%20secret%20boxer%20M-XL%2032%20(3)_4096401.jpg",
+          "content_hash": "bd0ac707d8c2144b09b4166bc308bf47327d69ca",
+          "alt": "Victorias secret boxer M-XL 32"
+        },
+        {
+          "src": "/data/accessories/images/victorias-secret-boxer-m-xl-32-4096399-4.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Victorias%20secret%20boxer%20M-XL%2032%20(4)_4096402.jpg",
+          "content_hash": "e14de5620a2a4eb51a13e23d35ad8caa36e7bacb",
+          "alt": "Victorias secret boxer M-XL 32"
+        },
+        {
+          "src": "/data/accessories/images/victorias-secret-boxer-m-xl-32-4096399-5.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Victorias%20secret%20boxer%20M-XL%2032%20(5)_4096403.jpg",
+          "content_hash": "62b6a51a97589cea1445027f0aeb633b09de467e",
+          "alt": "Victorias secret boxer M-XL 32"
+        },
+        {
+          "src": "/data/accessories/images/victorias-secret-boxer-m-xl-32-4096399-6.jpg",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Victorias%20secret%20boxer%20M-XL%2032%20(6)_4096404.jpg",
+          "content_hash": "560362616bcf232b18783ecd579c011ff666e19a",
+          "alt": "Victorias secret boxer M-XL 32"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-23T17:11:02.930Z",
+      "_url": "/catalog/product/victorias-secret-boxer-m-xl-32-4096399/",
+      "_canonical": "https://trendholic.github.io/catalog/product/victorias-secret-boxer-m-xl-32-4096399/",
+      "_og": "https://trendholic.github.io/data/accessories/images/victorias-secret-boxer-m-xl-32-4096399-1.jpg"
+    }
+  ]
+}

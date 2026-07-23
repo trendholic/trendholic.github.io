@@ -1,0 +1,24 @@
+{
+  "name": "trendholic-product-sync",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Nightly supplier -> repository product synchronization pipeline (crawl, translate, images, SEO, JSON, sitemap, search index).",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "sync": "node src/index.js",
+    "sync:all": "node src/sync-all.js",
+    "build:catalog": "node src/build-catalog.js",
+    "validate": "node scripts/validate.js",
+    "test": "node --test src/grouping.test.mjs",
+    "sync:dry": "DRY_RUN=1 node src/index.js",
+    "check": "node --check src/index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "sharp": "^0.33.4"
+  },
+  "optionalDependencies": {
+    "playwright": "^1.45.0"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "products": {
+    "4096385": {
+      "rawHash": "29e693779b8bac81a860f3df5d7b458ae8e9913a",
+      "slug": "supreme-boxer-m-xxl-28-4096385",
+      "parent_product_id": "4096385",
+      "firstSeen": "2026-07-23T17:11:02.930Z",
+      "lastSeen": "2026-07-23T17:11:02.930Z"
+    },
+    "4096388": {
+      "rawHash": "bfd5f39d86626230c7403415d440aa4fa5947a53",
+      "slug": "supreme-x-lv-boxer-m-xl-31-4096388",
+      "parent_product_id": "4096388",
+      "firstSeen": "2026-07-23T17:11:02.930Z",
+      "lastSeen": "2026-07-23T17:11:02.930Z"
+    },
+    "4096392": {
+      "rawHash": "fcfc0969e3c7548a74770813e36f4fecc3a3f14c",
+      "slug": "versace-woman-boxer-04-4096392",
+      "parent_product_id": "4096392",
+      "firstSeen": "2026-07-23T17:11:02.930Z",
+      "lastSeen": "2026-07-23T17:11:02.930Z"
+    },
+    "4096399": {
+      "rawHash": "45fdef64c6dd9d462126d9fb0ce850be377158e8",
+      "slug": "victorias-secret-boxer-m-xl-32-4096399",
+      "parent_product_id": "4096399",
+      "firstSeen": "2026-07-23T17:11:02.930Z",
+      "lastSeen": "2026-07-23T17:11:02.930Z"
+    }
+  },
+  "categories": [
+    "new-arrival-0723",
+    "jewelry-0707",
+    "glasses-0629",
+    "plain-glasses-0722",
+    "glasses-factory-0722",
+    "belts-0715",
+    "watches-0721",
+    "caps-0714",
+    "bucket-hat-0713",
+    "26-hat-0717",
+    "more-caps-hats-0714",
+    "perfume-0706",
+    "sock-0702",
+    "socks-0702",
+    "scarf-f1st-0707",
+    "hair-band-clasp-tie-0627",
+    "boxers-brief-0723",
+    "bathrobe-0417",
+    "pen-0608",
+    "umbrella-0606",
+    "towel-0316",
+    "beddings-0608",
+    "blanket-0710",
+    "table-cushions-0701",
+    "pet-clothes",
+    "thermos-0411",
+    "fear-of-god-0202",
+    "electronis-0322",
+    "toy-0411",
+    "mobile-phone-shell-0717",
+    "gloves-0717",
+    "tie-0606",
+    "silk-sock-0307",
+    "underware-sleepware-0307",
+    "sunglasses-a"
+  ],
+  "updatedAt": "2026-07-23T17:11:02.930Z"
+}

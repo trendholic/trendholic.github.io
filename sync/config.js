@@ -1,0 +1,120 @@
+// ============================================================================
+// config.js — central configuration. Everything tunable lives here or in env.
+// No secrets are stored here; API keys come from environment variables.
+// ============================================================================
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const REPO_ROOT = path.resolve(__dirname, "..");
+
+const env = (k, d) => (process.env[k] ?? d);
+const bool = (k, d = false) => ["1", "true", "yes", "on"].includes(String(env(k, d)).toLowerCase());
+const int = (k, d) => { const n = parseInt(env(k, d), 10); return Number.isFinite(n) ? n : d; };
+
+export const CONFIG = {
+  // ---- Multi-source catalog (4 supplier domains → 4 top categories) --------
+  // The source DOMAIN authoritatively determines the top-level catalog category.
+  // A product found on an unexpected domain is flagged, never silently assigned.
+  sources: [
+    { key: "apparel",     top: "Apparel",     baseUrl: "https://tangma2088.com",      lang: "en" },
+    { key: "accessories", top: "Accessories", baseUrl: "https://acc.tangma2088.com",  lang: "en" },
+    { key: "bags",        top: "Bags",        baseUrl: "https://bags.tangma2088.com", lang: "en" },
+    { key: "shoes",       top: "Shoes",       baseUrl: "https://shoes.tangma2088.com",lang: "en" },
+  ],
+  domainToTop: {
+    "tangma2088.com": "Apparel",
+    "acc.tangma2088.com": "Accessories",
+    "bags.tangma2088.com": "Bags",
+    "shoes.tangma2088.com": "Shoes",
+  },
+
+  // ---- Source --------------------------------------------------------------
+  source: {
+    baseUrl: env("SOURCE_BASE_URL", "https://macc.tangma2088.com"),
+    // Seed category URLs. If empty, the adapter attempts to discover them from
+    // the homepage navigation. Prefer seeding once you know the real URLs.
+    seedCategories: (env("SEED_CATEGORIES", "") || "")
+      .split(",").map((s) => s.trim()).filter(Boolean),
+    userAgent: env(
+      "CRAWL_USER_AGENT",
+      "TrendHolicSyncBot/1.0 (+https://trendholic.github.io; contact=onlinetrader002@gmail.com)"
+    ),
+    respectRobots: !bool("IGNORE_ROBOTS"), // default: respect robots.txt
+    // JavaScript rendering: 'auto' tries plain HTTP first and falls back to a
+    // headless browser only if the page looks empty / anti-bot blocked.
+    render: env("RENDER_MODE", "auto"), // 'auto' | 'always' | 'never'
+  },
+
+  // ---- Politeness / reliability -------------------------------------------
+  crawl: {
+    minDelayMs: int("CRAWL_MIN_DELAY_MS", 1500),   // per-request spacing
+    concurrency: int("CRAWL_CONCURRENCY", 3),      // parallel product fetches
+    maxRetries: int("CRAWL_MAX_RETRIES", 4),
+    timeoutMs: int("CRAWL_TIMEOUT_MS", 30000),
+    maxProductsPerCategory: int("MAX_PRODUCTS_PER_CATEGORY", 0), // 0 = no limit
+    maxPagesPerCategory: int("MAX_PAGES_PER_CATEGORY", 50),
+  },
+
+  // ---- Headless browser (anti-bot / JS render) ----------------------------
+  browser: {
+    sessionFile: path.join(REPO_ROOT, "sync", ".state", "session.json"), // persisted storageState
+    viewport: { width: 1366, height: 900 },
+    locale: "en-US",
+    // small human-like jitter added to each navigation (ms)
+    humanJitterMs: int("BROWSER_JITTER_MS", 700),
+  },
+
+  // ---- Optional supplier login (credentials via ENV only) ------------------
+  login: {
+    url: env("SUPPLIER_LOGIN_URL", ""),
+    username: env("SUPPLIER_USERNAME", ""),
+    password: env("SUPPLIER_PASSWORD", ""),
+    userSelector: env("SUPPLIER_USER_SELECTOR", "input[name='username'], input[type='email'], #username"),
+    passSelector: env("SUPPLIER_PASS_SELECTOR", "input[name='password'], input[type='password'], #password"),
+    submitSelector: env("SUPPLIER_SUBMIT_SELECTOR", "button[type='submit'], input[type='submit'], .login-btn"),
+    successSelector: env("SUPPLIER_LOGIN_SUCCESS_SELECTOR", ""), // optional: element present when logged in
+  },
+
+  // ---- Translation ---------------------------------------------------------
+  translate: {
+    provider: env("TRANSLATE_PROVIDER", "anthropic"), // 'anthropic' | 'none'
+    targetLanguage: "American English",
+    model: env("TRANSLATE_MODEL", "claude-opus-4-8"),
+    apiKey: env("ANTHROPIC_API_KEY", ""),            // secret, from env only
+    // Fields translated. Brand + model numbers + SKU are NEVER translated.
+    fields: ["name", "description", "specifications", "features", "technicalData"],
+    cacheFile: path.join(REPO_ROOT, "sync", ".state", "translation-cache.json"),
+  },
+
+  // ---- Images --------------------------------------------------------------
+  images: {
+    maxWidth: int("IMAGE_MAX_WIDTH", 1600),
+    webpQuality: int("IMAGE_WEBP_QUALITY", 82),
+    keepOriginalHighRes: bool("IMAGE_KEEP_ORIGINAL", false),
+    maxPerProduct: int("IMAGE_MAX_PER_PRODUCT", 8),
+  },
+
+  // ---- Output paths (all additive; retail site untouched) ------------------
+  out: {
+    repoRoot: REPO_ROOT,
+    dataDir: path.join(REPO_ROOT, "data"),
+    catalogDir: path.join(REPO_ROOT, "data", "catalog"),   // per-category JSON
+    productsDir: path.join(REPO_ROOT, "data", "products"),  // per-product JSON
+    imagesDir: path.join(REPO_ROOT, "data", "images"),
+    pdfDir: path.join(REPO_ROOT, "data", "manuals"),
+    searchIndex: path.join(REPO_ROOT, "data", "search-index.json"),
+    syncLog: path.join(REPO_ROOT, "data", "sync-log.json"),
+    sitemap: path.join(REPO_ROOT, "sitemap.xml"),
+    stateFile: path.join(REPO_ROOT, "sync", ".state", "state.json"),
+    logDir: path.join(REPO_ROOT, "sync", "logs"),
+    // Public site base for absolute URLs in sitemap / search index.
+    siteBaseUrl: env("SITE_BASE_URL", "https://trendholic.github.io"),
+    // Public path where the (optional) catalog viewer lives.
+    catalogPublicPath: "/catalog/",
+  },
+
+  dryRun: bool("DRY_RUN"),
+};
+
+export default CONFIG;
