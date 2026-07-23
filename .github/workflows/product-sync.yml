@@ -42,20 +42,27 @@ jobs:
         working-directory: sync
         run: npx playwright install --with-deps chromium
 
-      - name: Run sync
+      - name: Grouping tests
+        working-directory: sync
+        run: npm test
+
+      - name: Full multi-source sync (4 independent sources)
         working-directory: sync
         env:
           # Secrets/vars are configured in the repo settings — never in code.
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          TRANSLATE_PROVIDER: ${{ vars.TRANSLATE_PROVIDER || 'anthropic' }}
-          SOURCE_BASE_URL: ${{ vars.SOURCE_BASE_URL || 'https://macc.tangma2088.com' }}
-          SEED_CATEGORIES: ${{ vars.SEED_CATEGORIES }}
+          TRANSLATE_PROVIDER: ${{ vars.TRANSLATE_PROVIDER || 'none' }}
           RENDER_MODE: ${{ vars.RENDER_MODE || 'auto' }}
           SITE_BASE_URL: "https://trendholic.github.io"
-          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
-        run: npm run sync
+          # MAX_PAGES_PER_SOURCE unset here = crawl everything on the runner
+          MAX_PAGES_PER_SOURCE: ${{ vars.MAX_PAGES_PER_SOURCE || '' }}
+        run: npm run sync:all      # per-source safe-abort; a failed source keeps its last-known-good
 
-      - name: Validate generated catalog (deploy gate)
+      - name: Build unified catalog + search index + sitemap
+        working-directory: sync
+        run: npm run build:catalog
+
+      - name: Validate catalog (deploy gate)
         if: ${{ github.event.inputs.dry_run != 'true' }}
         working-directory: sync
         run: npm run validate   # non-zero exit here blocks the commit + deploy

@@ -3,82 +3,133 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Product Catalog · TrendHolic</title>
-<meta name="description" content="Browse the full TrendHolic product catalog by category.">
-<!-- Standalone additive viewer. Reads generated JSON in /data. Does NOT modify
-     or depend on the existing retail storefront. -->
+<title>Catalog · TrendHolic</title>
+<meta name="description" content="Browse the TrendHolic catalog — Apparel, Accessories, Bags and Shoes.">
+<link rel="canonical" href="https://trendholic.github.io/catalog/">
+<!-- Standalone additive catalog. Reads generated JSON in /data. Does not modify
+     or depend on the existing retail storefront. Canonical URLs are TrendHolic. -->
 <style>
-  :root{--ink:#0B1929;--paper:#F6F3EE;--card:#fff;--rule:#e4ded4;--gold:#A9781F;--muted:#6a7683}
-  @media(prefers-color-scheme:dark){:root{--ink:#ece7df;--paper:#0d141c;--card:#141e29;--rule:#243240;--gold:#d4a24c;--muted:#8394a3}}
+  :root{--ink:#0B1929;--paper:#F6F3EE;--surface:#fff;--surface2:#faf7f1;--rule:#e4ded4;
+    --gold:#A9781F;--muted:#6a7683;--steel:#54637a}
+  @media(prefers-color-scheme:dark){:root{--ink:#ece7df;--paper:#0d141c;--surface:#141e29;--surface2:#111a23;--rule:#243240;--gold:#d4a24c;--muted:#8394a3;--steel:#93a2b2}}
   *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.5}
-  header{padding:18px 20px;border-bottom:1px solid var(--rule);display:flex;gap:14px;align-items:center;flex-wrap:wrap}
-  .brand{font-weight:700;font-size:1.15rem}.brand b{color:var(--gold)}
-  input{flex:1;min-width:180px;padding:9px 12px;border:1px solid var(--rule);border-radius:8px;background:var(--card);color:var(--ink)}
-  main{max-width:1150px;margin:0 auto;padding:20px}
-  h2{font-size:1rem;text-transform:uppercase;letter-spacing:.06em;color:var(--gold);margin:26px 0 10px}
-  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:16px}
-  .card{background:var(--card);border:1px solid var(--rule);border-radius:12px;overflow:hidden}
-  .card img{width:100%;height:150px;object-fit:cover;background:var(--paper)}
-  .card .b{padding:11px 12px}.card .nm{font-size:.86rem;font-weight:600;min-height:2.3em}
-  .card .br{font-size:.72rem;color:var(--muted);text-transform:uppercase}
-  .muted{color:var(--muted)}.state{padding:60px 20px;text-align:center;color:var(--muted)}
   a{color:inherit;text-decoration:none}
-  nav a{display:inline-block;margin-right:12px;font-size:.85rem;color:var(--muted)}
+  header{position:sticky;top:0;z-index:10;background:var(--surface);border-bottom:1px solid var(--rule);
+    display:flex;gap:14px;align-items:center;padding:12px 18px;flex-wrap:wrap}
+  .brand{font-weight:700;font-size:1.1rem}.brand b{color:var(--gold)}
+  #q{flex:1;min-width:160px;padding:9px 12px;border:1px solid var(--rule);border-radius:8px;background:var(--paper);color:var(--ink)}
   .back{font-size:.85rem;color:var(--muted)}
+  main{max-width:1180px;margin:0 auto;padding:18px}
+  .chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+  .chip{padding:7px 14px;border:1px solid var(--rule);border-radius:22px;background:var(--surface);cursor:pointer;font-size:.85rem;font-weight:600}
+  .chip.active{background:var(--gold);color:#fff;border-color:var(--gold)}
+  .chip .n{opacity:.7;font-weight:400;margin-left:4px}
+  .crumb{font-size:.82rem;color:var(--muted);margin-bottom:12px}
+  .crumb a:hover{color:var(--gold)}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:16px}
+  .card{background:var(--surface);border:1px solid var(--rule);border-radius:12px;overflow:hidden;cursor:pointer;display:flex;flex-direction:column}
+  .card img{width:100%;height:170px;object-fit:cover;background:var(--surface2)}
+  .card .b{padding:10px 12px}.card .nm{font-size:.85rem;font-weight:600;min-height:2.4em;line-height:1.2}
+  .card .tag{font-size:.68rem;text-transform:uppercase;letter-spacing:.05em;color:var(--gold);font-weight:700}
+  .state{padding:60px 20px;text-align:center;color:var(--muted)}
+  /* detail */
+  .detail{display:grid;grid-template-columns:minmax(0,1.1fr) 1fr;gap:24px}
+  @media(max-width:760px){.detail{grid-template-columns:1fr}.grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}}
+  .gallery img{width:100%;border-radius:12px;border:1px solid var(--rule);margin-bottom:10px;background:var(--surface2)}
+  .thumbs{display:flex;gap:8px;flex-wrap:wrap}
+  .thumbs img{width:64px;height:64px;object-fit:cover;border-radius:8px;border:1px solid var(--rule);cursor:pointer}
+  h1{font-size:1.4rem;margin:0 0 6px}
+  .kv{display:grid;grid-template-columns:150px 1fr;gap:6px 12px;font-size:.88rem;margin-top:14px}
+  .kv dt{color:var(--muted)}.kv dd{margin:0}
+  .na{color:var(--muted);font-style:italic}
+  .src{margin-top:16px;font-size:.8rem;color:var(--muted)}
 </style>
 </head>
 <body>
 <header>
-  <div class="brand"><b>TREND</b>HOLIC — Catalog</div>
-  <input id="q" placeholder="Search products, brands, models…">
+  <a class="brand" href="#/"><b>TREND</b>HOLIC · Catalog</a>
+  <input id="q" placeholder="Search name, brand, model, SKU…">
   <a class="back" href="/index.html">← Store</a>
 </header>
-<main>
-  <nav id="cats"></nav>
-  <div id="view"><div class="state">Loading catalog…</div></div>
-</main>
+<main id="app"><div class="state">Loading catalog…</div></main>
 <script type="module">
-const view = document.getElementById("view"), cats = document.getElementById("cats"), q = document.getElementById("q");
-const esc = s => String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-let index = [];
+const app=document.getElementById("app"), q=document.getElementById("q");
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const na=v=>v==null||v===""||(Array.isArray(v)&&!v.length)?'<span class="na">Not provided</span>':esc(Array.isArray(v)?v.join(", "):v);
+let INDEX=[], TOPS=[];
 
-async function jget(u){ const r = await fetch(u,{cache:"no-cache"}); if(!r.ok) throw new Error(r.status); return r.json(); }
+async function jget(u){const r=await fetch(u,{cache:"no-cache"});if(!r.ok)throw new Error(r.status);return r.json();}
 
-function card(p){
-  const img = p.image ? `<img src="${esc(p.image)}" alt="${esc(p.brand+' '+p.name)}" loading="lazy">` : `<div style="height:150px"></div>`;
-  return `<a class="card" href="${esc(p.url)}">${img}<div class="b">
-    <div class="br">${esc(p.brand||"")}</div><div class="nm">${esc(p.name)}</div>
-    ${p.model?`<div class="muted" style="font-size:.72rem">${esc(p.model)}</div>`:""}</div></a>`;
+function card(r){
+  const img=r.image?`<img src="${esc(r.image)}" alt="${esc(r.name)}" loading="lazy" onerror="this.style.visibility='hidden'">`:`<div style="height:170px;background:var(--surface2)"></div>`;
+  return `<a class="card" href="#/product/${encodeURIComponent(r.slug)}">${img}
+    <div class="b"><div class="tag">${esc(r.top)}</div><div class="nm">${esc(r.name)}</div></div></a>`;
+}
+function renderList(top){
+  const list=INDEX.filter(r=>!top||r.topSlug===top).filter(r=>match(r,q.value));
+  const chips=`<div class="chips">
+    <span class="chip ${!top?'active':''}" data-top="">All <span class="n">${INDEX.length}</span></span>
+    ${TOPS.map(t=>`<span class="chip ${top===t.slug?'active':''}" data-top="${t.slug}">${esc(t.name)} <span class="n">${t.productCount}</span></span>`).join("")}</div>`;
+  app.innerHTML = chips + (list.length?`<div class="grid">${list.map(card).join("")}</div>`:`<div class="state">No products found.</div>`);
+  app.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{location.hash = c.dataset.top?`#/${c.dataset.top}`:"#/";});
+}
+function match(r,term){term=(term||"").trim().toLowerCase();if(!term)return true;
+  return `${r.name} ${r.brand} ${r.model} ${r.sku} ${r.category} ${(r.keywords||[]).join(" ")}`.toLowerCase().includes(term);}
+
+async function renderProduct(slug){
+  const rec=INDEX.find(r=>r.slug===slug);
+  if(!rec){app.innerHTML=`<div class="state">Product not found.</div>`;return;}
+  app.innerHTML=`<div class="state">Loading…</div>`;
+  let p; try{ p=await jget(`/data/${rec.topSlug}/products/${encodeURIComponent(slug)}.json`);}catch{app.innerHTML=`<div class="state">Product data unavailable.</div>`;return;}
+  document.title=`${p.name} · TrendHolic Catalog`;
+  const imgs=(p.images||[]);
+  app.innerHTML=`
+   <div class="crumb"><a href="#/">Catalog</a> › <a href="#/${rec.topSlug}">${esc(p.top_category)}</a> › ${esc(p.name)}</div>
+   <div class="detail">
+     <div class="gallery">
+       <img id="main" src="${esc(imgs[0]?.src||'')}" alt="${esc(p.name)}">
+       <div class="thumbs">${imgs.map((i,n)=>`<img src="${esc(i.src)}" data-n="${n}" alt="${esc(i.alt||p.name)}">`).join("")}</div>
+     </div>
+     <div>
+       <div class="tag" style="color:var(--gold);font-weight:700;text-transform:uppercase;font-size:.7rem">${esc(p.top_category)}</div>
+       <h1>${esc(p.name)}</h1>
+       <dl class="kv">
+         <dt>Brand</dt><dd>${na(p.brand)}</dd>
+         <dt>Model</dt><dd>${na(p.model_number)}</dd>
+         <dt>SKU</dt><dd>${na(p.sku)}</dd>
+         <dt>Product ID</dt><dd>${na(p.parent_product_id)}</dd>
+         <dt>Description</dt><dd>${na(p.description)}</dd>
+         <dt>Materials</dt><dd>${na(p.materials)}</dd>
+         <dt>Dimensions</dt><dd>${na(p.dimensions)}</dd>
+         <dt>Price</dt><dd>${na(p.price)}</dd>
+         <dt>Images</dt><dd>${imgs.length}</dd>
+       </dl>
+       <div class="src">Source: ${esc(p.source_domain)} · category “${esc(p.source_category)}” · ${(p.source_product_urls||[]).length} source page(s).
+       Canonical: ${esc(p.source_canonical_url)}</div>
+     </div>
+   </div>`;
+  const main=document.getElementById("main");
+  app.querySelectorAll(".thumbs img").forEach(t=>t.onclick=()=>{main.src=t.src;});
 }
 
-function render(list, title){
-  view.innerHTML = title?`<h2>${esc(title)}</h2>`:"";
-  if(!list.length){ view.innerHTML += `<div class="state">No products found.</div>`; return; }
-  view.innerHTML += `<div class="grid">${list.map(card).join("")}</div>`;
+function route(){
+  const h=location.hash.replace(/^#\//,"");
+  if(h.startsWith("product/")) return renderProduct(decodeURIComponent(h.slice(8)));
+  const top=TOPS.find(t=>t.slug===h)?h:"";
+  document.title="Catalog · TrendHolic";
+  renderList(top);
 }
+q.addEventListener("input",()=>{ if(!location.hash.startsWith("#/product/")) route(); });
+window.addEventListener("hashchange",route);
 
-try{
-  const idx = await jget("/data/search-index.json"); index = idx.records || [];
-  const meta = await jget("/data/catalog/_index.json").catch(()=>({categories:[]}));
-  cats.innerHTML = `<a href="#" data-all>All (${index.length})</a>` +
-    (meta.categories||[]).map(c=>`<a href="#" data-cat="${esc(c.slug)}">${esc(c.name)} (${c.count})</a>`).join("");
-  cats.addEventListener("click",(e)=>{
-    const a=e.target.closest("a"); if(!a) return; e.preventDefault();
-    if(a.dataset.all!==undefined) render(index,"All products");
-    else render(index.filter(p=>p.categorySlug===a.dataset.cat), a.textContent);
-  });
-  render(index, "All products");
-}catch(e){
-  view.innerHTML = `<div class="state">Catalog data not generated yet.<br>
-    Run the product sync (see <code>sync/README.md</code>) to populate <code>/data</code>.</div>`;
-}
-
-q.addEventListener("input",()=>{
-  const t=q.value.trim().toLowerCase();
-  if(!t){ render(index,"All products"); return; }
-  render(index.filter(p=>`${p.name} ${p.brand} ${p.model} ${p.sku} ${(p.keywords||[]).join(" ")}`.toLowerCase().includes(t)), `Results: "${t}"`);
-});
+(async()=>{
+  try{
+    const [idx,ci]=await Promise.all([jget("/data/search-index.json"), jget("/data/catalog/_index.json").catch(()=>({topCategories:[]}))]);
+    INDEX=idx.records||[]; TOPS=ci.topCategories||[];
+    route();
+  }catch(e){ app.innerHTML=`<div class="state">Catalog data not generated yet.<br>Run the sync (see <code>sync/README.md</code>).</div>`; }
+})();
 </script>
 </body>
 </html>

@@ -1,0 +1,573 @@
+{
+  "top": "Shoes",
+  "slug": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "subcategoriesDiscovered": 85,
+  "subcategories": [
+    {
+      "name": "NEW ARRIVAL 0723",
+      "slug": "new-arrival-0723",
+      "source_path": "0_355"
+    },
+    {
+      "name": "Factory B 0723",
+      "slug": "factory-b-0723",
+      "source_path": "0_367"
+    },
+    {
+      "name": "Factory C0723",
+      "slug": "factory-c0723",
+      "source_path": "0_65136"
+    },
+    {
+      "name": "Kid shoes 0713",
+      "slug": "kid-shoes-0713",
+      "source_path": "0_65203"
+    },
+    {
+      "name": "Gucci 2026 0714",
+      "slug": "gucci-2026-0714",
+      "source_path": "0_336"
+    },
+    {
+      "name": "Louis Vittion 2026 0623",
+      "slug": "louis-vittion-2026-0623",
+      "source_path": "0_327"
+    },
+    {
+      "name": "Alexander McQueen 2026 0612",
+      "slug": "alexander-mcqueen-2026-0612",
+      "source_path": "0_347"
+    },
+    {
+      "name": "Armani 2026 0621",
+      "slug": "armani-2026-0621",
+      "source_path": "0_350"
+    },
+    {
+      "name": "Amiri 2026 0715",
+      "slug": "amiri-2026-0715",
+      "source_path": "0_61746"
+    },
+    {
+      "name": "Acne 2026 0602",
+      "slug": "acne-2026-0602",
+      "source_path": "0_177976"
+    },
+    {
+      "name": "Alo 2026 0621",
+      "slug": "alo-2026-0621",
+      "source_path": "0_178384"
+    },
+    {
+      "name": "Adidas 2026 0613",
+      "slug": "adidas-2026-0613",
+      "source_path": "0_178803"
+    },
+    {
+      "name": "Adizero 2026 0609",
+      "slug": "adizero-2026-0609",
+      "source_path": "0_178807"
+    },
+    {
+      "name": "Altra 2026 0617",
+      "slug": "altra-2026-0617",
+      "source_path": "0_179712"
+    },
+    {
+      "name": "Asics 2026 0624",
+      "slug": "asics-2026-0624",
+      "source_path": "0_180172"
+    },
+    {
+      "name": "Balmain 2026 0607",
+      "slug": "balmain-2026-0607",
+      "source_path": "0_58214"
+    },
+    {
+      "name": "Bape 20250715",
+      "slug": "bape-20250715",
+      "source_path": "0_159990"
+    },
+    {
+      "name": "Berluti 2026 0623",
+      "slug": "berluti-2026-0623",
+      "source_path": "0_64532"
+    },
+    {
+      "name": "Boss 2026 0715",
+      "slug": "boss-2026-0715",
+      "source_path": "0_234"
+    },
+    {
+      "name": "Balenciaga 2026 0715",
+      "slug": "balenciaga-2026-0715",
+      "source_path": "0_304"
+    },
+    {
+      "name": "Bottega Veneta 2026 0624",
+      "slug": "bottega-veneta-2026-0624",
+      "source_path": "0_321"
+    },
+    {
+      "name": "Burberry 2026 0621",
+      "slug": "burberry-2026-0621",
+      "source_path": "0_224"
+    },
+    {
+      "name": "Bally 2026 0614",
+      "slug": "bally-2026-0614",
+      "source_path": "0_316"
+    },
+    {
+      "name": "Brunello Cucinelli 2026 0621",
+      "slug": "brunello-cucinelli-2026-0621",
+      "source_path": "0_142649"
+    },
+    {
+      "name": "Billionaire 2026 0607",
+      "slug": "billionaire-2026-0607",
+      "source_path": "0_177042"
+    },
+    {
+      "name": "Celine 20260319",
+      "slug": "celine-20260319",
+      "source_path": "0_80836"
+    },
+    {
+      "name": "Christian Louboutin 2026 0715",
+      "slug": "christian-louboutin-2026-0715",
+      "source_path": "0_140"
+    },
+    {
+      "name": "Chanel 2026 0717",
+      "slug": "chanel-2026-0717",
+      "source_path": "0_229"
+    },
+    {
+      "name": "Coach 2026 0623",
+      "slug": "coach-2026-0623",
+      "source_path": "0_88376"
+    },
+    {
+      "name": "Chrome Hearts 2026 0606",
+      "slug": "chrome-hearts-2026-0606",
+      "source_path": "0_178397"
+    },
+    {
+      "name": "DG 2026 0717",
+      "slug": "dg-2026-0717",
+      "source_path": "0_145"
+    },
+    {
+      "name": "Dior 2026 0717",
+      "slug": "dior-2026-0717",
+      "source_path": "0_151"
+    },
+    {
+      "name": "DSQ 2026 0717",
+      "slug": "dsq-2026-0717",
+      "source_path": "0_27440"
+    },
+    {
+      "name": "Diesel 2026 0717",
+      "slug": "diesel-2026-0717",
+      "source_path": "0_179892"
+    },
+    {
+      "name": "Fendi 2026 0718",
+      "slug": "fendi-2026-0718",
+      "source_path": "0_161"
+    },
+    {
+      "name": "Ferragamo 2026 0622",
+      "slug": "ferragamo-2026-0622",
+      "source_path": "0_123"
+    },
+    {
+      "name": "FOG 2026 0602",
+      "slug": "fog-2026-0602",
+      "source_path": "0_177660"
+    },
+    {
+      "name": "GGDB 2026 0608",
+      "slug": "ggdb-2026-0608",
+      "source_path": "0_82685"
+    },
+    {
+      "name": "Givenchy 2026 0624",
+      "slug": "givenchy-2026-0624",
+      "source_path": "0_132"
+    },
+    {
+      "name": "Giuseppe Zanotti 20260123",
+      "slug": "giuseppe-zanotti-20260123",
+      "source_path": "0_28291"
+    },
+    {
+      "name": "Richard 2026 0530",
+      "slug": "richard-2026-0530",
+      "source_path": "0_177361"
+    },
+    {
+      "name": "RickOwens 2026 0606",
+      "slug": "rickowens-2026-0606",
+      "source_path": "0_177936"
+    },
+    {
+      "name": "Hermes 2026 0721",
+      "slug": "hermes-2026-0721",
+      "source_path": "0_104"
+    },
+    {
+      "name": "Hogan 2026 0615",
+      "slug": "hogan-2026-0615",
+      "source_path": "0_177193"
+    },
+    {
+      "name": "Jimmy Choo 20250628",
+      "slug": "jimmy-choo-20250628",
+      "source_path": "0_33053"
+    },
+    {
+      "name": "Jil Sander 2026 0608",
+      "slug": "jil-sander-2026-0608",
+      "source_path": "0_178766"
+    },
+    {
+      "name": "Jmweston 2026 0617",
+      "slug": "jmweston-2026-0617",
+      "source_path": "0_179720"
+    },
+    {
+      "name": "Karl Lagefeld 2026 0608",
+      "slug": "karl-lagefeld-2026-0608",
+      "source_path": "0_178584"
+    },
+    {
+      "name": "Kenzo 20250810",
+      "slug": "kenzo-20250810",
+      "source_path": "0_27434"
+    },
+    {
+      "name": "Kailas 2026 0624",
+      "slug": "kailas-2026-0624",
+      "source_path": "0_179723"
+    },
+    {
+      "name": "Kiton 2026 0612",
+      "slug": "kiton-2026-0612",
+      "source_path": "0_179149"
+    },
+    {
+      "name": "Kolon Sport 2026 0617",
+      "slug": "kolon-sport-2026-0617",
+      "source_path": "0_179727"
+    },
+    {
+      "name": "Lanvin 20260126",
+      "slug": "lanvin-20260126",
+      "source_path": "0_80225"
+    },
+    {
+      "name": "Loro Piana 2026 0721",
+      "slug": "loro-piana-2026-0721",
+      "source_path": "0_154701"
+    },
+    {
+      "name": "Loewe 2026 0721",
+      "slug": "loewe-2026-0721",
+      "source_path": "0_156405"
+    },
+    {
+      "name": "Miumiu 2026 0721",
+      "slug": "miumiu-2026-0721",
+      "source_path": "0_84078"
+    },
+    {
+      "name": "Moncler 2026 0612",
+      "slug": "moncler-2026-0612",
+      "source_path": "0_75"
+    },
+    {
+      "name": "Moschino 20250513",
+      "slug": "moschino-20250513",
+      "source_path": "0_87692"
+    },
+    {
+      "name": "Maison Margiela 2026 0721",
+      "slug": "maison-margiela-2026-0721",
+      "source_path": "0_178651"
+    },
+    {
+      "name": "Magnanni 2026 0604",
+      "slug": "magnanni-2026-0604",
+      "source_path": "0_177966"
+    },
+    {
+      "name": "Marni 2026 0608",
+      "slug": "marni-2026-0608",
+      "source_path": "0_154460"
+    },
+    {
+      "name": "Moon boot 20250412",
+      "slug": "moon-boot-20250412",
+      "source_path": "0_154469"
+    },
+    {
+      "name": "Maison Mihara Yasuhiro 2026 0721",
+      "slug": "maison-mihara-yasuhiro-2026-0721",
+      "source_path": "0_154721"
+    },
+    {
+      "name": "Nike 2026 0624",
+      "slug": "nike-2026-0624",
+      "source_path": "0_178663"
+    },
+    {
+      "name": "Numeris 2026 0608",
+      "slug": "numeris-2026-0608",
+      "source_path": "0_178671"
+    },
+    {
+      "name": "Off White 2026 0721",
+      "slug": "off-white-2026-0721",
+      "source_path": "0_82"
+    },
+    {
+      "name": "ON 2026 0722",
+      "slug": "on-2026-0722",
+      "source_path": "0_177972"
+    },
+    {
+      "name": "Onitsuka Tiger 2026 0608",
+      "slug": "onitsuka-tiger-2026-0608",
+      "source_path": "0_178674"
+    },
+    {
+      "name": "Philipp Plein 2026 0623",
+      "slug": "philipp-plein-2026-0623",
+      "source_path": "0_88"
+    },
+    {
+      "name": "Prada 2026 0623",
+      "slug": "prada-2026-0623",
+      "source_path": "0_92"
+    },
+    {
+      "name": "Stefano Ricci 2026 0617",
+      "slug": "stefano-ricci-2026-0617",
+      "source_path": "0_164270"
+    },
+    {
+      "name": "Santoni 2026 0623",
+      "slug": "santoni-2026-0623",
+      "source_path": "0_178408"
+    },
+    {
+      "name": "Salomon 2026 0617",
+      "slug": "salomon-2026-0617",
+      "source_path": "0_179747"
+    },
+    {
+      "name": "Thom Browne 2026 0624",
+      "slug": "thom-browne-2026-0624",
+      "source_path": "0_49"
+    },
+    {
+      "name": "Tom Ford 2026 0608",
+      "slug": "tom-ford-2026-0608",
+      "source_path": "0_80880"
+    },
+    {
+      "name": "Tod s 2026 0624",
+      "slug": "tod-s-2026-0624",
+      "source_path": "0_52"
+    },
+    {
+      "name": "Tory Burch 20250513",
+      "slug": "tory-burch-20250513",
+      "source_path": "0_156346"
+    },
+    {
+      "name": "UGG 20260204",
+      "slug": "ugg-20260204",
+      "source_path": "0_28852"
+    },
+    {
+      "name": "Valentino 2026 0616",
+      "slug": "valentino-2026-0616",
+      "source_path": "0_56"
+    },
+    {
+      "name": "Versace 2026 0624",
+      "slug": "versace-2026-0624",
+      "source_path": "0_72"
+    },
+    {
+      "name": "Veja 2026 0617",
+      "slug": "veja-2026-0617",
+      "source_path": "0_179656"
+    },
+    {
+      "name": "YSL 2026 0623",
+      "slug": "ysl-2026-0623",
+      "source_path": "0_84731"
+    },
+    {
+      "name": "Y-3 20260204",
+      "slug": "y-3-20260204",
+      "source_path": "0_47"
+    },
+    {
+      "name": "ZEGNA 2026 0623",
+      "slug": "zegna-2026-0623",
+      "source_path": "0_139955"
+    },
+    {
+      "name": "Zilli 2026 0606",
+      "slug": "zilli-2026-0606",
+      "source_path": "0_177367"
+    }
+  ],
+  "productCount": 1,
+  "products": [
+    {
+      "slug": "valentino-sz38-45-wm0702-2988655",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2988674",
+      "source_parent_product_id": "2988655",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2988674.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/valentino-sz38-45-wm0702-2988655/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2988674.html",
+        "https://shoes.tangma2088.com/productinfoen_2988673.html",
+        "https://shoes.tangma2088.com/productinfoen_2988672.html",
+        "https://shoes.tangma2088.com/productinfoen_2988671.html",
+        "https://shoes.tangma2088.com/productinfoen_2988670.html",
+        "https://shoes.tangma2088.com/productinfoen_2988669.html",
+        "https://shoes.tangma2088.com/productinfoen_2988668.html",
+        "https://shoes.tangma2088.com/productinfoen_2988667.html",
+        "https://shoes.tangma2088.com/productinfoen_2988666.html",
+        "https://shoes.tangma2088.com/productinfoen_2988665.html",
+        "https://shoes.tangma2088.com/productinfoen_2988664.html",
+        "https://shoes.tangma2088.com/productinfoen_2988663.html",
+        "https://shoes.tangma2088.com/productinfoen_2988662.html",
+        "https://shoes.tangma2088.com/productinfoen_2988661.html",
+        "https://shoes.tangma2088.com/productinfoen_2988660.html",
+        "https://shoes.tangma2088.com/productinfoen_2988659.html",
+        "https://shoes.tangma2088.com/productinfoen_2988658.html",
+        "https://shoes.tangma2088.com/productinfoen_2988657.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2001_2988674.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2002_2988673.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2003_2988672.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2004_2988671.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2005_2988670.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2006_2988669.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2007_2988668.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2008_2988667.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2009_2988666.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2010_2988665.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2011_2988664.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2012_2988663.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2013_2988662.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2014_2988661.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2015_2988660.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2016_2988659.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2017_2988658.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2018_2988657.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2019_2988656.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2020_2988655.jpg"
+      ],
+      "source_last_seen": "2026-07-23T17:13:44.580Z",
+      "name": "Valentino sz38-45 WM0702",
+      "english_product_name": "Valentino sz38-45 WM0702",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2988655",
+      "parent_product_id": "2988655",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/valentino-sz38-45-wm0702-2988655-1.jpg",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2001_2988674.jpg",
+          "content_hash": "ac48579f00f0e0d73f93547b31011603725c5863",
+          "alt": "Valentino sz38-45 WM0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz38-45-wm0702-2988655-2.jpg",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2002_2988673.jpg",
+          "content_hash": "3ace99ef029de92e2bcc0665a5010d76697ea0db",
+          "alt": "Valentino sz38-45 WM0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz38-45-wm0702-2988655-3.jpg",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2003_2988672.jpg",
+          "content_hash": "368b0d2447c5890b10c691be2ad2ba6f354ee347",
+          "alt": "Valentino sz38-45 WM0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz38-45-wm0702-2988655-4.jpg",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2004_2988671.jpg",
+          "content_hash": "1e28b56912429b5a72046945d58cdcc691ab3a8e",
+          "alt": "Valentino sz38-45 WM0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz38-45-wm0702-2988655-5.jpg",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2005_2988670.jpg",
+          "content_hash": "50353b23cc6b423f01b9ab088542f96caae214f8",
+          "alt": "Valentino sz38-45 WM0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz38-45-wm0702-2988655-6.jpg",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2006_2988669.jpg",
+          "content_hash": "a70a31108892a9a229d7be867d1100bcd6c15e38",
+          "alt": "Valentino sz38-45 WM0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz38-45-wm0702-2988655-7.jpg",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2007_2988668.jpg",
+          "content_hash": "2a9106c09d1981df6a005c083653764a7158c30c",
+          "alt": "Valentino sz38-45 WM0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz38-45-wm0702-2988655-8.jpg",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz38-45%20WM0702%2008_2988667.jpg",
+          "content_hash": "753016485dc7450e04b845f06986d28c7f58e7f8",
+          "alt": "Valentino sz38-45 WM0702"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-23T17:13:44.580Z",
+      "seo": {
+        "title": "Valentino sz38-45 WM0702 | TrendHolic Shoes",
+        "description": "Valentino sz38-45 WM0702 — Shoes. View images and details in the TrendHolic catalog.",
+        "canonical": "https://trendholic.github.io/catalog/product/valentino-sz38-45-wm0702-2988655/",
+        "og_image": "https://trendholic.github.io/data/shoes/images/valentino-sz38-45-wm0702-2988655-1.jpg"
+      }
+    }
+  ]
+}

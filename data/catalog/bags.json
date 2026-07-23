@@ -1,0 +1,516 @@
+{
+  "top": "Bags",
+  "slug": "bags",
+  "source_domain": "bags.tangma2088.com",
+  "subcategoriesDiscovered": 54,
+  "subcategories": [
+    {
+      "name": "LV Ori",
+      "slug": "lv-ori",
+      "source_path": "0_38931"
+    },
+    {
+      "name": "LV 1:1",
+      "slug": "lv-1-1",
+      "source_path": "0_6279"
+    },
+    {
+      "name": "Gucci Ori",
+      "slug": "gucci-ori",
+      "source_path": "0_41554"
+    },
+    {
+      "name": "Gucci 1:1",
+      "slug": "gucci-1-1",
+      "source_path": "0_31206"
+    },
+    {
+      "name": "Chanel Ori",
+      "slug": "chanel-ori",
+      "source_path": "0_42002"
+    },
+    {
+      "name": "Chanel 1:1",
+      "slug": "chanel-1-1",
+      "source_path": "0_6296"
+    },
+    {
+      "name": "Luggage",
+      "slug": "luggage",
+      "source_path": null
+    },
+    {
+      "name": "New Arrival 0720",
+      "slug": "new-arrival-0720",
+      "source_path": "0_29314"
+    },
+    {
+      "name": "Luggage",
+      "slug": "luggage",
+      "source_path": "0_38932"
+    },
+    {
+      "name": "2026 Dior Original",
+      "slug": "2026-dior-original",
+      "source_path": "0_2410"
+    },
+    {
+      "name": "2026 Dior 1:1",
+      "slug": "2026-dior-1-1",
+      "source_path": "0_51031"
+    },
+    {
+      "name": "2026 Armani",
+      "slug": "2026-armani",
+      "source_path": "0_23276"
+    },
+    {
+      "name": "2026 Alexander Wang",
+      "slug": "2026-alexander-wang",
+      "source_path": "0_23236"
+    },
+    {
+      "name": "2026 Burberry",
+      "slug": "2026-burberry",
+      "source_path": "0_11064"
+    },
+    {
+      "name": "2026 Bvlgari",
+      "slug": "2026-bvlgari",
+      "source_path": "0_90710"
+    },
+    {
+      "name": "2025 Balenciaga",
+      "slug": "2025-balenciaga",
+      "source_path": "0_11082"
+    },
+    {
+      "name": "2024 Bally",
+      "slug": "2024-bally",
+      "source_path": "0_23241"
+    },
+    {
+      "name": "2026 Bottega Veneta",
+      "slug": "2026-bottega-veneta",
+      "source_path": "0_11053"
+    },
+    {
+      "name": "2025 COACH",
+      "slug": "2025-coach",
+      "source_path": "0_11068"
+    },
+    {
+      "name": "2025 Celine",
+      "slug": "2025-celine",
+      "source_path": "0_11072"
+    },
+    {
+      "name": "2025 CHLOE",
+      "slug": "2025-chloe",
+      "source_path": "0_11074"
+    },
+    {
+      "name": "2026 DG",
+      "slug": "2026-dg",
+      "source_path": "0_23235"
+    },
+    {
+      "name": "2026 Demellier",
+      "slug": "2026-demellier",
+      "source_path": "0_155489"
+    },
+    {
+      "name": "2025 Delvaux",
+      "slug": "2025-delvaux",
+      "source_path": "0_101771"
+    },
+    {
+      "name": "2026 Fendi",
+      "slug": "2026-fendi",
+      "source_path": "0_2408"
+    },
+    {
+      "name": "2026 Givenchy",
+      "slug": "2026-givenchy",
+      "source_path": "0_11084"
+    },
+    {
+      "name": "2025 Goyard",
+      "slug": "2025-goyard",
+      "source_path": "0_23237"
+    },
+    {
+      "name": "2025 Hermes Original",
+      "slug": "2025-hermes-original",
+      "source_path": "0_43139"
+    },
+    {
+      "name": "2025 Hermes 1:1",
+      "slug": "2025-hermes-1-1",
+      "source_path": "0_6309"
+    },
+    {
+      "name": "2025 Issey Miyake",
+      "slug": "2025-issey-miyake",
+      "source_path": "0_23279"
+    },
+    {
+      "name": "2025 Jacquemus",
+      "slug": "2025-jacquemus",
+      "source_path": "0_48064"
+    },
+    {
+      "name": "2024 Kenzo 1:1",
+      "slug": "2024-kenzo-1-1",
+      "source_path": "0_23280"
+    },
+    {
+      "name": "2025 Loewe",
+      "slug": "2025-loewe",
+      "source_path": "0_23239"
+    },
+    {
+      "name": "2025 Loro piana",
+      "slug": "2025-loro-piana",
+      "source_path": "0_102526"
+    },
+    {
+      "name": "2024 Lanvin",
+      "slug": "2024-lanvin",
+      "source_path": "0_104086"
+    },
+    {
+      "name": "2026 Marc Jacobs",
+      "slug": "2026-marc-jacobs",
+      "source_path": "0_37771"
+    },
+    {
+      "name": "2024 Moschino",
+      "slug": "2024-moschino",
+      "source_path": "0_35714"
+    },
+    {
+      "name": "2025 Michael Kors",
+      "slug": "2025-michael-kors",
+      "source_path": "0_136826"
+    },
+    {
+      "name": "2024 MCM",
+      "slug": "2024-mcm",
+      "source_path": "0_6305"
+    },
+    {
+      "name": "2025 Miu Miu",
+      "slug": "2025-miu-miu",
+      "source_path": "0_23240"
+    },
+    {
+      "name": "2026 Mont Blanc",
+      "slug": "2026-mont-blanc",
+      "source_path": "0_23275"
+    },
+    {
+      "name": "2024 Off White",
+      "slug": "2024-off-white",
+      "source_path": "0_23229"
+    },
+    {
+      "name": "2025 Prada",
+      "slug": "2025-prada",
+      "source_path": "0_2412"
+    },
+    {
+      "name": "2025 YSL",
+      "slug": "2025-ysl",
+      "source_path": "0_2409"
+    },
+    {
+      "name": "2024 Philipp Plein",
+      "slug": "2024-philipp-plein",
+      "source_path": "0_23284"
+    },
+    {
+      "name": "2024 Pinko",
+      "slug": "2024-pinko",
+      "source_path": "0_36575"
+    },
+    {
+      "name": "2024 Tods 1:1",
+      "slug": "2024-tods-1-1",
+      "source_path": "0_71898"
+    },
+    {
+      "name": "2025 Valentino",
+      "slug": "2025-valentino",
+      "source_path": "0_1"
+    },
+    {
+      "name": "2025 VERSACE",
+      "slug": "2025-versace",
+      "source_path": "0_6308"
+    },
+    {
+      "name": "26 Stella Mccartney",
+      "slug": "26-stella-mccartney",
+      "source_path": "0_39326"
+    },
+    {
+      "name": "2025 Tory Burch",
+      "slug": "2025-tory-burch",
+      "source_path": "0_23233"
+    },
+    {
+      "name": "2024 Tom Ford",
+      "slug": "2024-tom-ford",
+      "source_path": "0_36560"
+    },
+    {
+      "name": "2024 Rimowa",
+      "slug": "2024-rimowa",
+      "source_path": "0_6302"
+    },
+    {
+      "name": "other Producing",
+      "slug": "other-producing",
+      "source_path": "0_35352"
+    }
+  ],
+  "productCount": 2,
+  "products": [
+    {
+      "slug": "prada-1be106-23x24-5x15cm-ap-2020006",
+      "top_category": "Bags",
+      "source_site": "bags",
+      "source_domain": "bags.tangma2088.com",
+      "source_top_category": "Bags",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2020015",
+      "source_parent_product_id": "2020006",
+      "source_product_url": "https://bags.tangma2088.com/productinfoen_2020015.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/prada-1be106-23x24-5x15cm-ap-2020006/",
+      "source_product_urls": [
+        "https://bags.tangma2088.com/productinfoen_2020015.html",
+        "https://bags.tangma2088.com/productinfoen_2020014.html",
+        "https://bags.tangma2088.com/productinfoen_2020013.html",
+        "https://bags.tangma2088.com/productinfoen_2020012.html",
+        "https://bags.tangma2088.com/productinfoen_2020011.html",
+        "https://bags.tangma2088.com/productinfoen_2020010.html",
+        "https://bags.tangma2088.com/productinfoen_2020009.html",
+        "https://bags.tangma2088.com/productinfoen_2020008.html",
+        "https://bags.tangma2088.com/productinfoen_2020007.html",
+        "https://bags.tangma2088.com/productinfoen_2020006.html"
+      ],
+      "source_image_urls": [
+        "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP1_2020015.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP2_2020014.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP3_2020013.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP4_2020012.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP5_2020011.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP6_2020010.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP7_2020009.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP8_2020008.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP9_2020007.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP10_2020006.jpg"
+      ],
+      "source_last_seen": "2026-07-23T17:12:25.297Z",
+      "name": "Prada 1BE106 23x24 5x15cm AP",
+      "english_product_name": "Prada 1BE106 23x24 5x15cm AP",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2020006",
+      "parent_product_id": "2020006",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/bags/images/prada-1be106-23x24-5x15cm-ap-2020006-1.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP1_2020015.jpg",
+          "content_hash": "d2b1810a148c6b87866c51ae7549683297abc459",
+          "alt": "Prada 1BE106 23x24 5x15cm AP"
+        },
+        {
+          "src": "/data/bags/images/prada-1be106-23x24-5x15cm-ap-2020006-2.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP2_2020014.jpg",
+          "content_hash": "ef028d530c9f7946a1c4f4f4726e42639db19bd1",
+          "alt": "Prada 1BE106 23x24 5x15cm AP"
+        },
+        {
+          "src": "/data/bags/images/prada-1be106-23x24-5x15cm-ap-2020006-3.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP3_2020013.jpg",
+          "content_hash": "7a9e56239f87a6a0fef651e7e8e4e3ac1fff8e14",
+          "alt": "Prada 1BE106 23x24 5x15cm AP"
+        },
+        {
+          "src": "/data/bags/images/prada-1be106-23x24-5x15cm-ap-2020006-4.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP4_2020012.jpg",
+          "content_hash": "36cf8e5382252b906e311d2f514d234205b23d55",
+          "alt": "Prada 1BE106 23x24 5x15cm AP"
+        },
+        {
+          "src": "/data/bags/images/prada-1be106-23x24-5x15cm-ap-2020006-5.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP5_2020011.jpg",
+          "content_hash": "c9b76260e74122a01d4e86963ae6a9fbddbd1afe",
+          "alt": "Prada 1BE106 23x24 5x15cm AP"
+        },
+        {
+          "src": "/data/bags/images/prada-1be106-23x24-5x15cm-ap-2020006-6.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP6_2020010.jpg",
+          "content_hash": "ec0a194f28c08a893a1624ccf9b16537532dcdd4",
+          "alt": "Prada 1BE106 23x24 5x15cm AP"
+        },
+        {
+          "src": "/data/bags/images/prada-1be106-23x24-5x15cm-ap-2020006-7.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP7_2020009.jpg",
+          "content_hash": "b2b93df8f5de22c09d15cfc316abb4f65cf0d91c",
+          "alt": "Prada 1BE106 23x24 5x15cm AP"
+        },
+        {
+          "src": "/data/bags/images/prada-1be106-23x24-5x15cm-ap-2020006-8.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP8_2020008.jpg",
+          "content_hash": "f0411a6a54154eaef4d1d5b6c404f890e8ec7b8e",
+          "alt": "Prada 1BE106 23x24 5x15cm AP"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-23T17:12:25.297Z",
+      "seo": {
+        "title": "Prada 1BE106 23x24 5x15cm AP | TrendHolic Bags",
+        "description": "Prada 1BE106 23x24 5x15cm AP — Bags. View images and details in the TrendHolic catalog.",
+        "canonical": "https://trendholic.github.io/catalog/product/prada-1be106-23x24-5x15cm-ap-2020006/",
+        "og_image": "https://trendholic.github.io/data/bags/images/prada-1be106-23x24-5x15cm-ap-2020006-1.jpg"
+      }
+    },
+    {
+      "slug": "ysl-niki-633158-28x20x8cm-8d-2019997",
+      "top_category": "Bags",
+      "source_site": "bags",
+      "source_domain": "bags.tangma2088.com",
+      "source_top_category": "Bags",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2020005",
+      "source_parent_product_id": "2019997",
+      "source_product_url": "https://bags.tangma2088.com/productinfoen_2020005.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/ysl-niki-633158-28x20x8cm-8d-2019997/",
+      "source_product_urls": [
+        "https://bags.tangma2088.com/productinfoen_2020005.html",
+        "https://bags.tangma2088.com/productinfoen_2020004.html",
+        "https://bags.tangma2088.com/productinfoen_2020003.html",
+        "https://bags.tangma2088.com/productinfoen_2020002.html",
+        "https://bags.tangma2088.com/productinfoen_2020001.html",
+        "https://bags.tangma2088.com/productinfoen_2020000.html",
+        "https://bags.tangma2088.com/productinfoen_2019999.html",
+        "https://bags.tangma2088.com/productinfoen_2019998.html"
+      ],
+      "source_image_urls": [
+        "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D31_2020005.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D32_2020004.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D33_2020003.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D34_2020002.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D35_2020001.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D36_2020000.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D37_2019999.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D38_2019998.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D39_2019997.jpg"
+      ],
+      "source_last_seen": "2026-07-23T17:12:25.297Z",
+      "name": "YSL niki 633158 28x20x8cm 8D",
+      "english_product_name": "YSL niki 633158 28x20x8cm 8D",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2019997",
+      "parent_product_id": "2019997",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/bags/images/ysl-niki-633158-28x20x8cm-8d-2019997-1.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D31_2020005.jpg",
+          "content_hash": "98b043076d5395646e20ae02f44339e1482a5cc6",
+          "alt": "YSL niki 633158 28x20x8cm 8D"
+        },
+        {
+          "src": "/data/bags/images/ysl-niki-633158-28x20x8cm-8d-2019997-2.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D32_2020004.jpg",
+          "content_hash": "5f35072bf9820f93075ef89e6af7f5be7d5306c0",
+          "alt": "YSL niki 633158 28x20x8cm 8D"
+        },
+        {
+          "src": "/data/bags/images/ysl-niki-633158-28x20x8cm-8d-2019997-3.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D33_2020003.jpg",
+          "content_hash": "806c4b86548d658d09f8be9087418a6e8da821e7",
+          "alt": "YSL niki 633158 28x20x8cm 8D"
+        },
+        {
+          "src": "/data/bags/images/ysl-niki-633158-28x20x8cm-8d-2019997-4.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D34_2020002.jpg",
+          "content_hash": "376848582f5b0b3ddf742975f4a92a7a2d8d1661",
+          "alt": "YSL niki 633158 28x20x8cm 8D"
+        },
+        {
+          "src": "/data/bags/images/ysl-niki-633158-28x20x8cm-8d-2019997-5.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D35_2020001.jpg",
+          "content_hash": "71ca0bd48d18d908487722a3dd088373e3940ae5",
+          "alt": "YSL niki 633158 28x20x8cm 8D"
+        },
+        {
+          "src": "/data/bags/images/ysl-niki-633158-28x20x8cm-8d-2019997-6.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D36_2020000.jpg",
+          "content_hash": "660759d8b884efff7fd8d568d1e6a11d2a8a29d0",
+          "alt": "YSL niki 633158 28x20x8cm 8D"
+        },
+        {
+          "src": "/data/bags/images/ysl-niki-633158-28x20x8cm-8d-2019997-7.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D37_2019999.jpg",
+          "content_hash": "050e45bce151d0f2792ddb6bc5256bd3e5674649",
+          "alt": "YSL niki 633158 28x20x8cm 8D"
+        },
+        {
+          "src": "/data/bags/images/ysl-niki-633158-28x20x8cm-8d-2019997-8.jpg",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/YSL%20niki%20633158%2028x20x8cm%208D38_2019998.jpg",
+          "content_hash": "8b4e5896a42fb6eeefe54cf97bc005360118e57f",
+          "alt": "YSL niki 633158 28x20x8cm 8D"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-23T17:12:25.297Z",
+      "seo": {
+        "title": "YSL niki 633158 28x20x8cm 8D | TrendHolic Bags",
+        "description": "YSL niki 633158 28x20x8cm 8D — Bags. View images and details in the TrendHolic catalog.",
+        "canonical": "https://trendholic.github.io/catalog/product/ysl-niki-633158-28x20x8cm-8d-2019997/",
+        "og_image": "https://trendholic.github.io/data/bags/images/ysl-niki-633158-28x20x8cm-8d-2019997-1.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "updatedAt": "2026-07-23T17:15:30.252Z",
+  "topCategories": [
+    {
+      "name": "Apparel",
+      "slug": "apparel",
+      "productCount": 1,
+      "subcategoriesDiscovered": 56
+    },
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "productCount": 4,
+      "subcategoriesDiscovered": 35
+    },
+    {
+      "name": "Bags",
+      "slug": "bags",
+      "productCount": 2,
+      "subcategoriesDiscovered": 54
+    },
+    {
+      "name": "Shoes",
+      "slug": "shoes",
+      "productCount": 1,
+      "subcategoriesDiscovered": 85
+    }
+  ],
+  "totals": {
+    "topCategories": 4,
+    "products": 8,
+    "subcategoriesDiscovered": 230
+  }
+}

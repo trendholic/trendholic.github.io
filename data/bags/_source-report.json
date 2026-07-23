@@ -1,0 +1,23 @@
+{
+  "source": "bags",
+  "top": "Bags",
+  "host": "bags.tangma2088.com",
+  "status": "ok",
+  "categories": 54,
+  "pagesFetched": 18,
+  "imageRecords": 18,
+  "physicalProducts": 2,
+  "collapsed": 16,
+  "new": 2,
+  "updated": 0,
+  "unchanged": 0,
+  "inactive": 0,
+  "imagesDiscovered": 16,
+  "imagesDownloaded": 16,
+  "imagesReused": 0,
+  "imageFailures": 0,
+  "invalidImages": 0,
+  "translations": 0,
+  "translationFailures": 0,
+  "failures": []
+}

@@ -1,0 +1,426 @@
+{
+  "top": "Apparel",
+  "slug": "apparel",
+  "source_domain": "tangma2088.com",
+  "subcategoriesDiscovered": 56,
+  "subcategories": [
+    {
+      "name": "2025 New",
+      "slug": "2025-new",
+      "source_path": "0_3"
+    },
+    {
+      "name": "Bikini",
+      "slug": "bikini",
+      "source_path": "0_981"
+    },
+    {
+      "name": "Dress",
+      "slug": "dress",
+      "source_path": "0_170"
+    },
+    {
+      "name": "Ralph Lauren",
+      "slug": "ralph-lauren",
+      "source_path": "0_68696"
+    },
+    {
+      "name": "Lacoste",
+      "slug": "lacoste",
+      "source_path": "0_67580"
+    },
+    {
+      "name": "High Quality 0801",
+      "slug": "high-quality-0801",
+      "source_path": null
+    },
+    {
+      "name": "By Style 0723",
+      "slug": "by-style-0723",
+      "source_path": "0_1580"
+    },
+    {
+      "name": "T Shirt 0723",
+      "slug": "t-shirt-0723",
+      "source_path": "0_11"
+    },
+    {
+      "name": "High Quality 0717",
+      "slug": "high-quality-0717",
+      "source_path": "0_139496"
+    },
+    {
+      "name": "Polo Short 0723",
+      "slug": "polo-short-0723",
+      "source_path": "0_10"
+    },
+    {
+      "name": "Jacket 0723",
+      "slug": "jacket-0723",
+      "source_path": "0_394"
+    },
+    {
+      "name": "Down Jacket 0720",
+      "slug": "down-jacket-0720",
+      "source_path": "0_87630"
+    },
+    {
+      "name": "Bikini 0613",
+      "slug": "bikini-0613",
+      "source_path": "0_58658"
+    },
+    {
+      "name": "Spring Summer Kid Clothes 0721",
+      "slug": "spring-summer-kid-clothes-0721",
+      "source_path": "0_345535"
+    },
+    {
+      "name": "Fashion Dress 0714",
+      "slug": "fashion-dress-0714",
+      "source_path": "0_155306"
+    },
+    {
+      "name": "Lululemon ALO 不接急单 0714",
+      "slug": "lululemon-alo-0714",
+      "source_path": "0_41628"
+    },
+    {
+      "name": "Louis Vuitton",
+      "slug": "louis-vuitton",
+      "source_path": "0_1595"
+    },
+    {
+      "name": "Gucci",
+      "slug": "gucci",
+      "source_path": "0_1602"
+    },
+    {
+      "name": "AF HOC",
+      "slug": "af-hoc",
+      "source_path": "0_65045"
+    },
+    {
+      "name": "Adidas NIKE Jordan",
+      "slug": "adidas-nike-jordan",
+      "source_path": "0_1618"
+    },
+    {
+      "name": "AAPE BAPE",
+      "slug": "aape-bape",
+      "source_path": "0_1619"
+    },
+    {
+      "name": "Amiri",
+      "slug": "amiri",
+      "source_path": "0_61968"
+    },
+    {
+      "name": "Armani",
+      "slug": "armani",
+      "source_path": "0_1616"
+    },
+    {
+      "name": "Balenciaga",
+      "slug": "balenciaga",
+      "source_path": "0_1615"
+    },
+    {
+      "name": "Balmain",
+      "slug": "balmain",
+      "source_path": "0_1614"
+    },
+    {
+      "name": "Burberry",
+      "slug": "burberry",
+      "source_path": "0_1611"
+    },
+    {
+      "name": "Chanel",
+      "slug": "chanel",
+      "source_path": "0_1610"
+    },
+    {
+      "name": "Chrome Hearts",
+      "slug": "chrome-hearts",
+      "source_path": "0_1609"
+    },
+    {
+      "name": "DG",
+      "slug": "dg",
+      "source_path": "0_1607"
+    },
+    {
+      "name": "Dior",
+      "slug": "dior",
+      "source_path": "0_1606"
+    },
+    {
+      "name": "DSQ",
+      "slug": "dsq",
+      "source_path": "0_1605"
+    },
+    {
+      "name": "Fear Of God",
+      "slug": "fear-of-god",
+      "source_path": "0_19629"
+    },
+    {
+      "name": "Fendi",
+      "slug": "fendi",
+      "source_path": "0_1604"
+    },
+    {
+      "name": "Gallery Dept",
+      "slug": "gallery-dept",
+      "source_path": "0_40865"
+    },
+    {
+      "name": "Givenchy",
+      "slug": "givenchy",
+      "source_path": "0_1603"
+    },
+    {
+      "name": "Juicy",
+      "slug": "juicy",
+      "source_path": "0_1600"
+    },
+    {
+      "name": "Moncler",
+      "slug": "moncler",
+      "source_path": "0_1593"
+    },
+    {
+      "name": "Moschino",
+      "slug": "moschino",
+      "source_path": "0_1592"
+    },
+    {
+      "name": "Off White",
+      "slug": "off-white",
+      "source_path": "0_1591"
+    },
+    {
+      "name": "Palm Angels",
+      "slug": "palm-angels",
+      "source_path": "0_1590"
+    },
+    {
+      "name": "Philipp Plein",
+      "slug": "philipp-plein",
+      "source_path": "0_1589"
+    },
+    {
+      "name": "Prada",
+      "slug": "prada",
+      "source_path": "0_1587"
+    },
+    {
+      "name": "REPRESENT",
+      "slug": "represent",
+      "source_path": "0_40773"
+    },
+    {
+      "name": "RHUDE",
+      "slug": "rhude",
+      "source_path": "0_49906"
+    },
+    {
+      "name": "Stone Island",
+      "slug": "stone-island",
+      "source_path": "0_1586"
+    },
+    {
+      "name": "Supreme",
+      "slug": "supreme",
+      "source_path": "0_1585"
+    },
+    {
+      "name": "Tommy",
+      "slug": "tommy",
+      "source_path": "0_1584"
+    },
+    {
+      "name": "Trapstar",
+      "slug": "trapstar",
+      "source_path": "0_45005"
+    },
+    {
+      "name": "Valentino",
+      "slug": "valentino",
+      "source_path": "0_1583"
+    },
+    {
+      "name": "Versace",
+      "slug": "versace",
+      "source_path": "0_1582"
+    },
+    {
+      "name": "YSL",
+      "slug": "ysl",
+      "source_path": "0_1581"
+    },
+    {
+      "name": "BOSS",
+      "slug": "boss",
+      "source_path": "0_1612"
+    },
+    {
+      "name": "CK",
+      "slug": "ck",
+      "source_path": "0_1608"
+    },
+    {
+      "name": "Hermes",
+      "slug": "hermes",
+      "source_path": "0_1601"
+    },
+    {
+      "name": "Kenzo",
+      "slug": "kenzo",
+      "source_path": "0_1599"
+    },
+    {
+      "name": "Hotsale updating",
+      "slug": "hotsale-updating",
+      "source_path": "0_9879"
+    }
+  ],
+  "productCount": 1,
+  "products": [
+    {
+      "slug": "burberry-m-3xl-mdtrv2431-5716322",
+      "top_category": "Apparel",
+      "source_site": "apparel",
+      "source_domain": "tangma2088.com",
+      "source_top_category": "Apparel",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "5716339",
+      "source_parent_product_id": "5716322",
+      "source_product_url": "https://tangma2088.com/productinfoen_5716339.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/burberry-m-3xl-mdtrv2431-5716322/",
+      "source_product_urls": [
+        "https://tangma2088.com/productinfoen_5716339.html",
+        "https://tangma2088.com/productinfoen_5716338.html",
+        "https://tangma2088.com/productinfoen_5716337.html",
+        "https://tangma2088.com/productinfoen_5716336.html",
+        "https://tangma2088.com/productinfoen_5716335.html",
+        "https://tangma2088.com/productinfoen_5716334.html",
+        "https://tangma2088.com/productinfoen_5716333.html",
+        "https://tangma2088.com/productinfoen_5716332.html",
+        "https://tangma2088.com/productinfoen_5716331.html",
+        "https://tangma2088.com/productinfoen_5716330.html",
+        "https://tangma2088.com/productinfoen_5716329.html",
+        "https://tangma2088.com/productinfoen_5716328.html",
+        "https://tangma2088.com/productinfoen_5716327.html",
+        "https://tangma2088.com/productinfoen_5716326.html",
+        "https://tangma2088.com/productinfoen_5716325.html",
+        "https://tangma2088.com/productinfoen_5716324.html",
+        "https://tangma2088.com/productinfoen_5716323.html",
+        "https://tangma2088.com/productinfoen_5716322.html"
+      ],
+      "source_image_urls": [
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(1)_5716322.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(2)_5716323.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(3)_5716324.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(4)_5716325.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(5)_5716326.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(6)_5716327.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(7)_5716328.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(8)_5716329.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(9)_5716330.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(10)_5716331.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(11)_5716332.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(12)_5716333.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(13)_5716334.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(14)_5716335.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(15)_5716336.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(16)_5716337.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(17)_5716338.jpg",
+        "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(18)_5716339.jpg"
+      ],
+      "source_last_seen": "2026-07-23T17:10:36.685Z",
+      "name": "Burberry M-3XL mdtrV2431",
+      "english_product_name": "Burberry M-3XL mdtrV2431",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "5716322",
+      "parent_product_id": "5716322",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/apparel/images/burberry-m-3xl-mdtrv2431-5716322-1.jpg",
+          "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(1)_5716322.jpg",
+          "content_hash": "dbbdeca69361fe87274f4f8013f5352df931adca",
+          "alt": "Burberry M-3XL mdtrV2431"
+        },
+        {
+          "src": "/data/apparel/images/burberry-m-3xl-mdtrv2431-5716322-2.jpg",
+          "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(2)_5716323.jpg",
+          "content_hash": "92223c4f31f9696bb9cf9f44dc1b076c0b43a16e",
+          "alt": "Burberry M-3XL mdtrV2431"
+        },
+        {
+          "src": "/data/apparel/images/burberry-m-3xl-mdtrv2431-5716322-3.jpg",
+          "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(3)_5716324.jpg",
+          "content_hash": "f1a6941a9454d8cbc2a9437452b1c6697480db45",
+          "alt": "Burberry M-3XL mdtrV2431"
+        },
+        {
+          "src": "/data/apparel/images/burberry-m-3xl-mdtrv2431-5716322-4.jpg",
+          "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(4)_5716325.jpg",
+          "content_hash": "c3310da61640dceb6f04567de05cc04b8aa8d57e",
+          "alt": "Burberry M-3XL mdtrV2431"
+        },
+        {
+          "src": "/data/apparel/images/burberry-m-3xl-mdtrv2431-5716322-5.jpg",
+          "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(5)_5716326.jpg",
+          "content_hash": "e4de60be8407e87b5bc493231af671f560c42e4c",
+          "alt": "Burberry M-3XL mdtrV2431"
+        },
+        {
+          "src": "/data/apparel/images/burberry-m-3xl-mdtrv2431-5716322-6.jpg",
+          "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(6)_5716327.jpg",
+          "content_hash": "94fcb6dd149e0fe011cab4406b44ce1cd834c2ea",
+          "alt": "Burberry M-3XL mdtrV2431"
+        },
+        {
+          "src": "/data/apparel/images/burberry-m-3xl-mdtrv2431-5716322-7.jpg",
+          "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(7)_5716328.jpg",
+          "content_hash": "b5bad513cadd9833a45d809e3608c2989c02ac27",
+          "alt": "Burberry M-3XL mdtrV2431"
+        },
+        {
+          "src": "/data/apparel/images/burberry-m-3xl-mdtrv2431-5716322-8.jpg",
+          "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%20mdtrV2431%20(8)_5716329.jpg",
+          "content_hash": "d148ae22348e8a00523e2ea2927aef3859a1c713",
+          "alt": "Burberry M-3XL mdtrV2431"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-23T17:10:36.685Z",
+      "seo": {
+        "title": "Burberry M-3XL mdtrV2431 | TrendHolic Apparel",
+        "description": "Burberry M-3XL mdtrV2431 — Apparel. View images and details in the TrendHolic catalog.",
+        "canonical": "https://trendholic.github.io/catalog/product/burberry-m-3xl-mdtrv2431-5716322/",
+        "og_image": "https://trendholic.github.io/data/apparel/images/burberry-m-3xl-mdtrv2431-5716322-1.jpg"
+      }
+    }
+  ]
+}

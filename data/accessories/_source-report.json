@@ -1,0 +1,23 @@
+{
+  "source": "accessories",
+  "top": "Accessories",
+  "host": "acc.tangma2088.com",
+  "status": "ok",
+  "categories": 35,
+  "pagesFetched": 18,
+  "imageRecords": 18,
+  "physicalProducts": 4,
+  "collapsed": 14,
+  "new": 4,
+  "updated": 0,
+  "unchanged": 0,
+  "inactive": 0,
+  "imagesDiscovered": 20,
+  "imagesDownloaded": 20,
+  "imagesReused": 0,
+  "imageFailures": 0,
+  "invalidImages": 0,
+  "translations": 0,
+  "translationFailures": 0,
+  "failures": []
+}

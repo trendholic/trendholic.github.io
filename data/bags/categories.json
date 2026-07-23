@@ -1,0 +1,387 @@
+{
+  "top": "Bags",
+  "source": "bags",
+  "host": "bags.tangma2088.com",
+  "count": 54,
+  "updatedAt": "2026-07-23T17:12:07.784Z",
+  "categories": [
+    {
+      "name": "LV Ori",
+      "slug": "lv-ori",
+      "source_url": "https://bags.tangma2088.com/categoryen_38931.html?path=0_38931",
+      "source_path": "0_38931",
+      "parent_path": "0"
+    },
+    {
+      "name": "LV 1:1",
+      "slug": "lv-1-1",
+      "source_url": "https://bags.tangma2088.com/categoryen_6279.html?path=0_6279",
+      "source_path": "0_6279",
+      "parent_path": "0"
+    },
+    {
+      "name": "Gucci Ori",
+      "slug": "gucci-ori",
+      "source_url": "https://bags.tangma2088.com/categoryen_41554.html?path=0_41554",
+      "source_path": "0_41554",
+      "parent_path": "0"
+    },
+    {
+      "name": "Gucci 1:1",
+      "slug": "gucci-1-1",
+      "source_url": "https://bags.tangma2088.com/categoryen_31206.html?path=0_31206",
+      "source_path": "0_31206",
+      "parent_path": "0"
+    },
+    {
+      "name": "Chanel Ori",
+      "slug": "chanel-ori",
+      "source_url": "https://bags.tangma2088.com/categoryen_42002.html?path=0_42002",
+      "source_path": "0_42002",
+      "parent_path": "0"
+    },
+    {
+      "name": "Chanel 1:1",
+      "slug": "chanel-1-1",
+      "source_url": "https://bags.tangma2088.com/categoryen_6296.html?path=0_6296",
+      "source_path": "0_6296",
+      "parent_path": "0"
+    },
+    {
+      "name": "Luggage",
+      "slug": "luggage",
+      "source_url": "https://bags.tangma2088.com/categoryen_38932.html",
+      "source_path": null,
+      "parent_path": null
+    },
+    {
+      "name": "New Arrival 0720",
+      "slug": "new-arrival-0720",
+      "source_url": "https://bags.tangma2088.com/categoryen_29314.html?path=0_29314",
+      "source_path": "0_29314",
+      "parent_path": "0"
+    },
+    {
+      "name": "Luggage",
+      "slug": "luggage",
+      "source_url": "https://bags.tangma2088.com/categoryen_38932.html?path=0_38932",
+      "source_path": "0_38932",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 Dior Original",
+      "slug": "2026-dior-original",
+      "source_url": "https://bags.tangma2088.com/categoryen_2410.html?path=0_2410",
+      "source_path": "0_2410",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 Dior 1:1",
+      "slug": "2026-dior-1-1",
+      "source_url": "https://bags.tangma2088.com/categoryen_51031.html?path=0_51031",
+      "source_path": "0_51031",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 Armani",
+      "slug": "2026-armani",
+      "source_url": "https://bags.tangma2088.com/categoryen_23276.html?path=0_23276",
+      "source_path": "0_23276",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 Alexander Wang",
+      "slug": "2026-alexander-wang",
+      "source_url": "https://bags.tangma2088.com/categoryen_23236.html?path=0_23236",
+      "source_path": "0_23236",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 Burberry",
+      "slug": "2026-burberry",
+      "source_url": "https://bags.tangma2088.com/categoryen_11064.html?path=0_11064",
+      "source_path": "0_11064",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 Bvlgari",
+      "slug": "2026-bvlgari",
+      "source_url": "https://bags.tangma2088.com/categoryen_90710.html?path=0_90710",
+      "source_path": "0_90710",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Balenciaga",
+      "slug": "2025-balenciaga",
+      "source_url": "https://bags.tangma2088.com/categoryen_11082.html?path=0_11082",
+      "source_path": "0_11082",
+      "parent_path": "0"
+    },
+    {
+      "name": "2024 Bally",
+      "slug": "2024-bally",
+      "source_url": "https://bags.tangma2088.com/categoryen_23241.html?path=0_23241",
+      "source_path": "0_23241",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 Bottega Veneta",
+      "slug": "2026-bottega-veneta",
+      "source_url": "https://bags.tangma2088.com/categoryen_11053.html?path=0_11053",
+      "source_path": "0_11053",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 COACH",
+      "slug": "2025-coach",
+      "source_url": "https://bags.tangma2088.com/categoryen_11068.html?path=0_11068",
+      "source_path": "0_11068",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Celine",
+      "slug": "2025-celine",
+      "source_url": "https://bags.tangma2088.com/categoryen_11072.html?path=0_11072",
+      "source_path": "0_11072",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 CHLOE",
+      "slug": "2025-chloe",
+      "source_url": "https://bags.tangma2088.com/categoryen_11074.html?path=0_11074",
+      "source_path": "0_11074",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 DG",
+      "slug": "2026-dg",
+      "source_url": "https://bags.tangma2088.com/categoryen_23235.html?path=0_23235",
+      "source_path": "0_23235",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 Demellier",
+      "slug": "2026-demellier",
+      "source_url": "https://bags.tangma2088.com/categoryen_155489.html?path=0_155489",
+      "source_path": "0_155489",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Delvaux",
+      "slug": "2025-delvaux",
+      "source_url": "https://bags.tangma2088.com/categoryen_101771.html?path=0_101771",
+      "source_path": "0_101771",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 Fendi",
+      "slug": "2026-fendi",
+      "source_url": "https://bags.tangma2088.com/categoryen_2408.html?path=0_2408",
+      "source_path": "0_2408",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 Givenchy",
+      "slug": "2026-givenchy",
+      "source_url": "https://bags.tangma2088.com/categoryen_11084.html?path=0_11084",
+      "source_path": "0_11084",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Goyard",
+      "slug": "2025-goyard",
+      "source_url": "https://bags.tangma2088.com/categoryen_23237.html?path=0_23237",
+      "source_path": "0_23237",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Hermes Original",
+      "slug": "2025-hermes-original",
+      "source_url": "https://bags.tangma2088.com/categoryen_43139.html?path=0_43139",
+      "source_path": "0_43139",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Hermes 1:1",
+      "slug": "2025-hermes-1-1",
+      "source_url": "https://bags.tangma2088.com/categoryen_6309.html?path=0_6309",
+      "source_path": "0_6309",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Issey Miyake",
+      "slug": "2025-issey-miyake",
+      "source_url": "https://bags.tangma2088.com/categoryen_23279.html?path=0_23279",
+      "source_path": "0_23279",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Jacquemus",
+      "slug": "2025-jacquemus",
+      "source_url": "https://bags.tangma2088.com/categoryen_48064.html?path=0_48064",
+      "source_path": "0_48064",
+      "parent_path": "0"
+    },
+    {
+      "name": "2024 Kenzo 1:1",
+      "slug": "2024-kenzo-1-1",
+      "source_url": "https://bags.tangma2088.com/categoryen_23280.html?path=0_23280",
+      "source_path": "0_23280",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Loewe",
+      "slug": "2025-loewe",
+      "source_url": "https://bags.tangma2088.com/categoryen_23239.html?path=0_23239",
+      "source_path": "0_23239",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Loro piana",
+      "slug": "2025-loro-piana",
+      "source_url": "https://bags.tangma2088.com/categoryen_102526.html?path=0_102526",
+      "source_path": "0_102526",
+      "parent_path": "0"
+    },
+    {
+      "name": "2024 Lanvin",
+      "slug": "2024-lanvin",
+      "source_url": "https://bags.tangma2088.com/categoryen_104086.html?path=0_104086",
+      "source_path": "0_104086",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 Marc Jacobs",
+      "slug": "2026-marc-jacobs",
+      "source_url": "https://bags.tangma2088.com/categoryen_37771.html?path=0_37771",
+      "source_path": "0_37771",
+      "parent_path": "0"
+    },
+    {
+      "name": "2024 Moschino",
+      "slug": "2024-moschino",
+      "source_url": "https://bags.tangma2088.com/categoryen_35714.html?path=0_35714",
+      "source_path": "0_35714",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Michael Kors",
+      "slug": "2025-michael-kors",
+      "source_url": "https://bags.tangma2088.com/categoryen_136826.html?path=0_136826",
+      "source_path": "0_136826",
+      "parent_path": "0"
+    },
+    {
+      "name": "2024 MCM",
+      "slug": "2024-mcm",
+      "source_url": "https://bags.tangma2088.com/categoryen_6305.html?path=0_6305",
+      "source_path": "0_6305",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Miu Miu",
+      "slug": "2025-miu-miu",
+      "source_url": "https://bags.tangma2088.com/categoryen_23240.html?path=0_23240",
+      "source_path": "0_23240",
+      "parent_path": "0"
+    },
+    {
+      "name": "2026 Mont Blanc",
+      "slug": "2026-mont-blanc",
+      "source_url": "https://bags.tangma2088.com/categoryen_23275.html?path=0_23275",
+      "source_path": "0_23275",
+      "parent_path": "0"
+    },
+    {
+      "name": "2024 Off White",
+      "slug": "2024-off-white",
+      "source_url": "https://bags.tangma2088.com/categoryen_23229.html?path=0_23229",
+      "source_path": "0_23229",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Prada",
+      "slug": "2025-prada",
+      "source_url": "https://bags.tangma2088.com/categoryen_2412.html?path=0_2412",
+      "source_path": "0_2412",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 YSL",
+      "slug": "2025-ysl",
+      "source_url": "https://bags.tangma2088.com/categoryen_2409.html?path=0_2409",
+      "source_path": "0_2409",
+      "parent_path": "0"
+    },
+    {
+      "name": "2024 Philipp Plein",
+      "slug": "2024-philipp-plein",
+      "source_url": "https://bags.tangma2088.com/categoryen_23284.html?path=0_23284",
+      "source_path": "0_23284",
+      "parent_path": "0"
+    },
+    {
+      "name": "2024 Pinko",
+      "slug": "2024-pinko",
+      "source_url": "https://bags.tangma2088.com/categoryen_36575.html?path=0_36575",
+      "source_path": "0_36575",
+      "parent_path": "0"
+    },
+    {
+      "name": "2024 Tods 1:1",
+      "slug": "2024-tods-1-1",
+      "source_url": "https://bags.tangma2088.com/categoryen_71898.html?path=0_71898",
+      "source_path": "0_71898",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Valentino",
+      "slug": "2025-valentino",
+      "source_url": "https://bags.tangma2088.com/categoryen_1.html?path=0_1",
+      "source_path": "0_1",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 VERSACE",
+      "slug": "2025-versace",
+      "source_url": "https://bags.tangma2088.com/categoryen_6308.html?path=0_6308",
+      "source_path": "0_6308",
+      "parent_path": "0"
+    },
+    {
+      "name": "26 Stella Mccartney",
+      "slug": "26-stella-mccartney",
+      "source_url": "https://bags.tangma2088.com/categoryen_39326.html?path=0_39326",
+      "source_path": "0_39326",
+      "parent_path": "0"
+    },
+    {
+      "name": "2025 Tory Burch",
+      "slug": "2025-tory-burch",
+      "source_url": "https://bags.tangma2088.com/categoryen_23233.html?path=0_23233",
+      "source_path": "0_23233",
+      "parent_path": "0"
+    },
+    {
+      "name": "2024 Tom Ford",
+      "slug": "2024-tom-ford",
+      "source_url": "https://bags.tangma2088.com/categoryen_36560.html?path=0_36560",
+      "source_path": "0_36560",
+      "parent_path": "0"
+    },
+    {
+      "name": "2024 Rimowa",
+      "slug": "2024-rimowa",
+      "source_url": "https://bags.tangma2088.com/categoryen_6302.html?path=0_6302",
+      "source_path": "0_6302",
+      "parent_path": "0"
+    },
+    {
+      "name": "other Producing",
+      "slug": "other-producing",
+      "source_url": "https://bags.tangma2088.com/categoryen_35352.html?path=0_35352",
+      "source_path": "0_35352",
+      "parent_path": "0"
+    }
+  ]
+}

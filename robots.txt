@@ -1,0 +1,4 @@
+# managed-by: trendholic-product-sync
+User-agent: *
+Allow: /
+Sitemap: https://trendholic.github.io/sitemap.xml

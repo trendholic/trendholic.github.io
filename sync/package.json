@@ -7,8 +7,11 @@
   "engines": { "node": ">=20" },
   "scripts": {
     "sync": "node src/index.js",
-    "sync:dry": "DRY_RUN=1 node src/index.js",
+    "sync:all": "node src/sync-all.js",
+    "build:catalog": "node src/build-catalog.js",
     "validate": "node scripts/validate.js",
+    "test": "node --test src/grouping.test.mjs",
+    "sync:dry": "DRY_RUN=1 node src/index.js",
     "check": "node --check src/index.js"
   },
   "dependencies": {
