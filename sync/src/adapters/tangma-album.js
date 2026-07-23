@@ -11,8 +11,14 @@ import { absolute, cleanText } from "../util.js";
 const PRODUCT_RE = /productinfoen_(\d+)\.html/i;
 const CATEGORY_RE = /categoryen_\d+\.html/i;
 
+// Per-source album suffix in the <title>:
+//   Apparel "-Fashion Album" · Accessories "-Accessory丨YG" ·
+//   Bags "-Bags丨Tangmir" · Shoes "-Shoes丨Yangguang". (The clean product name
+//   is normally taken from the image base via grouping.js; this is a fallback.)
 const stripSuffix = (t) =>
-  cleanText(String(t || "").replace(/-\s*(Fashion Album|服饰相册|相册)\s*$/i, ""));
+  cleanText(String(t || "")
+    .replace(/-\s*[^-]*丨[^-]*$/u, "")                       // "-<Album>丨<code>"
+    .replace(/-\s*(Fashion Album|服饰相册|相册)\s*$/i, ""));
 
 export function createTangmaAlbumAdapter(source) {
   return {

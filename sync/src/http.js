@@ -50,16 +50,31 @@ async function curlGet(url) {
   } finally { try { fs.rmSync(hdr, { force: true }); fs.rmSync(body, { force: true }); } catch { /* noop */ } }
 }
 
-// try native, fall back to curl on network error or 5xx/429
-async function rawGet(url) {
-  try {
-    const r = await nativeGet(url);
-    if (r.status === 429 || r.status >= 500) throw new Error(`HTTP ${r.status}`);
-    return r;
-  } catch (e) {
-    try { return await curlGet(url); }
-    catch (e2) { throw new Error(`fetch failed (${e.message}); curl failed (${e2.message})`); }
+// try native, fall back to curl on network error or 5xx/429. Once native fetch
+// fails for a host (e.g. proxy DNS 503), skip native for that host thereafter
+// and go straight to curl — avoids wasting a native round-trip per request.
+const nativeBroken = new Set();
+async function curlWithRetry(url) {
+  let lastErr = "";
+  for (let i = 1; i <= 3; i++) {
+    try { const r = await curlGet(url); if (r.status === 429 || r.status >= 500) { lastErr = `HTTP ${r.status}`; } else return r; }
+    catch (e) { lastErr = e.message; }
+    await sleep(600 * i);
   }
+  throw new Error(`curl failed: ${lastErr}`);
+}
+async function rawGet(url) {
+  const host = (() => { try { return new URL(url).host; } catch { return url; } })();
+  if (!nativeBroken.has(host)) {
+    try {
+      const r = await nativeGet(url);
+      if (r.status === 429 || r.status >= 500) throw new Error(`HTTP ${r.status}`);
+      return r;
+    } catch (e) {
+      nativeBroken.add(host); // this host is unreliable via native fetch → use curl
+    }
+  }
+  return curlWithRetry(url);
 }
 
 async function withRetry(fn, label) {

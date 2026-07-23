@@ -1,0 +1,28 @@
+{
+  "source": "bags",
+  "top": "Bags",
+  "adapter": "bags",
+  "verified": false,
+  "host": "bags.tangma2088.com",
+  "categoriesSeen": 54,
+  "productsFound": 2,
+  "productsWritten": 2,
+  "imagesDownloaded": 10,
+  "imageFailures": 0,
+  "products": [
+    {
+      "slug": "prada-1be106-23x24-5x15cm-ap-5-bags-tangmir-2020015",
+      "name": "Prada 1BE106 23x24 5x15cm AP_5-Bags丨Tangmir",
+      "id": "2020015",
+      "images": 5
+    },
+    {
+      "slug": "prada-1be106-23x24-5x15cm-ap-5-bags-tangmir-2020014",
+      "name": "Prada 1BE106 23x24 5x15cm AP_5-Bags丨Tangmir",
+      "id": "2020014",
+      "images": 5
+    }
+  ],
+  "failures": [],
+  "flags": []
+}
