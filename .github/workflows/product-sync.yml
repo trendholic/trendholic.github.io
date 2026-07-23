@@ -1,0 +1,72 @@
+name: Nightly Product Sync
+
+# Runs every night and on manual dispatch. NOTE: GitHub only runs scheduled
+# workflows from the repository's DEFAULT branch, so this activates once merged.
+on:
+  schedule:
+    - cron: "0 3 * * *"        # 03:00 UTC nightly
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (crawl + translate, write nothing)"
+        type: boolean
+        default: false
+
+# Allow the job to commit generated data back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: product-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        working-directory: sync
+        run: npm install --no-audit --no-fund
+
+      - name: Install Playwright Chromium (only if JS rendering enabled)
+        if: ${{ vars.RENDER_MODE == 'always' || vars.RENDER_MODE == 'auto' }}
+        working-directory: sync
+        run: npx playwright install --with-deps chromium
+
+      - name: Run sync
+        working-directory: sync
+        env:
+          # Secrets/vars are configured in the repo settings — never in code.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TRANSLATE_PROVIDER: ${{ vars.TRANSLATE_PROVIDER || 'anthropic' }}
+          SOURCE_BASE_URL: ${{ vars.SOURCE_BASE_URL || 'https://macc.tangma2088.com' }}
+          SEED_CATEGORIES: ${{ vars.SEED_CATEGORIES }}
+          RENDER_MODE: ${{ vars.RENDER_MODE || 'auto' }}
+          SITE_BASE_URL: "https://trendholic.github.io"
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: npm run sync
+
+      - name: Commit & push updates
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name  "trendholic-sync[bot]"
+          git config user.email "sync-bot@users.noreply.github.com"
+          # Only stage generated data — never retail files.
+          git add data sitemap.xml sync/.state sync/logs 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No catalog changes."
+            exit 0
+          fi
+          SUMMARY=$(node -e "try{const l=require('./data/sync-log.json');console.log(\`+\${l.added} ~\${l.updated} -\${l.removed} (\${l.failures} fail)\`)}catch(e){console.log('update')}")
+          git commit -m "chore(sync): nightly catalog update — ${SUMMARY}" \
+                     -m "Automated supplier sync. See data/sync-log.json for details."
+          git push

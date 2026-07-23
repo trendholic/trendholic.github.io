@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Product Catalog · TrendHolic</title>
+<meta name="description" content="Browse the full TrendHolic product catalog by category.">
+<!-- Standalone additive viewer. Reads generated JSON in /data. Does NOT modify
+     or depend on the existing retail storefront. -->
+<style>
+  :root{--ink:#0B1929;--paper:#F6F3EE;--card:#fff;--rule:#e4ded4;--gold:#A9781F;--muted:#6a7683}
+  @media(prefers-color-scheme:dark){:root{--ink:#ece7df;--paper:#0d141c;--card:#141e29;--rule:#243240;--gold:#d4a24c;--muted:#8394a3}}
+  *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.5}
+  header{padding:18px 20px;border-bottom:1px solid var(--rule);display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+  .brand{font-weight:700;font-size:1.15rem}.brand b{color:var(--gold)}
+  input{flex:1;min-width:180px;padding:9px 12px;border:1px solid var(--rule);border-radius:8px;background:var(--card);color:var(--ink)}
+  main{max-width:1150px;margin:0 auto;padding:20px}
+  h2{font-size:1rem;text-transform:uppercase;letter-spacing:.06em;color:var(--gold);margin:26px 0 10px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:16px}
+  .card{background:var(--card);border:1px solid var(--rule);border-radius:12px;overflow:hidden}
+  .card img{width:100%;height:150px;object-fit:cover;background:var(--paper)}
+  .card .b{padding:11px 12px}.card .nm{font-size:.86rem;font-weight:600;min-height:2.3em}
+  .card .br{font-size:.72rem;color:var(--muted);text-transform:uppercase}
+  .muted{color:var(--muted)}.state{padding:60px 20px;text-align:center;color:var(--muted)}
+  a{color:inherit;text-decoration:none}
+  nav a{display:inline-block;margin-right:12px;font-size:.85rem;color:var(--muted)}
+  .back{font-size:.85rem;color:var(--muted)}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand"><b>TREND</b>HOLIC — Catalog</div>
+  <input id="q" placeholder="Search products, brands, models…">
+  <a class="back" href="/index.html">← Store</a>
+</header>
+<main>
+  <nav id="cats"></nav>
+  <div id="view"><div class="state">Loading catalog…</div></div>
+</main>
+<script type="module">
+const view = document.getElementById("view"), cats = document.getElementById("cats"), q = document.getElementById("q");
+const esc = s => String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let index = [];
+
+async function jget(u){ const r = await fetch(u,{cache:"no-cache"}); if(!r.ok) throw new Error(r.status); return r.json(); }
+
+function card(p){
+  const img = p.image ? `<img src="${esc(p.image)}" alt="${esc(p.brand+' '+p.name)}" loading="lazy">` : `<div style="height:150px"></div>`;
+  return `<a class="card" href="${esc(p.url)}">${img}<div class="b">
+    <div class="br">${esc(p.brand||"")}</div><div class="nm">${esc(p.name)}</div>
+    ${p.model?`<div class="muted" style="font-size:.72rem">${esc(p.model)}</div>`:""}</div></a>`;
+}
+
+function render(list, title){
+  view.innerHTML = title?`<h2>${esc(title)}</h2>`:"";
+  if(!list.length){ view.innerHTML += `<div class="state">No products found.</div>`; return; }
+  view.innerHTML += `<div class="grid">${list.map(card).join("")}</div>`;
+}
+
+try{
+  const idx = await jget("/data/search-index.json"); index = idx.records || [];
+  const meta = await jget("/data/catalog/_index.json").catch(()=>({categories:[]}));
+  cats.innerHTML = `<a href="#" data-all>All (${index.length})</a>` +
+    (meta.categories||[]).map(c=>`<a href="#" data-cat="${esc(c.slug)}">${esc(c.name)} (${c.count})</a>`).join("");
+  cats.addEventListener("click",(e)=>{
+    const a=e.target.closest("a"); if(!a) return; e.preventDefault();
+    if(a.dataset.all!==undefined) render(index,"All products");
+    else render(index.filter(p=>p.categorySlug===a.dataset.cat), a.textContent);
+  });
+  render(index, "All products");
+}catch(e){
+  view.innerHTML = `<div class="state">Catalog data not generated yet.<br>
+    Run the product sync (see <code>sync/README.md</code>) to populate <code>/data</code>.</div>`;
+}
+
+q.addEventListener("input",()=>{
+  const t=q.value.trim().toLowerCase();
+  if(!t){ render(index,"All products"); return; }
+  render(index.filter(p=>`${p.name} ${p.brand} ${p.model} ${p.sku} ${(p.keywords||[]).join(" ")}`.toLowerCase().includes(t)), `Results: "${t}"`);
+});
+</script>
+</body>
+</html>

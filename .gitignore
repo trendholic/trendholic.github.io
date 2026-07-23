@@ -8,3 +8,6 @@ assets/config.js
 supabase/.env
 supabase/.branches
 supabase/.temp
+
+# product sync
+sync/node_modules/
