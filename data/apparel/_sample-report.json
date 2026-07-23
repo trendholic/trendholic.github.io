@@ -1,0 +1,28 @@
+{
+  "source": "apparel",
+  "top": "Apparel",
+  "adapter": "apparel",
+  "verified": true,
+  "host": "tangma2088.com",
+  "categoriesSeen": 56,
+  "productsFound": 2,
+  "productsWritten": 2,
+  "imagesDownloaded": 10,
+  "imageFailures": 0,
+  "products": [
+    {
+      "slug": "balenciaga-xs-l-20tr150-5-5715909",
+      "name": "Balenciaga XS-L 20tr150 (5)",
+      "id": "5715909",
+      "images": 5
+    },
+    {
+      "slug": "balenciaga-xs-l-20tr150-5-5715908",
+      "name": "Balenciaga XS-L 20tr150 (5)",
+      "id": "5715908",
+      "images": 5
+    }
+  ],
+  "failures": [],
+  "flags": []
+}

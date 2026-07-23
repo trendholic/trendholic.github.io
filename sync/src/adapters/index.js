@@ -1,36 +1,26 @@
-// adapters/index.js — adapter registry. Selects the site adapter by hostname,
-// falling back to a generic adapter. Add a new supplier by dropping in one file
-// and registering it here.
-import { createAdapter } from "./base.js";
-import tangma2088, { hostMatch as tangmaMatch, SELECTORS as tangmaSel } from "./tangma2088.js";
+// adapters/index.js — multi-source adapter registry, keyed by hostname.
+// Each supplier domain gets its own adapter file; add a supplier by dropping in
+// one file and registering it here. The source DOMAIN determines the top-level
+// catalog category (Apparel/Accessories/Bags/Shoes).
+import { createTangmaAlbumAdapter } from "./tangma-album.js";
+import apparel,     { hostMatch as apparelMatch,     verified as apparelV }     from "./apparel.js";
+import accessories, { hostMatch as accessoriesMatch, verified as accessoriesV } from "./accessories.js";
+import bags,        { hostMatch as bagsMatch,        verified as bagsV }        from "./bags.js";
+import shoes,       { hostMatch as shoesMatch,       verified as shoesV }       from "./shoes.js";
 
-// Generic fallback (JSON-LD/OG heavy, loose CSS). Works for many stores as-is.
-const GENERIC = createAdapter({
-  categoryLinks: "nav a, .category a, .menu a, .product-category a",
-  productLinks: ".product a, .product-item a, li.item a, .card a",
-  nextPage: "a.next, .pagination a[rel='next'], a[rel='next']",
-  categoryTitle: "h1, .page-title",
-  name: "h1, .product-title",
-  sku: "[itemprop='sku'], .sku",
-  brand: "[itemprop='brand'], .brand",
-  modelNumber: "[itemprop='model'], .model",
-  description: "[itemprop='description'], #description, .description",
-  specsTable: "table.spec, .specifications table, table",
-  features: ".features li, #features li",
-  technicalData: ".technical, #technical",
-  images: "[itemprop='image'], .product-image img, .gallery img",
-  pdfLinks: "a[href$='.pdf']",
-  variations: ".variations option, .variant",
-});
+const GENERIC = createTangmaAlbumAdapter({ key: "generic", top: "Uncategorized" });
 
 const REGISTRY = [
-  { match: tangmaMatch, adapter: tangma2088, id: "tangma2088" },
+  { id: "accessories", match: accessoriesMatch, adapter: accessories, verified: accessoriesV, top: "Accessories" },
+  { id: "bags",        match: bagsMatch,        adapter: bags,        verified: bagsV,        top: "Bags" },
+  { id: "shoes",       match: shoesMatch,       adapter: shoes,       verified: shoesV,       top: "Shoes" },
+  { id: "apparel",     match: apparelMatch,     adapter: apparel,     verified: apparelV,     top: "Apparel" },
 ];
 
 export function getAdapter(baseUrl) {
   let host = ""; try { host = new URL(baseUrl).host; } catch { /* noop */ }
   const hit = REGISTRY.find((r) => r.match(host));
-  return { id: hit?.id || "generic", adapter: hit?.adapter || GENERIC };
+  return hit
+    ? { id: hit.id, adapter: hit.adapter, verified: hit.verified, top: hit.top }
+    : { id: "generic", adapter: GENERIC, verified: false, top: "Uncategorized" };
 }
-
-export { tangmaSel };

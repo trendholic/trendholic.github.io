@@ -13,6 +13,22 @@ const bool = (k, d = false) => ["1", "true", "yes", "on"].includes(String(env(k,
 const int = (k, d) => { const n = parseInt(env(k, d), 10); return Number.isFinite(n) ? n : d; };
 
 export const CONFIG = {
+  // ---- Multi-source catalog (4 supplier domains → 4 top categories) --------
+  // The source DOMAIN authoritatively determines the top-level catalog category.
+  // A product found on an unexpected domain is flagged, never silently assigned.
+  sources: [
+    { key: "apparel",     top: "Apparel",     baseUrl: "https://tangma2088.com",      lang: "en" },
+    { key: "accessories", top: "Accessories", baseUrl: "https://acc.tangma2088.com",  lang: "en" },
+    { key: "bags",        top: "Bags",        baseUrl: "https://bags.tangma2088.com", lang: "en" },
+    { key: "shoes",       top: "Shoes",       baseUrl: "https://shoes.tangma2088.com",lang: "en" },
+  ],
+  domainToTop: {
+    "tangma2088.com": "Apparel",
+    "acc.tangma2088.com": "Accessories",
+    "bags.tangma2088.com": "Bags",
+    "shoes.tangma2088.com": "Shoes",
+  },
+
   // ---- Source --------------------------------------------------------------
   source: {
     baseUrl: env("SOURCE_BASE_URL", "https://macc.tangma2088.com"),
