@@ -8,6 +8,7 @@
   "scripts": {
     "sync": "node src/index.js",
     "sync:dry": "DRY_RUN=1 node src/index.js",
+    "validate": "node scripts/validate.js",
     "check": "node --check src/index.js"
   },
   "dependencies": {

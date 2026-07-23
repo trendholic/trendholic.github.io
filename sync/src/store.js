@@ -8,7 +8,12 @@ import fs from "node:fs";
 import path from "node:path";
 import CONFIG from "../config.js";
 import log from "./logger.js";
-import { productHash, slugify } from "./util.js";
+import { productHash, slugify, sha1 } from "./util.js";
+
+// Stable identity for a product across runs: SKU when present, else source URL.
+// Independent of the (translation-derived) slug, so keys never drift.
+export const productKey = (p) =>
+  p.sku ? "sku:" + slugify(p.sku, 60) : "url:" + sha1(p.sourceUrl || p.slug || p.name || "");
 
 const write = (file, obj) => {
   if (CONFIG.dryRun) return;
@@ -22,7 +27,14 @@ export function loadState() {
   catch { return { products: {}, categories: [], updatedAt: null }; }
 }
 
-const keyOf = (p) => (p.sku ? "sku:" + slugify(p.sku, 60) : "slug:" + p.slug);
+// Load a previously-written product JSON (used by incremental sync to reuse
+// unchanged products without re-translating or re-downloading assets).
+export function readProductFile(slug) {
+  try { return JSON.parse(fs.readFileSync(path.join(CONFIG.out.productsDir, `${slug}.json`), "utf8")); }
+  catch { return null; }
+}
+
+const keyOf = productKey;
 
 // catalog: { [categorySlug]: { category:{name,slug,sourceUrl}, products:[...] } }
 // crawledCategorySlugs: Set of categories that completed without a hard error.
@@ -44,10 +56,11 @@ export function commit(catalog, crawledCategorySlugs) {
       else if (before.hash !== hash) report.updated.push(p.sku || p.slug);
       else report.unchanged++;
       nextState.products[k] = {
-        hash, category: slug, slug: p.slug, sku: p.sku || null,
+        hash, rawHash: p._rawHash || null, category: slug, slug: p.slug, sku: p.sku || null,
         sourceUrl: p.sourceUrl, firstSeen: before?.firstSeen || nextState.updatedAt, lastSeen: nextState.updatedAt,
       };
-      write(path.join(CONFIG.out.productsDir, `${p.slug}.json`), p);
+      const { _rawHash, ...clean } = p;       // keep internal fields out of the file
+      write(path.join(CONFIG.out.productsDir, `${p.slug}.json`), clean);
     }
 
     write(path.join(CONFIG.out.catalogDir, `${slug}.json`), {
@@ -79,6 +92,7 @@ export function commit(catalog, crawledCategorySlugs) {
 }
 
 export function writeSyncLog(report, logResult) {
+  const c = logResult.counters;
   write(CONFIG.out.syncLog, {
     finishedAt: new Date().toISOString(),
     added: report.added.length,
@@ -86,7 +100,12 @@ export function writeSyncLog(report, logResult) {
     unchanged: report.unchanged,
     removed: report.removed.length,
     categories: report.categories,
-    failures: logResult.counters.failed,
-    detail: report,
+    crawlStats: { categories: c.categories, productUrls: c.productUrls, productsOk: c.ok },
+    translationFailures: c.translateFailed,
+    downloadFailures: c.downloadFailed,
+    crawlFailures: c.failed,
+    failures: c.failed,
+    detail: { new: report.added, updated: report.updated, removed: report.removed },
+    failureLog: logResult.failures.slice(0, 200),
   });
 }

@@ -4,9 +4,11 @@ import CONFIG from "../config.js";
 import log from "./logger.js";
 import { fetchHtml } from "./http.js";
 import { renderHtml, looksBlocked } from "./browser.js";
-import * as adapter from "./adapter.js";
+import { getAdapter } from "./adapters/index.js";
 
 const BASE = CONFIG.source.baseUrl.replace(/\/$/, "");
+const { adapter, id: adapterId } = getAdapter(CONFIG.source.baseUrl);
+export { adapterId };
 
 // Load HTML, using a headless browser when needed (JS render / anti-bot).
 async function loadHtml(url) {

@@ -55,7 +55,12 @@ jobs:
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
         run: npm run sync
 
-      - name: Commit & push updates
+      - name: Validate generated catalog (deploy gate)
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        working-directory: sync
+        run: npm run validate   # non-zero exit here blocks the commit + deploy
+
+      - name: Commit & push updates (auto-deploys GitHub Pages)
         if: ${{ github.event.inputs.dry_run != 'true' }}
         run: |
           git config user.name  "trendholic-sync[bot]"

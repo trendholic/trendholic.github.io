@@ -36,10 +36,13 @@ async function translateAnthropic(text) {
       model: CONFIG.translate.model,
       max_tokens: 1500,
       system:
-        "You are a professional product-copy translator. Translate the user's text into clear, " +
-        "professional American English suitable for an e-commerce catalog. Preserve meaning, units, " +
-        "numbers and formatting (line breaks, lists). Do NOT translate or alter brand names, model " +
-        "numbers, SKUs, or measurement units. Return ONLY the translated text, with no preamble.",
+        "You are a professional product-copy translator for an e-commerce catalog. Translate the " +
+        "user's text into clear, professional American English. Preserve meaning and formatting " +
+        "(line breaks, lists, key: value pairs). You MUST reproduce the following EXACTLY, character " +
+        "for character, never translating or altering them: brand names, model numbers, SKUs, part " +
+        "numbers, technical specification values, measurements, numbers, and units (mm, cm, kg, V, W, " +
+        "Hz, °C, in, oz, etc.). You may translate descriptive labels (e.g. a Chinese spec label) into " +
+        "English but keep the accompanying value/unit verbatim. Return ONLY the translated text, no preamble.",
       messages: [{ role: "user", content: text }],
     }),
   });
@@ -61,6 +64,7 @@ async function translateOne(text) {
     cache[k] = out;
     log.count.translated++;
   } catch (e) {
+    log.count.translateFailed++;
     log.warn(`translation failed (kept original): ${e.message}`);
     out = t; // never lose data on translation failure
   }

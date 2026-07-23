@@ -4,7 +4,12 @@ import path from "node:path";
 import CONFIG from "../config.js";
 
 const failures = [];
-const counters = { ok: 0, failed: 0, skipped: 0, translated: 0, images: 0 };
+const counters = {
+  ok: 0, failed: 0, skipped: 0, unchanged: 0,
+  translated: 0, translateFailed: 0,
+  images: 0, downloadFailed: 0,
+  categories: 0, productUrls: 0,
+};
 
 const ts = () => new Date().toISOString();
 const line = (level, msg) => console.log(`${ts()} [${level}] ${msg}`);

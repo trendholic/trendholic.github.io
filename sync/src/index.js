@@ -11,10 +11,13 @@ import { translateProduct, persistTranslationCache } from "./translate.js";
 import { processImages, processPdfs } from "./images.js";
 import { buildSlug, buildSeo } from "./seo.js";
 import { dedupe } from "./dedupe.js";
-import { commit, writeSyncLog } from "./store.js";
+import { commit, writeSyncLog, loadState, readProductFile, productKey } from "./store.js";
 import { writeSitemap } from "./sitemap.js";
 import { writeSearchIndex } from "./searchindex.js";
-import { slugify } from "./util.js";
+import { writeRobots } from "./robots.js";
+import { slugify, productHash } from "./util.js";
+
+const STATE = loadState();
 
 async function main() {
   const started = Date.now();
@@ -32,6 +35,7 @@ async function main() {
 
   for (const category of categories) {
     const catSlug = slugify(category.name || category.url);
+    log.count.categories++;
     log.step(`Category: ${category.name || catSlug}`);
     let urls;
     try {
@@ -40,6 +44,7 @@ async function main() {
       log.fail(`category listing ${category.url}`, e);
       continue; // category not crawled → its products are preserved, not deleted
     }
+    log.count.productUrls += urls.length;
     log.info(`  ${urls.length} product URL(s)`);
 
     const run = limiter(CONFIG.crawl.concurrency);
@@ -73,6 +78,7 @@ async function main() {
   // persist
   const report = commit(catalog, crawledCategorySlugs);
   writeSitemap(catalog);
+  writeRobots();
   writeSearchIndex(catalog);
   persistTranslationCache();
 
@@ -81,20 +87,37 @@ async function main() {
   await closeBrowser();
 
   log.step("Summary");
-  log.info(`added=${report.added.length} updated=${report.updated.length} ` +
-           `unchanged=${report.unchanged} removed=${report.removed.length} ` +
-           `failures=${logResult.counters.failed} images=${log.count.images} translated=${log.count.translated}`);
+  const c = logResult.counters;
+  log.info(`categories=${c.categories} productUrls=${c.productUrls}`);
+  log.info(`new=${report.added.length} updated=${report.updated.length} unchanged=${report.unchanged} removed=${report.removed.length}`);
+  log.info(`translated=${c.translated} translateFailures=${c.translateFailed} images=${c.images} downloadFailures=${c.downloadFailed} crawlFailures=${c.failed}`);
   log.info("Done.");
 }
 
 async function buildProduct(raw, category, catSlug) {
+  // ---- incremental: reuse unchanged products (no re-translate / re-download) ----
+  const rawHash = productHash(raw);                      // hash of the raw extraction
+  const key = productKey(raw);
+  const prev = STATE.products[key];
+  if (prev && prev.rawHash === rawHash && !CONFIG.dryRun) {
+    const cached = readProductFile(prev.slug);
+    if (cached) {
+      log.count.unchanged++; log.skip(`  ${raw.sku || prev.slug} (unchanged)`);
+      cached._rawHash = rawHash;
+      cached.category = category.name; cached.categorySlug = catSlug; cached.categorySourceUrl = category.url;
+      return cached;
+    }
+  }
+
+  // ---- full build ----
   const product = { ...raw, category: category.name, categorySlug: catSlug, categorySourceUrl: category.url };
-  await translateProduct(product);                       // req 4/5 (brand/model preserved)
+  await translateProduct(product);                       // req 5 (brand/model/measurements preserved)
   product.slug = buildSlug(product, category);           // SEO slug
-  product.images = await processImages(product, catSlug, product.slug); // download+compress+alt
+  product.images = await processImages(product, catSlug, product.slug); // download+compress+alt (never hotlink)
   product.pdfs = await processPdfs(product, catSlug, product.slug);
   product.seo = buildSeo(product, category);             // title/description/keywords/canonical
   product.syncedAt = new Date().toISOString();
+  product._rawHash = rawHash;
   return product;
 }
 

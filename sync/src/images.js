@@ -56,6 +56,7 @@ export async function processImages(product, categorySlug, productSlug) {
         width, height,
       });
     } catch (e) {
+      log.count.downloadFailed++;
       log.fail(`image ${url}`, e, { product: product.sku || productSlug });
       // continue with remaining images
     }
@@ -78,7 +79,7 @@ export async function processPdfs(product, categorySlug, productSlug) {
       const p = path.join(dir, `${productSlug}-manual-${i}.pdf`);
       fs.writeFileSync(p, buffer);
       out.push({ url, src: rel(p), title: `${product.name} manual ${i}` });
-    } catch (e) { log.fail(`pdf ${url}`, e, { product: product.sku || productSlug }); }
+    } catch (e) { log.count.downloadFailed++; log.fail(`pdf ${url}`, e, { product: product.sku || productSlug }); }
   }
   return out;
 }

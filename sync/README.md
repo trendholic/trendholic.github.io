@@ -94,8 +94,27 @@ catalog/index.html             # optional standalone viewer (new path)
   partial failure can never wipe the catalog.
 - Translation failures keep the original text (never lose data).
 
-## Not included by design
-Wiring these products into the **existing** retail homepage would change that
-page. Per the project's additive rule, that is a separate, approval-gated step.
-The optional `/catalog/` viewer surfaces the data at a new path without touching
-the retail design.
+## Site integration
+A single **“Catalog 🗂️”** link is added to the existing storefront sidebar menu
+(`index.html`), pointing to the standalone `/catalog/` viewer — the only retail
+change, styled to match the existing menu so branding/UX are preserved. The
+viewer reads the generated `/data` JSON; it does not alter the retail catalog,
+Google Sheets pipeline, cart, or checkout.
+
+## Architecture highlights
+- **Modular adapters** (`src/adapters/`): the engine is site-agnostic; only
+  `adapters/tangma2088.js` changes if the supplier's HTML changes. Add a new
+  supplier by dropping in one file and registering it.
+- **Incremental sync**: a stable key (SKU/URL) + raw-content hash in
+  `sync/.state/state.json` means unchanged products are reused (no re-translate,
+  no re-download). Delete the state file to force a full rebuild.
+- **Anti-bot**: Playwright with a realistic fingerprint, persisted session
+  (`sync/.state/session.json`), human-like jitter, retries, and optional
+  ENV-based supplier login.
+- **Assets are always local** (never hotlinked); images compressed to WebP.
+- **Deploy gate**: `npm run validate` must pass before the workflow commits +
+  deploys (auto-deploy via Pages on push to the default branch).
+- **robots.txt + sitemap.xml** generated automatically.
+
+See `docs/CONFIGURATION.md` (every variable) and `docs/MAINTENANCE.md`
+(operations, adapter re-calibration, rollback).

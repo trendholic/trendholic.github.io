@@ -40,6 +40,26 @@ export const CONFIG = {
     maxPagesPerCategory: int("MAX_PAGES_PER_CATEGORY", 50),
   },
 
+  // ---- Headless browser (anti-bot / JS render) ----------------------------
+  browser: {
+    sessionFile: path.join(REPO_ROOT, "sync", ".state", "session.json"), // persisted storageState
+    viewport: { width: 1366, height: 900 },
+    locale: "en-US",
+    // small human-like jitter added to each navigation (ms)
+    humanJitterMs: int("BROWSER_JITTER_MS", 700),
+  },
+
+  // ---- Optional supplier login (credentials via ENV only) ------------------
+  login: {
+    url: env("SUPPLIER_LOGIN_URL", ""),
+    username: env("SUPPLIER_USERNAME", ""),
+    password: env("SUPPLIER_PASSWORD", ""),
+    userSelector: env("SUPPLIER_USER_SELECTOR", "input[name='username'], input[type='email'], #username"),
+    passSelector: env("SUPPLIER_PASS_SELECTOR", "input[name='password'], input[type='password'], #password"),
+    submitSelector: env("SUPPLIER_SUBMIT_SELECTOR", "button[type='submit'], input[type='submit'], .login-btn"),
+    successSelector: env("SUPPLIER_LOGIN_SUCCESS_SELECTOR", ""), // optional: element present when logged in
+  },
+
   // ---- Translation ---------------------------------------------------------
   translate: {
     provider: env("TRANSLATE_PROVIDER", "anthropic"), // 'anthropic' | 'none'
