@@ -73,7 +73,7 @@ jobs:
           git config user.name  "trendholic-sync[bot]"
           git config user.email "sync-bot@users.noreply.github.com"
           # Only stage generated data — never retail files.
-          git add data sitemap.xml sync/.state sync/logs 2>/dev/null || true
+          git add catalog data sitemap.xml robots.txt sync/.state sync/logs 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No catalog changes."
             exit 0
