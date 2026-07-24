@@ -1,11 +1,117 @@
 {
   "products": {
+    "2988486": {
+      "rawHash": "ff3a35a83387f8e0307416680ad3acf788f85930",
+      "slug": "alexander-mcqueen-sz35-40-2988486",
+      "parent_product_id": "2988486",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988526": {
+      "rawHash": "997cf13bf28505b4447f52a1f1699fdb0c146848",
+      "slug": "alexander-mcqueen-sz38-47-2988526",
+      "parent_product_id": "2988526",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988567": {
+      "rawHash": "fefbbbceea38737fd6e8d036bf8349c09fcf5210",
+      "slug": "givenchy-sz38-45-wm0703-2988567",
+      "parent_product_id": "2988567",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988620": {
+      "rawHash": "d6db4f835782d3a9c445215d13b3a5d2abac9373",
+      "slug": "givenchy-sz38-45-wm0706-2988620",
+      "parent_product_id": "2988620",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988634": {
+      "rawHash": "f4f9a460fb065bd9c3d2e5ba1d75fe3908d43ed8",
+      "slug": "lv-sz38-45-wm0702-2988634",
+      "parent_product_id": "2988634",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988651": {
+      "rawHash": "1e200b2ccd63735663752cdc162fbbb8c33554c9",
+      "slug": "valentino-sz38-45-wm0702-2988651",
+      "parent_product_id": "2988651",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
     "2988655": {
       "rawHash": "db98cb1c0793ee5c57400c19b9e2f3a51e116523",
       "slug": "valentino-sz38-45-wm0702-2988655",
       "parent_product_id": "2988655",
       "firstSeen": "2026-07-23T17:13:44.580Z",
-      "lastSeen": "2026-07-23T17:13:44.580Z"
+      "lastSeen": "2026-07-23T17:13:44.580Z",
+      "inactive": true
+    },
+    "2988675": {
+      "rawHash": "1db908098c29e45169fc1123ea126c64dd56df22",
+      "slug": "armani-sz38-45-wm0703-2988675",
+      "parent_product_id": "2988675",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988705": {
+      "rawHash": "04074be79380d2017d29875cad1d8a25f04e30d0",
+      "slug": "dg-sz36-45-wm-2988705",
+      "parent_product_id": "2988705",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988710": {
+      "rawHash": "5a7bb7291dc64e901a7f3c82303e8a38ef186f5d",
+      "slug": "hermes-sz38-45-wm-2988710",
+      "parent_product_id": "2988710",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988725": {
+      "rawHash": "d259a9fb97cc0caae1c7d2f64129eab80018d803",
+      "slug": "lv-sz39-44-wm-2988725",
+      "parent_product_id": "2988725",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988742": {
+      "rawHash": "e032c81cb04a2be2459edb1283b6b4e6e7e78a5a",
+      "slug": "moncler-sz38-45-wm0703-2988742",
+      "parent_product_id": "2988742",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988759": {
+      "rawHash": "d9d62cb77c4313037d8341f117230cb739ff8c52",
+      "slug": "prada-sz38-45-wm-2988759",
+      "parent_product_id": "2988759",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988767": {
+      "rawHash": "35e07d50f2980769b0de9c847a15f82f3315209b",
+      "slug": "valentino-sz38-45-wm-2988767",
+      "parent_product_id": "2988767",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988803": {
+      "rawHash": "d2708f27375977e763f99ae31d5283b475221d3d",
+      "slug": "dg-sz38-45-wm0702-2988803",
+      "parent_product_id": "2988803",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
+    },
+    "2988874": {
+      "rawHash": "313f799d55a89f167f28be5702becf410bacbb4b",
+      "slug": "dg-sz38-45-wm-2988874",
+      "parent_product_id": "2988874",
+      "firstSeen": "2026-07-24T06:32:50.772Z",
+      "lastSeen": "2026-07-24T06:32:50.772Z"
     }
   },
   "categories": [
@@ -95,5 +201,5 @@
     "zegna-2026-0623",
     "zilli-2026-0606"
   ],
-  "updatedAt": "2026-07-23T17:13:44.580Z"
+  "updatedAt": "2026-07-24T06:32:50.772Z"
 }

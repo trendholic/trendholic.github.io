@@ -1,0 +1,62 @@
+{
+  "slug": "burberry-boxer-l-3xl-42-4096246",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4096247",
+  "source_parent_product_id": "4096246",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4096247.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/burberry-boxer-l-3xl-42-4096246/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4096247.html",
+    "https://acc.tangma2088.com/productinfoen_4096246.html",
+    "https://acc.tangma2088.com/productinfoen_4096245.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Burberry%20boxer%20L-3XL%2042%20(5)_4096246.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Burberry%20boxer%20L-3XL%2042%20(9)_4096247.jpg"
+  ],
+  "source_last_seen": "2026-07-24T06:09:09.749Z",
+  "name": "Burberry boxer L-3XL 42",
+  "english_product_name": "Burberry boxer L-3XL 42",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4096246",
+  "parent_product_id": "4096246",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/burberry-boxer-l-3xl-42-4096246-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Burberry%20boxer%20L-3XL%2042%20(5)_4096246.jpg",
+      "content_hash": "341c8097088e279bef4cebd41222901b0f4cc98e",
+      "alt": "Burberry boxer L-3XL 42"
+    },
+    {
+      "src": "/data/accessories/images/burberry-boxer-l-3xl-42-4096246-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Burberry%20boxer%20L-3XL%2042%20(9)_4096247.jpg",
+      "content_hash": "06f787f29f7711d59ab1025a0109146f656c98f0",
+      "alt": "Burberry boxer L-3XL 42"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-24T06:09:09.749Z"
+}

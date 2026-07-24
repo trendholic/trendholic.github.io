@@ -1,0 +1,60 @@
+{
+  "slug": "prada-2na068-22x14x6-5cm-ap-2019614",
+  "top_category": "Bags",
+  "source_site": "bags",
+  "source_domain": "bags.tangma2088.com",
+  "source_top_category": "Bags",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "2019616",
+  "source_parent_product_id": "2019614",
+  "source_product_url": "https://bags.tangma2088.com/productinfoen_2019616.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/prada-2na068-22x14x6-5cm-ap-2019614/",
+  "source_product_urls": [
+    "https://bags.tangma2088.com/productinfoen_2019616.html"
+  ],
+  "source_image_urls": [
+    "https://bags.tangma2088.com/upfile/product/202607/Prada%202NA068%2022x14x6%205cm%20AP2_2019614.jpg",
+    "https://bags.tangma2088.com/upfile/product/202607/Prada%202NA068%2022x14x6%205cm%20AP11_2019615.jpg"
+  ],
+  "source_last_seen": "2026-07-24T06:21:34.958Z",
+  "name": "Prada 2NA068 22x14x6 5cm AP",
+  "english_product_name": "Prada 2NA068 22x14x6 5cm AP",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2019614",
+  "parent_product_id": "2019614",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/bags/images/prada-2na068-22x14x6-5cm-ap-2019614-1.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%202NA068%2022x14x6%205cm%20AP2_2019614.jpg",
+      "content_hash": "3cace35e18913a63be93ac41fde6ee52bf385c38",
+      "alt": "Prada 2NA068 22x14x6 5cm AP"
+    },
+    {
+      "src": "/data/bags/images/prada-2na068-22x14x6-5cm-ap-2019614-2.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%202NA068%2022x14x6%205cm%20AP11_2019615.jpg",
+      "content_hash": "f1b884f09746f34ed6a4d2bc618070a3395a38a9",
+      "alt": "Prada 2NA068 22x14x6 5cm AP"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-24T06:21:34.958Z"
+}

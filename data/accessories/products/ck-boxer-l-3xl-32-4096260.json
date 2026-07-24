@@ -1,0 +1,61 @@
+{
+  "slug": "ck-boxer-l-3xl-32-4096260",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4096261",
+  "source_parent_product_id": "4096260",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4096261.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/ck-boxer-l-3xl-32-4096260/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4096261.html",
+    "https://acc.tangma2088.com/productinfoen_4096260.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/CK%20boxer%20L-3XL%2032%20(7)_4096260.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/CK%20boxer%20L-3XL%2032%20(9)_4096261.jpg"
+  ],
+  "source_last_seen": "2026-07-24T06:09:09.749Z",
+  "name": "CK boxer L-3XL 32",
+  "english_product_name": "CK boxer L-3XL 32",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4096260",
+  "parent_product_id": "4096260",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/ck-boxer-l-3xl-32-4096260-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/CK%20boxer%20L-3XL%2032%20(7)_4096260.jpg",
+      "content_hash": "d461d0d34cf638c0c7157d2361e4a71f6882dfab",
+      "alt": "CK boxer L-3XL 32"
+    },
+    {
+      "src": "/data/accessories/images/ck-boxer-l-3xl-32-4096260-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/CK%20boxer%20L-3XL%2032%20(9)_4096261.jpg",
+      "content_hash": "12b65783ac296cbc253a2fd3db5220d357efe735",
+      "alt": "CK boxer L-3XL 32"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-24T06:09:09.749Z"
+}

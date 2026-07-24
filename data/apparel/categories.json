@@ -3,7 +3,7 @@
   "source": "apparel",
   "host": "tangma2088.com",
   "count": 56,
-  "updatedAt": "2026-07-23T17:10:23.014Z",
+  "updatedAt": "2026-07-24T05:55:28.588Z",
   "categories": [
     {
       "name": "2025 New",
@@ -48,15 +48,15 @@
       "parent_path": null
     },
     {
-      "name": "By Style 0723",
-      "slug": "by-style-0723",
+      "name": "By Style 0724",
+      "slug": "by-style-0724",
       "source_url": "https://tangma2088.com/categoryen_1580.html?path=0_1580",
       "source_path": "0_1580",
       "parent_path": "0"
     },
     {
-      "name": "T Shirt 0723",
-      "slug": "t-shirt-0723",
+      "name": "T Shirt 0724",
+      "slug": "t-shirt-0724",
       "source_url": "https://tangma2088.com/categoryen_11.html?path=0_11",
       "source_path": "0_11",
       "parent_path": "0"
@@ -69,8 +69,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Polo Short 0723",
-      "slug": "polo-short-0723",
+      "name": "Polo Short 0724",
+      "slug": "polo-short-0724",
       "source_url": "https://tangma2088.com/categoryen_10.html?path=0_10",
       "source_path": "0_10",
       "parent_path": "0"

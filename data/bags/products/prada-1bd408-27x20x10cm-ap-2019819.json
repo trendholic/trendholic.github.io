@@ -1,0 +1,62 @@
+{
+  "slug": "prada-1bd408-27x20x10cm-ap-2019819",
+  "top_category": "Bags",
+  "source_site": "bags",
+  "source_domain": "bags.tangma2088.com",
+  "source_top_category": "Bags",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "2019821",
+  "source_parent_product_id": "2019819",
+  "source_product_url": "https://bags.tangma2088.com/productinfoen_2019821.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/prada-1bd408-27x20x10cm-ap-2019819/",
+  "source_product_urls": [
+    "https://bags.tangma2088.com/productinfoen_2019821.html",
+    "https://bags.tangma2088.com/productinfoen_2019820.html",
+    "https://bags.tangma2088.com/productinfoen_2019819.html"
+  ],
+  "source_image_urls": [
+    "https://bags.tangma2088.com/upfile/product/202607/Prada%201BD408%2027x20x10cm%20AP20_2019819.jpg",
+    "https://bags.tangma2088.com/upfile/product/202607/Prada%201BD408%2027x20x10cm%20AP31_2019820.jpg"
+  ],
+  "source_last_seen": "2026-07-24T06:21:34.958Z",
+  "name": "Prada 1BD408 27x20x10cm AP",
+  "english_product_name": "Prada 1BD408 27x20x10cm AP",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2019819",
+  "parent_product_id": "2019819",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/bags/images/prada-1bd408-27x20x10cm-ap-2019819-1.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%201BD408%2027x20x10cm%20AP20_2019819.jpg",
+      "content_hash": "ba5d015d881f6097a43991c64a9e20828115f25e",
+      "alt": "Prada 1BD408 27x20x10cm AP"
+    },
+    {
+      "src": "/data/bags/images/prada-1bd408-27x20x10cm-ap-2019819-2.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%201BD408%2027x20x10cm%20AP31_2019820.jpg",
+      "content_hash": "1b3b23daf9d098cc73e1c14b87e25067d31d1790",
+      "alt": "Prada 1BD408 27x20x10cm AP"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-24T06:21:34.958Z"
+}

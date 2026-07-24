@@ -1,0 +1,77 @@
+{
+  "slug": "fendi-m-xl-03-4096364",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4096367",
+  "source_parent_product_id": "4096364",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4096367.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-m-xl-03-4096364/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4096367.html",
+    "https://acc.tangma2088.com/productinfoen_4096366.html",
+    "https://acc.tangma2088.com/productinfoen_4096365.html",
+    "https://acc.tangma2088.com/productinfoen_4096364.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Fendi%20M-XL%2003%20(1)_4096364.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Fendi%20M-XL%2003%20(2)_4096365.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Fendi%20M-XL%2003%20(3)_4096366.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Fendi%20M-XL%2003%20(5)_4096367.jpg"
+  ],
+  "source_last_seen": "2026-07-24T06:09:09.749Z",
+  "name": "Fendi M-XL 03",
+  "english_product_name": "Fendi M-XL 03",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4096364",
+  "parent_product_id": "4096364",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/fendi-m-xl-03-4096364-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Fendi%20M-XL%2003%20(1)_4096364.jpg",
+      "content_hash": "61877a20d0e89bd24bb31816c050ca94a11a525c",
+      "alt": "Fendi M-XL 03"
+    },
+    {
+      "src": "/data/accessories/images/fendi-m-xl-03-4096364-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Fendi%20M-XL%2003%20(2)_4096365.jpg",
+      "content_hash": "dcff6c61e01df37169a9ded1972909762b444b96",
+      "alt": "Fendi M-XL 03"
+    },
+    {
+      "src": "/data/accessories/images/fendi-m-xl-03-4096364-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Fendi%20M-XL%2003%20(3)_4096366.jpg",
+      "content_hash": "ddec414aa71423695428f74e23a98226a150f785",
+      "alt": "Fendi M-XL 03"
+    },
+    {
+      "src": "/data/accessories/images/fendi-m-xl-03-4096364-4.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Fendi%20M-XL%2003%20(5)_4096367.jpg",
+      "content_hash": "a22a37f3c584a5c3e6b4a59a4e9da40ffa9f998a",
+      "alt": "Fendi M-XL 03"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-24T06:09:09.749Z"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "gucci-boxer-m-xl-01-4096368",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4096369",
+  "source_parent_product_id": "4096368",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4096369.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/gucci-boxer-m-xl-01-4096368/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4096369.html",
+    "https://acc.tangma2088.com/productinfoen_4096368.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Gucci%20boxer%20M-XL%2001%20(1)_4096368.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Gucci%20boxer%20M-XL%2001%20(2)_4096369.jpg"
+  ],
+  "source_last_seen": "2026-07-24T06:09:09.749Z",
+  "name": "Gucci boxer M-XL 01",
+  "english_product_name": "Gucci boxer M-XL 01",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4096368",
+  "parent_product_id": "4096368",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/gucci-boxer-m-xl-01-4096368-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Gucci%20boxer%20M-XL%2001%20(1)_4096368.jpg",
+      "content_hash": "dbe136379bb0883c30e0f3d111dc06c0a2a850de",
+      "alt": "Gucci boxer M-XL 01"
+    },
+    {
+      "src": "/data/accessories/images/gucci-boxer-m-xl-01-4096368-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Gucci%20boxer%20M-XL%2001%20(2)_4096369.jpg",
+      "content_hash": "d1e182e53ccf416802b0e8e8e924a7438e992073",
+      "alt": "Gucci boxer M-XL 01"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-24T06:09:09.749Z"
+}

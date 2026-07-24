@@ -1,0 +1,61 @@
+{
+  "slug": "dior-boxer-l-3xl-27-4096299",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4096300",
+  "source_parent_product_id": "4096299",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4096300.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dior-boxer-l-3xl-27-4096299/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4096300.html",
+    "https://acc.tangma2088.com/productinfoen_4096299.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Dior%20boxer%20L-3XL%2027%20(6)_4096299.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Dior%20boxer%20L-3XL%2027%20(9)_4096300.jpg"
+  ],
+  "source_last_seen": "2026-07-24T06:09:09.749Z",
+  "name": "Dior boxer L-3XL 27",
+  "english_product_name": "Dior boxer L-3XL 27",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4096299",
+  "parent_product_id": "4096299",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/dior-boxer-l-3xl-27-4096299-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Dior%20boxer%20L-3XL%2027%20(6)_4096299.jpg",
+      "content_hash": "1867d621ae43db09936275eae984be3036d9190d",
+      "alt": "Dior boxer L-3XL 27"
+    },
+    {
+      "src": "/data/accessories/images/dior-boxer-l-3xl-27-4096299-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Dior%20boxer%20L-3XL%2027%20(9)_4096300.jpg",
+      "content_hash": "f8652f2344db49d89d78dd8a9a5d42c42185eecd",
+      "alt": "Dior boxer L-3XL 27"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-24T06:09:09.749Z"
+}

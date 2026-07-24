@@ -5,7 +5,218 @@
       "slug": "burberry-m-3xl-mdtrv2431-5716322",
       "parent_product_id": "5716322",
       "firstSeen": "2026-07-23T17:10:36.685Z",
-      "lastSeen": "2026-07-23T17:10:36.685Z"
+      "lastSeen": "2026-07-23T17:10:36.685Z",
+      "inactive": true
+    },
+    "5719688": {
+      "rawHash": "abb609ee5b03c608c79b7b445be833076fca7d5a",
+      "slug": "burberry-m-4xl-12yr40-5719688",
+      "parent_product_id": "5719688",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719695": {
+      "rawHash": "3af365b6148b41a5a90a18ec4c21abc2c09c831d",
+      "slug": "burberry-m-4xl-12yr41-5719695",
+      "parent_product_id": "5719695",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719705": {
+      "rawHash": "2357b7ac9bd9635110a992bd2047d96c6c81bc94",
+      "slug": "burberry-m-4xl-12yr42-5719705",
+      "parent_product_id": "5719705",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719715": {
+      "rawHash": "d63c37bdcc1df1ce16ab40207d8f8cabdb650dc4",
+      "slug": "burberry-s-2xl-12yr43-5719715",
+      "parent_product_id": "5719715",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719724": {
+      "rawHash": "4d3c6a42885d86584e3710a223cb3c1bbb6a5062",
+      "slug": "prada-s-xl-jdtx6205-5719724",
+      "parent_product_id": "5719724",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719737": {
+      "rawHash": "7d514583f971de22d61f2047f87be2ebe4a73190",
+      "slug": "burberry-s-2xl-12yr44-5719737",
+      "parent_product_id": "5719737",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719746": {
+      "rawHash": "27ca9121a9ce6b2295668e25a4c1b7d9f261a872",
+      "slug": "burberry-s-2xl-12yr45-5719746",
+      "parent_product_id": "5719746",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719755": {
+      "rawHash": "67e47798f6101bd0e0b10a87052063a19d122606",
+      "slug": "burberry-s-2xl-12yr46-5719755",
+      "parent_product_id": "5719755",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719774": {
+      "rawHash": "b9fd4c0b374b65e10554bf9aef4b584d24311040",
+      "slug": "burberry-s-2xl-12yr47-5719774",
+      "parent_product_id": "5719774",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719783": {
+      "rawHash": "29e270d905da91b94ed43bbe1c2d43219c195608",
+      "slug": "stone-island-s-xl-55txsd51-5719783",
+      "parent_product_id": "5719783",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719793": {
+      "rawHash": "e5e50680d69dbfaf5d3fcdeb3f574ae71fc41bbb",
+      "slug": "stone-island-s-xl-55txsd52-5719793",
+      "parent_product_id": "5719793",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719804": {
+      "rawHash": "b28dbdf58776ba14e3fe50543d2d82e0efa3f87b",
+      "slug": "prada-m-5xl-kdtn03-5719804",
+      "parent_product_id": "5719804",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719810": {
+      "rawHash": "4315229cae84ed43531f87ea4b7ce7da3f6a2113",
+      "slug": "prada-m-5xl-kdtn04-5719810",
+      "parent_product_id": "5719810",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719816": {
+      "rawHash": "9c63d2de08b1bf0fbba91181ffa348b89987003d",
+      "slug": "prada-m-6xl-1qn017-5719816",
+      "parent_product_id": "5719816",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719829": {
+      "rawHash": "bcec983d4ffb6a79b75aa47ad6f47299a3b1b04f",
+      "slug": "burberry-s-2xl-12yr48-5719829",
+      "parent_product_id": "5719829",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719838": {
+      "rawHash": "68ae5f42a85cc1a981bf1dea130d7509993ee9ff",
+      "slug": "prada-m-6xl-1qn043-5719838",
+      "parent_product_id": "5719838",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719848": {
+      "rawHash": "5688b763f09e0cbc12f976011a4eb0c6b61c7cf3",
+      "slug": "prada-m-6xl-1qn054-5719848",
+      "parent_product_id": "5719848",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719858": {
+      "rawHash": "5d886a1cc12b43edabac2fd43428bc202e7bddd3",
+      "slug": "prada-m-6xl-1qn055-5719858",
+      "parent_product_id": "5719858",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719868": {
+      "rawHash": "5591e7f7770fc18a5d38e759708698adf7cb0624",
+      "slug": "prada-m-xxl-7sn017-5719868",
+      "parent_product_id": "5719868",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719879": {
+      "rawHash": "bf1ceaf93318b3108ad49ff9922db97d037f270c",
+      "slug": "prada-m-xxl-sftn603-5719879",
+      "parent_product_id": "5719879",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719891": {
+      "rawHash": "2d9a43d9bf41238d57b5d61a9113646d42ceae6e",
+      "slug": "prada-m-xxl-sftn608-5719891",
+      "parent_product_id": "5719891",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719902": {
+      "rawHash": "00f18eaf06ea4e737aefb72c276b14e3b063082f",
+      "slug": "prada-s-xxl-sstn06-5719902",
+      "parent_product_id": "5719902",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719910": {
+      "rawHash": "6590adc05fc1961c4dd030e20c125aacec77f551",
+      "slug": "burberry-s-2xl-12yr49-5719910",
+      "parent_product_id": "5719910",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719925": {
+      "rawHash": "af74b730bdd43ee82a5a736804c3e51477160c81",
+      "slug": "burberry-m-3xl-3cr3626-5719925",
+      "parent_product_id": "5719925",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719953": {
+      "rawHash": "31c74f52e04311edbee29c58ef0defeed25c6b9b",
+      "slug": "burberry-m-3xl-3cr3655-5719953",
+      "parent_product_id": "5719953",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719967": {
+      "rawHash": "3de1dd78f68432220528d04b5447425e082d92a9",
+      "slug": "burberry-m-3xl-3cr3666-5719967",
+      "parent_product_id": "5719967",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5719980": {
+      "rawHash": "3b1ae377b5ac719b87af7e1e2f98054870c9f526",
+      "slug": "burberry-m-3xl-3cr3700-5719980",
+      "parent_product_id": "5719980",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5720008": {
+      "rawHash": "a711b22fbcbd885d7cbe244f3f9497d4e50baa79",
+      "slug": "burberry-m-3xl-3cr3799-5720008",
+      "parent_product_id": "5720008",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5720038": {
+      "rawHash": "0cf445eb58f1a8efde727db954ea464c69c99c61",
+      "slug": "burberry-m-3xl-3cr3807-5720038",
+      "parent_product_id": "5720038",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
+    },
+    "5720068": {
+      "rawHash": "27b4e24c3991bc14b2497184938fa6966f79d881",
+      "slug": "burberry-m-3xl-3cr3808-5720068",
+      "parent_product_id": "5720068",
+      "firstSeen": "2026-07-24T05:59:02.308Z",
+      "lastSeen": "2026-07-24T05:59:02.308Z"
     }
   },
   "categories": [
@@ -15,10 +226,10 @@
     "ralph-lauren",
     "lacoste",
     "high-quality-0801",
-    "by-style-0723",
-    "t-shirt-0723",
+    "by-style-0724",
+    "t-shirt-0724",
     "high-quality-0717",
-    "polo-short-0723",
+    "polo-short-0724",
     "jacket-0723",
     "down-jacket-0720",
     "bikini-0613",
@@ -66,5 +277,5 @@
     "kenzo",
     "hotsale-updating"
   ],
-  "updatedAt": "2026-07-23T17:10:36.685Z"
+  "updatedAt": "2026-07-24T05:59:02.308Z"
 }

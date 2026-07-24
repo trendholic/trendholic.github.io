@@ -1,0 +1,63 @@
+{
+  "slug": "prada-2vh203-31x23x10cm-ap-2019623",
+  "top_category": "Bags",
+  "source_site": "bags",
+  "source_domain": "bags.tangma2088.com",
+  "source_top_category": "Bags",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "2019625",
+  "source_parent_product_id": "2019623",
+  "source_product_url": "https://bags.tangma2088.com/productinfoen_2019625.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/prada-2vh203-31x23x10cm-ap-2019623/",
+  "source_product_urls": [
+    "https://bags.tangma2088.com/productinfoen_2019625.html",
+    "https://bags.tangma2088.com/productinfoen_2019624.html",
+    "https://bags.tangma2088.com/productinfoen_2019623.html",
+    "https://bags.tangma2088.com/productinfoen_2019622.html"
+  ],
+  "source_image_urls": [
+    "https://bags.tangma2088.com/upfile/product/202607/Prada%202vH203%2031x23x10cm%20AP1_2019623.jpg",
+    "https://bags.tangma2088.com/upfile/product/202607/Prada%202vH203%2031x23x10cm%20AP2_2019624.jpg"
+  ],
+  "source_last_seen": "2026-07-24T06:21:34.958Z",
+  "name": "Prada 2vH203 31x23x10cm AP",
+  "english_product_name": "Prada 2vH203 31x23x10cm AP",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2019623",
+  "parent_product_id": "2019623",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/bags/images/prada-2vh203-31x23x10cm-ap-2019623-1.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%202vH203%2031x23x10cm%20AP1_2019623.jpg",
+      "content_hash": "fce37ecfea1603a30f7292a3c0df3a79e89a6039",
+      "alt": "Prada 2vH203 31x23x10cm AP"
+    },
+    {
+      "src": "/data/bags/images/prada-2vh203-31x23x10cm-ap-2019623-2.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%202vH203%2031x23x10cm%20AP2_2019624.jpg",
+      "content_hash": "aa95586b7a6ec76f72e13a61bdee19e785a8cc71",
+      "alt": "Prada 2vH203 31x23x10cm AP"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-24T06:21:34.958Z"
+}

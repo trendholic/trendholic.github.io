@@ -1,0 +1,85 @@
+{
+  "slug": "dg-sz36-45-wm-2988705",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "2988709",
+  "source_parent_product_id": "2988705",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2988709.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dg-sz36-45-wm-2988705/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2988709.html",
+    "https://shoes.tangma2088.com/productinfoen_2988708.html",
+    "https://shoes.tangma2088.com/productinfoen_2988707.html",
+    "https://shoes.tangma2088.com/productinfoen_2988706.html",
+    "https://shoes.tangma2088.com/productinfoen_2988705.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz36-45%20WM070201_2988709.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz36-45%20WM070202_2988708.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz36-45%20WM070203_2988707.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz36-45%20WM070204_2988706.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz36-45%20WM070205_2988705.jpg"
+  ],
+  "source_last_seen": "2026-07-24T06:32:50.772Z",
+  "name": "DG sz36-45 WM",
+  "english_product_name": "DG sz36-45 WM",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2988705",
+  "parent_product_id": "2988705",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/dg-sz36-45-wm-2988705-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz36-45%20WM070201_2988709.jpg",
+      "content_hash": "4c893a5c9fa30e680b87ded0555b3bbb7a6ddbd2",
+      "alt": "DG sz36-45 WM"
+    },
+    {
+      "src": "/data/shoes/images/dg-sz36-45-wm-2988705-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz36-45%20WM070202_2988708.jpg",
+      "content_hash": "17d8ab26ea0d14cfc6877fe8356babb40048922b",
+      "alt": "DG sz36-45 WM"
+    },
+    {
+      "src": "/data/shoes/images/dg-sz36-45-wm-2988705-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz36-45%20WM070203_2988707.jpg",
+      "content_hash": "9b2427e8a2fce615de03c31346027c8c4c59df33",
+      "alt": "DG sz36-45 WM"
+    },
+    {
+      "src": "/data/shoes/images/dg-sz36-45-wm-2988705-4.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz36-45%20WM070204_2988706.jpg",
+      "content_hash": "448d2ae3eb3526afbe3f26bd1ef550f1c4bfec1d",
+      "alt": "DG sz36-45 WM"
+    },
+    {
+      "src": "/data/shoes/images/dg-sz36-45-wm-2988705-5.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz36-45%20WM070205_2988705.jpg",
+      "content_hash": "f48b54480f2dad2d73f06cf3fd67144bec9a0f06",
+      "alt": "DG sz36-45 WM"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-24T06:32:50.772Z"
+}
