@@ -5,42 +5,48 @@
       "slug": "alexander-mcqueen-sz35-40-2988486",
       "parent_product_id": "2988486",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988526": {
       "rawHash": "997cf13bf28505b4447f52a1f1699fdb0c146848",
       "slug": "alexander-mcqueen-sz38-47-2988526",
       "parent_product_id": "2988526",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988567": {
       "rawHash": "fefbbbceea38737fd6e8d036bf8349c09fcf5210",
       "slug": "givenchy-sz38-45-wm0703-2988567",
       "parent_product_id": "2988567",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988620": {
       "rawHash": "d6db4f835782d3a9c445215d13b3a5d2abac9373",
       "slug": "givenchy-sz38-45-wm0706-2988620",
       "parent_product_id": "2988620",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988634": {
       "rawHash": "f4f9a460fb065bd9c3d2e5ba1d75fe3908d43ed8",
       "slug": "lv-sz38-45-wm0702-2988634",
       "parent_product_id": "2988634",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988651": {
       "rawHash": "1e200b2ccd63735663752cdc162fbbb8c33554c9",
       "slug": "valentino-sz38-45-wm0702-2988651",
       "parent_product_id": "2988651",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988655": {
       "rawHash": "db98cb1c0793ee5c57400c19b9e2f3a51e116523",
@@ -55,72 +61,284 @@
       "slug": "armani-sz38-45-wm0703-2988675",
       "parent_product_id": "2988675",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988705": {
       "rawHash": "04074be79380d2017d29875cad1d8a25f04e30d0",
       "slug": "dg-sz36-45-wm-2988705",
       "parent_product_id": "2988705",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988710": {
       "rawHash": "5a7bb7291dc64e901a7f3c82303e8a38ef186f5d",
       "slug": "hermes-sz38-45-wm-2988710",
       "parent_product_id": "2988710",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988725": {
       "rawHash": "d259a9fb97cc0caae1c7d2f64129eab80018d803",
       "slug": "lv-sz39-44-wm-2988725",
       "parent_product_id": "2988725",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988742": {
       "rawHash": "e032c81cb04a2be2459edb1283b6b4e6e7e78a5a",
       "slug": "moncler-sz38-45-wm0703-2988742",
       "parent_product_id": "2988742",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988759": {
       "rawHash": "d9d62cb77c4313037d8341f117230cb739ff8c52",
       "slug": "prada-sz38-45-wm-2988759",
       "parent_product_id": "2988759",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988767": {
       "rawHash": "35e07d50f2980769b0de9c847a15f82f3315209b",
       "slug": "valentino-sz38-45-wm-2988767",
       "parent_product_id": "2988767",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988803": {
       "rawHash": "d2708f27375977e763f99ae31d5283b475221d3d",
       "slug": "dg-sz38-45-wm0702-2988803",
       "parent_product_id": "2988803",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
     },
     "2988874": {
       "rawHash": "313f799d55a89f167f28be5702becf410bacbb4b",
       "slug": "dg-sz38-45-wm-2988874",
       "parent_product_id": "2988874",
       "firstSeen": "2026-07-24T06:32:50.772Z",
-      "lastSeen": "2026-07-24T06:32:50.772Z"
+      "lastSeen": "2026-07-24T06:32:50.772Z",
+      "inactive": true
+    },
+    "2988922": {
+      "rawHash": "38e4b9990b6289376c59d74c492a1e5a14911a8a",
+      "slug": "hermes-sz38-44-wm-2988922",
+      "parent_product_id": "2988922",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2988951": {
+      "rawHash": "6f57531041a06d5eb6b9f49673629c2418cec72e",
+      "slug": "lv-sz38-45-wm0702-2988951",
+      "parent_product_id": "2988951",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2988960": {
+      "rawHash": "1442dc8fde069ef8bd90ce8d4be0e6f0fb9de7ac",
+      "slug": "lv-sz38-45-wm0703-2988960",
+      "parent_product_id": "2988960",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2988966": {
+      "rawHash": "092c19d2f0cc4751ffb226dfbcae75daccf28827",
+      "slug": "lv-sz38-45-wm-2988966",
+      "parent_product_id": "2988966",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2988983": {
+      "rawHash": "8348174cbf9802c75e4f78c2fddd9ee6fb367665",
+      "slug": "lv-sz38-45-wm0706-2988983",
+      "parent_product_id": "2988983",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989011": {
+      "rawHash": "47b70dbb696798bd2d0b096d39d48157730c4141",
+      "slug": "lv-sz38-45-wm070708-2989011",
+      "parent_product_id": "2989011",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989012": {
+      "rawHash": "16cd33c2d2b6d6b99d0ff73d10bca8b22c38c8d8",
+      "slug": "lv-sz38-45-wm070707-2989012",
+      "parent_product_id": "2989012",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989013": {
+      "rawHash": "e2bc16a9cec9ce296093e9f7dbe1a88643660874",
+      "slug": "lv-sz38-45-wm070706-2989013",
+      "parent_product_id": "2989013",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989014": {
+      "rawHash": "168ef770ab05eb783b3544f4eb4211fb686bc9a2",
+      "slug": "lv-sz38-45-wm070705-2989014",
+      "parent_product_id": "2989014",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989015": {
+      "rawHash": "682409ee7919e83f47459dd8a77c4f2a233a6197",
+      "slug": "lv-sz38-45-wm070704-2989015",
+      "parent_product_id": "2989015",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989016": {
+      "rawHash": "639e9e60f646a26c198f3ae5a718d5aba92c654d",
+      "slug": "lv-sz38-45-wm070703-2989016",
+      "parent_product_id": "2989016",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989017": {
+      "rawHash": "2ec299259a51b5df878df9edb6c6dd141dc8afc1",
+      "slug": "lv-sz38-45-wm070702-2989017",
+      "parent_product_id": "2989017",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989018": {
+      "rawHash": "7669fc7879cb64705906e4972b387032aa9cd24b",
+      "slug": "lv-sz38-45-wm070701-2989018",
+      "parent_product_id": "2989018",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989019": {
+      "rawHash": "66d31f54a9e3cce8724574325e52b0eebb9c1a0d",
+      "slug": "lv-sz38-45-wm0709-2989019",
+      "parent_product_id": "2989019",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989024": {
+      "rawHash": "4c758d3d0f32060fce2b25a6ab0014186c7491b8",
+      "slug": "lv-sz38-45-wm0716-2989024",
+      "parent_product_id": "2989024",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989044": {
+      "rawHash": "3e6d9db652793aa0d29d97c712e6fdec036ce418",
+      "slug": "ferragamo-sz38-45-wm0703-2989044",
+      "parent_product_id": "2989044",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989054": {
+      "rawHash": "ae99b4bf48de9f11bc3c76563a7ba9d23808ec85",
+      "slug": "ferragamo-sz39-45-wm0702-2989054",
+      "parent_product_id": "2989054",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989059": {
+      "rawHash": "513e3d61d0f9abb11c5badd31a6ea48e6a5199e4",
+      "slug": "ferragamo-sz39-45-wm0703-2989059",
+      "parent_product_id": "2989059",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989103": {
+      "rawHash": "984080a77d44d6df02c0f11149d4777cae6fe669",
+      "slug": "lv-sz38-45-wm0704-2989103",
+      "parent_product_id": "2989103",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989109": {
+      "rawHash": "4b6585c252819d7da4e2c01d5d263111a6a00190",
+      "slug": "prada-sz38-45-wm0702-2989109",
+      "parent_product_id": "2989109",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989118": {
+      "rawHash": "c932b898330c2d1051e3aee149b5f20d8f672f0b",
+      "slug": "prada-sz38-45-wm-2989118",
+      "parent_product_id": "2989118",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989139": {
+      "rawHash": "d75d4f3834542432f521ee00747ec6a64708f444",
+      "slug": "loro-piana-sz38-46-2989139",
+      "parent_product_id": "2989139",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989260": {
+      "rawHash": "01e771810b00ef5c25e06380957682a7073159c2",
+      "slug": "smilerepublic-sz36-40-39-45-mns0601-2989260",
+      "parent_product_id": "2989260",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989269": {
+      "rawHash": "df56d9cf20d9cdfc7a911db1bfb25d39a1a2c3de",
+      "slug": "smilerepublic-sz3540-39-45-mns0601-2989269",
+      "parent_product_id": "2989269",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989278": {
+      "rawHash": "a31a3f106d2f06b9db6c8a0c69e07fc5004140cb",
+      "slug": "roger-vivier-sz35-41-mns0601-2989278",
+      "parent_product_id": "2989278",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989287": {
+      "rawHash": "1c171232d168570aea225cb185dcbec54f776b95",
+      "slug": "lv-sz39-44-mns0601-2989287",
+      "parent_product_id": "2989287",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989296": {
+      "rawHash": "ef79b9cb3094cb7efe0e1a1054b6be5cc164e28d",
+      "slug": "lv-sz35-46-mns0601-2989296",
+      "parent_product_id": "2989296",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989305": {
+      "rawHash": "6fef723b2abf1b23f470f794f14f1c0ef3c046a6",
+      "slug": "brunello-cucinelli-sz38-45-mns0601-2989305",
+      "parent_product_id": "2989305",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
+    },
+    "2989314": {
+      "rawHash": "85a179d71590b2b629f3b207ddf12c1313ad6181",
+      "slug": "prada-sz38-45-mns0601-2989314",
+      "parent_product_id": "2989314",
+      "firstSeen": "2026-07-25T06:19:06.740Z",
+      "lastSeen": "2026-07-25T06:19:06.740Z"
     }
   },
   "categories": [
     "new-arrival-0723",
-    "factory-b-0723",
+    "factory-b-0724",
     "factory-c0723",
     "kid-shoes-0713",
     "gucci-2026-0714",
-    "louis-vittion-2026-0623",
+    "louis-vittion-2026-0725",
     "alexander-mcqueen-2026-0612",
     "armani-2026-0621",
     "amiri-2026-0715",
@@ -138,7 +356,7 @@
     "bottega-veneta-2026-0624",
     "burberry-2026-0621",
     "bally-2026-0614",
-    "brunello-cucinelli-2026-0621",
+    "brunello-cucinelli-2026-0725",
     "billionaire-2026-0607",
     "celine-20260319",
     "christian-louboutin-2026-0715",
@@ -157,6 +375,7 @@
     "giuseppe-zanotti-20260123",
     "richard-2026-0530",
     "rickowens-2026-0606",
+    "roger-vivier-2026-0725",
     "hermes-2026-0721",
     "hogan-2026-0615",
     "jimmy-choo-20250628",
@@ -168,7 +387,7 @@
     "kiton-2026-0612",
     "kolon-sport-2026-0617",
     "lanvin-20260126",
-    "loro-piana-2026-0721",
+    "loro-piana-2026-0725",
     "loewe-2026-0721",
     "miumiu-2026-0721",
     "moncler-2026-0612",
@@ -184,10 +403,11 @@
     "on-2026-0722",
     "onitsuka-tiger-2026-0608",
     "philipp-plein-2026-0623",
-    "prada-2026-0623",
+    "prada-2026-0725",
     "stefano-ricci-2026-0617",
     "santoni-2026-0623",
     "salomon-2026-0617",
+    "smilerepublic-2026-0725",
     "thom-browne-2026-0624",
     "tom-ford-2026-0608",
     "tod-s-2026-0624",
@@ -201,5 +421,5 @@
     "zegna-2026-0623",
     "zilli-2026-0606"
   ],
-  "updatedAt": "2026-07-24T06:32:50.772Z"
+  "updatedAt": "2026-07-25T06:19:06.740Z"
 }

@@ -2,8 +2,8 @@
   "top": "Shoes",
   "source": "shoes",
   "host": "shoes.tangma2088.com",
-  "count": 85,
-  "updatedAt": "2026-07-24T06:28:50.671Z",
+  "count": 87,
+  "updatedAt": "2026-07-25T06:15:18.463Z",
   "categories": [
     {
       "name": "NEW ARRIVAL 0723",
@@ -13,8 +13,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Factory B 0723",
-      "slug": "factory-b-0723",
+      "name": "Factory B 0724",
+      "slug": "factory-b-0724",
       "source_url": "https://shoes.tangma2088.com/categoryen_367.html?path=0_367",
       "source_path": "0_367",
       "parent_path": "0"
@@ -41,8 +41,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Louis Vittion 2026 0623",
-      "slug": "louis-vittion-2026-0623",
+      "name": "Louis Vittion 2026 0725",
+      "slug": "louis-vittion-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_327.html?path=0_327",
       "source_path": "0_327",
       "parent_path": "0"
@@ -167,8 +167,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Brunello Cucinelli 2026 0621",
-      "slug": "brunello-cucinelli-2026-0621",
+      "name": "Brunello Cucinelli 2026 0725",
+      "slug": "brunello-cucinelli-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_142649.html?path=0_142649",
       "source_path": "0_142649",
       "parent_path": "0"
@@ -300,6 +300,13 @@
       "parent_path": "0"
     },
     {
+      "name": "Roger Vivier 2026 0725",
+      "slug": "roger-vivier-2026-0725",
+      "source_url": "https://shoes.tangma2088.com/categoryen_181547.html?path=0_181547",
+      "source_path": "0_181547",
+      "parent_path": "0"
+    },
+    {
       "name": "Hermes 2026 0721",
       "slug": "hermes-2026-0721",
       "source_url": "https://shoes.tangma2088.com/categoryen_104.html?path=0_104",
@@ -377,8 +384,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Loro Piana 2026 0721",
-      "slug": "loro-piana-2026-0721",
+      "name": "Loro Piana 2026 0725",
+      "slug": "loro-piana-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_154701.html?path=0_154701",
       "source_path": "0_154701",
       "parent_path": "0"
@@ -489,8 +496,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Prada 2026 0623",
-      "slug": "prada-2026-0623",
+      "name": "Prada 2026 0725",
+      "slug": "prada-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_92.html?path=0_92",
       "source_path": "0_92",
       "parent_path": "0"
@@ -514,6 +521,13 @@
       "slug": "salomon-2026-0617",
       "source_url": "https://shoes.tangma2088.com/categoryen_179747.html?path=0_179747",
       "source_path": "0_179747",
+      "parent_path": "0"
+    },
+    {
+      "name": "SmileRepublic 2026 0725",
+      "slug": "smilerepublic-2026-0725",
+      "source_url": "https://shoes.tangma2088.com/categoryen_181546.html?path=0_181546",
+      "source_path": "0_181546",
       "parent_path": "0"
     },
     {

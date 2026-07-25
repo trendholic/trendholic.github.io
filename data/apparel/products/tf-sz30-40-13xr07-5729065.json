@@ -1,0 +1,77 @@
+{
+  "slug": "tf-sz30-40-13xr07-5729065",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "5729068",
+  "source_parent_product_id": "5729065",
+  "source_product_url": "https://tangma2088.com/productinfoen_5729068.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/tf-sz30-40-13xr07-5729065/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5729068.html",
+    "https://tangma2088.com/productinfoen_5729067.html",
+    "https://tangma2088.com/productinfoen_5729066.html",
+    "https://tangma2088.com/productinfoen_5729065.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/TF%20sz30-40%2013xr07%20(1)_5729068.jpg",
+    "https://tangma2088.com/upfile/product/202607/TF%20sz30-40%2013xr07%20(2)_5729067.jpg",
+    "https://tangma2088.com/upfile/product/202607/TF%20sz30-40%2013xr07%20(3)_5729066.jpg",
+    "https://tangma2088.com/upfile/product/202607/TF%20sz30-40%2013xr07%20(4)_5729065.jpg"
+  ],
+  "source_last_seen": "2026-07-25T05:52:15.277Z",
+  "name": "TF sz30-40 13xr07",
+  "english_product_name": "TF sz30-40 13xr07",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5729065",
+  "parent_product_id": "5729065",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/tf-sz30-40-13xr07-5729065-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/TF%20sz30-40%2013xr07%20(1)_5729068.jpg",
+      "content_hash": "58f6558bb21d6dfad16563c21d3c76d55ba5a3ff",
+      "alt": "TF sz30-40 13xr07"
+    },
+    {
+      "src": "/data/apparel/images/tf-sz30-40-13xr07-5729065-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/TF%20sz30-40%2013xr07%20(2)_5729067.jpg",
+      "content_hash": "828d515dac4455c6542d4bf00764b0f713c12dbf",
+      "alt": "TF sz30-40 13xr07"
+    },
+    {
+      "src": "/data/apparel/images/tf-sz30-40-13xr07-5729065-3.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/TF%20sz30-40%2013xr07%20(3)_5729066.jpg",
+      "content_hash": "5b0713c9883d7b9eec2541893129a6fb6e0ce08f",
+      "alt": "TF sz30-40 13xr07"
+    },
+    {
+      "src": "/data/apparel/images/tf-sz30-40-13xr07-5729065-4.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/TF%20sz30-40%2013xr07%20(4)_5729065.jpg",
+      "content_hash": "f5711a92d29f37688714d716f4dd70b1f7128350",
+      "alt": "TF sz30-40 13xr07"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-25T05:52:15.277Z"
+}
