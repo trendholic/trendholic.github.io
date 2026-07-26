@@ -1,0 +1,69 @@
+{
+  "slug": "arcteryx-socks-4098008",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4098010",
+  "source_parent_product_id": "4098008",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4098010.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/arcteryx-socks-4098008/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4098010.html",
+    "https://acc.tangma2088.com/productinfoen_4098009.html",
+    "https://acc.tangma2088.com/productinfoen_4098008.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Arcteryx%20Socks%20(1)_4098009.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Arcteryx%20Socks%20(2)_4098010.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Arcteryx%20socks_4098008.jpg"
+  ],
+  "source_last_seen": "2026-07-26T06:21:11.490Z",
+  "name": "Arcteryx Socks",
+  "english_product_name": "Arcteryx Socks",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4098008",
+  "parent_product_id": "4098008",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/arcteryx-socks-4098008-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Arcteryx%20Socks%20(1)_4098009.jpg",
+      "content_hash": "9416c29e68591468b2d96de1ca6c0fad83d4d1c3",
+      "alt": "Arcteryx Socks"
+    },
+    {
+      "src": "/data/accessories/images/arcteryx-socks-4098008-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Arcteryx%20Socks%20(2)_4098010.jpg",
+      "content_hash": "05fff001af4fe65b88767e1e9f7e601296088eb1",
+      "alt": "Arcteryx Socks"
+    },
+    {
+      "src": "/data/accessories/images/arcteryx-socks-4098008-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Arcteryx%20socks_4098008.jpg",
+      "content_hash": "e47e1369670890d011840df5ce18dcd126bdf190",
+      "alt": "Arcteryx Socks"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-26T06:21:11.490Z"
+}

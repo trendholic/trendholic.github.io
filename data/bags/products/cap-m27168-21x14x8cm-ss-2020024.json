@@ -1,0 +1,61 @@
+{
+  "slug": "cap-m27168-21x14x8cm-ss-2020024",
+  "top_category": "Bags",
+  "source_site": "bags",
+  "source_domain": "bags.tangma2088.com",
+  "source_top_category": "Bags",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "2020025",
+  "source_parent_product_id": "2020024",
+  "source_product_url": "https://bags.tangma2088.com/productinfoen_2020025.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/cap-m27168-21x14x8cm-ss-2020024/",
+  "source_product_urls": [
+    "https://bags.tangma2088.com/productinfoen_2020025.html",
+    "https://bags.tangma2088.com/productinfoen_2020024.html"
+  ],
+  "source_image_urls": [
+    "https://bags.tangma2088.com/upfile/product/202607/Cap%20M27168%2021x14x8cm%20ss1_2020024.jpg",
+    "https://bags.tangma2088.com/upfile/product/202607/Cap%20M27168%2021x14x8cm%20ss2_2020025.jpg"
+  ],
+  "source_last_seen": "2026-07-26T06:28:04.177Z",
+  "name": "Cap M27168 21x14x8cm ss",
+  "english_product_name": "Cap M27168 21x14x8cm ss",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2020024",
+  "parent_product_id": "2020024",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/bags/images/cap-m27168-21x14x8cm-ss-2020024-1.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M27168%2021x14x8cm%20ss1_2020024.jpg",
+      "content_hash": "a93e041f33f56b40eb27090f180e76f52bf42e2b",
+      "alt": "Cap M27168 21x14x8cm ss"
+    },
+    {
+      "src": "/data/bags/images/cap-m27168-21x14x8cm-ss-2020024-2.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M27168%2021x14x8cm%20ss2_2020025.jpg",
+      "content_hash": "e84579f52700952ccd562c6eab69c8dd7e4a6425",
+      "alt": "Cap M27168 21x14x8cm ss"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-26T06:28:04.177Z"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "cap-m27309-27x18x9cm-ss-2020036",
+  "top_category": "Bags",
+  "source_site": "bags",
+  "source_domain": "bags.tangma2088.com",
+  "source_top_category": "Bags",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "2020037",
+  "source_parent_product_id": "2020036",
+  "source_product_url": "https://bags.tangma2088.com/productinfoen_2020037.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/cap-m27309-27x18x9cm-ss-2020036/",
+  "source_product_urls": [
+    "https://bags.tangma2088.com/productinfoen_2020037.html",
+    "https://bags.tangma2088.com/productinfoen_2020036.html"
+  ],
+  "source_image_urls": [
+    "https://bags.tangma2088.com/upfile/product/202607/Cap%20M27309%2027x18x9cm%20ss1_2020036.jpg",
+    "https://bags.tangma2088.com/upfile/product/202607/Cap%20M27309%2027x18x9cm%20ss11_2020037.jpg"
+  ],
+  "source_last_seen": "2026-07-26T06:28:04.177Z",
+  "name": "Cap M27309 27x18x9cm ss",
+  "english_product_name": "Cap M27309 27x18x9cm ss",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2020036",
+  "parent_product_id": "2020036",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/bags/images/cap-m27309-27x18x9cm-ss-2020036-1.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M27309%2027x18x9cm%20ss1_2020036.jpg",
+      "content_hash": "bfb489725d2637c4428aa71c6952c70e4dfbbd6c",
+      "alt": "Cap M27309 27x18x9cm ss"
+    },
+    {
+      "src": "/data/bags/images/cap-m27309-27x18x9cm-ss-2020036-2.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M27309%2027x18x9cm%20ss11_2020037.jpg",
+      "content_hash": "eb17d3748e235cd4fa5faf5203898d1a32c23531",
+      "alt": "Cap M27309 27x18x9cm ss"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-26T06:28:04.177Z"
+}

@@ -3,11 +3,11 @@
   "source": "accessories",
   "host": "acc.tangma2088.com",
   "count": 35,
-  "updatedAt": "2026-07-25T06:00:36.880Z",
+  "updatedAt": "2026-07-26T06:17:15.594Z",
   "categories": [
     {
-      "name": "New Arrival 0724",
-      "slug": "new-arrival-0724",
+      "name": "New Arrival 0726",
+      "slug": "new-arrival-0726",
       "source_url": "https://acc.tangma2088.com/categoryen_16511.html?path=0_16511",
       "source_path": "0_16511",
       "parent_path": "0"
@@ -34,8 +34,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Glasses Factory 0724",
-      "slug": "glasses-factory-0724",
+      "name": "Glasses Factory 0725",
+      "slug": "glasses-factory-0725",
       "source_url": "https://acc.tangma2088.com/categoryen_28251.html?path=0_28251",
       "source_path": "0_28251",
       "parent_path": "0"
@@ -90,15 +90,15 @@
       "parent_path": "0"
     },
     {
-      "name": "Sock 0702",
-      "slug": "sock-0702",
+      "name": "Sock 0725",
+      "slug": "sock-0725",
       "source_url": "https://acc.tangma2088.com/categoryen_380.html?path=0_380",
       "source_path": "0_380",
       "parent_path": "0"
     },
     {
-      "name": "Socks 0702",
-      "slug": "socks-0702",
+      "name": "Socks 0725",
+      "slug": "socks-0725",
       "source_url": "https://acc.tangma2088.com/categoryen_70206.html?path=0_70206",
       "source_path": "0_70206",
       "parent_path": "0"
@@ -139,8 +139,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Umbrella 0606",
-      "slug": "umbrella-0606",
+      "name": "Umbrella 0726",
+      "slug": "umbrella-0726",
       "source_url": "https://acc.tangma2088.com/categoryen_278627.html?path=0_278627",
       "source_path": "0_278627",
       "parent_path": "0"

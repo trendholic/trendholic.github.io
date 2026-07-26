@@ -1,0 +1,69 @@
+{
+  "slug": "boss-socks-4098032",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4098034",
+  "source_parent_product_id": "4098032",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4098034.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/boss-socks-4098032/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4098034.html",
+    "https://acc.tangma2088.com/productinfoen_4098033.html",
+    "https://acc.tangma2088.com/productinfoen_4098032.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Boss%20Socks%20(1)_4098033.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Boss%20Socks%20(2)_4098034.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Boss%20socks_4098032.jpg"
+  ],
+  "source_last_seen": "2026-07-26T06:21:11.490Z",
+  "name": "Boss Socks",
+  "english_product_name": "Boss Socks",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4098032",
+  "parent_product_id": "4098032",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/boss-socks-4098032-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Boss%20Socks%20(1)_4098033.jpg",
+      "content_hash": "49d7031d21b4bcc0955a4a77867c2ce8d6bf8df6",
+      "alt": "Boss Socks"
+    },
+    {
+      "src": "/data/accessories/images/boss-socks-4098032-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Boss%20Socks%20(2)_4098034.jpg",
+      "content_hash": "f5a6fe06948b28324be2d02fcfee17da58f83d01",
+      "alt": "Boss Socks"
+    },
+    {
+      "src": "/data/accessories/images/boss-socks-4098032-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Boss%20socks_4098032.jpg",
+      "content_hash": "0b79044aa92156c239e6e8776fc94b3d042dc68e",
+      "alt": "Boss Socks"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-26T06:21:11.490Z"
+}

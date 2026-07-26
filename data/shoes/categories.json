@@ -2,26 +2,26 @@
   "top": "Shoes",
   "source": "shoes",
   "host": "shoes.tangma2088.com",
-  "count": 87,
-  "updatedAt": "2026-07-25T06:15:18.463Z",
+  "count": 88,
+  "updatedAt": "2026-07-26T06:28:49.825Z",
   "categories": [
     {
-      "name": "NEW ARRIVAL 0723",
-      "slug": "new-arrival-0723",
+      "name": "NEW ARRIVAL 0725",
+      "slug": "new-arrival-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_355.html?path=0_355",
       "source_path": "0_355",
       "parent_path": "0"
     },
     {
-      "name": "Factory B 0724",
-      "slug": "factory-b-0724",
+      "name": "Factory B 0725",
+      "slug": "factory-b-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_367.html?path=0_367",
       "source_path": "0_367",
       "parent_path": "0"
     },
     {
-      "name": "Factory C0723",
-      "slug": "factory-c0723",
+      "name": "Factory C0726",
+      "slug": "factory-c0726",
       "source_url": "https://shoes.tangma2088.com/categoryen_65136.html?path=0_65136",
       "source_path": "0_65136",
       "parent_path": "0"
@@ -62,8 +62,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Amiri 2026 0715",
-      "slug": "amiri-2026-0715",
+      "name": "Amiri 2026 0725",
+      "slug": "amiri-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_61746.html?path=0_61746",
       "source_path": "0_61746",
       "parent_path": "0"
@@ -195,8 +195,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Chanel 2026 0717",
-      "slug": "chanel-2026-0717",
+      "name": "Chanel 2026 0725",
+      "slug": "chanel-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_229.html?path=0_229",
       "source_path": "0_229",
       "parent_path": "0"
@@ -216,15 +216,15 @@
       "parent_path": "0"
     },
     {
-      "name": "DG 2026 0717",
-      "slug": "dg-2026-0717",
+      "name": "DG 2026 0725",
+      "slug": "dg-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_145.html?path=0_145",
       "source_path": "0_145",
       "parent_path": "0"
     },
     {
-      "name": "Dior 2026 0717",
-      "slug": "dior-2026-0717",
+      "name": "Dior 2026 0725",
+      "slug": "dior-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_151.html?path=0_151",
       "source_path": "0_151",
       "parent_path": "0"
@@ -244,8 +244,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Fendi 2026 0718",
-      "slug": "fendi-2026-0718",
+      "name": "Fendi 2026 0725",
+      "slug": "fendi-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_161.html?path=0_161",
       "source_path": "0_161",
       "parent_path": "0"
@@ -391,8 +391,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Loewe 2026 0721",
-      "slug": "loewe-2026-0721",
+      "name": "Loewe 2026 0725",
+      "slug": "loewe-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_156405.html?path=0_156405",
       "source_path": "0_156405",
       "parent_path": "0"
@@ -468,8 +468,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Off White 2026 0721",
-      "slug": "off-white-2026-0721",
+      "name": "Off White 2026 0725",
+      "slug": "off-white-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_82.html?path=0_82",
       "source_path": "0_82",
       "parent_path": "0"
@@ -573,8 +573,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Versace 2026 0624",
-      "slug": "versace-2026-0624",
+      "name": "Versace 2026 0725",
+      "slug": "versace-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_72.html?path=0_72",
       "source_path": "0_72",
       "parent_path": "0"
@@ -601,8 +601,8 @@
       "parent_path": "0"
     },
     {
-      "name": "ZEGNA 2026 0623",
-      "slug": "zegna-2026-0623",
+      "name": "ZEGNA 2026 0725",
+      "slug": "zegna-2026-0725",
       "source_url": "https://shoes.tangma2088.com/categoryen_139955.html?path=0_139955",
       "source_path": "0_139955",
       "parent_path": "0"
@@ -612,6 +612,13 @@
       "slug": "zilli-2026-0606",
       "source_url": "https://shoes.tangma2088.com/categoryen_177367.html?path=0_177367",
       "source_path": "0_177367",
+      "parent_path": "0"
+    },
+    {
+      "name": "Zara 2026 0725",
+      "slug": "zara-2026-0725",
+      "source_url": "https://shoes.tangma2088.com/categoryen_181558.html?path=0_181558",
+      "source_path": "0_181558",
       "parent_path": "0"
     }
   ]

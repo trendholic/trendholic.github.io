@@ -1,0 +1,85 @@
+{
+  "slug": "adidas-socks-4097989",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4097993",
+  "source_parent_product_id": "4097989",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4097993.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/adidas-socks-4097989/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4097993.html",
+    "https://acc.tangma2088.com/productinfoen_4097992.html",
+    "https://acc.tangma2088.com/productinfoen_4097991.html",
+    "https://acc.tangma2088.com/productinfoen_4097990.html",
+    "https://acc.tangma2088.com/productinfoen_4097989.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Adidas%20Socks%20(1)_4097990.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Adidas%20Socks%20(2)_4097991.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Adidas%20Socks%20(5)_4097992.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Adidas%20Socks%20(6)_4097993.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Adidas%20socks_4097989.jpg"
+  ],
+  "source_last_seen": "2026-07-26T06:21:11.490Z",
+  "name": "Adidas Socks",
+  "english_product_name": "Adidas Socks",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4097989",
+  "parent_product_id": "4097989",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/adidas-socks-4097989-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Adidas%20Socks%20(1)_4097990.jpg",
+      "content_hash": "8b54918a9607b37f175fd0018680416961a344ad",
+      "alt": "Adidas Socks"
+    },
+    {
+      "src": "/data/accessories/images/adidas-socks-4097989-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Adidas%20Socks%20(2)_4097991.jpg",
+      "content_hash": "def5046420b24fbcc5d0f5b398928e28af1b2332",
+      "alt": "Adidas Socks"
+    },
+    {
+      "src": "/data/accessories/images/adidas-socks-4097989-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Adidas%20Socks%20(5)_4097992.jpg",
+      "content_hash": "3ae61c40b45dda36c377ecb446c07108cf18764b",
+      "alt": "Adidas Socks"
+    },
+    {
+      "src": "/data/accessories/images/adidas-socks-4097989-4.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Adidas%20Socks%20(6)_4097993.jpg",
+      "content_hash": "a9e07745962c3280f705c5cb58526fe7456b96ed",
+      "alt": "Adidas Socks"
+    },
+    {
+      "src": "/data/accessories/images/adidas-socks-4097989-5.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Adidas%20socks_4097989.jpg",
+      "content_hash": "351192aac50550f962b104a3324a38dc9d2e0472",
+      "alt": "Adidas Socks"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-26T06:21:11.490Z"
+}

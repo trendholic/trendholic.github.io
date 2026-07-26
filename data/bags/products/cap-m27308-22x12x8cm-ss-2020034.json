@@ -1,0 +1,61 @@
+{
+  "slug": "cap-m27308-22x12x8cm-ss-2020034",
+  "top_category": "Bags",
+  "source_site": "bags",
+  "source_domain": "bags.tangma2088.com",
+  "source_top_category": "Bags",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "2020035",
+  "source_parent_product_id": "2020034",
+  "source_product_url": "https://bags.tangma2088.com/productinfoen_2020035.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/cap-m27308-22x12x8cm-ss-2020034/",
+  "source_product_urls": [
+    "https://bags.tangma2088.com/productinfoen_2020035.html",
+    "https://bags.tangma2088.com/productinfoen_2020034.html"
+  ],
+  "source_image_urls": [
+    "https://bags.tangma2088.com/upfile/product/202607/Cap%20M27308%2022x12x8cm%20ss1_2020034.jpg",
+    "https://bags.tangma2088.com/upfile/product/202607/Cap%20M27308%2022x12x8cm%20ss11_2020035.jpg"
+  ],
+  "source_last_seen": "2026-07-26T06:28:04.177Z",
+  "name": "Cap M27308 22x12x8cm ss",
+  "english_product_name": "Cap M27308 22x12x8cm ss",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2020034",
+  "parent_product_id": "2020034",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/bags/images/cap-m27308-22x12x8cm-ss-2020034-1.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M27308%2022x12x8cm%20ss1_2020034.jpg",
+      "content_hash": "389f4d4ac4f4da6f9a9b92558fab23bbd526437c",
+      "alt": "Cap M27308 22x12x8cm ss"
+    },
+    {
+      "src": "/data/bags/images/cap-m27308-22x12x8cm-ss-2020034-2.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M27308%2022x12x8cm%20ss11_2020035.jpg",
+      "content_hash": "b0b4fb80a6aaad7a0ebf7ca29fbaa568ed97c664",
+      "alt": "Cap M27308 22x12x8cm ss"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-26T06:28:04.177Z"
+}
