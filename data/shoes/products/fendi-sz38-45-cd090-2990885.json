@@ -1,0 +1,77 @@
+{
+  "slug": "fendi-sz38-45-cd090-2990885",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "2990888",
+  "source_parent_product_id": "2990885",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2990888.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz38-45-cd090-2990885/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2990888.html",
+    "https://shoes.tangma2088.com/productinfoen_2990887.html",
+    "https://shoes.tangma2088.com/productinfoen_2990886.html",
+    "https://shoes.tangma2088.com/productinfoen_2990885.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD090%20012138532_2990888.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD090%20042138529_2990887.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD090%20062138527_2990886.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD090%20072138526_2990885.jpg"
+  ],
+  "source_last_seen": "2026-07-27T07:06:55.358Z",
+  "name": "Fendi sz38-45 CD090",
+  "english_product_name": "Fendi sz38-45 CD090",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2990885",
+  "parent_product_id": "2990885",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-cd090-2990885-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD090%20012138532_2990888.jpg",
+      "content_hash": "217a3aac0e578061ca4d98c07be57175199755b8",
+      "alt": "Fendi sz38-45 CD090"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-cd090-2990885-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD090%20042138529_2990887.jpg",
+      "content_hash": "642455928cabb809d4adfa7c5a220d97182d2f54",
+      "alt": "Fendi sz38-45 CD090"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-cd090-2990885-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD090%20062138527_2990886.jpg",
+      "content_hash": "bb02f86a375a93da1e74c1c3bd135c7103fb41c8",
+      "alt": "Fendi sz38-45 CD090"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-cd090-2990885-4.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD090%20072138526_2990885.jpg",
+      "content_hash": "a532021a9c6498fec946585cc8b11094d8b833e5",
+      "alt": "Fendi sz38-45 CD090"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T07:06:55.358Z"
+}

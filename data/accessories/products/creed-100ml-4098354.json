@@ -1,0 +1,61 @@
+{
+  "slug": "creed-100ml-4098354",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4098355",
+  "source_parent_product_id": "4098354",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4098355.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/creed-100ml-4098354/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4098355.html",
+    "https://acc.tangma2088.com/productinfoen_4098354.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Creed%20100ml%20(1)_4098354.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Creed%20100ml%20(2)_4098355.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:55:00.186Z",
+  "name": "Creed 100ml",
+  "english_product_name": "Creed 100ml",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4098354",
+  "parent_product_id": "4098354",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/creed-100ml-4098354-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Creed%20100ml%20(1)_4098354.jpg",
+      "content_hash": "b69df5c4c32e2590e038990198b76438a78e24b8",
+      "alt": "Creed 100ml"
+    },
+    {
+      "src": "/data/accessories/images/creed-100ml-4098354-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Creed%20100ml%20(2)_4098355.jpg",
+      "content_hash": "bdf7d45459805550234faf81b150aaf37caf0089",
+      "alt": "Creed 100ml"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:55:00.186Z"
+}

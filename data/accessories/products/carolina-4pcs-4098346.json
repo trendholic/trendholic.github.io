@@ -1,0 +1,61 @@
+{
+  "slug": "carolina-4pcs-4098346",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4098347",
+  "source_parent_product_id": "4098346",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4098347.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/carolina-4pcs-4098346/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4098347.html",
+    "https://acc.tangma2088.com/productinfoen_4098346.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Carolina%204pcs%20(1)_4098346.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Carolina%204pcs%20(2)_4098347.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:55:00.186Z",
+  "name": "Carolina 4pcs",
+  "english_product_name": "Carolina 4pcs",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4098346",
+  "parent_product_id": "4098346",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/carolina-4pcs-4098346-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Carolina%204pcs%20(1)_4098346.jpg",
+      "content_hash": "02c499bcd5ae3a0b54088ee591d254e4f39c2175",
+      "alt": "Carolina 4pcs"
+    },
+    {
+      "src": "/data/accessories/images/carolina-4pcs-4098346-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Carolina%204pcs%20(2)_4098347.jpg",
+      "content_hash": "14c629e1ff3cc6ad4c54952ae6b060be2ed95110",
+      "alt": "Carolina 4pcs"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:55:00.186Z"
+}

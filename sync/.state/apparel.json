@@ -653,42 +653,538 @@
       "slug": "lv-s-xl-12yr163-5736521",
       "parent_product_id": "5736521",
       "firstSeen": "2026-07-26T06:15:33.400Z",
-      "lastSeen": "2026-07-26T06:15:33.400Z"
+      "lastSeen": "2026-07-26T06:15:33.400Z",
+      "inactive": true
     },
     "5736537": {
       "rawHash": "dc74e96d6273b2f7c90672c610148a93ccffd0ee",
       "slug": "lv-s-xl-12yr164-5736537",
       "parent_product_id": "5736537",
       "firstSeen": "2026-07-26T06:15:33.400Z",
-      "lastSeen": "2026-07-26T06:15:33.400Z"
+      "lastSeen": "2026-07-26T06:15:33.400Z",
+      "inactive": true
     },
     "5736553": {
       "rawHash": "ac6700930c47cf946a5b9bd73d558750e468883c",
       "slug": "balenciaga-sz100-160-5736553",
       "parent_product_id": "5736553",
       "firstSeen": "2026-07-26T06:15:33.400Z",
-      "lastSeen": "2026-07-26T06:15:33.400Z"
+      "lastSeen": "2026-07-26T06:15:33.400Z",
+      "inactive": true
     },
     "5736743": {
       "rawHash": "a705abd62c18b449f264cd8b234789fbde3269e9",
       "slug": "balenciaga-sz110-150-5736743",
       "parent_product_id": "5736743",
       "firstSeen": "2026-07-26T06:15:33.400Z",
-      "lastSeen": "2026-07-26T06:15:33.400Z"
+      "lastSeen": "2026-07-26T06:15:33.400Z",
+      "inactive": true
     },
     "5736825": {
       "rawHash": "6f4beb90cbecf49c61c95a75915da40d8cf50c28",
       "slug": "lv-m-3xl-8qx15-5736825",
       "parent_product_id": "5736825",
       "firstSeen": "2026-07-26T06:15:33.400Z",
-      "lastSeen": "2026-07-26T06:15:33.400Z"
+      "lastSeen": "2026-07-26T06:15:33.400Z",
+      "inactive": true
     },
     "5736834": {
       "rawHash": "b6d1e13370cd2a6c4ca851b28c9e954e08517f84",
       "slug": "balenciaga-sz110-160-5736834",
       "parent_product_id": "5736834",
       "firstSeen": "2026-07-26T06:15:33.400Z",
-      "lastSeen": "2026-07-26T06:15:33.400Z"
+      "lastSeen": "2026-07-26T06:15:33.400Z",
+      "inactive": true
+    },
+    "5743992": {
+      "rawHash": "2e4b963a9ac0abfa39cd4d73dc966c56010aec43",
+      "slug": "loro-piana-m-3xl-12yh65-5743992",
+      "parent_product_id": "5743992",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5743995": {
+      "rawHash": "c5804d642cb7e78fc659cc80e83684504aefb2b6",
+      "slug": "tf-sz29-42-8qx6006-5743995",
+      "parent_product_id": "5743995",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5743996": {
+      "rawHash": "98c8f745b39514c4670a7800c8042b16a4e36df1",
+      "slug": "lacoste-m-3xl-12yh25-5743996",
+      "parent_product_id": "5743996",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744006": {
+      "rawHash": "f7b46101fb8be5aed3b08693076ebf423698647a",
+      "slug": "lacoste-m-3xl-12yh26-5744006",
+      "parent_product_id": "5744006",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744015": {
+      "rawHash": "a88b58cf184450d541ea6e5087bc5f280b143b72",
+      "slug": "lacoste-m-3xl-12yh27-5744015",
+      "parent_product_id": "5744015",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744024": {
+      "rawHash": "9ab30e8f7a632a266c856c23bd71e1daa7567812",
+      "slug": "hugo-m-3xl-12yh18-5744024",
+      "parent_product_id": "5744024",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744029": {
+      "rawHash": "38741455b55bc21219736127db75a9f6edfc09df",
+      "slug": "gucci-m-3xl-12yh174-5744029",
+      "parent_product_id": "5744029",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744034": {
+      "rawHash": "b39ab358be43082df57ef9f65c744050671e3fe7",
+      "slug": "dior-m-3xl-12yh281-5744034",
+      "parent_product_id": "5744034",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744039": {
+      "rawHash": "07d5aa294495d9da863c02ea97e95b95c9b3c13f",
+      "slug": "dior-m-3xl-12yh282-5744039",
+      "parent_product_id": "5744039",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744045": {
+      "rawHash": "c9d99069bcd684f2d4a7c9461da7c06f92a76041",
+      "slug": "burberry-m-3xl-12yh150-5744045",
+      "parent_product_id": "5744045",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744051": {
+      "rawHash": "1a0db47bf86ec9effb7632bd5d7d90ffb0c76303",
+      "slug": "burberry-m-3xl-12yh151-5744051",
+      "parent_product_id": "5744051",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744057": {
+      "rawHash": "12bf63f88c38b51869d5ccb9e40df3f95210ead9",
+      "slug": "boss-m-3xl-12yh289-5744057",
+      "parent_product_id": "5744057",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744063": {
+      "rawHash": "e28d4fa70681edac8548de09ddddae9d073d86e4",
+      "slug": "boss-m-3xl-12yh290-5744063",
+      "parent_product_id": "5744063",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744068": {
+      "rawHash": "a9b9f0db6ee49f6d7b801cfcd80648fb10bf3416",
+      "slug": "lv-m-2xl-12yh116-5744068",
+      "parent_product_id": "5744068",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744070": {
+      "rawHash": "c390adc8c4bf42042d5cadfca715d9c898e650fe",
+      "slug": "lv-m-2xl-12yh117-5744070",
+      "parent_product_id": "5744070",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744074": {
+      "rawHash": "253475f90af0f0038472d8e3ed6166558ee119f9",
+      "slug": "lv-m-2xl-12yh118-5744074",
+      "parent_product_id": "5744074",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744076": {
+      "rawHash": "3d5df09c987dbb0d6753aa10ac6dbc657d5bd3a2",
+      "slug": "lv-m-2xl-12yh119-5744076",
+      "parent_product_id": "5744076",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744078": {
+      "rawHash": "69791fc65c9cc73ae3cd844ef2c00e4580124d0f",
+      "slug": "lv-m-2xl-12yh120-5744078",
+      "parent_product_id": "5744078",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744080": {
+      "rawHash": "24e28f6863b3fe00101db29eb50cd09dbba48043",
+      "slug": "lv-m-2xl-12yh121-5744080",
+      "parent_product_id": "5744080",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744082": {
+      "rawHash": "8574a55637ce3df7ecd13608f6f719147f5d7fe9",
+      "slug": "lv-m-2xl-12yh122-5744082",
+      "parent_product_id": "5744082",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744084": {
+      "rawHash": "0ef4dd286a671c180fb1fa9564a9712258c6e956",
+      "slug": "lv-m-2xl-12yh123-5744084",
+      "parent_product_id": "5744084",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744086": {
+      "rawHash": "ff37ea64e15b01ecbfb9f86673d5d0b373dc4d9d",
+      "slug": "lv-m-2xl-12yh124-5744086",
+      "parent_product_id": "5744086",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744088": {
+      "rawHash": "1304a4855710f510b588f0b5af430336efd8c323",
+      "slug": "lv-m-2xl-12yh125-5744088",
+      "parent_product_id": "5744088",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744090": {
+      "rawHash": "f38d57916da8137d846107d8f1ec45856edd6934",
+      "slug": "lv-m-2xl-12yh126-5744090",
+      "parent_product_id": "5744090",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744092": {
+      "rawHash": "48977f8ab1c865ea94c2f1725a8303e7be2fd4b4",
+      "slug": "lv-m-2xl-12yh127-5744092",
+      "parent_product_id": "5744092",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744094": {
+      "rawHash": "3b5f0bb1559cef07cb84c1deb9d8c8a292954ba2",
+      "slug": "lv-m-2xl-12yh128-5744094",
+      "parent_product_id": "5744094",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744096": {
+      "rawHash": "d58457405e51235905e2dec7ef4348ceb0a23a20",
+      "slug": "gooabrand-m-2xl-12yh17-5744096",
+      "parent_product_id": "5744096",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744098": {
+      "rawHash": "a1213d7d2c962b11f250fa92dca5d029da7ce869",
+      "slug": "celine-m-2xl-12yh36-5744098",
+      "parent_product_id": "5744098",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744100": {
+      "rawHash": "7ee1ab53788efff80c2381cc94b9ed5ed1984fb0",
+      "slug": "balenciaga-m-2xl-12yh49-5744100",
+      "parent_product_id": "5744100",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744102": {
+      "rawHash": "693f299f78ede4fe90c9b7acfbe6e57e0e0892e0",
+      "slug": "balenciaga-m-2xl-12yh50-5744102",
+      "parent_product_id": "5744102",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744104": {
+      "rawHash": "5705bb9065c9a136f7e2320aa95225dd3ad6db7e",
+      "slug": "balenciaga-m-2xl-12yh51-5744104",
+      "parent_product_id": "5744104",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744106": {
+      "rawHash": "98c73a3f442d61482ee4164c10866da51574f476",
+      "slug": "balenciaga-m-2xl-12yh52-5744106",
+      "parent_product_id": "5744106",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744108": {
+      "rawHash": "02244379a6dadd67e0b30c08d122e560e4afd33a",
+      "slug": "amiri-m-2xl-12yh59-5744108",
+      "parent_product_id": "5744108",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744110": {
+      "rawHash": "bcc75748eb91b734ea414016f59bc4b15572ef03",
+      "slug": "tf-sz29-42-8qx6828-5744110",
+      "parent_product_id": "5744110",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744120": {
+      "rawHash": "006c04999cbd6c214561311d68136fec13110b1f",
+      "slug": "loro-piana-sz29-42-8qx1015-5744120",
+      "parent_product_id": "5744120",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744135": {
+      "rawHash": "39906e597baf3b5cc9e5eca1226456d211f6e251",
+      "slug": "loro-piana-sz29-42-8qx1023-5744135",
+      "parent_product_id": "5744135",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744148": {
+      "rawHash": "41f235ed0e6132422e7592d7a240c65393f310b2",
+      "slug": "loro-piana-sz29-42-8qx6002-5744148",
+      "parent_product_id": "5744148",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744162": {
+      "rawHash": "f954e5592ec89f982c506c4062bdb30135ff20de",
+      "slug": "loro-piana-sz29-42-8qx6007-5744162",
+      "parent_product_id": "5744162",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744176": {
+      "rawHash": "1ab4ef4fa7bb9be065cdf33403e5f438cebcb179",
+      "slug": "loro-piana-sz29-42-8qx8820-5744176",
+      "parent_product_id": "5744176",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744186": {
+      "rawHash": "a967796c7f59cd7c688be5c9686575fcbec6724c",
+      "slug": "loro-piana-sz29-42-8qxl7990-5744186",
+      "parent_product_id": "5744186",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744195": {
+      "rawHash": "bbc9a6c25a78ee8408c64c21b8ac2ef104c17325",
+      "slug": "loro-piana-sz29-40-8qxlp266-5744195",
+      "parent_product_id": "5744195",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744205": {
+      "rawHash": "250a58c357591730e3ab215278e9ffc8d3182685",
+      "slug": "armani-sz29-42-8qx1022-5744205",
+      "parent_product_id": "5744205",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744227": {
+      "rawHash": "4380fdd55d362a79ae30e91a3940217b55fdc488",
+      "slug": "armani-sz29-42-8qxa6827-5744227",
+      "parent_product_id": "5744227",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744237": {
+      "rawHash": "ac08a3679478291e713cb244bfae664e001613fc",
+      "slug": "armani-sz29-40-8qx9963-5744237",
+      "parent_product_id": "5744237",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744247": {
+      "rawHash": "f85e5f1bda84c0d6cd43c5e8624d2e4303c6a6cb",
+      "slug": "armani-sz29-38-8qx279-5744247",
+      "parent_product_id": "5744247",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744256": {
+      "rawHash": "dfb7ad352fd9d0ffa74373557fb22eb472e88754",
+      "slug": "armani-sz29-38-8qx280-5744256",
+      "parent_product_id": "5744256",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744266": {
+      "rawHash": "89cdaa8429c24166752f0b494595d69b37343b78",
+      "slug": "armani-sz29-38-8qx281-5744266",
+      "parent_product_id": "5744266",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744275": {
+      "rawHash": "a94b56506d51005a832d13f34d98e5f2b3c7388d",
+      "slug": "armani-sz29-38-8qx282-5744275",
+      "parent_product_id": "5744275",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744314": {
+      "rawHash": "e4bda80a4b665045a28f20362738e88150a8c502",
+      "slug": "armani-sz29-38-8qx283-5744314",
+      "parent_product_id": "5744314",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744419": {
+      "rawHash": "6b7f9a74e2db54e7eda38da90eb5b958ee8498f4",
+      "slug": "ck-sz29-42-8qx1027-5744419",
+      "parent_product_id": "5744419",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744432": {
+      "rawHash": "20fde0e79e44ef6c3ea3f5ad2e42d258232f8ff7",
+      "slug": "supreme-m-4xl-12yh10-5744432",
+      "parent_product_id": "5744432",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744435": {
+      "rawHash": "cf47e413385ec3dff00d829ca73fde8ca922c61a",
+      "slug": "prada-m-4xl-12yh106-5744435",
+      "parent_product_id": "5744435",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744439": {
+      "rawHash": "8d2bd11bb9a7cbddc81b0429fb379f2a3620286a",
+      "slug": "m-4xl-12yh23-5744439",
+      "parent_product_id": "5744439",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744443": {
+      "rawHash": "ea1e73ba580c1c7da392982b314a9d37152514d9",
+      "slug": "loro-piana-m-4xl-12yh17-5744443",
+      "parent_product_id": "5744443",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744447": {
+      "rawHash": "a1af69724c4c5072e60216a3cecc860d2bf59b71",
+      "slug": "hugo-m-4xl-12yh18-5744447",
+      "parent_product_id": "5744447",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744451": {
+      "rawHash": "842aa386e76efad0732ffe968dcb4b5bb81f93d8",
+      "slug": "hugo-m-4xl-12yh19-5744451",
+      "parent_product_id": "5744451",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744453": {
+      "rawHash": "1ca3759737abdb906880eb398548b0554afc82bc",
+      "slug": "hugo-m-4xl-12yh20-5744453",
+      "parent_product_id": "5744453",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744456": {
+      "rawHash": "e22a185552794c1883330e156018bd1346826ca1",
+      "slug": "hermes-m-4xl-12yh48-5744456",
+      "parent_product_id": "5744456",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744461": {
+      "rawHash": "828eebe1fa6c90c2cc3d4cd08ef3f201c6db97cc",
+      "slug": "hazzys-m-4xl-12yh21-5744461",
+      "parent_product_id": "5744461",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744465": {
+      "rawHash": "68467aa1f2395a26d68f0c66dd84730612116dab",
+      "slug": "hazzys-m-4xl-12yh22-5744465",
+      "parent_product_id": "5744465",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744469": {
+      "rawHash": "64505f9ed8707a5e838fe4f4284bf145e2da8ac7",
+      "slug": "france-m-4xl-12yh23-5744469",
+      "parent_product_id": "5744469",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744474": {
+      "rawHash": "dc0952f2994f3786906519098e69b218b7ff753e",
+      "slug": "fendi-m-4xl-12yh72-5744474",
+      "parent_product_id": "5744474",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744477": {
+      "rawHash": "7f4b2964ac9d3f67fd42645777a30b37d297bcd4",
+      "slug": "boss-m-4xl-12yh07-5744477",
+      "parent_product_id": "5744477",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744481": {
+      "rawHash": "a14f3b5aade47f439c4fc8e0d56a166a716eca56",
+      "slug": "balenciaga-m-4xl-12yh89-5744481",
+      "parent_product_id": "5744481",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744485": {
+      "rawHash": "a06e7059c3b9cd08f9d59a6546a5e1d16f1c9f75",
+      "slug": "balenciaga-m-4xl-12yh90-5744485",
+      "parent_product_id": "5744485",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744489": {
+      "rawHash": "493e3a6c4dd3e148fa91c44269d6535f54474330",
+      "slug": "armani-m-4xl-12yh14-5744489",
+      "parent_product_id": "5744489",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744493": {
+      "rawHash": "dbcc243b685de0d01086ad71f6cc7946b6ecc2b7",
+      "slug": "armani-m-4xl-12yh15-5744493",
+      "parent_product_id": "5744493",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744497": {
+      "rawHash": "76dc1a2d87dfcbdf38752d59fd78e28711236cd6",
+      "slug": "armani-m-4xl-12yh16-5744497",
+      "parent_product_id": "5744497",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744501": {
+      "rawHash": "03051b140a470d3062826a0dd37bd04dce302f6a",
+      "slug": "dg-sz29-42-8qx1030-5744501",
+      "parent_product_id": "5744501",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
+    },
+    "5744515": {
+      "rawHash": "447f43b0d5e8e2b0ca4f153139fa7ace5ec38b2f",
+      "slug": "dg-sz29-40-8qx2346-5744515",
+      "parent_product_id": "5744515",
+      "firstSeen": "2026-07-27T06:41:03.849Z",
+      "lastSeen": "2026-07-27T06:41:03.849Z"
     }
   },
   "categories": [
@@ -698,11 +1194,11 @@
     "ralph-lauren",
     "lacoste",
     "high-quality-0801",
-    "by-style-0725",
+    "by-style-0727",
     "t-shirt-0726",
     "high-quality-0717",
     "polo-short-0726",
-    "jacket-0725",
+    "jacket-0727",
     "down-jacket-0720",
     "bikini-0613",
     "spring-summer-kid-clothes-0721",
@@ -749,5 +1245,5 @@
     "kenzo",
     "hotsale-updating"
   ],
-  "updatedAt": "2026-07-26T06:15:33.400Z"
+  "updatedAt": "2026-07-27T06:41:03.849Z"
 }

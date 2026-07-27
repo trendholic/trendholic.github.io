@@ -1,0 +1,61 @@
+{
+  "slug": "givenchy-100ml-4098368",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4098369",
+  "source_parent_product_id": "4098368",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4098369.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/givenchy-100ml-4098368/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4098369.html",
+    "https://acc.tangma2088.com/productinfoen_4098368.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Givenchy%20100ml%20(1)_4098368.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Givenchy%20100ml%20(2)_4098369.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:55:00.186Z",
+  "name": "Givenchy 100ml",
+  "english_product_name": "Givenchy 100ml",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4098368",
+  "parent_product_id": "4098368",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/givenchy-100ml-4098368-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Givenchy%20100ml%20(1)_4098368.jpg",
+      "content_hash": "31a6cfa260091b6b68dc4afafab462903e8a27a9",
+      "alt": "Givenchy 100ml"
+    },
+    {
+      "src": "/data/accessories/images/givenchy-100ml-4098368-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Givenchy%20100ml%20(2)_4098369.jpg",
+      "content_hash": "c99d7fe7e20d0c0c2bca6fa8ab935cb94d710722",
+      "alt": "Givenchy 100ml"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:55:00.186Z"
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "fendi-sz38-45-2c-tf0403-2990851",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "2990854",
+  "source_parent_product_id": "2990851",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2990854.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz38-45-2c-tf0403-2990851/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2990854.html",
+    "https://shoes.tangma2088.com/productinfoen_2990853.html",
+    "https://shoes.tangma2088.com/productinfoen_2990852.html",
+    "https://shoes.tangma2088.com/productinfoen_2990851.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20TF0403%20011409976_2990854.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20TF0403%20021409975_2990853.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20TF0403%20061409971_2990852.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20TF0403%20091409968_2990851.jpg"
+  ],
+  "source_last_seen": "2026-07-27T07:06:55.358Z",
+  "name": "Fendi sz38-45 2C TF0403",
+  "english_product_name": "Fendi sz38-45 2C TF0403",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2990851",
+  "parent_product_id": "2990851",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-2c-tf0403-2990851-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20TF0403%20011409976_2990854.jpg",
+      "content_hash": "a6047fe71abfda9215fe19b99ead0abbad727554",
+      "alt": "Fendi sz38-45 2C TF0403"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-2c-tf0403-2990851-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20TF0403%20021409975_2990853.jpg",
+      "content_hash": "0aa23395d4e8b32aad653f46fb6501d3434ff33b",
+      "alt": "Fendi sz38-45 2C TF0403"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-2c-tf0403-2990851-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20TF0403%20061409971_2990852.jpg",
+      "content_hash": "1b07a8ffdd0717dadf9b9bf9c606e6ea03d8e5a7",
+      "alt": "Fendi sz38-45 2C TF0403"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-2c-tf0403-2990851-4.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20TF0403%20091409968_2990851.jpg",
+      "content_hash": "009507696a26f610c95cf8663061f57012214322",
+      "alt": "Fendi sz38-45 2C TF0403"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T07:06:55.358Z"
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "hugo-m-4xl-12yh18-5744447",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "5744450",
+  "source_parent_product_id": "5744447",
+  "source_product_url": "https://tangma2088.com/productinfoen_5744450.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/hugo-m-4xl-12yh18-5744447/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5744450.html",
+    "https://tangma2088.com/productinfoen_5744449.html",
+    "https://tangma2088.com/productinfoen_5744448.html",
+    "https://tangma2088.com/productinfoen_5744447.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/Hugo%20M-4XL%2012yh18%20(2)_5744450.jpg",
+    "https://tangma2088.com/upfile/product/202607/Hugo%20M-4XL%2012yh18%20(3)_5744449.jpg",
+    "https://tangma2088.com/upfile/product/202607/Hugo%20M-4XL%2012yh18%20(4)_5744448.jpg",
+    "https://tangma2088.com/upfile/product/202607/Hugo%20M-4XL%2012yh18%20(5)_5744447.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:41:03.849Z",
+  "name": "Hugo M-4XL 12yh18",
+  "english_product_name": "Hugo M-4XL 12yh18",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5744447",
+  "parent_product_id": "5744447",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/hugo-m-4xl-12yh18-5744447-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Hugo%20M-4XL%2012yh18%20(2)_5744450.jpg",
+      "content_hash": "fc413b24e7318596afd8d723c775d2ddab266d6f",
+      "alt": "Hugo M-4XL 12yh18"
+    },
+    {
+      "src": "/data/apparel/images/hugo-m-4xl-12yh18-5744447-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Hugo%20M-4XL%2012yh18%20(3)_5744449.jpg",
+      "content_hash": "7288427a58c68d1bd8adc3c901e3ce0cd2269f19",
+      "alt": "Hugo M-4XL 12yh18"
+    },
+    {
+      "src": "/data/apparel/images/hugo-m-4xl-12yh18-5744447-3.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Hugo%20M-4XL%2012yh18%20(4)_5744448.jpg",
+      "content_hash": "69fb5bbbe5733cc2d0f1de70e720be21b31b670c",
+      "alt": "Hugo M-4XL 12yh18"
+    },
+    {
+      "src": "/data/apparel/images/hugo-m-4xl-12yh18-5744447-4.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Hugo%20M-4XL%2012yh18%20(5)_5744447.jpg",
+      "content_hash": "d10b9d9333ac09f65f798f742964463099cb6d7f",
+      "alt": "Hugo M-4XL 12yh18"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:41:03.849Z"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "lv-m-2xl-12yh123-5744084",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "5744085",
+  "source_parent_product_id": "5744084",
+  "source_product_url": "https://tangma2088.com/productinfoen_5744085.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh123-5744084/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5744085.html",
+    "https://tangma2088.com/productinfoen_5744084.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/LV%20M-2XL%2012yh123%20(1)_5744085.jpg",
+    "https://tangma2088.com/upfile/product/202607/LV%20M-2XL%2012yh123%20(2)_5744084.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:41:03.849Z",
+  "name": "LV M-2XL 12yh123",
+  "english_product_name": "LV M-2XL 12yh123",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5744084",
+  "parent_product_id": "5744084",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/lv-m-2xl-12yh123-5744084-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/LV%20M-2XL%2012yh123%20(1)_5744085.jpg",
+      "content_hash": "6b2195f31c28311af3b56197987b0f01bfd251ae",
+      "alt": "LV M-2XL 12yh123"
+    },
+    {
+      "src": "/data/apparel/images/lv-m-2xl-12yh123-5744084-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/LV%20M-2XL%2012yh123%20(2)_5744084.jpg",
+      "content_hash": "014c6f37466fa5a0ae205db4d0aa9be08c78b5c1",
+      "alt": "LV M-2XL 12yh123"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:41:03.849Z"
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "balenciaga-10x2ml-4098340",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4098342",
+  "source_parent_product_id": "4098340",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4098342.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/balenciaga-10x2ml-4098340/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4098342.html",
+    "https://acc.tangma2088.com/productinfoen_4098341.html",
+    "https://acc.tangma2088.com/productinfoen_4098340.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%2010X2ml%20(1)_4098341.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%2010X2ml%20(2)_4098342.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%2010X2ml_4098340.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:55:00.186Z",
+  "name": "Balenciaga 10X2ml",
+  "english_product_name": "Balenciaga 10X2ml",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4098340",
+  "parent_product_id": "4098340",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/balenciaga-10x2ml-4098340-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%2010X2ml%20(1)_4098341.jpg",
+      "content_hash": "053c310680666f6882ae2636eb8f29750f4022c4",
+      "alt": "Balenciaga 10X2ml"
+    },
+    {
+      "src": "/data/accessories/images/balenciaga-10x2ml-4098340-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%2010X2ml%20(2)_4098342.jpg",
+      "content_hash": "0b1eb032544d87754b881b479512b6bf5ec7db50",
+      "alt": "Balenciaga 10X2ml"
+    },
+    {
+      "src": "/data/accessories/images/balenciaga-10x2ml-4098340-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%2010X2ml_4098340.jpg",
+      "content_hash": "a686007ad801307cb7ea21e756154b10d5679f30",
+      "alt": "Balenciaga 10X2ml"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:55:00.186Z"
+}

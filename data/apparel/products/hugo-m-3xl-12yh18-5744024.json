@@ -1,0 +1,85 @@
+{
+  "slug": "hugo-m-3xl-12yh18-5744024",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "5744028",
+  "source_parent_product_id": "5744024",
+  "source_product_url": "https://tangma2088.com/productinfoen_5744028.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/hugo-m-3xl-12yh18-5744024/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5744028.html",
+    "https://tangma2088.com/productinfoen_5744027.html",
+    "https://tangma2088.com/productinfoen_5744026.html",
+    "https://tangma2088.com/productinfoen_5744025.html",
+    "https://tangma2088.com/productinfoen_5744024.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/Hugo%20M-3XL%2012yh18%20(1)_5744028.jpg",
+    "https://tangma2088.com/upfile/product/202607/Hugo%20M-3XL%2012yh18%20(2)_5744027.jpg",
+    "https://tangma2088.com/upfile/product/202607/Hugo%20M-3XL%2012yh18%20(3)_5744026.jpg",
+    "https://tangma2088.com/upfile/product/202607/Hugo%20M-3XL%2012yh18%20(4)_5744025.jpg",
+    "https://tangma2088.com/upfile/product/202607/Hugo%20M-3XL%2012yh18%20(5)_5744024.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:41:03.849Z",
+  "name": "Hugo M-3XL 12yh18",
+  "english_product_name": "Hugo M-3XL 12yh18",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5744024",
+  "parent_product_id": "5744024",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/hugo-m-3xl-12yh18-5744024-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Hugo%20M-3XL%2012yh18%20(1)_5744028.jpg",
+      "content_hash": "8aec1f51939f423d88e168f18412bd2c65d3b1ee",
+      "alt": "Hugo M-3XL 12yh18"
+    },
+    {
+      "src": "/data/apparel/images/hugo-m-3xl-12yh18-5744024-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Hugo%20M-3XL%2012yh18%20(2)_5744027.jpg",
+      "content_hash": "df8fefaa975589eb88f6decc79b09af027e60cff",
+      "alt": "Hugo M-3XL 12yh18"
+    },
+    {
+      "src": "/data/apparel/images/hugo-m-3xl-12yh18-5744024-3.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Hugo%20M-3XL%2012yh18%20(3)_5744026.jpg",
+      "content_hash": "3283873104a6641511f7e875045dfc1ec58f0519",
+      "alt": "Hugo M-3XL 12yh18"
+    },
+    {
+      "src": "/data/apparel/images/hugo-m-3xl-12yh18-5744024-4.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Hugo%20M-3XL%2012yh18%20(4)_5744025.jpg",
+      "content_hash": "7632920f290797de1db0be7a185b9ec1b4154149",
+      "alt": "Hugo M-3XL 12yh18"
+    },
+    {
+      "src": "/data/apparel/images/hugo-m-3xl-12yh18-5744024-5.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Hugo%20M-3XL%2012yh18%20(5)_5744024.jpg",
+      "content_hash": "64fd382e6ea56fb34e9204d690fd5c390a3610cf",
+      "alt": "Hugo M-3XL 12yh18"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:41:03.849Z"
+}

@@ -1,7 +1,331 @@
 {
-  "updatedAt": "2026-07-26T06:37:23.017Z",
-  "count": 320,
+  "updatedAt": "2026-07-27T07:12:26.646Z",
+  "count": 482,
   "records": [
+    {
+      "slug": "amiri-m-2xl-12yh59-5744108",
+      "name": "Amiri M-2XL 12yh59",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-m-2xl-12yh59-5744108-1.webp",
+      "url": "/catalog/product/amiri-m-2xl-12yh59-5744108/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-m-2xl-12yh59-5744108/",
+      "keywords": [
+        "Amiri M-2XL 12yh59",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "armani-m-4xl-12yh14-5744489",
+      "name": "Armani M-4XL 12yh14",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/armani-m-4xl-12yh14-5744489-1.webp",
+      "url": "/catalog/product/armani-m-4xl-12yh14-5744489/",
+      "canonical": "https://trendholic.github.io/catalog/product/armani-m-4xl-12yh14-5744489/",
+      "keywords": [
+        "Armani M-4XL 12yh14",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "armani-m-4xl-12yh15-5744493",
+      "name": "Armani M-4XL 12yh15",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/armani-m-4xl-12yh15-5744493-1.webp",
+      "url": "/catalog/product/armani-m-4xl-12yh15-5744493/",
+      "canonical": "https://trendholic.github.io/catalog/product/armani-m-4xl-12yh15-5744493/",
+      "keywords": [
+        "Armani M-4XL 12yh15",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "armani-m-4xl-12yh16-5744497",
+      "name": "Armani M-4XL 12yh16",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/armani-m-4xl-12yh16-5744497-1.webp",
+      "url": "/catalog/product/armani-m-4xl-12yh16-5744497/",
+      "canonical": "https://trendholic.github.io/catalog/product/armani-m-4xl-12yh16-5744497/",
+      "keywords": [
+        "Armani M-4XL 12yh16",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "armani-sz29-38-8qx279-5744247",
+      "name": "Armani sz29-38 8qx279",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/armani-sz29-38-8qx279-5744247-1.webp",
+      "url": "/catalog/product/armani-sz29-38-8qx279-5744247/",
+      "canonical": "https://trendholic.github.io/catalog/product/armani-sz29-38-8qx279-5744247/",
+      "keywords": [
+        "Armani sz29-38 8qx279",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "armani-sz29-38-8qx280-5744256",
+      "name": "Armani sz29-38 8qx280",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/armani-sz29-38-8qx280-5744256-1.webp",
+      "url": "/catalog/product/armani-sz29-38-8qx280-5744256/",
+      "canonical": "https://trendholic.github.io/catalog/product/armani-sz29-38-8qx280-5744256/",
+      "keywords": [
+        "Armani sz29-38 8qx280",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "armani-sz29-38-8qx281-5744266",
+      "name": "Armani sz29-38 8qx281",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/armani-sz29-38-8qx281-5744266-1.webp",
+      "url": "/catalog/product/armani-sz29-38-8qx281-5744266/",
+      "canonical": "https://trendholic.github.io/catalog/product/armani-sz29-38-8qx281-5744266/",
+      "keywords": [
+        "Armani sz29-38 8qx281",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "armani-sz29-38-8qx282-5744275",
+      "name": "Armani sz29-38 8qx282",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/armani-sz29-38-8qx282-5744275-1.webp",
+      "url": "/catalog/product/armani-sz29-38-8qx282-5744275/",
+      "canonical": "https://trendholic.github.io/catalog/product/armani-sz29-38-8qx282-5744275/",
+      "keywords": [
+        "Armani sz29-38 8qx282",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "armani-sz29-38-8qx283-5744314",
+      "name": "Armani sz29-38 8qx283",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/armani-sz29-38-8qx283-5744314-1.webp",
+      "url": "/catalog/product/armani-sz29-38-8qx283-5744314/",
+      "canonical": "https://trendholic.github.io/catalog/product/armani-sz29-38-8qx283-5744314/",
+      "keywords": [
+        "Armani sz29-38 8qx283",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "armani-sz29-40-8qx9963-5744237",
+      "name": "Armani sz29-40 8qx9963",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/armani-sz29-40-8qx9963-5744237-1.webp",
+      "url": "/catalog/product/armani-sz29-40-8qx9963-5744237/",
+      "canonical": "https://trendholic.github.io/catalog/product/armani-sz29-40-8qx9963-5744237/",
+      "keywords": [
+        "Armani sz29-40 8qx9963",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "armani-sz29-42-8qx1022-5744205",
+      "name": "Armani sz29-42 8qx1022",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/armani-sz29-42-8qx1022-5744205-1.webp",
+      "url": "/catalog/product/armani-sz29-42-8qx1022-5744205/",
+      "canonical": "https://trendholic.github.io/catalog/product/armani-sz29-42-8qx1022-5744205/",
+      "keywords": [
+        "Armani sz29-42 8qx1022",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "armani-sz29-42-8qxa6827-5744227",
+      "name": "Armani sz29-42 8qxA6827",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/armani-sz29-42-8qxa6827-5744227-1.webp",
+      "url": "/catalog/product/armani-sz29-42-8qxa6827-5744227/",
+      "canonical": "https://trendholic.github.io/catalog/product/armani-sz29-42-8qxa6827-5744227/",
+      "keywords": [
+        "Armani sz29-42 8qxA6827",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "balenciaga-m-2xl-12yh49-5744100",
+      "name": "Balenciaga M-2XL 12yh49",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/balenciaga-m-2xl-12yh49-5744100-1.webp",
+      "url": "/catalog/product/balenciaga-m-2xl-12yh49-5744100/",
+      "canonical": "https://trendholic.github.io/catalog/product/balenciaga-m-2xl-12yh49-5744100/",
+      "keywords": [
+        "Balenciaga M-2XL 12yh49",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "balenciaga-m-2xl-12yh50-5744102",
+      "name": "Balenciaga M-2XL 12yh50",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/balenciaga-m-2xl-12yh50-5744102-1.webp",
+      "url": "/catalog/product/balenciaga-m-2xl-12yh50-5744102/",
+      "canonical": "https://trendholic.github.io/catalog/product/balenciaga-m-2xl-12yh50-5744102/",
+      "keywords": [
+        "Balenciaga M-2XL 12yh50",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "balenciaga-m-2xl-12yh51-5744104",
+      "name": "Balenciaga M-2XL 12yh51",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/balenciaga-m-2xl-12yh51-5744104-1.webp",
+      "url": "/catalog/product/balenciaga-m-2xl-12yh51-5744104/",
+      "canonical": "https://trendholic.github.io/catalog/product/balenciaga-m-2xl-12yh51-5744104/",
+      "keywords": [
+        "Balenciaga M-2XL 12yh51",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "balenciaga-m-2xl-12yh52-5744106",
+      "name": "Balenciaga M-2XL 12yh52",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/balenciaga-m-2xl-12yh52-5744106-1.webp",
+      "url": "/catalog/product/balenciaga-m-2xl-12yh52-5744106/",
+      "canonical": "https://trendholic.github.io/catalog/product/balenciaga-m-2xl-12yh52-5744106/",
+      "keywords": [
+        "Balenciaga M-2XL 12yh52",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "balenciaga-m-4xl-12yh89-5744481",
+      "name": "Balenciaga M-4XL 12yh89",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/balenciaga-m-4xl-12yh89-5744481-1.webp",
+      "url": "/catalog/product/balenciaga-m-4xl-12yh89-5744481/",
+      "canonical": "https://trendholic.github.io/catalog/product/balenciaga-m-4xl-12yh89-5744481/",
+      "keywords": [
+        "Balenciaga M-4XL 12yh89",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "balenciaga-m-4xl-12yh90-5744485",
+      "name": "Balenciaga M-4XL 12yh90",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/balenciaga-m-4xl-12yh90-5744485-1.webp",
+      "url": "/catalog/product/balenciaga-m-4xl-12yh90-5744485/",
+      "canonical": "https://trendholic.github.io/catalog/product/balenciaga-m-4xl-12yh90-5744485/",
+      "keywords": [
+        "Balenciaga M-4XL 12yh90",
+        "Apparel",
+        "New Products"
+      ]
+    },
     {
       "slug": "balenciaga-sz100-160-5736553",
       "name": "Balenciaga sz100-160",
@@ -52,6 +376,96 @@
       "canonical": "https://trendholic.github.io/catalog/product/balenciaga-sz110-160-5736834/",
       "keywords": [
         "Balenciaga sz110-160",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "boss-m-3xl-12yh289-5744057",
+      "name": "Boss M-3XL 12yh289",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/boss-m-3xl-12yh289-5744057-1.webp",
+      "url": "/catalog/product/boss-m-3xl-12yh289-5744057/",
+      "canonical": "https://trendholic.github.io/catalog/product/boss-m-3xl-12yh289-5744057/",
+      "keywords": [
+        "Boss M-3XL 12yh289",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "boss-m-3xl-12yh290-5744063",
+      "name": "Boss M-3XL 12yh290",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/boss-m-3xl-12yh290-5744063-1.webp",
+      "url": "/catalog/product/boss-m-3xl-12yh290-5744063/",
+      "canonical": "https://trendholic.github.io/catalog/product/boss-m-3xl-12yh290-5744063/",
+      "keywords": [
+        "Boss M-3XL 12yh290",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "boss-m-4xl-12yh07-5744477",
+      "name": "Boss M-4XL 12yh07",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/boss-m-4xl-12yh07-5744477-1.webp",
+      "url": "/catalog/product/boss-m-4xl-12yh07-5744477/",
+      "canonical": "https://trendholic.github.io/catalog/product/boss-m-4xl-12yh07-5744477/",
+      "keywords": [
+        "Boss M-4XL 12yh07",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "burberry-m-3xl-12yh150-5744045",
+      "name": "Burberry M-3XL 12yh150",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/burberry-m-3xl-12yh150-5744045-1.webp",
+      "url": "/catalog/product/burberry-m-3xl-12yh150-5744045/",
+      "canonical": "https://trendholic.github.io/catalog/product/burberry-m-3xl-12yh150-5744045/",
+      "keywords": [
+        "Burberry M-3XL 12yh150",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "burberry-m-3xl-12yh151-5744051",
+      "name": "Burberry M-3XL 12yh151",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/burberry-m-3xl-12yh151-5744051-1.webp",
+      "url": "/catalog/product/burberry-m-3xl-12yh151-5744051/",
+      "canonical": "https://trendholic.github.io/catalog/product/burberry-m-3xl-12yh151-5744051/",
+      "keywords": [
+        "Burberry M-3XL 12yh151",
         "Apparel",
         "New Products"
       ]
@@ -381,6 +795,42 @@
       ]
     },
     {
+      "slug": "celine-m-2xl-12yh36-5744098",
+      "name": "Celine M-2XL 12yh36",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/celine-m-2xl-12yh36-5744098-1.webp",
+      "url": "/catalog/product/celine-m-2xl-12yh36-5744098/",
+      "canonical": "https://trendholic.github.io/catalog/product/celine-m-2xl-12yh36-5744098/",
+      "keywords": [
+        "Celine M-2XL 12yh36",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "ck-sz29-42-8qx1027-5744419",
+      "name": "CK sz29-42 8qx1027",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/ck-sz29-42-8qx1027-5744419-1.webp",
+      "url": "/catalog/product/ck-sz29-42-8qx1027-5744419/",
+      "canonical": "https://trendholic.github.io/catalog/product/ck-sz29-42-8qx1027-5744419/",
+      "keywords": [
+        "CK sz29-42 8qx1027",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
       "slug": "denim-tears-sz29-38-13xr01-5729226",
       "name": "Denim Tears sz29-38 13xr01",
       "top": "Apparel",
@@ -394,6 +844,492 @@
       "canonical": "https://trendholic.github.io/catalog/product/denim-tears-sz29-38-13xr01-5729226/",
       "keywords": [
         "Denim Tears sz29-38 13xr01",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dg-sz29-40-8qx2346-5744515",
+      "name": "DG sz29-40 8qx2346",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/dg-sz29-40-8qx2346-5744515-1.webp",
+      "url": "/catalog/product/dg-sz29-40-8qx2346-5744515/",
+      "canonical": "https://trendholic.github.io/catalog/product/dg-sz29-40-8qx2346-5744515/",
+      "keywords": [
+        "DG sz29-40 8qx2346",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dg-sz29-42-8qx1030-5744501",
+      "name": "DG sz29-42 8qx1030",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/dg-sz29-42-8qx1030-5744501-1.webp",
+      "url": "/catalog/product/dg-sz29-42-8qx1030-5744501/",
+      "canonical": "https://trendholic.github.io/catalog/product/dg-sz29-42-8qx1030-5744501/",
+      "keywords": [
+        "DG sz29-42 8qx1030",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dior-m-3xl-12yh281-5744034",
+      "name": "Dior M-3XL 12yh281",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/dior-m-3xl-12yh281-5744034-1.webp",
+      "url": "/catalog/product/dior-m-3xl-12yh281-5744034/",
+      "canonical": "https://trendholic.github.io/catalog/product/dior-m-3xl-12yh281-5744034/",
+      "keywords": [
+        "Dior M-3XL 12yh281",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dior-m-3xl-12yh282-5744039",
+      "name": "Dior M-3XL 12yh282",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/dior-m-3xl-12yh282-5744039-1.webp",
+      "url": "/catalog/product/dior-m-3xl-12yh282-5744039/",
+      "canonical": "https://trendholic.github.io/catalog/product/dior-m-3xl-12yh282-5744039/",
+      "keywords": [
+        "Dior M-3XL 12yh282",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-m-4xl-12yh72-5744474",
+      "name": "Fendi M-4XL 12yh72",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/fendi-m-4xl-12yh72-5744474-1.webp",
+      "url": "/catalog/product/fendi-m-4xl-12yh72-5744474/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-m-4xl-12yh72-5744474/",
+      "keywords": [
+        "Fendi M-4XL 12yh72",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "france-m-4xl-12yh23-5744469",
+      "name": "France M-4XL 12yh23",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/france-m-4xl-12yh23-5744469-1.webp",
+      "url": "/catalog/product/france-m-4xl-12yh23-5744469/",
+      "canonical": "https://trendholic.github.io/catalog/product/france-m-4xl-12yh23-5744469/",
+      "keywords": [
+        "France M-4XL 12yh23",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "gooabrand-m-2xl-12yh17-5744096",
+      "name": "Gooabrand M-2XL 12yh17",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/gooabrand-m-2xl-12yh17-5744096-1.webp",
+      "url": "/catalog/product/gooabrand-m-2xl-12yh17-5744096/",
+      "canonical": "https://trendholic.github.io/catalog/product/gooabrand-m-2xl-12yh17-5744096/",
+      "keywords": [
+        "Gooabrand M-2XL 12yh17",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "gucci-m-3xl-12yh174-5744029",
+      "name": "Gucci M-3XL 12yh174",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/gucci-m-3xl-12yh174-5744029-1.webp",
+      "url": "/catalog/product/gucci-m-3xl-12yh174-5744029/",
+      "canonical": "https://trendholic.github.io/catalog/product/gucci-m-3xl-12yh174-5744029/",
+      "keywords": [
+        "Gucci M-3XL 12yh174",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hazzys-m-4xl-12yh21-5744461",
+      "name": "Hazzys M-4XL 12yh21",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/hazzys-m-4xl-12yh21-5744461-1.webp",
+      "url": "/catalog/product/hazzys-m-4xl-12yh21-5744461/",
+      "canonical": "https://trendholic.github.io/catalog/product/hazzys-m-4xl-12yh21-5744461/",
+      "keywords": [
+        "Hazzys M-4XL 12yh21",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hazzys-m-4xl-12yh22-5744465",
+      "name": "Hazzys M-4XL 12yh22",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/hazzys-m-4xl-12yh22-5744465-1.webp",
+      "url": "/catalog/product/hazzys-m-4xl-12yh22-5744465/",
+      "canonical": "https://trendholic.github.io/catalog/product/hazzys-m-4xl-12yh22-5744465/",
+      "keywords": [
+        "Hazzys M-4XL 12yh22",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-m-4xl-12yh48-5744456",
+      "name": "Hermes M-4XL 12yh48",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/hermes-m-4xl-12yh48-5744456-1.webp",
+      "url": "/catalog/product/hermes-m-4xl-12yh48-5744456/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-m-4xl-12yh48-5744456/",
+      "keywords": [
+        "Hermes M-4XL 12yh48",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hugo-m-3xl-12yh18-5744024",
+      "name": "Hugo M-3XL 12yh18",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/hugo-m-3xl-12yh18-5744024-1.webp",
+      "url": "/catalog/product/hugo-m-3xl-12yh18-5744024/",
+      "canonical": "https://trendholic.github.io/catalog/product/hugo-m-3xl-12yh18-5744024/",
+      "keywords": [
+        "Hugo M-3XL 12yh18",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hugo-m-4xl-12yh18-5744447",
+      "name": "Hugo M-4XL 12yh18",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/hugo-m-4xl-12yh18-5744447-1.webp",
+      "url": "/catalog/product/hugo-m-4xl-12yh18-5744447/",
+      "canonical": "https://trendholic.github.io/catalog/product/hugo-m-4xl-12yh18-5744447/",
+      "keywords": [
+        "Hugo M-4XL 12yh18",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hugo-m-4xl-12yh19-5744451",
+      "name": "Hugo M-4XL 12yh19",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/hugo-m-4xl-12yh19-5744451-1.webp",
+      "url": "/catalog/product/hugo-m-4xl-12yh19-5744451/",
+      "canonical": "https://trendholic.github.io/catalog/product/hugo-m-4xl-12yh19-5744451/",
+      "keywords": [
+        "Hugo M-4XL 12yh19",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hugo-m-4xl-12yh20-5744453",
+      "name": "Hugo M-4XL 12yh20",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/hugo-m-4xl-12yh20-5744453-1.webp",
+      "url": "/catalog/product/hugo-m-4xl-12yh20-5744453/",
+      "canonical": "https://trendholic.github.io/catalog/product/hugo-m-4xl-12yh20-5744453/",
+      "keywords": [
+        "Hugo M-4XL 12yh20",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lacoste-m-3xl-12yh25-5743996",
+      "name": "Lacoste M-3XL 12yh25",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lacoste-m-3xl-12yh25-5743996-1.webp",
+      "url": "/catalog/product/lacoste-m-3xl-12yh25-5743996/",
+      "canonical": "https://trendholic.github.io/catalog/product/lacoste-m-3xl-12yh25-5743996/",
+      "keywords": [
+        "Lacoste M-3XL 12yh25",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lacoste-m-3xl-12yh26-5744006",
+      "name": "Lacoste M-3XL 12yh26",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lacoste-m-3xl-12yh26-5744006-1.webp",
+      "url": "/catalog/product/lacoste-m-3xl-12yh26-5744006/",
+      "canonical": "https://trendholic.github.io/catalog/product/lacoste-m-3xl-12yh26-5744006/",
+      "keywords": [
+        "Lacoste M-3XL 12yh26",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lacoste-m-3xl-12yh27-5744015",
+      "name": "Lacoste M-3XL 12yh27",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lacoste-m-3xl-12yh27-5744015-1.webp",
+      "url": "/catalog/product/lacoste-m-3xl-12yh27-5744015/",
+      "canonical": "https://trendholic.github.io/catalog/product/lacoste-m-3xl-12yh27-5744015/",
+      "keywords": [
+        "Lacoste M-3XL 12yh27",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "loro-piana-m-3xl-12yh65-5743992",
+      "name": "Loro Piana M-3XL 12yh65",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/loro-piana-m-3xl-12yh65-5743992-1.webp",
+      "url": "/catalog/product/loro-piana-m-3xl-12yh65-5743992/",
+      "canonical": "https://trendholic.github.io/catalog/product/loro-piana-m-3xl-12yh65-5743992/",
+      "keywords": [
+        "Loro Piana M-3XL 12yh65",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "loro-piana-m-4xl-12yh17-5744443",
+      "name": "Loro Piana M-4XL 12yh17",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/loro-piana-m-4xl-12yh17-5744443-1.webp",
+      "url": "/catalog/product/loro-piana-m-4xl-12yh17-5744443/",
+      "canonical": "https://trendholic.github.io/catalog/product/loro-piana-m-4xl-12yh17-5744443/",
+      "keywords": [
+        "Loro Piana M-4XL 12yh17",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "loro-piana-sz29-40-8qxlp266-5744195",
+      "name": "Loro Piana sz29-40 8qxLP266",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/loro-piana-sz29-40-8qxlp266-5744195-1.webp",
+      "url": "/catalog/product/loro-piana-sz29-40-8qxlp266-5744195/",
+      "canonical": "https://trendholic.github.io/catalog/product/loro-piana-sz29-40-8qxlp266-5744195/",
+      "keywords": [
+        "Loro Piana sz29-40 8qxLP266",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "loro-piana-sz29-42-8qx1015-5744120",
+      "name": "Loro Piana sz29-42 8qx1015",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/loro-piana-sz29-42-8qx1015-5744120-1.webp",
+      "url": "/catalog/product/loro-piana-sz29-42-8qx1015-5744120/",
+      "canonical": "https://trendholic.github.io/catalog/product/loro-piana-sz29-42-8qx1015-5744120/",
+      "keywords": [
+        "Loro Piana sz29-42 8qx1015",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "loro-piana-sz29-42-8qx1023-5744135",
+      "name": "Loro Piana sz29-42 8qx1023",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/loro-piana-sz29-42-8qx1023-5744135-1.webp",
+      "url": "/catalog/product/loro-piana-sz29-42-8qx1023-5744135/",
+      "canonical": "https://trendholic.github.io/catalog/product/loro-piana-sz29-42-8qx1023-5744135/",
+      "keywords": [
+        "Loro Piana sz29-42 8qx1023",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "loro-piana-sz29-42-8qx6002-5744148",
+      "name": "Loro Piana sz29-42 8qx6002",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/loro-piana-sz29-42-8qx6002-5744148-1.webp",
+      "url": "/catalog/product/loro-piana-sz29-42-8qx6002-5744148/",
+      "canonical": "https://trendholic.github.io/catalog/product/loro-piana-sz29-42-8qx6002-5744148/",
+      "keywords": [
+        "Loro Piana sz29-42 8qx6002",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "loro-piana-sz29-42-8qx6007-5744162",
+      "name": "Loro Piana sz29-42 8qx6007",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/loro-piana-sz29-42-8qx6007-5744162-1.webp",
+      "url": "/catalog/product/loro-piana-sz29-42-8qx6007-5744162/",
+      "canonical": "https://trendholic.github.io/catalog/product/loro-piana-sz29-42-8qx6007-5744162/",
+      "keywords": [
+        "Loro Piana sz29-42 8qx6007",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "loro-piana-sz29-42-8qx8820-5744176",
+      "name": "Loro Piana sz29-42 8qx8820",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/loro-piana-sz29-42-8qx8820-5744176-1.webp",
+      "url": "/catalog/product/loro-piana-sz29-42-8qx8820-5744176/",
+      "canonical": "https://trendholic.github.io/catalog/product/loro-piana-sz29-42-8qx8820-5744176/",
+      "keywords": [
+        "Loro Piana sz29-42 8qx8820",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "loro-piana-sz29-42-8qxl7990-5744186",
+      "name": "Loro Piana sz29-42 8qxL7990",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/loro-piana-sz29-42-8qxl7990-5744186-1.webp",
+      "url": "/catalog/product/loro-piana-sz29-42-8qxl7990-5744186/",
+      "canonical": "https://trendholic.github.io/catalog/product/loro-piana-sz29-42-8qxl7990-5744186/",
+      "keywords": [
+        "Loro Piana sz29-42 8qxL7990",
         "Apparel",
         "New Products"
       ]
@@ -538,6 +1474,240 @@
       "canonical": "https://trendholic.github.io/catalog/product/loro-piana-sz30-40-13xr66-5728931/",
       "keywords": [
         "Loro Piana sz30-40 13xr66",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh116-5744068",
+      "name": "LV M-2XL 12yh116",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh116-5744068-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh116-5744068/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh116-5744068/",
+      "keywords": [
+        "LV M-2XL 12yh116",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh117-5744070",
+      "name": "LV M-2XL 12yh117",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh117-5744070-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh117-5744070/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh117-5744070/",
+      "keywords": [
+        "LV M-2XL 12yh117",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh118-5744074",
+      "name": "LV M-2XL 12yh118",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh118-5744074-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh118-5744074/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh118-5744074/",
+      "keywords": [
+        "LV M-2XL 12yh118",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh119-5744076",
+      "name": "LV M-2XL 12yh119",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh119-5744076-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh119-5744076/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh119-5744076/",
+      "keywords": [
+        "LV M-2XL 12yh119",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh120-5744078",
+      "name": "LV M-2XL 12yh120",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh120-5744078-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh120-5744078/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh120-5744078/",
+      "keywords": [
+        "LV M-2XL 12yh120",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh121-5744080",
+      "name": "LV M-2XL 12yh121",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh121-5744080-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh121-5744080/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh121-5744080/",
+      "keywords": [
+        "LV M-2XL 12yh121",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh122-5744082",
+      "name": "LV M-2XL 12yh122",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh122-5744082-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh122-5744082/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh122-5744082/",
+      "keywords": [
+        "LV M-2XL 12yh122",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh123-5744084",
+      "name": "LV M-2XL 12yh123",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh123-5744084-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh123-5744084/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh123-5744084/",
+      "keywords": [
+        "LV M-2XL 12yh123",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh124-5744086",
+      "name": "LV M-2XL 12yh124",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh124-5744086-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh124-5744086/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh124-5744086/",
+      "keywords": [
+        "LV M-2XL 12yh124",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh125-5744088",
+      "name": "LV M-2XL 12yh125",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh125-5744088-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh125-5744088/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh125-5744088/",
+      "keywords": [
+        "LV M-2XL 12yh125",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh126-5744090",
+      "name": "LV M-2XL 12yh126",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh126-5744090-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh126-5744090/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh126-5744090/",
+      "keywords": [
+        "LV M-2XL 12yh126",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh127-5744092",
+      "name": "LV M-2XL 12yh127",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh127-5744092-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh127-5744092/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh127-5744092/",
+      "keywords": [
+        "LV M-2XL 12yh127",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-m-2xl-12yh128-5744094",
+      "name": "LV M-2XL 12yh128",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/lv-m-2xl-12yh128-5744094-1.webp",
+      "url": "/catalog/product/lv-m-2xl-12yh128-5744094/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-m-2xl-12yh128-5744094/",
+      "keywords": [
+        "LV M-2XL 12yh128",
         "Apparel",
         "New Products"
       ]
@@ -1209,6 +2379,42 @@
       ]
     },
     {
+      "slug": "m-4xl-12yh23-5744439",
+      "name": "M-4XL 12yh23",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/m-4xl-12yh23-5744439-1.webp",
+      "url": "/catalog/product/m-4xl-12yh23-5744439/",
+      "canonical": "https://trendholic.github.io/catalog/product/m-4xl-12yh23-5744439/",
+      "keywords": [
+        "M-4XL 12yh23",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "prada-m-4xl-12yh106-5744435",
+      "name": "Prada M-4XL 12yh106",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/prada-m-4xl-12yh106-5744435-1.webp",
+      "url": "/catalog/product/prada-m-4xl-12yh106-5744435/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-m-4xl-12yh106-5744435/",
+      "keywords": [
+        "Prada M-4XL 12yh106",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
       "slug": "prada-m-5xl-kdtn03-5719804",
       "name": "Prada M-5XL kdtn03",
       "top": "Apparel",
@@ -1461,6 +2667,24 @@
       ]
     },
     {
+      "slug": "supreme-m-4xl-12yh10-5744432",
+      "name": "Supreme M-4XL 12yh10",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/supreme-m-4xl-12yh10-5744432-1.webp",
+      "url": "/catalog/product/supreme-m-4xl-12yh10-5744432/",
+      "canonical": "https://trendholic.github.io/catalog/product/supreme-m-4xl-12yh10-5744432/",
+      "keywords": [
+        "Supreme M-4XL 12yh10",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
       "slug": "sz29-38-13xr79-5729215",
       "name": "sz29-38 13xr79",
       "top": "Apparel",
@@ -1474,6 +2698,42 @@
       "canonical": "https://trendholic.github.io/catalog/product/sz29-38-13xr79-5729215/",
       "keywords": [
         "sz29-38 13xr79",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "tf-sz29-42-8qx6006-5743995",
+      "name": "TF sz29-42 8qx6006",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/tf-sz29-42-8qx6006-5743995-1.webp",
+      "url": "/catalog/product/tf-sz29-42-8qx6006-5743995/",
+      "canonical": "https://trendholic.github.io/catalog/product/tf-sz29-42-8qx6006-5743995/",
+      "keywords": [
+        "TF sz29-42 8qx6006",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "tf-sz29-42-8qx6828-5744110",
+      "name": "TF sz29-42 8qx6828",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/tf-sz29-42-8qx6828-5744110-1.webp",
+      "url": "/catalog/product/tf-sz29-42-8qx6828-5744110/",
+      "canonical": "https://trendholic.github.io/catalog/product/tf-sz29-42-8qx6828-5744110/",
+      "keywords": [
+        "TF sz29-42 8qx6828",
         "Apparel",
         "New Products"
       ]
@@ -1659,6 +2919,24 @@
       ]
     },
     {
+      "slug": "alo-socks-4097998",
+      "name": "Alo Socks",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/alo-socks-4097994-4.webp",
+      "url": "/catalog/product/alo-socks-4097998/",
+      "canonical": "https://trendholic.github.io/catalog/product/alo-socks-4097998/",
+      "keywords": [
+        "Alo Socks",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "amiri-belt-38mmx90-125cm-lb-4096405",
       "name": "Amiri belt 38mmX90-125cm lb",
       "top": "Accessories",
@@ -1695,6 +2973,24 @@
       ]
     },
     {
+      "slug": "amouage-100ml-4098335",
+      "name": "Amouage 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/amouage-100ml-4098335-1.webp",
+      "url": "/catalog/product/amouage-100ml-4098335/",
+      "canonical": "https://trendholic.github.io/catalog/product/amouage-100ml-4098335/",
+      "keywords": [
+        "Amouage 100ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "arcteryx-socks-4098008",
       "name": "Arcteryx Socks",
       "top": "Accessories",
@@ -1713,6 +3009,24 @@
       ]
     },
     {
+      "slug": "armani-11pcs-4098336",
+      "name": "Armani 11pcs",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/armani-11pcs-4098336-1.webp",
+      "url": "/catalog/product/armani-11pcs-4098336/",
+      "canonical": "https://trendholic.github.io/catalog/product/armani-11pcs-4098336/",
+      "keywords": [
+        "Armani 11pcs",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "armani-boxer-m-xl-06-4096352",
       "name": "Armani boxer M-XL 06",
       "top": "Accessories",
@@ -1726,6 +3040,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/armani-boxer-m-xl-06-4096352/",
       "keywords": [
         "Armani boxer M-XL 06",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "balenciaga-10x2ml-4098340",
+      "name": "Balenciaga 10X2ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/balenciaga-10x2ml-4098340-1.webp",
+      "url": "/catalog/product/balenciaga-10x2ml-4098340/",
+      "canonical": "https://trendholic.github.io/catalog/product/balenciaga-10x2ml-4098340/",
+      "keywords": [
+        "Balenciaga 10X2ml",
         "Accessories",
         "New Products"
       ]
@@ -1785,6 +3117,24 @@
       ]
     },
     {
+      "slug": "boss-75ml-4098343",
+      "name": "Boss 75ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/boss-75ml-4098343-1.webp",
+      "url": "/catalog/product/boss-75ml-4098343/",
+      "canonical": "https://trendholic.github.io/catalog/product/boss-75ml-4098343/",
+      "keywords": [
+        "Boss 75ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "boss-boxer-l-4xl-14-4096218",
       "name": "Boss boxer L-4XL 14",
       "top": "Accessories",
@@ -1834,6 +3184,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/boss-socks-4098032/",
       "keywords": [
         "Boss Socks",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "burberry-100ml-4098344",
+      "name": "Burberry 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/burberry-100ml-4098344-1.webp",
+      "url": "/catalog/product/burberry-100ml-4098344/",
+      "canonical": "https://trendholic.github.io/catalog/product/burberry-100ml-4098344/",
+      "keywords": [
+        "Burberry 100ml",
         "Accessories",
         "New Products"
       ]
@@ -2145,6 +3513,60 @@
       ]
     },
     {
+      "slug": "carner-100ml-4098345",
+      "name": "Carner 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/carner-100ml-4098345-1.webp",
+      "url": "/catalog/product/carner-100ml-4098345/",
+      "canonical": "https://trendholic.github.io/catalog/product/carner-100ml-4098345/",
+      "keywords": [
+        "Carner 100ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "carolina-4pcs-4098346",
+      "name": "Carolina 4pcs",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/carolina-4pcs-4098346-1.webp",
+      "url": "/catalog/product/carolina-4pcs-4098346/",
+      "canonical": "https://trendholic.github.io/catalog/product/carolina-4pcs-4098346/",
+      "keywords": [
+        "Carolina 4pcs",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "cartier-4x30ml-4098348",
+      "name": "Cartier 4X30ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/cartier-4x30ml-4098348-1.webp",
+      "url": "/catalog/product/cartier-4x30ml-4098348/",
+      "canonical": "https://trendholic.github.io/catalog/product/cartier-4x30ml-4098348/",
+      "keywords": [
+        "Cartier 4X30ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "celine-cl40235-e-4096530",
       "name": "Celine CL40235 e",
       "top": "Accessories",
@@ -2194,6 +3616,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/chaenl-ch5510-55-18-145-e-4096535/",
       "keywords": [
         "Chaenl CH5510 55 18-145 e",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "chanel-100ml-4098349",
+      "name": "Chanel 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/chanel-100ml-4098349-1.webp",
+      "url": "/catalog/product/chanel-100ml-4098349/",
+      "canonical": "https://trendholic.github.io/catalog/product/chanel-100ml-4098349/",
+      "keywords": [
+        "Chanel 100ml",
         "Accessories",
         "New Products"
       ]
@@ -2379,6 +3819,42 @@
       ]
     },
     {
+      "slug": "chloe-150ml-4098351",
+      "name": "Chloe 150ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/chloe-150ml-4098351-1.webp",
+      "url": "/catalog/product/chloe-150ml-4098351/",
+      "canonical": "https://trendholic.github.io/catalog/product/chloe-150ml-4098351/",
+      "keywords": [
+        "Chloe 150ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "chopard-100ml-4098352",
+      "name": "Chopard 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/chopard-100ml-4098352-1.webp",
+      "url": "/catalog/product/chopard-100ml-4098352/",
+      "canonical": "https://trendholic.github.io/catalog/product/chopard-100ml-4098352/",
+      "keywords": [
+        "Chopard 100ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "ck-boxer-l-3xl-32-4096260",
       "name": "CK boxer L-3XL 32",
       "top": "Accessories",
@@ -2518,6 +3994,78 @@
       "canonical": "https://trendholic.github.io/catalog/product/ck-boxer-xl-4xl-20-4096287/",
       "keywords": [
         "CK boxer XL-4XL 20",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "clive-50ml-4098353",
+      "name": "Clive 50ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/clive-50ml-4098353-1.webp",
+      "url": "/catalog/product/clive-50ml-4098353/",
+      "canonical": "https://trendholic.github.io/catalog/product/clive-50ml-4098353/",
+      "keywords": [
+        "Clive 50ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "creed-100ml-4098354",
+      "name": "Creed 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/creed-100ml-4098354-1.webp",
+      "url": "/catalog/product/creed-100ml-4098354/",
+      "canonical": "https://trendholic.github.io/catalog/product/creed-100ml-4098354/",
+      "keywords": [
+        "Creed 100ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "creed-perfume-4098356",
+      "name": "Creed perfume",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/creed-perfume-4098356-1.webp",
+      "url": "/catalog/product/creed-perfume-4098356/",
+      "canonical": "https://trendholic.github.io/catalog/product/creed-perfume-4098356/",
+      "keywords": [
+        "Creed perfume",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dg-100ml-4098358",
+      "name": "DG 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/dg-100ml-4098358-1.webp",
+      "url": "/catalog/product/dg-100ml-4098358/",
+      "canonical": "https://trendholic.github.io/catalog/product/dg-100ml-4098358/",
+      "keywords": [
+        "DG 100ml",
         "Accessories",
         "New Products"
       ]
@@ -2721,6 +4269,24 @@
       ]
     },
     {
+      "slug": "ex-nihilo-100ml-4098366",
+      "name": "Ex Nihilo 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/ex-nihilo-100ml-4098366-1.webp",
+      "url": "/catalog/product/ex-nihilo-100ml-4098366/",
+      "canonical": "https://trendholic.github.io/catalog/product/ex-nihilo-100ml-4098366/",
+      "keywords": [
+        "Ex Nihilo 100ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "fendi-m-xl-03-4096364",
       "name": "Fendi M-XL 03",
       "top": "Accessories",
@@ -2788,6 +4354,96 @@
       "canonical": "https://trendholic.github.io/catalog/product/fred-fg57166u-54-17-145-e-4096706/",
       "keywords": [
         "FRED FG57166U 54 17-145 e",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "givenchy-100ml-4098368",
+      "name": "Givenchy 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/givenchy-100ml-4098368-1.webp",
+      "url": "/catalog/product/givenchy-100ml-4098368/",
+      "canonical": "https://trendholic.github.io/catalog/product/givenchy-100ml-4098368/",
+      "keywords": [
+        "Givenchy 100ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "givenchy-perfume-4098370",
+      "name": "Givenchy perfume",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/givenchy-perfume-4098370-1.webp",
+      "url": "/catalog/product/givenchy-perfume-4098370/",
+      "canonical": "https://trendholic.github.io/catalog/product/givenchy-perfume-4098370/",
+      "keywords": [
+        "Givenchy perfume",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "gucci-100ml-4098374",
+      "name": "Gucci 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/gucci-100ml-4098374-1.webp",
+      "url": "/catalog/product/gucci-100ml-4098374/",
+      "canonical": "https://trendholic.github.io/catalog/product/gucci-100ml-4098374/",
+      "keywords": [
+        "Gucci 100ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "gucci-5x5ml-4098371",
+      "name": "Gucci 5X5ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/gucci-5x5ml-4098371-1.webp",
+      "url": "/catalog/product/gucci-5x5ml-4098371/",
+      "canonical": "https://trendholic.github.io/catalog/product/gucci-5x5ml-4098371/",
+      "keywords": [
+        "Gucci 5X5ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "gucci-90ml-4098373",
+      "name": "Gucci 90ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/gucci-90ml-4098373-1.webp",
+      "url": "/catalog/product/gucci-90ml-4098373/",
+      "canonical": "https://trendholic.github.io/catalog/product/gucci-90ml-4098373/",
+      "keywords": [
+        "Gucci 90ml",
         "Accessories",
         "New Products"
       ]
@@ -2865,6 +4521,42 @@
       ]
     },
     {
+      "slug": "guerlain-50ml-4098375",
+      "name": "Guerlain 50ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/guerlain-50ml-4098375-1.webp",
+      "url": "/catalog/product/guerlain-50ml-4098375/",
+      "canonical": "https://trendholic.github.io/catalog/product/guerlain-50ml-4098375/",
+      "keywords": [
+        "Guerlain 50ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "guerlain-75ml-4098388",
+      "name": "Guerlain 75ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/guerlain-75ml-4098388-1.webp",
+      "url": "/catalog/product/guerlain-75ml-4098388/",
+      "canonical": "https://trendholic.github.io/catalog/product/guerlain-75ml-4098388/",
+      "keywords": [
+        "Guerlain 75ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "hermes-belt-32mmx90-125cm-lb-4096439",
       "name": "Hermes belt 32mmX90-125cm lb",
       "top": "Accessories",
@@ -2932,6 +4624,96 @@
       "canonical": "https://trendholic.github.io/catalog/product/hermes-umbrella-4098104/",
       "keywords": [
         "Hermes Umbrella",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "initino-90ml-4098393",
+      "name": "Initino 90ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/initino-90ml-4098393-1.webp",
+      "url": "/catalog/product/initino-90ml-4098393/",
+      "canonical": "https://trendholic.github.io/catalog/product/initino-90ml-4098393/",
+      "keywords": [
+        "Initino 90ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "jean-paul-gaultier-100ml-4098398",
+      "name": "Jean Paul Gaultier 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/jean-paul-gaultier-100ml-4098398-1.webp",
+      "url": "/catalog/product/jean-paul-gaultier-100ml-4098398/",
+      "canonical": "https://trendholic.github.io/catalog/product/jean-paul-gaultier-100ml-4098398/",
+      "keywords": [
+        "Jean Paul Gaultier 100ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "jean-paul-gaultier-perfume-4098399",
+      "name": "Jean Paul Gaultier perfume",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/jean-paul-gaultier-perfume-4098399-1.webp",
+      "url": "/catalog/product/jean-paul-gaultier-perfume-4098399/",
+      "canonical": "https://trendholic.github.io/catalog/product/jean-paul-gaultier-perfume-4098399/",
+      "keywords": [
+        "Jean Paul Gaultier perfume",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "jo-malone-100ml-4098400",
+      "name": "Jo malone 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/jo-malone-100ml-4098400-1.webp",
+      "url": "/catalog/product/jo-malone-100ml-4098400/",
+      "canonical": "https://trendholic.github.io/catalog/product/jo-malone-100ml-4098400/",
+      "keywords": [
+        "Jo malone 100ml",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "juliette-has-a-gun-100ml-4098389",
+      "name": "Juliette has a gun 100ml",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/juliette-has-a-gun-100ml-4098389-1.webp",
+      "url": "/catalog/product/juliette-has-a-gun-100ml-4098389/",
+      "canonical": "https://trendholic.github.io/catalog/product/juliette-has-a-gun-100ml-4098389/",
+      "keywords": [
+        "Juliette has a gun 100ml",
         "Accessories",
         "New Products"
       ]
@@ -3909,6 +5691,132 @@
       ]
     },
     {
+      "slug": "prada-1bg392-47x35x15cm-ap-2020038",
+      "name": "Prada 1BG392 47x35x15cm AP",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-1bg392-47x35x15cm-ap-2020038-1.webp",
+      "url": "/catalog/product/prada-1bg392-47x35x15cm-ap-2020038/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-1bg392-47x35x15cm-ap-2020038/",
+      "keywords": [
+        "Prada 1BG392 47x35x15cm AP",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "prada-1bg422-24x24x8cm-ap-2020048",
+      "name": "Prada 1BG422 24x24x8cm AP",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-1bg422-24x24x8cm-ap-2020048-1.webp",
+      "url": "/catalog/product/prada-1bg422-24x24x8cm-ap-2020048/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-1bg422-24x24x8cm-ap-2020048/",
+      "keywords": [
+        "Prada 1BG422 24x24x8cm AP",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "prada-1bg499-32x29x16cm-ap-2020057",
+      "name": "Prada 1BG499 32x29x16cm AP",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-1bg499-32x29x16cm-ap-2020057-1.webp",
+      "url": "/catalog/product/prada-1bg499-32x29x16cm-ap-2020057/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-1bg499-32x29x16cm-ap-2020057/",
+      "keywords": [
+        "Prada 1BG499 32x29x16cm AP",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "prada-1bg500-26x25x14cm-ap-2020066",
+      "name": "Prada 1BG500 26x25x14cm AP",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-1bg500-26x25x14cm-ap-2020066-1.webp",
+      "url": "/catalog/product/prada-1bg500-26x25x14cm-ap-2020066/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-1bg500-26x25x14cm-ap-2020066/",
+      "keywords": [
+        "Prada 1BG500 26x25x14cm AP",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "prada-1bg644-34x25x17cm-ap-2020077",
+      "name": "Prada 1BG644 34x25x17cm AP",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-1bg644-34x25x17cm-ap-2020077-1.webp",
+      "url": "/catalog/product/prada-1bg644-34x25x17cm-ap-2020077/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-1bg644-34x25x17cm-ap-2020077/",
+      "keywords": [
+        "Prada 1BG644 34x25x17cm AP",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "prada-1bg645-30x22x15cm-ap-2020104",
+      "name": "Prada 1BG645 30x22x15cm AP",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-1bg645-30x22x15cm-ap-2020104-1.webp",
+      "url": "/catalog/product/prada-1bg645-30x22x15cm-ap-2020104/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-1bg645-30x22x15cm-ap-2020104/",
+      "keywords": [
+        "Prada 1BG645 30x22x15cm AP",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "prada-1zt092-17-5x22cm-ap-2020122",
+      "name": "Prada 1ZT092 17 5x22cm AP",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-1zt092-17-5x22cm-ap-2020122-1.webp",
+      "url": "/catalog/product/prada-1zt092-17-5x22cm-ap-2020122/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-1zt092-17-5x22cm-ap-2020122/",
+      "keywords": [
+        "Prada 1ZT092 17 5x22cm AP",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
       "slug": "prada-2na068-22x14x6-5cm-ap-2019614",
       "name": "Prada 2NA068 22x14x6 5cm AP",
       "top": "Bags",
@@ -3945,6 +5853,24 @@
       ]
     },
     {
+      "slug": "prada-2vd066a-20x19x10cm-ap-2020171",
+      "name": "Prada 2VD066A 20x19x10cm AP",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-2vd066a-20x19x10cm-ap-2020171-1.webp",
+      "url": "/catalog/product/prada-2vd066a-20x19x10cm-ap-2020171/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-2vd066a-20x19x10cm-ap-2020171/",
+      "keywords": [
+        "Prada 2VD066A 20x19x10cm AP",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
       "slug": "prada-2vd085-34x29x10cm-ap-2019618",
       "name": "Prada 2VD085 34x29x10cm AP",
       "top": "Bags",
@@ -3956,6 +5882,24 @@
       "image": "/data/bags/images/prada-2vd085-34x29x10cm-ap-2019618-1.webp",
       "url": "/catalog/product/prada-2vd085-34x29x10cm-ap-2019618/",
       "canonical": "https://trendholic.github.io/catalog/product/prada-2vd085-34x29x10cm-ap-2019618/",
+      "keywords": [
+        "Prada 2VD085 34x29x10cm AP",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "prada-2vd085-34x29x10cm-ap-2020181",
+      "name": "Prada 2VD085 34x29x10cm AP",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-2vd085-34x29x10cm-ap-2020181-1.webp",
+      "url": "/catalog/product/prada-2vd085-34x29x10cm-ap-2020181/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-2vd085-34x29x10cm-ap-2020181/",
       "keywords": [
         "Prada 2VD085 34x29x10cm AP",
         "Bags",
@@ -4012,6 +5956,42 @@
       "canonical": "https://trendholic.github.io/catalog/product/prada-2vh213-26x20x14cm-ap-2019824/",
       "keywords": [
         "Prada 2VH213 26x20x14cm AP",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "prada-2vh215-37-5x36x9cm-ap-2020113",
+      "name": "Prada 2VH215 37 5x36x9cm AP",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-2vh215-37-5x36x9cm-ap-2020113-1.webp",
+      "url": "/catalog/product/prada-2vh215-37-5x36x9cm-ap-2020113/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-2vh215-37-5x36x9cm-ap-2020113/",
+      "keywords": [
+        "Prada 2VH215 37 5x36x9cm AP",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "prada-carry-1ba496-19x21x7cm-ap-2020190",
+      "name": "Prada Carry 1BA496 19x21x7cm AP",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-carry-1ba496-19x21x7cm-ap-2020190-1.webp",
+      "url": "/catalog/product/prada-carry-1ba496-19x21x7cm-ap-2020190/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-carry-1ba496-19x21x7cm-ap-2020190/",
+      "keywords": [
+        "Prada Carry 1BA496 19x21x7cm AP",
         "Bags",
         "New Products"
       ]
@@ -5038,6 +7018,942 @@
       "canonical": "https://trendholic.github.io/catalog/product/dior-sz35-40-y-2989963/",
       "keywords": [
         "Dior sz35-40 Y",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz35-45-gdt-2990935",
+      "name": "Fendi sz35-45 GDT",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz35-45-gdt-2990935-1.webp",
+      "url": "/catalog/product/fendi-sz35-45-gdt-2990935/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz35-45-gdt-2990935/",
+      "keywords": [
+        "Fendi sz35-45 GDT",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz35-45-ll1102-2990638",
+      "name": "Fendi sz35-45 LL1102",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz35-45-ll1102-2990638-1.webp",
+      "url": "/catalog/product/fendi-sz35-45-ll1102-2990638/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz35-45-ll1102-2990638/",
+      "keywords": [
+        "Fendi sz35-45 LL1102",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz35-45-xj0701-2990653",
+      "name": "Fendi sz35-45 XJ0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz35-45-xj0701-2990653-1.webp",
+      "url": "/catalog/product/fendi-sz35-45-xj0701-2990653/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz35-45-xj0701-2990653/",
+      "keywords": [
+        "Fendi sz35-45 XJ0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz35-45-xj0702-2990679",
+      "name": "Fendi sz35-45 XJ0702",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz35-45-xj0702-2990679-1.webp",
+      "url": "/catalog/product/fendi-sz35-45-xj0702-2990679/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz35-45-xj0702-2990679/",
+      "keywords": [
+        "Fendi sz35-45 XJ0702",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-10-2990842",
+      "name": "Fendi sz38-44 12C ngh (10)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-10-2990842-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-10-2990842/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-10-2990842/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (10)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-100-2990822",
+      "name": "Fendi sz38-44 12C ngh (100)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-100-2990822-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-100-2990822/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-100-2990822/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (100)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-106-2990821",
+      "name": "Fendi sz38-44 12C ngh (106)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-106-2990821-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-106-2990821/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-106-2990821/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (106)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-13-2990841",
+      "name": "Fendi sz38-44 12C ngh (13)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-13-2990841-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-13-2990841/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-13-2990841/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (13)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-19-2990840",
+      "name": "Fendi sz38-44 12C ngh (19)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-19-2990840-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-19-2990840/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-19-2990840/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (19)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-27-2990839",
+      "name": "Fendi sz38-44 12C ngh (27)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-27-2990839-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-27-2990839/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-27-2990839/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (27)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-28-2990838",
+      "name": "Fendi sz38-44 12C ngh (28)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-28-2990838-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-28-2990838/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-28-2990838/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (28)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-3-2990845",
+      "name": "Fendi sz38-44 12C ngh (3)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-3-2990845-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-3-2990845/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-3-2990845/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (3)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-35-2990837",
+      "name": "Fendi sz38-44 12C ngh (35)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-35-2990837-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-35-2990837/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-35-2990837/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (35)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-37-2990836",
+      "name": "Fendi sz38-44 12C ngh (37)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-37-2990836-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-37-2990836/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-37-2990836/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (37)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-43-2990835",
+      "name": "Fendi sz38-44 12C ngh (43)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-43-2990835-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-43-2990835/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-43-2990835/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (43)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-46-2990834",
+      "name": "Fendi sz38-44 12C ngh (46)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-46-2990834-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-46-2990834/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-46-2990834/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (46)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-5-2990844",
+      "name": "Fendi sz38-44 12C ngh (5)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-5-2990844-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-5-2990844/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-5-2990844/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (5)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-52-2990833",
+      "name": "Fendi sz38-44 12C ngh (52)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-52-2990833-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-52-2990833/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-52-2990833/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (52)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-55-2990832",
+      "name": "Fendi sz38-44 12C ngh (55)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-55-2990832-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-55-2990832/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-55-2990832/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (55)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-63-2990831",
+      "name": "Fendi sz38-44 12C ngh (63)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-63-2990831-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-63-2990831/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-63-2990831/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (63)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-64-2990830",
+      "name": "Fendi sz38-44 12C ngh (64)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-64-2990830-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-64-2990830/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-64-2990830/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (64)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-70-2990829",
+      "name": "Fendi sz38-44 12C ngh (70)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-70-2990829-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-70-2990829/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-70-2990829/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (70)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-73-2990828",
+      "name": "Fendi sz38-44 12C ngh (73)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-73-2990828-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-73-2990828/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-73-2990828/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (73)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-80-2990827",
+      "name": "Fendi sz38-44 12C ngh (80)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-80-2990827-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-80-2990827/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-80-2990827/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (80)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-88-2990826",
+      "name": "Fendi sz38-44 12C ngh (88)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-88-2990826-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-88-2990826/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-88-2990826/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (88)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-9-2990843",
+      "name": "Fendi sz38-44 12C ngh (9)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-9-2990843-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-9-2990843/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-9-2990843/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (9)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-90-2990825",
+      "name": "Fendi sz38-44 12C ngh (90)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-90-2990825-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-90-2990825/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-90-2990825/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (90)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-91-2990824",
+      "name": "Fendi sz38-44 12C ngh (91)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-91-2990824-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-91-2990824/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-91-2990824/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (91)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-12c-ngh-98-2990823",
+      "name": "Fendi sz38-44 12C ngh (98)",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-12c-ngh-98-2990823-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-12c-ngh-98-2990823/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-98-2990823/",
+      "keywords": [
+        "Fendi sz38-44 12C ngh (98)",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-44-hy1201-2990690",
+      "name": "Fendi sz38-44 HY1201",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-44-hy1201-2990690-1.webp",
+      "url": "/catalog/product/fendi-sz38-44-hy1201-2990690/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-hy1201-2990690/",
+      "keywords": [
+        "Fendi sz38-44 HY1201",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-2c-crq701-2990847",
+      "name": "Fendi sz38-45 2C CRQ701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-2c-crq701-2990847-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-2c-crq701-2990847/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-2c-crq701-2990847/",
+      "keywords": [
+        "Fendi sz38-45 2C CRQ701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-2c-tf0403-2990851",
+      "name": "Fendi sz38-45 2C TF0403",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-2c-tf0403-2990851-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-2c-tf0403-2990851/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-2c-tf0403-2990851/",
+      "keywords": [
+        "Fendi sz38-45 2C TF0403",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-2c-tf08001-2990855",
+      "name": "Fendi sz38-45 2C TF08001",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-2c-tf08001-2990855-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-2c-tf08001-2990855/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-2c-tf08001-2990855/",
+      "keywords": [
+        "Fendi sz38-45 2C TF08001",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-2c-zx0301-2990859",
+      "name": "Fendi sz38-45 2C ZX0301",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-2c-zx0301-2990859-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-2c-zx0301-2990859/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-2c-zx0301-2990859/",
+      "keywords": [
+        "Fendi sz38-45 2C ZX0301",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-3c-wm-2990863",
+      "name": "Fendi sz38-45 3C WM",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-3c-wm-2990863-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-3c-wm-2990863/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-3c-wm-2990863/",
+      "keywords": [
+        "Fendi sz38-45 3C WM",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-4c-crq0801-2990869",
+      "name": "Fendi sz38-45 4C CRQ0801",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-4c-crq0801-2990869-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-4c-crq0801-2990869/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-4c-crq0801-2990869/",
+      "keywords": [
+        "Fendi sz38-45 4C CRQ0801",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-4c-tf-2990704",
+      "name": "Fendi sz38-45 4C TF",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-4c-tf-2990704-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-4c-tf-2990704/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-4c-tf-2990704/",
+      "keywords": [
+        "Fendi sz38-45 4C TF",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-by1103-2990877",
+      "name": "Fendi sz38-45 BY1103",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-by1103-2990877-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-by1103-2990877/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-by1103-2990877/",
+      "keywords": [
+        "Fendi sz38-45 BY1103",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-cd090-2990885",
+      "name": "Fendi sz38-45 CD090",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-cd090-2990885-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-cd090-2990885/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-cd090-2990885/",
+      "keywords": [
+        "Fendi sz38-45 CD090",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-cd1102-2990889",
+      "name": "Fendi sz38-45 CD1102",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-cd1102-2990889-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-cd1102-2990889/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-cd1102-2990889/",
+      "keywords": [
+        "Fendi sz38-45 CD1102",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-cd1104-2990891",
+      "name": "Fendi sz38-45 CD1104",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-cd1104-2990891-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-cd1104-2990891/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-cd1104-2990891/",
+      "keywords": [
+        "Fendi sz38-45 CD1104",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-gdt1002-2990721",
+      "name": "Fendi sz38-45 GDT1002",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-gdt1002-2990721-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-gdt1002-2990721/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-gdt1002-2990721/",
+      "keywords": [
+        "Fendi sz38-45 GDT1002",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-hy-2990733",
+      "name": "Fendi sz38-45 HY",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-hy-2990733-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-hy-2990733/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-hy-2990733/",
+      "keywords": [
+        "Fendi sz38-45 HY",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-hy1101-2990746",
+      "name": "Fendi sz38-45 HY1101",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-hy1101-2990746-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-hy1101-2990746/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-hy1101-2990746/",
+      "keywords": [
+        "Fendi sz38-45 HY1101",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-j1003-2990897",
+      "name": "Fendi sz38-45 J1003",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-j1003-2990897-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-j1003-2990897/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-j1003-2990897/",
+      "keywords": [
+        "Fendi sz38-45 J1003",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-n1201-2990901",
+      "name": "Fendi sz38-45 N1201",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-n1201-2990901-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-n1201-2990901/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-n1201-2990901/",
+      "keywords": [
+        "Fendi sz38-45 N1201",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-wm-2990905",
+      "name": "Fendi sz38-45 WM",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-wm-2990905-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-wm-2990905/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-wm-2990905/",
+      "keywords": [
+        "Fendi sz38-45 WM",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-wm0903-2990768",
+      "name": "Fendi sz38-45 WM0903",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-wm0903-2990768-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-wm0903-2990768/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-wm0903-2990768/",
+      "keywords": [
+        "Fendi sz38-45 WM0903",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-wm0904-2990783",
+      "name": "Fendi sz38-45 WM0904",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-wm0904-2990783-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-wm0904-2990783/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-wm0904-2990783/",
+      "keywords": [
+        "Fendi sz38-45 WM0904",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-wm1006-2990925",
+      "name": "Fendi sz38-45 WM1006",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-wm1006-2990925-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-wm1006-2990925/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-wm1006-2990925/",
+      "keywords": [
+        "Fendi sz38-45 WM1006",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-xj0902-2990795",
+      "name": "Fendi sz38-45 XJ0902",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-xj0902-2990795-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-xj0902-2990795/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-xj0902-2990795/",
+      "keywords": [
+        "Fendi sz38-45 XJ0902",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fendi-sz38-45-xj0903-2990812",
+      "name": "Fendi sz38-45 XJ0903",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/fendi-sz38-45-xj0903-2990812-1.webp",
+      "url": "/catalog/product/fendi-sz38-45-xj0903-2990812/",
+      "canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-xj0903-2990812/",
+      "keywords": [
+        "Fendi sz38-45 XJ0903",
         "Shoes",
         "New Products"
       ]

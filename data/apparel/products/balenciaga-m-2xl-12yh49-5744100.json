@@ -1,0 +1,61 @@
+{
+  "slug": "balenciaga-m-2xl-12yh49-5744100",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "5744101",
+  "source_parent_product_id": "5744100",
+  "source_product_url": "https://tangma2088.com/productinfoen_5744101.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/balenciaga-m-2xl-12yh49-5744100/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5744101.html",
+    "https://tangma2088.com/productinfoen_5744100.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/Balenciaga%20M-2XL%2012yh49%20(1)_5744101.jpg",
+    "https://tangma2088.com/upfile/product/202607/Balenciaga%20M-2XL%2012yh49%20(2)_5744100.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:41:03.849Z",
+  "name": "Balenciaga M-2XL 12yh49",
+  "english_product_name": "Balenciaga M-2XL 12yh49",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5744100",
+  "parent_product_id": "5744100",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/balenciaga-m-2xl-12yh49-5744100-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Balenciaga%20M-2XL%2012yh49%20(1)_5744101.jpg",
+      "content_hash": "8a80c5c1b8275e780ad90be664618f61f04e1188",
+      "alt": "Balenciaga M-2XL 12yh49"
+    },
+    {
+      "src": "/data/apparel/images/balenciaga-m-2xl-12yh49-5744100-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Balenciaga%20M-2XL%2012yh49%20(2)_5744100.jpg",
+      "content_hash": "be27ae2582de0eb21b0452578a493cc13824ab1f",
+      "alt": "Balenciaga M-2XL 12yh49"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:41:03.849Z"
+}

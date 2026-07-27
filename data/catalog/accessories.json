@@ -1,7 +1,7 @@
 {
   "top": "Accessories",
   "slug": "accessories",
-  "productCount": 112,
+  "productCount": 141,
   "subcategoriesDiscovered": 35,
   "subcategories": [
     {
@@ -60,8 +60,8 @@
       "source_path": "0_386"
     },
     {
-      "name": "Perfume 0706",
-      "slug": "perfume-0706",
+      "name": "Perfume 0727",
+      "slug": "perfume-0727",
       "source_path": "0_263724"
     },
     {
@@ -634,6 +634,120 @@
       "_og": "https://trendholic.github.io/data/accessories/images/alo-socks-4097994-1.webp"
     },
     {
+      "slug": "alo-socks-4097998",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098007",
+      "source_parent_product_id": "4097998",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098007.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/alo-socks-4097998/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098007.html",
+        "https://acc.tangma2088.com/productinfoen_4098006.html",
+        "https://acc.tangma2088.com/productinfoen_4098005.html",
+        "https://acc.tangma2088.com/productinfoen_4098004.html",
+        "https://acc.tangma2088.com/productinfoen_4098003.html",
+        "https://acc.tangma2088.com/productinfoen_4098002.html",
+        "https://acc.tangma2088.com/productinfoen_4098001.html",
+        "https://acc.tangma2088.com/productinfoen_4098000.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(4)_4097998.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(5)_4097999.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(6)_4098000.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(7)_4098001.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(9)_4098002.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(10)_4098003.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(13)_4098004.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(14)_4098005.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(15)_4098006.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(20)_4098007.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Alo Socks",
+      "english_product_name": "Alo Socks",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4097998",
+      "parent_product_id": "4097998",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/alo-socks-4097994-4.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(4)_4097998.jpg",
+          "content_hash": "153411fd617f43414683d84153f22b350141eb82",
+          "alt": "Alo Socks"
+        },
+        {
+          "src": "/data/accessories/images/alo-socks-4097994-5.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(5)_4097999.jpg",
+          "content_hash": "2baa86776c0df28477df0c6643e94160e6ade96c",
+          "alt": "Alo Socks"
+        },
+        {
+          "src": "/data/accessories/images/alo-socks-4097994-6.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(6)_4098000.jpg",
+          "content_hash": "0e0ab2007262899cf1274026d09979af748165c4",
+          "alt": "Alo Socks"
+        },
+        {
+          "src": "/data/accessories/images/alo-socks-4097994-7.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(7)_4098001.jpg",
+          "content_hash": "15e560e946f5e9fedd055918e4cf13883310dec7",
+          "alt": "Alo Socks"
+        },
+        {
+          "src": "/data/accessories/images/alo-socks-4097994-8.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(9)_4098002.jpg",
+          "content_hash": "a92e7b7f307a23495b4bc6900697b125127c8e1d",
+          "alt": "Alo Socks"
+        },
+        {
+          "src": "/data/accessories/images/alo-socks-4097998-6.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(10)_4098003.jpg",
+          "content_hash": "92625cd5ea07b3b5d39579dd5bc8d89cb7cd74da",
+          "alt": "Alo Socks"
+        },
+        {
+          "src": "/data/accessories/images/alo-socks-4097998-7.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(13)_4098004.jpg",
+          "content_hash": "ed90aafbde367de8d64c55c580340364e60f4620",
+          "alt": "Alo Socks"
+        },
+        {
+          "src": "/data/accessories/images/alo-socks-4097998-8.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Alo%20Socks%20(14)_4098005.jpg",
+          "content_hash": "07ccc7c99eb131a6a7ffafb3a7f50dbf5ca3e842",
+          "alt": "Alo Socks"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/alo-socks-4097998/",
+      "_canonical": "https://trendholic.github.io/catalog/product/alo-socks-4097998/",
+      "_og": "https://trendholic.github.io/data/accessories/images/alo-socks-4097994-4.webp"
+    },
+    {
       "slug": "amiri-belt-38mmx90-125cm-lb-4096405",
       "top_category": "Accessories",
       "source_site": "accessories",
@@ -918,6 +1032,62 @@
       "_og": "https://trendholic.github.io/data/accessories/images/amiri-belt-38mmx90-125cm-lb-4096405-3.webp"
     },
     {
+      "slug": "amouage-100ml-4098335",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098335",
+      "source_parent_product_id": "4098335",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098335.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/amouage-100ml-4098335/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098335.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Amouage%20100ml_4098335.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Amouage 100ml",
+      "english_product_name": "Amouage 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098335",
+      "parent_product_id": "4098335",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/amouage-100ml-4098335-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Amouage%20100ml_4098335.jpg",
+          "content_hash": "3192ba6337378132a167da208e024c4395515c3d",
+          "alt": "Amouage 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/amouage-100ml-4098335/",
+      "_canonical": "https://trendholic.github.io/catalog/product/amouage-100ml-4098335/",
+      "_og": "https://trendholic.github.io/data/accessories/images/amouage-100ml-4098335-1.webp"
+    },
+    {
       "slug": "arcteryx-socks-4098008",
       "top_category": "Accessories",
       "source_site": "accessories",
@@ -939,7 +1109,7 @@
         "https://acc.tangma2088.com/upfile/product/202607/Arcteryx%20Socks%20(2)_4098010.jpg",
         "https://acc.tangma2088.com/upfile/product/202607/Arcteryx%20socks_4098008.jpg"
       ],
-      "source_last_seen": "2026-07-26T06:21:11.490Z",
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
       "name": "Arcteryx Socks",
       "english_product_name": "Arcteryx Socks",
       "original_product_name": null,
@@ -984,10 +1154,90 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-26T06:21:11.490Z",
+      "synced_at": "2026-07-27T06:55:00.186Z",
       "_url": "/catalog/product/arcteryx-socks-4098008/",
       "_canonical": "https://trendholic.github.io/catalog/product/arcteryx-socks-4098008/",
       "_og": "https://trendholic.github.io/data/accessories/images/arcteryx-socks-4098008-1.webp"
+    },
+    {
+      "slug": "armani-11pcs-4098336",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098339",
+      "source_parent_product_id": "4098336",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098339.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/armani-11pcs-4098336/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098339.html",
+        "https://acc.tangma2088.com/productinfoen_4098338.html",
+        "https://acc.tangma2088.com/productinfoen_4098337.html",
+        "https://acc.tangma2088.com/productinfoen_4098336.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Armani%2011pcs%20(1)_4098336.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Armani%2011pcs%20(2)_4098337.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Armani%2011pcs%20(3)_4098338.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Armani%2011pcs%20(4)_4098339.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Armani 11pcs",
+      "english_product_name": "Armani 11pcs",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098336",
+      "parent_product_id": "4098336",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/armani-11pcs-4098336-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Armani%2011pcs%20(1)_4098336.jpg",
+          "content_hash": "2519601893dae59774357037fb2e89a346bd5bd9",
+          "alt": "Armani 11pcs"
+        },
+        {
+          "src": "/data/accessories/images/armani-11pcs-4098336-2.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Armani%2011pcs%20(2)_4098337.jpg",
+          "content_hash": "bf75db397084d5612e0a6364c788afae1e860026",
+          "alt": "Armani 11pcs"
+        },
+        {
+          "src": "/data/accessories/images/armani-11pcs-4098336-3.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Armani%2011pcs%20(3)_4098338.jpg",
+          "content_hash": "c89b24d466f91b6afb16fbd3f94150d281b96f6e",
+          "alt": "Armani 11pcs"
+        },
+        {
+          "src": "/data/accessories/images/armani-11pcs-4098336-4.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Armani%2011pcs%20(4)_4098339.jpg",
+          "content_hash": "13bf36c67759b0433cd2b198c00b446fd3e3e8fd",
+          "alt": "Armani 11pcs"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/armani-11pcs-4098336/",
+      "_canonical": "https://trendholic.github.io/catalog/product/armani-11pcs-4098336/",
+      "_og": "https://trendholic.github.io/data/accessories/images/armani-11pcs-4098336-1.webp"
     },
     {
       "slug": "armani-boxer-m-xl-06-4096352",
@@ -1084,6 +1334,78 @@
       "_url": "/catalog/product/armani-boxer-m-xl-06-4096352/",
       "_canonical": "https://trendholic.github.io/catalog/product/armani-boxer-m-xl-06-4096352/",
       "_og": "https://trendholic.github.io/data/accessories/images/armani-boxer-m-xl-06-4096352-1.webp"
+    },
+    {
+      "slug": "balenciaga-10x2ml-4098340",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098342",
+      "source_parent_product_id": "4098340",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098342.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/balenciaga-10x2ml-4098340/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098342.html",
+        "https://acc.tangma2088.com/productinfoen_4098341.html",
+        "https://acc.tangma2088.com/productinfoen_4098340.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%2010X2ml%20(1)_4098341.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%2010X2ml%20(2)_4098342.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%2010X2ml_4098340.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Balenciaga 10X2ml",
+      "english_product_name": "Balenciaga 10X2ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098340",
+      "parent_product_id": "4098340",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/balenciaga-10x2ml-4098340-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%2010X2ml%20(1)_4098341.jpg",
+          "content_hash": "053c310680666f6882ae2636eb8f29750f4022c4",
+          "alt": "Balenciaga 10X2ml"
+        },
+        {
+          "src": "/data/accessories/images/balenciaga-10x2ml-4098340-2.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%2010X2ml%20(2)_4098342.jpg",
+          "content_hash": "0b1eb032544d87754b881b479512b6bf5ec7db50",
+          "alt": "Balenciaga 10X2ml"
+        },
+        {
+          "src": "/data/accessories/images/balenciaga-10x2ml-4098340-3.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%2010X2ml_4098340.jpg",
+          "content_hash": "a686007ad801307cb7ea21e756154b10d5679f30",
+          "alt": "Balenciaga 10X2ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/balenciaga-10x2ml-4098340/",
+      "_canonical": "https://trendholic.github.io/catalog/product/balenciaga-10x2ml-4098340/",
+      "_og": "https://trendholic.github.io/data/accessories/images/balenciaga-10x2ml-4098340-1.webp"
     },
     {
       "slug": "balenciaga-bb02830-e-4096517",
@@ -1294,7 +1616,7 @@
         "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%20socks%20(20)_4098030.jpg",
         "https://acc.tangma2088.com/upfile/product/202607/Balenciaga%20socks%20(21)_4098031.jpg"
       ],
-      "source_last_seen": "2026-07-26T06:21:11.490Z",
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
       "name": "Balenciaga socks",
       "english_product_name": "Balenciaga socks",
       "original_product_name": null,
@@ -1369,10 +1691,66 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-26T06:21:11.490Z",
+      "synced_at": "2026-07-27T06:55:00.186Z",
       "_url": "/catalog/product/balenciaga-socks-4098012/",
       "_canonical": "https://trendholic.github.io/catalog/product/balenciaga-socks-4098012/",
       "_og": "https://trendholic.github.io/data/accessories/images/balenciaga-socks-4098012-1.webp"
+    },
+    {
+      "slug": "boss-75ml-4098343",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098343",
+      "source_parent_product_id": "4098343",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098343.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/boss-75ml-4098343/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098343.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Boss%2075ml_4098343.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Boss 75ml",
+      "english_product_name": "Boss 75ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098343",
+      "parent_product_id": "4098343",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/boss-75ml-4098343-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Boss%2075ml_4098343.jpg",
+          "content_hash": "801cf7dd03cd27b97de1814c52c497313aaee8a1",
+          "alt": "Boss 75ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/boss-75ml-4098343/",
+      "_canonical": "https://trendholic.github.io/catalog/product/boss-75ml-4098343/",
+      "_og": "https://trendholic.github.io/data/accessories/images/boss-75ml-4098343-1.webp"
     },
     {
       "slug": "boss-boxer-l-4xl-14-4096218",
@@ -1548,7 +1926,7 @@
         "https://acc.tangma2088.com/upfile/product/202607/Boss%20Socks%20(2)_4098034.jpg",
         "https://acc.tangma2088.com/upfile/product/202607/Boss%20socks_4098032.jpg"
       ],
-      "source_last_seen": "2026-07-26T06:21:11.490Z",
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
       "name": "Boss Socks",
       "english_product_name": "Boss Socks",
       "original_product_name": null,
@@ -1593,10 +1971,66 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-26T06:21:11.490Z",
+      "synced_at": "2026-07-27T06:55:00.186Z",
       "_url": "/catalog/product/boss-socks-4098032/",
       "_canonical": "https://trendholic.github.io/catalog/product/boss-socks-4098032/",
       "_og": "https://trendholic.github.io/data/accessories/images/boss-socks-4098032-1.webp"
+    },
+    {
+      "slug": "burberry-100ml-4098344",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098344",
+      "source_parent_product_id": "4098344",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098344.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/burberry-100ml-4098344/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098344.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Burberry%20100ml_4098344.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Burberry 100ml",
+      "english_product_name": "Burberry 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098344",
+      "parent_product_id": "4098344",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/burberry-100ml-4098344-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Burberry%20100ml_4098344.jpg",
+          "content_hash": "605732ef8c21327b733d4744d489436d0d22dfdb",
+          "alt": "Burberry 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/burberry-100ml-4098344/",
+      "_canonical": "https://trendholic.github.io/catalog/product/burberry-100ml-4098344/",
+      "_og": "https://trendholic.github.io/data/accessories/images/burberry-100ml-4098344-1.webp"
     },
     {
       "slug": "burberry-boxer-l-3xl-33-4096225",
@@ -2505,7 +2939,7 @@
         "https://acc.tangma2088.com/upfile/product/202607/Burberry%20socks%20(4)_4098039.jpg",
         "https://acc.tangma2088.com/upfile/product/202607/Burberry%20Socks_4098035.jpg"
       ],
-      "source_last_seen": "2026-07-26T06:21:11.490Z",
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
       "name": "Burberry socks",
       "english_product_name": "Burberry socks",
       "original_product_name": null,
@@ -2562,7 +2996,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-26T06:21:11.490Z",
+      "synced_at": "2026-07-27T06:55:00.186Z",
       "_url": "/catalog/product/burberry-socks-4098035/",
       "_canonical": "https://trendholic.github.io/catalog/product/burberry-socks-4098035/",
       "_og": "https://trendholic.github.io/data/accessories/images/burberry-socks-4098035-1.webp"
@@ -2601,7 +3035,7 @@
         "https://acc.tangma2088.com/upfile/product/202607/Burberry%20Umbrella%20%20(62)_4098060.jpg",
         "https://acc.tangma2088.com/upfile/product/202607/Burberry%20Umbrella%20%20(63)_4098061.jpg"
       ],
-      "source_last_seen": "2026-07-26T06:21:11.490Z",
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
       "name": "Burberry Umbrella",
       "english_product_name": "Burberry Umbrella",
       "original_product_name": null,
@@ -2676,7 +3110,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-26T06:21:11.490Z",
+      "synced_at": "2026-07-27T06:55:00.186Z",
       "_url": "/catalog/product/burberry-umbrella-4098053/",
       "_canonical": "https://trendholic.github.io/catalog/product/burberry-umbrella-4098053/",
       "_og": "https://trendholic.github.io/data/accessories/images/burberry-umbrella-4098053-1.webp"
@@ -3088,6 +3522,182 @@
       "_og": "https://trendholic.github.io/data/accessories/images/bvlgari-52341u-55-23-145-g-4096665-1.webp"
     },
     {
+      "slug": "carner-100ml-4098345",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098345",
+      "source_parent_product_id": "4098345",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098345.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/carner-100ml-4098345/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098345.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Carner%20100ml_4098345.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Carner 100ml",
+      "english_product_name": "Carner 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098345",
+      "parent_product_id": "4098345",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/carner-100ml-4098345-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Carner%20100ml_4098345.jpg",
+          "content_hash": "8d21eac4481b65e9e884366be5eee10654a0368e",
+          "alt": "Carner 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/carner-100ml-4098345/",
+      "_canonical": "https://trendholic.github.io/catalog/product/carner-100ml-4098345/",
+      "_og": "https://trendholic.github.io/data/accessories/images/carner-100ml-4098345-1.webp"
+    },
+    {
+      "slug": "carolina-4pcs-4098346",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098347",
+      "source_parent_product_id": "4098346",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098347.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/carolina-4pcs-4098346/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098347.html",
+        "https://acc.tangma2088.com/productinfoen_4098346.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Carolina%204pcs%20(1)_4098346.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Carolina%204pcs%20(2)_4098347.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Carolina 4pcs",
+      "english_product_name": "Carolina 4pcs",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098346",
+      "parent_product_id": "4098346",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/carolina-4pcs-4098346-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Carolina%204pcs%20(1)_4098346.jpg",
+          "content_hash": "02c499bcd5ae3a0b54088ee591d254e4f39c2175",
+          "alt": "Carolina 4pcs"
+        },
+        {
+          "src": "/data/accessories/images/carolina-4pcs-4098346-2.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Carolina%204pcs%20(2)_4098347.jpg",
+          "content_hash": "14c629e1ff3cc6ad4c54952ae6b060be2ed95110",
+          "alt": "Carolina 4pcs"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/carolina-4pcs-4098346/",
+      "_canonical": "https://trendholic.github.io/catalog/product/carolina-4pcs-4098346/",
+      "_og": "https://trendholic.github.io/data/accessories/images/carolina-4pcs-4098346-1.webp"
+    },
+    {
+      "slug": "cartier-4x30ml-4098348",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098348",
+      "source_parent_product_id": "4098348",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098348.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/cartier-4x30ml-4098348/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098348.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Cartier%204X30ml_4098348.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Cartier 4X30ml",
+      "english_product_name": "Cartier 4X30ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098348",
+      "parent_product_id": "4098348",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/cartier-4x30ml-4098348-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Cartier%204X30ml_4098348.jpg",
+          "content_hash": "0bc6ba629353d94c7ab148157aa90b6521485764",
+          "alt": "Cartier 4X30ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/cartier-4x30ml-4098348/",
+      "_canonical": "https://trendholic.github.io/catalog/product/cartier-4x30ml-4098348/",
+      "_og": "https://trendholic.github.io/data/accessories/images/cartier-4x30ml-4098348-1.webp"
+    },
+    {
       "slug": "celine-cl40235-e-4096530",
       "top_category": "Accessories",
       "source_site": "accessories",
@@ -3217,7 +3827,7 @@
         "https://acc.tangma2088.com/upfile/product/202607/Celine%20Socks%20(13)_4098052.jpg",
         "https://acc.tangma2088.com/upfile/product/202607/Celine%20socks_4098040.jpg"
       ],
-      "source_last_seen": "2026-07-26T06:21:11.490Z",
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
       "name": "Celine Socks",
       "english_product_name": "Celine Socks",
       "original_product_name": null,
@@ -3292,7 +3902,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-26T06:21:11.490Z",
+      "synced_at": "2026-07-27T06:55:00.186Z",
       "_url": "/catalog/product/celine-socks-4098040/",
       "_canonical": "https://trendholic.github.io/catalog/product/celine-socks-4098040/",
       "_og": "https://trendholic.github.io/data/accessories/images/celine-socks-4098040-1.webp"
@@ -3426,6 +4036,70 @@
       "_url": "/catalog/product/chaenl-ch5510-55-18-145-e-4096535/",
       "_canonical": "https://trendholic.github.io/catalog/product/chaenl-ch5510-55-18-145-e-4096535/",
       "_og": "https://trendholic.github.io/data/accessories/images/chaenl-ch5510-55-18-145-e-4096535-1.webp"
+    },
+    {
+      "slug": "chanel-100ml-4098349",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098350",
+      "source_parent_product_id": "4098349",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098350.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-100ml-4098349/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098350.html",
+        "https://acc.tangma2088.com/productinfoen_4098349.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Chanel%20100ml%20(2)_4098350.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Chanel%20100ml_4098349.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Chanel 100ml",
+      "english_product_name": "Chanel 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098349",
+      "parent_product_id": "4098349",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/chanel-100ml-4098349-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Chanel%20100ml%20(2)_4098350.jpg",
+          "content_hash": "6689a1e4f1683949b5868f1acdb970d5958dc10b",
+          "alt": "Chanel 100ml"
+        },
+        {
+          "src": "/data/accessories/images/chanel-100ml-4098349-2.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Chanel%20100ml_4098349.jpg",
+          "content_hash": "d52394a72d6105a5ed3e52f410782b1e99eafe9f",
+          "alt": "Chanel 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/chanel-100ml-4098349/",
+      "_canonical": "https://trendholic.github.io/catalog/product/chanel-100ml-4098349/",
+      "_og": "https://trendholic.github.io/data/accessories/images/chanel-100ml-4098349-1.webp"
     },
     {
       "slug": "chanel-ch-6807-52-23-145-e-4096543",
@@ -4683,7 +5357,7 @@
         "https://acc.tangma2088.com/upfile/product/202607/CHanel%20Umbrella%20%20(89)_4098283.jpg",
         "https://acc.tangma2088.com/upfile/product/202607/CHanel%20Umbrella%20%20(89)_4098103.jpg"
       ],
-      "source_last_seen": "2026-07-26T06:21:11.490Z",
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
       "name": "CHanel Umbrella",
       "english_product_name": "CHanel Umbrella",
       "original_product_name": null,
@@ -4758,10 +5432,122 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-26T06:21:11.490Z",
+      "synced_at": "2026-07-27T06:55:00.186Z",
       "_url": "/catalog/product/chanel-umbrella-4098062/",
       "_canonical": "https://trendholic.github.io/catalog/product/chanel-umbrella-4098062/",
       "_og": "https://trendholic.github.io/data/accessories/images/chanel-umbrella-4098062-1.webp"
+    },
+    {
+      "slug": "chloe-150ml-4098351",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098351",
+      "source_parent_product_id": "4098351",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098351.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/chloe-150ml-4098351/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098351.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Chloe%20150ml_4098351.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Chloe 150ml",
+      "english_product_name": "Chloe 150ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098351",
+      "parent_product_id": "4098351",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/chloe-150ml-4098351-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Chloe%20150ml_4098351.jpg",
+          "content_hash": "337189029fb32f10f691d28d41a7ae3410a24147",
+          "alt": "Chloe 150ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/chloe-150ml-4098351/",
+      "_canonical": "https://trendholic.github.io/catalog/product/chloe-150ml-4098351/",
+      "_og": "https://trendholic.github.io/data/accessories/images/chloe-150ml-4098351-1.webp"
+    },
+    {
+      "slug": "chopard-100ml-4098352",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098352",
+      "source_parent_product_id": "4098352",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098352.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/chopard-100ml-4098352/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098352.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Chopard%20100ml_4098352.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Chopard 100ml",
+      "english_product_name": "Chopard 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098352",
+      "parent_product_id": "4098352",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/chopard-100ml-4098352-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Chopard%20100ml_4098352.jpg",
+          "content_hash": "49380dbda5216506fac475c8cd66ec9a7152cdb8",
+          "alt": "Chopard 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/chopard-100ml-4098352/",
+      "_canonical": "https://trendholic.github.io/catalog/product/chopard-100ml-4098352/",
+      "_og": "https://trendholic.github.io/data/accessories/images/chopard-100ml-4098352-1.webp"
     },
     {
       "slug": "ck-boxer-l-3xl-32-4096260",
@@ -5410,6 +6196,294 @@
       "_url": "/catalog/product/ck-boxer-xl-4xl-20-4096287/",
       "_canonical": "https://trendholic.github.io/catalog/product/ck-boxer-xl-4xl-20-4096287/",
       "_og": "https://trendholic.github.io/data/accessories/images/ck-boxer-xl-4xl-20-4096287-1.webp"
+    },
+    {
+      "slug": "clive-50ml-4098353",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098353",
+      "source_parent_product_id": "4098353",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098353.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/clive-50ml-4098353/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098353.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Clive%2050ml_4098353.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Clive 50ml",
+      "english_product_name": "Clive 50ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098353",
+      "parent_product_id": "4098353",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/clive-50ml-4098353-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Clive%2050ml_4098353.jpg",
+          "content_hash": "5b874b43c4267dc103ea4eb5898dd42b0f2f0912",
+          "alt": "Clive 50ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/clive-50ml-4098353/",
+      "_canonical": "https://trendholic.github.io/catalog/product/clive-50ml-4098353/",
+      "_og": "https://trendholic.github.io/data/accessories/images/clive-50ml-4098353-1.webp"
+    },
+    {
+      "slug": "creed-100ml-4098354",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098355",
+      "source_parent_product_id": "4098354",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098355.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/creed-100ml-4098354/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098355.html",
+        "https://acc.tangma2088.com/productinfoen_4098354.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Creed%20100ml%20(1)_4098354.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Creed%20100ml%20(2)_4098355.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Creed 100ml",
+      "english_product_name": "Creed 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098354",
+      "parent_product_id": "4098354",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/creed-100ml-4098354-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Creed%20100ml%20(1)_4098354.jpg",
+          "content_hash": "b69df5c4c32e2590e038990198b76438a78e24b8",
+          "alt": "Creed 100ml"
+        },
+        {
+          "src": "/data/accessories/images/creed-100ml-4098354-2.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Creed%20100ml%20(2)_4098355.jpg",
+          "content_hash": "bdf7d45459805550234faf81b150aaf37caf0089",
+          "alt": "Creed 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/creed-100ml-4098354/",
+      "_canonical": "https://trendholic.github.io/catalog/product/creed-100ml-4098354/",
+      "_og": "https://trendholic.github.io/data/accessories/images/creed-100ml-4098354-1.webp"
+    },
+    {
+      "slug": "creed-perfume-4098356",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098356",
+      "source_parent_product_id": "4098356",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098356.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/creed-perfume-4098356/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098356.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Creed%20perfume_4098356.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Creed perfume",
+      "english_product_name": "Creed perfume",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098356",
+      "parent_product_id": "4098356",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/creed-perfume-4098356-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Creed%20perfume_4098356.jpg",
+          "content_hash": "d929ea7edb562d89b8a6bf14360cdbbd66b0936b",
+          "alt": "Creed perfume"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/creed-perfume-4098356/",
+      "_canonical": "https://trendholic.github.io/catalog/product/creed-perfume-4098356/",
+      "_og": "https://trendholic.github.io/data/accessories/images/creed-perfume-4098356-1.webp"
+    },
+    {
+      "slug": "dg-100ml-4098358",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098365",
+      "source_parent_product_id": "4098358",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098365.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/dg-100ml-4098358/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098365.html",
+        "https://acc.tangma2088.com/productinfoen_4098364.html",
+        "https://acc.tangma2088.com/productinfoen_4098363.html",
+        "https://acc.tangma2088.com/productinfoen_4098362.html",
+        "https://acc.tangma2088.com/productinfoen_4098361.html",
+        "https://acc.tangma2088.com/productinfoen_4098360.html",
+        "https://acc.tangma2088.com/productinfoen_4098359.html",
+        "https://acc.tangma2088.com/productinfoen_4098358.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(1)_4098365.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(2)_4098358.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(3)_4098359.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(4)_4098360.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(5)_4098361.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(6)_4098362.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(7)_4098363.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(8)_4098364.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "DG 100ml",
+      "english_product_name": "DG 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098358",
+      "parent_product_id": "4098358",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/dg-100ml-4098358-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(1)_4098365.jpg",
+          "content_hash": "041379830f455d31c52a86c0eb91c4831d1fee9c",
+          "alt": "DG 100ml"
+        },
+        {
+          "src": "/data/accessories/images/dg-100ml-4098358-2.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(2)_4098358.jpg",
+          "content_hash": "798aba01823bf6338b44c10c2ef8956bbac2de0d",
+          "alt": "DG 100ml"
+        },
+        {
+          "src": "/data/accessories/images/dg-100ml-4098358-3.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(3)_4098359.jpg",
+          "content_hash": "91a6cc5e607cc52b18ec9ea750e582803e46e12d",
+          "alt": "DG 100ml"
+        },
+        {
+          "src": "/data/accessories/images/dg-100ml-4098358-4.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(4)_4098360.jpg",
+          "content_hash": "4dc3fdccaa7d2565f183478b31a035e5cb49d0a5",
+          "alt": "DG 100ml"
+        },
+        {
+          "src": "/data/accessories/images/dg-100ml-4098358-5.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(5)_4098361.jpg",
+          "content_hash": "d8c42692d5a3b9bdfb818e9f332514d0fae7d40e",
+          "alt": "DG 100ml"
+        },
+        {
+          "src": "/data/accessories/images/dg-100ml-4098358-6.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(6)_4098362.jpg",
+          "content_hash": "43d2d4ffa8b285bbd68403d12b8ad4a28911a693",
+          "alt": "DG 100ml"
+        },
+        {
+          "src": "/data/accessories/images/dg-100ml-4098358-7.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(7)_4098363.jpg",
+          "content_hash": "8106c32c97de65bc23b009b05eb6c8d656a9e312",
+          "alt": "DG 100ml"
+        },
+        {
+          "src": "/data/accessories/images/dg-100ml-4098358-8.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/DG%20100ml%20(8)_4098364.jpg",
+          "content_hash": "6e7b6878cd78caf9830af83a4601a9df2bfbf159",
+          "alt": "DG 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/dg-100ml-4098358/",
+      "_canonical": "https://trendholic.github.io/catalog/product/dg-100ml-4098358/",
+      "_og": "https://trendholic.github.io/data/accessories/images/dg-100ml-4098358-1.webp"
     },
     {
       "slug": "dg-boxer-l-4xl-13-4096291",
@@ -6497,6 +7571,70 @@
       "_og": "https://trendholic.github.io/data/accessories/images/dita-dts122-52-22-145-e-4096680-1.webp"
     },
     {
+      "slug": "ex-nihilo-100ml-4098366",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098367",
+      "source_parent_product_id": "4098366",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098367.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/ex-nihilo-100ml-4098366/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098367.html",
+        "https://acc.tangma2088.com/productinfoen_4098366.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Ex%20Nihilo%20100ml%20(1)_4098366.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Ex%20Nihilo%20100ml%20(2)_4098367.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Ex Nihilo 100ml",
+      "english_product_name": "Ex Nihilo 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098366",
+      "parent_product_id": "4098366",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/ex-nihilo-100ml-4098366-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Ex%20Nihilo%20100ml%20(1)_4098366.jpg",
+          "content_hash": "d2b3adff2a0fa79e853af42ae110d2bb858b1cce",
+          "alt": "Ex Nihilo 100ml"
+        },
+        {
+          "src": "/data/accessories/images/ex-nihilo-100ml-4098366-2.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Ex%20Nihilo%20100ml%20(2)_4098367.jpg",
+          "content_hash": "5e442e67588df80347f8308673a1a8262549f4ab",
+          "alt": "Ex Nihilo 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/ex-nihilo-100ml-4098366/",
+      "_canonical": "https://trendholic.github.io/catalog/product/ex-nihilo-100ml-4098366/",
+      "_og": "https://trendholic.github.io/data/accessories/images/ex-nihilo-100ml-4098366-1.webp"
+    },
+    {
       "slug": "fendi-m-xl-03-4096364",
       "top_category": "Accessories",
       "source_site": "accessories",
@@ -6889,6 +8027,302 @@
       "_og": "https://trendholic.github.io/data/accessories/images/fred-fg57166u-54-17-145-e-4096706-1.webp"
     },
     {
+      "slug": "givenchy-100ml-4098368",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098369",
+      "source_parent_product_id": "4098368",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098369.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/givenchy-100ml-4098368/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098369.html",
+        "https://acc.tangma2088.com/productinfoen_4098368.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Givenchy%20100ml%20(1)_4098368.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Givenchy%20100ml%20(2)_4098369.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Givenchy 100ml",
+      "english_product_name": "Givenchy 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098368",
+      "parent_product_id": "4098368",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/givenchy-100ml-4098368-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Givenchy%20100ml%20(1)_4098368.jpg",
+          "content_hash": "31a6cfa260091b6b68dc4afafab462903e8a27a9",
+          "alt": "Givenchy 100ml"
+        },
+        {
+          "src": "/data/accessories/images/givenchy-100ml-4098368-2.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Givenchy%20100ml%20(2)_4098369.jpg",
+          "content_hash": "c99d7fe7e20d0c0c2bca6fa8ab935cb94d710722",
+          "alt": "Givenchy 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/givenchy-100ml-4098368/",
+      "_canonical": "https://trendholic.github.io/catalog/product/givenchy-100ml-4098368/",
+      "_og": "https://trendholic.github.io/data/accessories/images/givenchy-100ml-4098368-1.webp"
+    },
+    {
+      "slug": "givenchy-perfume-4098370",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098370",
+      "source_parent_product_id": "4098370",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098370.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/givenchy-perfume-4098370/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098370.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Givenchy%20perfume_4098370.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Givenchy perfume",
+      "english_product_name": "Givenchy perfume",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098370",
+      "parent_product_id": "4098370",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/givenchy-perfume-4098370-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Givenchy%20perfume_4098370.jpg",
+          "content_hash": "6f5aadf9c2719655911038e0fb8ae25fab7f7b19",
+          "alt": "Givenchy perfume"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/givenchy-perfume-4098370/",
+      "_canonical": "https://trendholic.github.io/catalog/product/givenchy-perfume-4098370/",
+      "_og": "https://trendholic.github.io/data/accessories/images/givenchy-perfume-4098370-1.webp"
+    },
+    {
+      "slug": "gucci-100ml-4098374",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098374",
+      "source_parent_product_id": "4098374",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098374.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/gucci-100ml-4098374/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098374.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Gucci%20100ml_4098374.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Gucci 100ml",
+      "english_product_name": "Gucci 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098374",
+      "parent_product_id": "4098374",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/gucci-100ml-4098374-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Gucci%20100ml_4098374.jpg",
+          "content_hash": "68b3be5e0218f8f91cf22036433ad14b44cf1fc9",
+          "alt": "Gucci 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/gucci-100ml-4098374/",
+      "_canonical": "https://trendholic.github.io/catalog/product/gucci-100ml-4098374/",
+      "_og": "https://trendholic.github.io/data/accessories/images/gucci-100ml-4098374-1.webp"
+    },
+    {
+      "slug": "gucci-5x5ml-4098371",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098372",
+      "source_parent_product_id": "4098371",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098372.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/gucci-5x5ml-4098371/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098372.html",
+        "https://acc.tangma2088.com/productinfoen_4098371.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Gucci%205X5ml%20(1)_4098371.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Gucci%205X5ml%20(2)_4098372.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Gucci 5X5ml",
+      "english_product_name": "Gucci 5X5ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098371",
+      "parent_product_id": "4098371",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/gucci-5x5ml-4098371-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Gucci%205X5ml%20(1)_4098371.jpg",
+          "content_hash": "d86b1b972a444dc0957dc6caf35c2bd022a81def",
+          "alt": "Gucci 5X5ml"
+        },
+        {
+          "src": "/data/accessories/images/gucci-5x5ml-4098371-2.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Gucci%205X5ml%20(2)_4098372.jpg",
+          "content_hash": "d8f6cb9e715e21ec413a8d7cab8232585120ecee",
+          "alt": "Gucci 5X5ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/gucci-5x5ml-4098371/",
+      "_canonical": "https://trendholic.github.io/catalog/product/gucci-5x5ml-4098371/",
+      "_og": "https://trendholic.github.io/data/accessories/images/gucci-5x5ml-4098371-1.webp"
+    },
+    {
+      "slug": "gucci-90ml-4098373",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098373",
+      "source_parent_product_id": "4098373",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098373.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/gucci-90ml-4098373/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098373.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Gucci%2090ml_4098373.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Gucci 90ml",
+      "english_product_name": "Gucci 90ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098373",
+      "parent_product_id": "4098373",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/gucci-90ml-4098373-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Gucci%2090ml_4098373.jpg",
+          "content_hash": "c8edd6ce209a54bd9204d089736d7c45b1a786fa",
+          "alt": "Gucci 90ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/gucci-90ml-4098373/",
+      "_canonical": "https://trendholic.github.io/catalog/product/gucci-90ml-4098373/",
+      "_og": "https://trendholic.github.io/data/accessories/images/gucci-90ml-4098373-1.webp"
+    },
+    {
       "slug": "gucci-boxer-l-3xl-31-4096108",
       "top_category": "Accessories",
       "source_site": "accessories",
@@ -7234,6 +8668,184 @@
       "_url": "/catalog/product/gucci-gg2065s-51-23-145-e-4096624/",
       "_canonical": "https://trendholic.github.io/catalog/product/gucci-gg2065s-51-23-145-e-4096624/",
       "_og": "https://trendholic.github.io/data/accessories/images/gucci-gg2065s-51-23-145-e-4096624-1.webp"
+    },
+    {
+      "slug": "guerlain-50ml-4098375",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098387",
+      "source_parent_product_id": "4098375",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098387.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/guerlain-50ml-4098375/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098387.html",
+        "https://acc.tangma2088.com/productinfoen_4098386.html",
+        "https://acc.tangma2088.com/productinfoen_4098385.html",
+        "https://acc.tangma2088.com/productinfoen_4098384.html",
+        "https://acc.tangma2088.com/productinfoen_4098383.html",
+        "https://acc.tangma2088.com/productinfoen_4098382.html",
+        "https://acc.tangma2088.com/productinfoen_4098381.html",
+        "https://acc.tangma2088.com/productinfoen_4098380.html",
+        "https://acc.tangma2088.com/productinfoen_4098379.html",
+        "https://acc.tangma2088.com/productinfoen_4098378.html",
+        "https://acc.tangma2088.com/productinfoen_4098377.html",
+        "https://acc.tangma2088.com/productinfoen_4098376.html",
+        "https://acc.tangma2088.com/productinfoen_4098375.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(1)_4098375.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(2)_4098376.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(3)_4098377.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(4)_4098378.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(5)_4098379.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(6)_4098380.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(7)_4098381.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(8)_4098382.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(9)_4098383.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(10)_4098384.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(11)_4098385.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(12)_4098386.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(13)_4098387.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Guerlain 50ml",
+      "english_product_name": "Guerlain 50ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098375",
+      "parent_product_id": "4098375",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/guerlain-50ml-4098375-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(1)_4098375.jpg",
+          "content_hash": "7a876f9a27429456d68f1d1a2ebc7b924a2e7e29",
+          "alt": "Guerlain 50ml"
+        },
+        {
+          "src": "/data/accessories/images/guerlain-50ml-4098375-2.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(2)_4098376.jpg",
+          "content_hash": "7d4b98b3a93ea66ced5f64133ac5b31549072704",
+          "alt": "Guerlain 50ml"
+        },
+        {
+          "src": "/data/accessories/images/guerlain-50ml-4098375-3.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(3)_4098377.jpg",
+          "content_hash": "c11880156dd3d1bf4263823a7ace64fdd6ab7b9f",
+          "alt": "Guerlain 50ml"
+        },
+        {
+          "src": "/data/accessories/images/guerlain-50ml-4098375-4.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(4)_4098378.jpg",
+          "content_hash": "3588a89761f7af958520f64c24c55df2bd0457c4",
+          "alt": "Guerlain 50ml"
+        },
+        {
+          "src": "/data/accessories/images/guerlain-50ml-4098375-5.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(5)_4098379.jpg",
+          "content_hash": "9f51f836a26ee422ef97f60c3fd1bccda6c9a77c",
+          "alt": "Guerlain 50ml"
+        },
+        {
+          "src": "/data/accessories/images/guerlain-50ml-4098375-6.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(6)_4098380.jpg",
+          "content_hash": "742411eb8be5c05ce67462baa4d1c36c4667c5b2",
+          "alt": "Guerlain 50ml"
+        },
+        {
+          "src": "/data/accessories/images/guerlain-50ml-4098375-7.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(7)_4098381.jpg",
+          "content_hash": "d6828cbf13d3b1e48639c19edcb38a9b713e6db5",
+          "alt": "Guerlain 50ml"
+        },
+        {
+          "src": "/data/accessories/images/guerlain-50ml-4098375-8.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2050ml%20(8)_4098382.jpg",
+          "content_hash": "c9199130d81e9787f7b00b70dbd2c2b75acfccb3",
+          "alt": "Guerlain 50ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/guerlain-50ml-4098375/",
+      "_canonical": "https://trendholic.github.io/catalog/product/guerlain-50ml-4098375/",
+      "_og": "https://trendholic.github.io/data/accessories/images/guerlain-50ml-4098375-1.webp"
+    },
+    {
+      "slug": "guerlain-75ml-4098388",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098388",
+      "source_parent_product_id": "4098388",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098388.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/guerlain-75ml-4098388/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098388.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2075ml_4098388.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Guerlain 75ml",
+      "english_product_name": "Guerlain 75ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098388",
+      "parent_product_id": "4098388",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/guerlain-75ml-4098388-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Guerlain%2075ml_4098388.jpg",
+          "content_hash": "4c7929e9b97f705f04bfc8600a66a64a3ca2996d",
+          "alt": "Guerlain 75ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/guerlain-75ml-4098388/",
+      "_canonical": "https://trendholic.github.io/catalog/product/guerlain-75ml-4098388/",
+      "_og": "https://trendholic.github.io/data/accessories/images/guerlain-75ml-4098388-1.webp"
     },
     {
       "slug": "hermes-belt-32mmx90-125cm-lb-4096439",
@@ -7795,7 +9407,7 @@
         "https://acc.tangma2088.com/upfile/product/202607/Hermes%20Umbrella%20%20(234)_4098293.jpg",
         "https://acc.tangma2088.com/upfile/product/202607/Hermes%20Umbrella%20%20(234)_4098130.jpg"
       ],
-      "source_last_seen": "2026-07-26T06:21:11.490Z",
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
       "name": "Hermes Umbrella",
       "english_product_name": "Hermes Umbrella",
       "original_product_name": null,
@@ -7870,10 +9482,346 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-26T06:21:11.490Z",
+      "synced_at": "2026-07-27T06:55:00.186Z",
       "_url": "/catalog/product/hermes-umbrella-4098104/",
       "_canonical": "https://trendholic.github.io/catalog/product/hermes-umbrella-4098104/",
       "_og": "https://trendholic.github.io/data/accessories/images/hermes-umbrella-4098104-1.webp"
+    },
+    {
+      "slug": "initino-90ml-4098393",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098397",
+      "source_parent_product_id": "4098393",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098397.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/initino-90ml-4098393/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098397.html",
+        "https://acc.tangma2088.com/productinfoen_4098396.html",
+        "https://acc.tangma2088.com/productinfoen_4098395.html",
+        "https://acc.tangma2088.com/productinfoen_4098394.html",
+        "https://acc.tangma2088.com/productinfoen_4098393.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Initino%2090ml%20(1)_4098393.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Initino%2090ml%20(2)_4098394.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Initino%2090ml%20(3)_4098395.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Initino%2090ml%20(4)_4098396.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Initino%2090ml%20(5)_4098397.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Initino 90ml",
+      "english_product_name": "Initino 90ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098393",
+      "parent_product_id": "4098393",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/initino-90ml-4098393-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Initino%2090ml%20(1)_4098393.jpg",
+          "content_hash": "dea10f49f7144511c989c35525f722ba40257103",
+          "alt": "Initino 90ml"
+        },
+        {
+          "src": "/data/accessories/images/initino-90ml-4098393-2.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Initino%2090ml%20(2)_4098394.jpg",
+          "content_hash": "a113190c83380260647fd2aba18017ac63556e12",
+          "alt": "Initino 90ml"
+        },
+        {
+          "src": "/data/accessories/images/initino-90ml-4098393-3.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Initino%2090ml%20(3)_4098395.jpg",
+          "content_hash": "6df2eee8ae9514ef80278cacc49f13a76d76b9c7",
+          "alt": "Initino 90ml"
+        },
+        {
+          "src": "/data/accessories/images/initino-90ml-4098393-4.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Initino%2090ml%20(4)_4098396.jpg",
+          "content_hash": "2864acfbf7df21f6afda5a1e98cc83168fcea5e2",
+          "alt": "Initino 90ml"
+        },
+        {
+          "src": "/data/accessories/images/initino-90ml-4098393-5.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Initino%2090ml%20(5)_4098397.jpg",
+          "content_hash": "4b4af025fe9e83ff0ee74b59d46f79baad01fce1",
+          "alt": "Initino 90ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/initino-90ml-4098393/",
+      "_canonical": "https://trendholic.github.io/catalog/product/initino-90ml-4098393/",
+      "_og": "https://trendholic.github.io/data/accessories/images/initino-90ml-4098393-1.webp"
+    },
+    {
+      "slug": "jean-paul-gaultier-100ml-4098398",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098398",
+      "source_parent_product_id": "4098398",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098398.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/jean-paul-gaultier-100ml-4098398/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098398.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Jean%20Paul%20Gaultier%20100ml_4098398.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Jean Paul Gaultier 100ml",
+      "english_product_name": "Jean Paul Gaultier 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098398",
+      "parent_product_id": "4098398",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/jean-paul-gaultier-100ml-4098398-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Jean%20Paul%20Gaultier%20100ml_4098398.jpg",
+          "content_hash": "b43ce9b9102e7ee1bab5e2cfb53e63e1823a166f",
+          "alt": "Jean Paul Gaultier 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/jean-paul-gaultier-100ml-4098398/",
+      "_canonical": "https://trendholic.github.io/catalog/product/jean-paul-gaultier-100ml-4098398/",
+      "_og": "https://trendholic.github.io/data/accessories/images/jean-paul-gaultier-100ml-4098398-1.webp"
+    },
+    {
+      "slug": "jean-paul-gaultier-perfume-4098399",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098399",
+      "source_parent_product_id": "4098399",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098399.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/jean-paul-gaultier-perfume-4098399/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098399.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Jean%20Paul%20Gaultier%20perfume_4098399.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Jean Paul Gaultier perfume",
+      "english_product_name": "Jean Paul Gaultier perfume",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098399",
+      "parent_product_id": "4098399",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/jean-paul-gaultier-perfume-4098399-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Jean%20Paul%20Gaultier%20perfume_4098399.jpg",
+          "content_hash": "9ce2da881d303448d2c58068fedd37c4fc65e975",
+          "alt": "Jean Paul Gaultier perfume"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/jean-paul-gaultier-perfume-4098399/",
+      "_canonical": "https://trendholic.github.io/catalog/product/jean-paul-gaultier-perfume-4098399/",
+      "_og": "https://trendholic.github.io/data/accessories/images/jean-paul-gaultier-perfume-4098399-1.webp"
+    },
+    {
+      "slug": "jo-malone-100ml-4098400",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098400",
+      "source_parent_product_id": "4098400",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098400.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/jo-malone-100ml-4098400/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098400.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Jo%20malone%20100ml_4098400.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Jo malone 100ml",
+      "english_product_name": "Jo malone 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098400",
+      "parent_product_id": "4098400",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/jo-malone-100ml-4098400-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Jo%20malone%20100ml_4098400.jpg",
+          "content_hash": "30400ed6da1826ed42af23d6f074cb125d54512b",
+          "alt": "Jo malone 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/jo-malone-100ml-4098400/",
+      "_canonical": "https://trendholic.github.io/catalog/product/jo-malone-100ml-4098400/",
+      "_og": "https://trendholic.github.io/data/accessories/images/jo-malone-100ml-4098400-1.webp"
+    },
+    {
+      "slug": "juliette-has-a-gun-100ml-4098389",
+      "top_category": "Accessories",
+      "source_site": "accessories",
+      "source_domain": "acc.tangma2088.com",
+      "source_top_category": "Accessories",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "4098392",
+      "source_parent_product_id": "4098389",
+      "source_product_url": "https://acc.tangma2088.com/productinfoen_4098392.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/juliette-has-a-gun-100ml-4098389/",
+      "source_product_urls": [
+        "https://acc.tangma2088.com/productinfoen_4098392.html",
+        "https://acc.tangma2088.com/productinfoen_4098391.html",
+        "https://acc.tangma2088.com/productinfoen_4098390.html",
+        "https://acc.tangma2088.com/productinfoen_4098389.html"
+      ],
+      "source_image_urls": [
+        "https://acc.tangma2088.com/upfile/product/202607/Juliette%20has%20a%20gun%20100ml%20(1)_4098390.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Juliette%20has%20a%20gun%20100ml%20(2)_4098391.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Juliette%20has%20a%20gun%20100ml%20(3)_4098392.jpg",
+        "https://acc.tangma2088.com/upfile/product/202607/Juliette%20has%20a%20gun%20100ml_4098389.jpg"
+      ],
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
+      "name": "Juliette has a gun 100ml",
+      "english_product_name": "Juliette has a gun 100ml",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "4098389",
+      "parent_product_id": "4098389",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/accessories/images/juliette-has-a-gun-100ml-4098389-1.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Juliette%20has%20a%20gun%20100ml%20(1)_4098390.jpg",
+          "content_hash": "a663cc95f4b63130d83df0b6b30edc542ef7329a",
+          "alt": "Juliette has a gun 100ml"
+        },
+        {
+          "src": "/data/accessories/images/juliette-has-a-gun-100ml-4098389-2.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Juliette%20has%20a%20gun%20100ml%20(2)_4098391.jpg",
+          "content_hash": "d3e37faa2af42a6ef4bbe4a295d5ae80a8cc3903",
+          "alt": "Juliette has a gun 100ml"
+        },
+        {
+          "src": "/data/accessories/images/juliette-has-a-gun-100ml-4098389-3.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Juliette%20has%20a%20gun%20100ml%20(3)_4098392.jpg",
+          "content_hash": "10b863a5184d4f4bfc1b4fd847dbbad80ebb0ecd",
+          "alt": "Juliette has a gun 100ml"
+        },
+        {
+          "src": "/data/accessories/images/juliette-has-a-gun-100ml-4098389-4.webp",
+          "source_url": "https://acc.tangma2088.com/upfile/product/202607/Juliette%20has%20a%20gun%20100ml_4098389.jpg",
+          "content_hash": "d25abdcd0794bc72fc8c43ad82dd17a68ddb5613",
+          "alt": "Juliette has a gun 100ml"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-27T06:55:00.186Z",
+      "_url": "/catalog/product/juliette-has-a-gun-100ml-4098389/",
+      "_canonical": "https://trendholic.github.io/catalog/product/juliette-has-a-gun-100ml-4098389/",
+      "_og": "https://trendholic.github.io/data/accessories/images/juliette-has-a-gun-100ml-4098389-1.webp"
     },
     {
       "slug": "kenzo-boxer-m-xl-20-4096373",
@@ -9439,7 +11387,7 @@
         "https://acc.tangma2088.com/upfile/product/202607/LV%20Umbrella%20%20(270)_4098299.jpg",
         "https://acc.tangma2088.com/upfile/product/202607/LV%20Umbrella%20%20(270)_4098153.jpg"
       ],
-      "source_last_seen": "2026-07-26T06:21:11.490Z",
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
       "name": "LV Umbrella",
       "english_product_name": "LV Umbrella",
       "original_product_name": null,
@@ -9514,7 +11462,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-26T06:21:11.490Z",
+      "synced_at": "2026-07-27T06:55:00.186Z",
       "_url": "/catalog/product/lv-umbrella-4098131/",
       "_canonical": "https://trendholic.github.io/catalog/product/lv-umbrella-4098131/",
       "_og": "https://trendholic.github.io/data/accessories/images/lv-umbrella-4098131-1.webp"
@@ -10263,7 +12211,7 @@
         "https://acc.tangma2088.com/upfile/product/202607/Moschino%20Umbrella%20%20(18)_4098302.jpg",
         "https://acc.tangma2088.com/upfile/product/202607/Moschino%20Umbrella%20%20(18)_4098162.jpg"
       ],
-      "source_last_seen": "2026-07-26T06:21:11.490Z",
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
       "name": "Moschino Umbrella",
       "english_product_name": "Moschino Umbrella",
       "original_product_name": null,
@@ -10338,7 +12286,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-26T06:21:11.490Z",
+      "synced_at": "2026-07-27T06:55:00.186Z",
       "_url": "/catalog/product/moschino-umbrella-4098154/",
       "_canonical": "https://trendholic.github.io/catalog/product/moschino-umbrella-4098154/",
       "_og": "https://trendholic.github.io/data/accessories/images/moschino-umbrella-4098154-1.webp"
@@ -10773,7 +12721,7 @@
         "https://acc.tangma2088.com/upfile/product/202607/Pasotti%20Umbrella%20%20(188)_4098327.jpg",
         "https://acc.tangma2088.com/upfile/product/202607/Pasotti%20Umbrella%20%20(188)_4098234.jpg"
       ],
-      "source_last_seen": "2026-07-26T06:21:11.490Z",
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
       "name": "Pasotti Umbrella",
       "english_product_name": "Pasotti Umbrella",
       "original_product_name": null,
@@ -10848,7 +12796,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-26T06:21:11.490Z",
+      "synced_at": "2026-07-27T06:55:00.186Z",
       "_url": "/catalog/product/pasotti-umbrella-4098163/",
       "_canonical": "https://trendholic.github.io/catalog/product/pasotti-umbrella-4098163/",
       "_og": "https://trendholic.github.io/data/accessories/images/pasotti-umbrella-4098163-1.webp"
@@ -11409,7 +13357,7 @@
         "https://acc.tangma2088.com/upfile/product/202607/Versace%20Umbrella%20%20(243)_4098334.jpg",
         "https://acc.tangma2088.com/upfile/product/202607/Versace%20Umbrella%20%20(243)_4098266.jpg"
       ],
-      "source_last_seen": "2026-07-26T06:21:11.490Z",
+      "source_last_seen": "2026-07-27T06:55:00.186Z",
       "name": "Versace Umbrella",
       "english_product_name": "Versace Umbrella",
       "original_product_name": null,
@@ -11484,7 +13432,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-26T06:21:11.490Z",
+      "synced_at": "2026-07-27T06:55:00.186Z",
       "_url": "/catalog/product/versace-umbrella-4098244/",
       "_canonical": "https://trendholic.github.io/catalog/product/versace-umbrella-4098244/",
       "_og": "https://trendholic.github.io/data/accessories/images/versace-umbrella-4098244-1.webp"

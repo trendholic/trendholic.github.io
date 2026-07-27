@@ -1,0 +1,61 @@
+{
+  "slug": "gooabrand-m-2xl-12yh17-5744096",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "5744097",
+  "source_parent_product_id": "5744096",
+  "source_product_url": "https://tangma2088.com/productinfoen_5744097.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/gooabrand-m-2xl-12yh17-5744096/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5744097.html",
+    "https://tangma2088.com/productinfoen_5744096.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/Gooabrand%20M-2XL%2012yh17%20(1)_5744097.jpg",
+    "https://tangma2088.com/upfile/product/202607/Gooabrand%20M-2XL%2012yh17%20(2)_5744096.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:41:03.849Z",
+  "name": "Gooabrand M-2XL 12yh17",
+  "english_product_name": "Gooabrand M-2XL 12yh17",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5744096",
+  "parent_product_id": "5744096",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/gooabrand-m-2xl-12yh17-5744096-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Gooabrand%20M-2XL%2012yh17%20(1)_5744097.jpg",
+      "content_hash": "190feed9216d7de66b95705a24a4ee38075a201b",
+      "alt": "Gooabrand M-2XL 12yh17"
+    },
+    {
+      "src": "/data/apparel/images/gooabrand-m-2xl-12yh17-5744096-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Gooabrand%20M-2XL%2012yh17%20(2)_5744096.jpg",
+      "content_hash": "f26dbc10e323ca43a2a0d1cfef14b7e237c936b2",
+      "alt": "Gooabrand M-2XL 12yh17"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:41:03.849Z"
+}

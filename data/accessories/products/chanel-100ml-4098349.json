@@ -1,0 +1,61 @@
+{
+  "slug": "chanel-100ml-4098349",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4098350",
+  "source_parent_product_id": "4098349",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4098350.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-100ml-4098349/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4098350.html",
+    "https://acc.tangma2088.com/productinfoen_4098349.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Chanel%20100ml%20(2)_4098350.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Chanel%20100ml_4098349.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:55:00.186Z",
+  "name": "Chanel 100ml",
+  "english_product_name": "Chanel 100ml",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4098349",
+  "parent_product_id": "4098349",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/chanel-100ml-4098349-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Chanel%20100ml%20(2)_4098350.jpg",
+      "content_hash": "6689a1e4f1683949b5868f1acdb970d5958dc10b",
+      "alt": "Chanel 100ml"
+    },
+    {
+      "src": "/data/accessories/images/chanel-100ml-4098349-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Chanel%20100ml_4098349.jpg",
+      "content_hash": "d52394a72d6105a5ed3e52f410782b1e99eafe9f",
+      "alt": "Chanel 100ml"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:55:00.186Z"
+}

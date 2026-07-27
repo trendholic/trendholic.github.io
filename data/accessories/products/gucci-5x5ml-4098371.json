@@ -1,0 +1,61 @@
+{
+  "slug": "gucci-5x5ml-4098371",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4098372",
+  "source_parent_product_id": "4098371",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4098372.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/gucci-5x5ml-4098371/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4098372.html",
+    "https://acc.tangma2088.com/productinfoen_4098371.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Gucci%205X5ml%20(1)_4098371.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Gucci%205X5ml%20(2)_4098372.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:55:00.186Z",
+  "name": "Gucci 5X5ml",
+  "english_product_name": "Gucci 5X5ml",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4098371",
+  "parent_product_id": "4098371",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/gucci-5x5ml-4098371-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Gucci%205X5ml%20(1)_4098371.jpg",
+      "content_hash": "d86b1b972a444dc0957dc6caf35c2bd022a81def",
+      "alt": "Gucci 5X5ml"
+    },
+    {
+      "src": "/data/accessories/images/gucci-5x5ml-4098371-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Gucci%205X5ml%20(2)_4098372.jpg",
+      "content_hash": "d8f6cb9e715e21ec413a8d7cab8232585120ecee",
+      "alt": "Gucci 5X5ml"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:55:00.186Z"
+}

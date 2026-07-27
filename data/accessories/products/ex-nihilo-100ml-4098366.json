@@ -1,0 +1,61 @@
+{
+  "slug": "ex-nihilo-100ml-4098366",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4098367",
+  "source_parent_product_id": "4098366",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4098367.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/ex-nihilo-100ml-4098366/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4098367.html",
+    "https://acc.tangma2088.com/productinfoen_4098366.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Ex%20Nihilo%20100ml%20(1)_4098366.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Ex%20Nihilo%20100ml%20(2)_4098367.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:55:00.186Z",
+  "name": "Ex Nihilo 100ml",
+  "english_product_name": "Ex Nihilo 100ml",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4098366",
+  "parent_product_id": "4098366",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/ex-nihilo-100ml-4098366-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Ex%20Nihilo%20100ml%20(1)_4098366.jpg",
+      "content_hash": "d2b3adff2a0fa79e853af42ae110d2bb858b1cce",
+      "alt": "Ex Nihilo 100ml"
+    },
+    {
+      "src": "/data/accessories/images/ex-nihilo-100ml-4098366-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Ex%20Nihilo%20100ml%20(2)_4098367.jpg",
+      "content_hash": "5e442e67588df80347f8308673a1a8262549f4ab",
+      "alt": "Ex Nihilo 100ml"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:55:00.186Z"
+}

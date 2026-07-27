@@ -1,0 +1,93 @@
+{
+  "slug": "burberry-m-3xl-12yh150-5744045",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "5744050",
+  "source_parent_product_id": "5744045",
+  "source_product_url": "https://tangma2088.com/productinfoen_5744050.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/burberry-m-3xl-12yh150-5744045/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5744050.html",
+    "https://tangma2088.com/productinfoen_5744049.html",
+    "https://tangma2088.com/productinfoen_5744048.html",
+    "https://tangma2088.com/productinfoen_5744047.html",
+    "https://tangma2088.com/productinfoen_5744046.html",
+    "https://tangma2088.com/productinfoen_5744045.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2012yh150%20(1)_5744050.jpg",
+    "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2012yh150%20(2)_5744049.jpg",
+    "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2012yh150%20(3)_5744048.jpg",
+    "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2012yh150%20(4)_5744047.jpg",
+    "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2012yh150%20(5)_5744046.jpg",
+    "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2012yh150%20(6)_5744045.jpg"
+  ],
+  "source_last_seen": "2026-07-27T06:41:03.849Z",
+  "name": "Burberry M-3XL 12yh150",
+  "english_product_name": "Burberry M-3XL 12yh150",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5744045",
+  "parent_product_id": "5744045",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/burberry-m-3xl-12yh150-5744045-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2012yh150%20(1)_5744050.jpg",
+      "content_hash": "952fb143767ab8f9df532fd7dc4c37394aec0441",
+      "alt": "Burberry M-3XL 12yh150"
+    },
+    {
+      "src": "/data/apparel/images/burberry-m-3xl-12yh150-5744045-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2012yh150%20(2)_5744049.jpg",
+      "content_hash": "f7d2937e7a5de8545d1c873759ed663c8d78e3bb",
+      "alt": "Burberry M-3XL 12yh150"
+    },
+    {
+      "src": "/data/apparel/images/burberry-m-3xl-12yh150-5744045-3.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2012yh150%20(3)_5744048.jpg",
+      "content_hash": "c555b2137c5a7e7474115d10646f84923aacd2ac",
+      "alt": "Burberry M-3XL 12yh150"
+    },
+    {
+      "src": "/data/apparel/images/burberry-m-3xl-12yh150-5744045-4.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2012yh150%20(4)_5744047.jpg",
+      "content_hash": "a9e9ccf80e9aa313c9d358ec03faa826f7a9519e",
+      "alt": "Burberry M-3XL 12yh150"
+    },
+    {
+      "src": "/data/apparel/images/burberry-m-3xl-12yh150-5744045-5.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2012yh150%20(5)_5744046.jpg",
+      "content_hash": "cdbdb73df3ce304c2ac5022d7ef65798de20a084",
+      "alt": "Burberry M-3XL 12yh150"
+    },
+    {
+      "src": "/data/apparel/images/burberry-m-3xl-12yh150-5744045-6.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2012yh150%20(6)_5744045.jpg",
+      "content_hash": "bdaf52229517bd82a8f8f0a13be35cd2fd2122c7",
+      "alt": "Burberry M-3XL 12yh150"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T06:41:03.849Z"
+}

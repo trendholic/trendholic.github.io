@@ -1,0 +1,61 @@
+{
+  "slug": "fendi-sz38-45-cd1102-2990889",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "2990890",
+  "source_parent_product_id": "2990889",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2990890.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz38-45-cd1102-2990889/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2990890.html",
+    "https://shoes.tangma2088.com/productinfoen_2990889.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD1102%20012267687_2990890.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD1102%20052267683_2990889.jpg"
+  ],
+  "source_last_seen": "2026-07-27T07:06:55.358Z",
+  "name": "Fendi sz38-45 CD1102",
+  "english_product_name": "Fendi sz38-45 CD1102",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2990889",
+  "parent_product_id": "2990889",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-cd1102-2990889-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD1102%20012267687_2990890.jpg",
+      "content_hash": "41206740b8cbca8a31f8d84cb4bf5310b5e31921",
+      "alt": "Fendi sz38-45 CD1102"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-cd1102-2990889-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD1102%20052267683_2990889.jpg",
+      "content_hash": "cbaa6a4cf0ea5ff860c2ff94b965a87335166725",
+      "alt": "Fendi sz38-45 CD1102"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T07:06:55.358Z"
+}

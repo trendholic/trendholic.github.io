@@ -1,0 +1,77 @@
+{
+  "slug": "fendi-sz38-45-n1201-2990901",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "2990904",
+  "source_parent_product_id": "2990901",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2990904.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz38-45-n1201-2990901/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2990904.html",
+    "https://shoes.tangma2088.com/productinfoen_2990903.html",
+    "https://shoes.tangma2088.com/productinfoen_2990902.html",
+    "https://shoes.tangma2088.com/productinfoen_2990901.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20N1201%20%20012320984_2990904.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20N1201%20%20042320981_2990903.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20N1201%20%20062320979_2990902.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20N1201%20%20082320977_2990901.jpg"
+  ],
+  "source_last_seen": "2026-07-27T07:06:55.358Z",
+  "name": "Fendi sz38-45 N1201",
+  "english_product_name": "Fendi sz38-45 N1201",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2990901",
+  "parent_product_id": "2990901",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-n1201-2990901-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20N1201%20%20012320984_2990904.jpg",
+      "content_hash": "7da9df2f54bfa829f6ac87cd1cbafec5d0e5f88f",
+      "alt": "Fendi sz38-45 N1201"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-n1201-2990901-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20N1201%20%20042320981_2990903.jpg",
+      "content_hash": "042e13aa0b33d14969b2a2f3b34f23e30d132c98",
+      "alt": "Fendi sz38-45 N1201"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-n1201-2990901-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20N1201%20%20062320979_2990902.jpg",
+      "content_hash": "067197fbc3482ac3e7caa069fd529fe8f469a713",
+      "alt": "Fendi sz38-45 N1201"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz38-45-n1201-2990901-4.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20N1201%20%20082320977_2990901.jpg",
+      "content_hash": "0d167bcb4da5f18918dd4f71acc5c18ce28a14c8",
+      "alt": "Fendi sz38-45 N1201"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-27T07:06:55.358Z"
+}
