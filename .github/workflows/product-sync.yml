@@ -11,6 +11,10 @@ on:
         description: "Dry run (crawl + translate, write nothing)"
         type: boolean
         default: false
+      feed_pages:
+        description: "Feed listing pages to crawl this run (resumable window; blank = use default)"
+        type: string
+        default: ""
 
 # Allow the job to commit generated data back to the repo.
 permissions:
@@ -23,7 +27,7 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 350   # a killed run commits nothing, so give each windowed run ample headroom
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -54,8 +58,14 @@ jobs:
           TRANSLATE_PROVIDER: ${{ vars.TRANSLATE_PROVIDER || 'none' }}
           RENDER_MODE: ${{ vars.RENDER_MODE || 'auto' }}
           SITE_BASE_URL: "https://trendholic.github.io"
-          # MAX_PAGES_PER_SOURCE unset here = crawl everything on the runner
+          # MAX_PAGES_PER_SOURCE unset = no hard image-page cap (bound is the feed window below)
           MAX_PAGES_PER_SOURCE: ${{ vars.MAX_PAGES_PER_SOURCE || '' }}
+          # Resumable feed window per run — nightly runs accumulate through the full
+          # catalog and then keep it fresh. Manual dispatch can pass a bigger batch.
+          FEED_PAGES_PER_RUN: ${{ github.event.inputs.feed_pages || vars.FEED_PAGES_PER_RUN || '60' }}
+          # Politeness/throughput (overridable via repo variables)
+          CRAWL_CONCURRENCY: ${{ vars.CRAWL_CONCURRENCY || '4' }}
+          CRAWL_MIN_DELAY_MS: ${{ vars.CRAWL_MIN_DELAY_MS || '1000' }}
         run: npm run sync:all      # per-source safe-abort; a failed source keeps its last-known-good
 
       - name: Build unified catalog + search index + sitemap

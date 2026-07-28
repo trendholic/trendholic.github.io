@@ -109,12 +109,25 @@ function main() {
           brand: p.brand || "", model: p.model_number || "", sku: p.sku || "",
           category: p.source_category || "", image: p.images?.[0]?.src || null,
           url: p._url, canonical: p._canonical,
-          keywords: [p.name, p.top_category, p.source_category].filter(Boolean),
+          keywords: [p.name, p.top_category, p.source_category, ...(Array.isArray(p.source_categories) ? p.source_categories.map((c) => c.name) : [])].filter(Boolean),
         });
       }
     }
     products.sort((a, b) => a.name.localeCompare(b.name));
-    productsByTop[topSlug] = { top: src.top, slug: topSlug, products };
+    // Group products by their REAL supplier subcategories (multi-membership).
+    // A product with no mapped category simply doesn't appear under a subcategory
+    // (it's still reachable via the top listing and search) — nothing invented.
+    const subcats = new Map(); // slug -> {name, slug, source_path, parent_path, products:[]}
+    for (const p of products) {
+      const pcats = Array.isArray(p.source_categories) ? p.source_categories : [];
+      for (const c of pcats) {
+        if (!c || !c.slug) continue;
+        if (!subcats.has(c.slug)) subcats.set(c.slug, { name: c.name || c.slug, slug: c.slug, source_path: c.source_path || null, parent_path: c.parent_path || null, products: [] });
+        subcats.get(c.slug).products.push(p);
+      }
+    }
+    const subcatList = [...subcats.values()].sort((a, b) => a.name.localeCompare(b.name));
+    productsByTop[topSlug] = { top: src.top, slug: topSlug, products, subcats: subcatList };
     writeJson(path.join(CONFIG.out.catalogDir, `${topSlug}.json`), {
       top: src.top, slug: topSlug, productCount: products.length,
       subcategoriesDiscovered: cats.categories?.length || 0,
@@ -168,15 +181,36 @@ function main() {
       <p class="more muted">Browse a category above or search to see all ${allRecords.length} products.</p>`,
   }));
 
-  // ---- category pages ----
+  // ---- category pages (top) + per-subcategory pages ----
   for (const t of Object.values(productsByTop)) {
+    const subs = t.subcats || [];
+    const subNav = subs.length
+      ? `<h2 class="sec">Shop by subcategory <span class="muted">(${subs.length})</span></h2>
+         <div class="subs">${subs.map((s) =>
+            `<a class="subcard" href="${cp}/${t.slug}/${esc(s.slug)}/"><span class="sn">${esc(s.name)}</span><span class="sc">${s.products.length}</span></a>`).join("")}</div>`
+      : "";
     writeFile(path.join(repo, "catalog", t.slug, "index.html"), page({
       title: `${t.top} | TrendHolic Catalog`, desc: `${t.top} in the TrendHolic catalog — ${t.products.length} products.`,
       canonical: `${base}${cp}/${t.slug}/`, ogImage: t.products[0]?.images?.[0]?.src ? base + t.products[0].images[0].src : null,
       body: `<nav class="crumb"><a href="${cp}/">Catalog</a> › <span>${esc(t.top)}</span></nav>
-        <h1>${esc(t.top)}</h1>
+        <h1>${esc(t.top)} <span class="muted">(${t.products.length})</span></h1>
+        ${subNav}
+        <h2 class="sec">All ${esc(t.top)}</h2>
         <div class="grid">${t.products.map((p) => card({ slug: p.slug, name: p.name, top: p.top_category, image: p.images?.[0]?.src || null })).join("") || '<p class="muted">No products yet.</p>'}</div>`,
     }));
+
+    // per-subcategory listing pages (real supplier categories → products)
+    for (const s of subs) {
+      writeFile(path.join(repo, "catalog", t.slug, s.slug, "index.html"), page({
+        title: `${s.name} — ${t.top} | TrendHolic Catalog`,
+        desc: truncate(`${s.name} in ${t.top} — ${s.products.length} products in the TrendHolic catalog.`, 155),
+        canonical: `${base}${cp}/${t.slug}/${s.slug}/`,
+        ogImage: s.products[0]?.images?.[0]?.src ? base + s.products[0].images[0].src : null,
+        body: `<nav class="crumb"><a href="${cp}/">Catalog</a> › <a href="${cp}/${t.slug}/">${esc(t.top)}</a> › <span>${esc(s.name)}</span></nav>
+          <h1>${esc(s.name)} <span class="muted">(${s.products.length})</span></h1>
+          <div class="grid">${s.products.map((p) => card({ slug: p.slug, name: p.name, top: p.top_category, image: p.images?.[0]?.src || null })).join("") || '<p class="muted">No products yet.</p>'}</div>`,
+      }));
+    }
   }
 
   // ---- product pages ----
@@ -223,7 +257,8 @@ function main() {
   // ---- sitemap.xml (TrendHolic canonical only) ----
   const now = new Date().toISOString().slice(0, 10);
   const x = (s) => String(s).replace(/[<>&'"]/g, (c) => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;", "'": "&apos;", '"': "&quot;" }[c]));
-  const urls = [`${base}/`, `${base}${cp}/`, ...topCategories.map((t) => `${base}${cp}/${t.slug}/`), ...allRecords.map((r) => r.canonical)];
+  const subUrls = Object.values(productsByTop).flatMap((t) => (t.subcats || []).map((s) => `${base}${cp}/${t.slug}/${s.slug}/`));
+  const urls = [`${base}/`, `${base}${cp}/`, ...topCategories.map((t) => `${base}${cp}/${t.slug}/`), ...subUrls, ...allRecords.map((r) => r.canonical)];
   writeFile(CONFIG.out.sitemap, `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
     urls.map((u) => `  <url><loc>${x(u)}</loc><lastmod>${now}</lastmod></url>`).join("\n") + `\n</urlset>\n`);
 
@@ -231,7 +266,8 @@ function main() {
   writeFile(path.join(repo, "robots.txt"), `# managed-by: trendholic-product-sync\nUser-agent: *\nAllow: /\nSitemap: ${base}/sitemap.xml\n`);
 
   console.log(JSON.stringify({ topCategories: topCategories.map((t) => `${t.name}:${t.productCount}`),
-    products: allRecords.length, staticPages: 1 + topCategories.length + allRecords.length, sitemapUrls: urls.length }, null, 2));
+    subcategoriesLinked: subUrls.length, products: allRecords.length,
+    staticPages: 1 + topCategories.length + subUrls.length + allRecords.length, sitemapUrls: urls.length }, null, 2));
 }
 
 const CATALOG_CSS = `:root{--ink:#0B1929;--paper:#F6F3EE;--surface:#fff;--surface2:#faf7f1;--rule:#e4ded4;--gold:#A9781F;--muted:#6a7683}
@@ -249,6 +285,9 @@ a{color:inherit;text-decoration:none}img{max-width:100%}
 @media(max-width:640px){.tops{grid-template-columns:repeat(2,1fr)}}
 .topcard{background:var(--surface);border:1px solid var(--rule);border-radius:14px;padding:22px 16px;display:flex;flex-direction:column;gap:6px}
 .topcard:hover{border-color:var(--gold)}.tn{font-weight:700;font-size:1.1rem}.tc{color:var(--muted);font-size:.85rem}
+.subs{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0 6px}
+.subcard{display:inline-flex;align-items:center;gap:8px;background:var(--surface);border:1px solid var(--rule);border-radius:20px;padding:8px 14px;font-size:.88rem}
+.subcard:hover{border-color:var(--gold)}.subcard .sn{font-weight:600}.subcard .sc{color:var(--muted);font-size:.78rem;background:var(--surface2);border-radius:10px;padding:1px 7px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:16px}
 .card{background:var(--surface);border:1px solid var(--rule);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
 .card:hover{border-color:var(--gold)}.card img,.card .ph{width:100%;height:180px;object-fit:cover;background:var(--surface2)}

@@ -13,6 +13,9 @@ a{color:inherit;text-decoration:none}img{max-width:100%}
 @media(max-width:640px){.tops{grid-template-columns:repeat(2,1fr)}}
 .topcard{background:var(--surface);border:1px solid var(--rule);border-radius:14px;padding:22px 16px;display:flex;flex-direction:column;gap:6px}
 .topcard:hover{border-color:var(--gold)}.tn{font-weight:700;font-size:1.1rem}.tc{color:var(--muted);font-size:.85rem}
+.subs{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0 6px}
+.subcard{display:inline-flex;align-items:center;gap:8px;background:var(--surface);border:1px solid var(--rule);border-radius:20px;padding:8px 14px;font-size:.88rem}
+.subcard:hover{border-color:var(--gold)}.subcard .sn{font-weight:600}.subcard .sc{color:var(--muted);font-size:.78rem;background:var(--surface2);border-radius:10px;padding:1px 7px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:16px}
 .card{background:var(--surface);border:1px solid var(--rule);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
 .card:hover{border-color:var(--gold)}.card img,.card .ph{width:100%;height:180px;object-fit:cover;background:var(--surface2)}
