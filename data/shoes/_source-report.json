@@ -5,7 +5,7 @@
   "status": "ok",
   "categories": 90,
   "categoriesCrawled": 0,
-  "listingPagesVisited": 50,
+  "listingPagesVisited": 16,
   "categoriesTruncated": 0,
   "productsCategorized": 0,
   "pagesFetched": 400,
@@ -23,6 +23,5 @@
   "invalidImages": 0,
   "translations": 0,
   "translationFailures": 0,
-  "failures": [],
-  "feedCursor": 51
+  "failures": []
 }

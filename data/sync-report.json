@@ -1,6 +1,6 @@
 {
-  "finishedAt": "2026-07-28T23:15:18.794Z",
-  "durationMs": 755838,
+  "finishedAt": "2026-07-28T23:50:03.304Z",
+  "durationMs": 510866,
   "bounded": false,
   "maxPagesPerSource": 0,
   "sources": [
@@ -11,7 +11,7 @@
       "status": "ok",
       "categories": 56,
       "categoriesCrawled": 0,
-      "listingPagesVisited": 50,
+      "listingPagesVisited": 16,
       "categoriesTruncated": 0,
       "productsCategorized": 0,
       "pagesFetched": 400,
@@ -29,8 +29,7 @@
       "invalidImages": 0,
       "translations": 0,
       "translationFailures": 0,
-      "failures": [],
-      "feedCursor": 51
+      "failures": []
     },
     {
       "source": "accessories",
@@ -39,7 +38,7 @@
       "status": "ok",
       "categories": 35,
       "categoriesCrawled": 0,
-      "listingPagesVisited": 50,
+      "listingPagesVisited": 16,
       "categoriesTruncated": 0,
       "productsCategorized": 0,
       "pagesFetched": 400,
@@ -57,8 +56,7 @@
       "invalidImages": 0,
       "translations": 0,
       "translationFailures": 0,
-      "failures": [],
-      "feedCursor": 51
+      "failures": []
     },
     {
       "source": "bags",
@@ -67,7 +65,7 @@
       "status": "ok",
       "categories": 54,
       "categoriesCrawled": 0,
-      "listingPagesVisited": 50,
+      "listingPagesVisited": 16,
       "categoriesTruncated": 0,
       "productsCategorized": 0,
       "pagesFetched": 400,
@@ -85,8 +83,7 @@
       "invalidImages": 0,
       "translations": 0,
       "translationFailures": 0,
-      "failures": [],
-      "feedCursor": 51
+      "failures": []
     },
     {
       "source": "shoes",
@@ -95,7 +92,7 @@
       "status": "ok",
       "categories": 90,
       "categoriesCrawled": 0,
-      "listingPagesVisited": 50,
+      "listingPagesVisited": 16,
       "categoriesTruncated": 0,
       "productsCategorized": 0,
       "pagesFetched": 400,
@@ -113,14 +110,13 @@
       "invalidImages": 0,
       "translations": 0,
       "translationFailures": 0,
-      "failures": [],
-      "feedCursor": 51
+      "failures": []
     }
   ],
   "totals": {
     "categories": 235,
     "categoriesCrawled": 0,
-    "listingPagesVisited": 200,
+    "listingPagesVisited": 64,
     "categoriesTruncated": 0,
     "productsCategorized": 0,
     "imageRecords": 1600,
