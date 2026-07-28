@@ -127,36 +127,37 @@ async function syncSource(src) {
   }
 
   // Resumable New Products feed window. Feed pages are CONTIGUOUS integers
-  // (newproductsen_N.html); the on-page "next" link dead-ends around page 10,
-  // so we advance by constructing sequential page numbers — this is what lets
-  // the crawl reach the full catalog (verified: _11.._300+ all list products).
-  // The cursor is a page number persisted per source; it wraps to 0 at the end.
+  // (newproductsen_N.html). VERIFIED: this feed is a bounded, rotating
+  // "recent items" feed — it exposes ~400 unique product pages spread across
+  // its first ~10 pages, and deeper pages merely recycle the same set (page 3
+  // vs 48 share nothing, yet the cumulative unique count plateaus by page 10).
+  // It is NOT the full historical catalog. So we crawl from page 0 and stop
+  // once the feed stops yielding NEW products (dedup-aware) — this captures the
+  // entire current feed each run without wasting time on recycled pages. Over
+  // time the supplier rotates new items in, and nightly runs accumulate them.
   const feedUrl = (n) => `${base}/newproductsen_${n}.html`;
   const nextN = (n) => (n === 0 ? 2 : n + 1); // _1 duplicates _0, so skip it
-  let feedCursor = Number.isInteger(prevState.feedCursor) ? prevState.feedCursor : 0;
+  const STALE_LIMIT = 6; // consecutive no-new-product pages ⇒ feed fully captured
   {
-    let n = feedCursor, pages = 0, emptyStreak = 0;
+    let n = 0, pages = 0, stale = 0;
     while (true) {
-      if (reachedCap()) { feedCursor = n; break; }
-      if (FEED_WINDOW > 0 && pages >= FEED_WINDOW) { feedCursor = n; break; }
-      if (pages >= PAGE_SAFETY_CEIL) { feedCursor = 0; break; }
+      if (reachedCap()) break;
+      if (FEED_WINDOW > 0 && pages >= FEED_WINDOW) break;   // optional hard cap (tests)
+      if (pages >= PAGE_SAFETY_CEIL) break;
+      if (stale >= STALE_LIMIT) break;                      // feed exhausted / recycling
       pages++; rep.listingPagesVisited++;
       let productUrls;
       try { const $l = cheerio.load(await fetchHtml(feedUrl(n))); productUrls = adapter.parseCategory($l, feedUrl(n), base).productUrls; }
-      catch (e) { rep.failures.push(`feed _${n}: ${e.message}`); feedCursor = n; break; }
-      if (!productUrls.length) {                       // tolerate one transient blank; two in a row = true end
-        if (++emptyStreak >= 2) { feedCursor = 0; break; }
-        n = nextN(n); continue;
-      }
-      emptyStreak = 0;
+      catch (e) { rep.failures.push(`feed _${n}: ${e.message}`); break; }
+      const before = pageUrls.size;
       for (const u of productUrls) {
         if (MAX_PAGES > 0 && !pageUrls.has(u) && pageUrls.size >= MAX_PAGES) continue;
         pageUrls.add(u);
       }
-      n = nextN(n); feedCursor = n;
+      stale = pageUrls.size > before ? 0 : stale + 1;       // reset when new products appear
+      n = nextN(n);
     }
   }
-  rep.feedCursor = feedCursor;
 
   // ---- fetch each image-level page (extract raw record) ----
   const run = limiter(CONFIG.crawl.concurrency);
@@ -188,7 +189,7 @@ async function syncSource(src) {
   const imgDir = path.join(dataDir, topSlug, "images");
   const prodDir = path.join(dataDir, topSlug, "products");
   fs.mkdirSync(imgDir, { recursive: true }); fs.mkdirSync(prodDir, { recursive: true });
-  const nextState = { products: {}, categories: categories.map((c) => c.slug), feedCursor, updatedAt: new Date().toISOString() };
+  const nextState = { products: {}, categories: categories.map((c) => c.slug), updatedAt: new Date().toISOString() };
   const imageHashIndex = readJson(path.join(imgDir, "_hash-index.json"), {}); // hash → filename
 
   for (const g of grouped) {
@@ -271,19 +272,14 @@ async function syncSource(src) {
     } catch (e) { rep.failures.push(`product ${g.name}: ${e.message}`); }
   }
 
-  // ---- inactive detection (ONLY on a verified COMPLETE single-run crawl) ----
-  //  Safe only when the whole feed was traversed to its end in this run (no test
-  //  cap, no window, cursor wrapped back to the start). A WINDOWED run sees only
-  //  part of the catalog, so unseen products MUST be preserved, never deactivated.
-  const completeCrawl = MAX_PAGES === 0 && FEED_WINDOW === 0 && feedCursor === 0;
-  if (completeCrawl) {
-    for (const [k, meta] of Object.entries(prevState.products)) {
-      if (!nextState.products[k]) { nextState.products[k] = { ...meta, inactive: true, lastSeen: meta.lastSeen };
-        rep.inactive++; }
-    }
-  } else {
-    for (const [k, meta] of Object.entries(prevState.products)) if (!nextState.products[k]) nextState.products[k] = meta;
-  }
+  // ---- product retention ----
+  //  The New Products feed only exposes RECENT items (~203 physical) that rotate
+  //  over time, so absence from a given run does NOT mean a product was removed —
+  //  it may simply have rotated out of the recent window. We therefore PRESERVE
+  //  all previously-captured products (never auto-deactivate); availability is
+  //  confirmed with the supplier at order time. A genuine full-catalog source
+  //  would be required to safely detect removals.
+  for (const [k, meta] of Object.entries(prevState.products)) if (!nextState.products[k]) nextState.products[k] = meta;
 
   writeJson(path.join(imgDir, "_hash-index.json"), imageHashIndex);
   writeJson(stateFile, nextState);

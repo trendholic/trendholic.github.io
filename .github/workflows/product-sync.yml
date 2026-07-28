@@ -60,9 +60,11 @@ jobs:
           SITE_BASE_URL: "https://trendholic.github.io"
           # MAX_PAGES_PER_SOURCE unset = no hard image-page cap (bound is the feed window below)
           MAX_PAGES_PER_SOURCE: ${{ vars.MAX_PAGES_PER_SOURCE || '' }}
-          # Resumable feed window per run — nightly runs accumulate through the full
-          # catalog and then keep it fresh. Manual dispatch can pass a bigger batch.
-          FEED_PAGES_PER_RUN: ${{ github.event.inputs.feed_pages || vars.FEED_PAGES_PER_RUN || '60' }}
+          # Feed page cap per run. Blank = let the dedup-stop capture the whole
+          # current feed (it halts once pages stop yielding new products). The
+          # feed is a rotating "recent items" feed (~200 products); nightly runs
+          # accumulate newly-rotated items over time. Dispatch can override.
+          FEED_PAGES_PER_RUN: ${{ github.event.inputs.feed_pages || vars.FEED_PAGES_PER_RUN || '' }}
           # Politeness/throughput (overridable via repo variables)
           CRAWL_CONCURRENCY: ${{ vars.CRAWL_CONCURRENCY || '4' }}
           CRAWL_MIN_DELAY_MS: ${{ vars.CRAWL_MIN_DELAY_MS || '1000' }}
