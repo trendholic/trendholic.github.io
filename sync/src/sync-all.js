@@ -96,7 +96,6 @@ async function syncSource(src) {
   const productToCats = new Map();   // productUrl -> Set(catKey) of real categories
   const catByKey = new Map();        // catKey -> {name, slug, source_path, parent_path}
   const reachedCap = () => MAX_PAGES > 0 && pageUrls.size >= MAX_PAGES;
-  const FEED_START = base + "/newproductsen_0.html";
 
   // Optional: crawl discovered categories for products (only useful if a future
   // rendered/authenticated crawl can list them; a no-op on plain HTTP here).
@@ -127,27 +126,37 @@ async function syncSource(src) {
     rep.categoriesCrawled = MAX_CATS > 0 ? Math.min(MAX_CATS, categories.length) : categories.length;
   }
 
-  // Resumable New Products feed window.
-  let feedResumeUrl = FEED_START;
+  // Resumable New Products feed window. Feed pages are CONTIGUOUS integers
+  // (newproductsen_N.html); the on-page "next" link dead-ends around page 10,
+  // so we advance by constructing sequential page numbers — this is what lets
+  // the crawl reach the full catalog (verified: _11.._300+ all list products).
+  // The cursor is a page number persisted per source; it wraps to 0 at the end.
+  const feedUrl = (n) => `${base}/newproductsen_${n}.html`;
+  const nextN = (n) => (n === 0 ? 2 : n + 1); // _1 duplicates _0, so skip it
+  let feedCursor = Number.isInteger(prevState.feedCursor) ? prevState.feedCursor : 0;
   {
-    let listUrl = prevState.feedResumeUrl || FEED_START;
-    let feedPages = 0; const seen = new Set();
-    while (listUrl && !seen.has(listUrl)) {
-      if (reachedCap()) { feedResumeUrl = listUrl; break; }
-      if (FEED_WINDOW > 0 && feedPages >= FEED_WINDOW) { feedResumeUrl = listUrl; break; }
-      if (feedPages >= PAGE_SAFETY_CEIL) { feedResumeUrl = FEED_START; break; }
-      seen.add(listUrl); feedPages++; rep.listingPagesVisited++;
-      let $l; try { $l = cheerio.load(await fetchHtml(listUrl)); } catch (e) { rep.failures.push(`feed ${listUrl}: ${e.message}`); feedResumeUrl = listUrl; break; }
-      const { productUrls, nextPage } = adapter.parseCategory($l, listUrl, base);
+    let n = feedCursor, pages = 0, emptyStreak = 0;
+    while (true) {
+      if (reachedCap()) { feedCursor = n; break; }
+      if (FEED_WINDOW > 0 && pages >= FEED_WINDOW) { feedCursor = n; break; }
+      if (pages >= PAGE_SAFETY_CEIL) { feedCursor = 0; break; }
+      pages++; rep.listingPagesVisited++;
+      let productUrls;
+      try { const $l = cheerio.load(await fetchHtml(feedUrl(n))); productUrls = adapter.parseCategory($l, feedUrl(n), base).productUrls; }
+      catch (e) { rep.failures.push(`feed _${n}: ${e.message}`); feedCursor = n; break; }
+      if (!productUrls.length) {                       // tolerate one transient blank; two in a row = true end
+        if (++emptyStreak >= 2) { feedCursor = 0; break; }
+        n = nextN(n); continue;
+      }
+      emptyStreak = 0;
       for (const u of productUrls) {
         if (MAX_PAGES > 0 && !pageUrls.has(u) && pageUrls.size >= MAX_PAGES) continue;
         pageUrls.add(u);
       }
-      if (!nextPage || nextPage === listUrl) { feedResumeUrl = FEED_START; break; } // reached end → wrap to refresh
-      listUrl = nextPage; feedResumeUrl = listUrl;
+      n = nextN(n); feedCursor = n;
     }
   }
-  rep.feedResumeUrl = feedResumeUrl;
+  rep.feedCursor = feedCursor;
 
   // ---- fetch each image-level page (extract raw record) ----
   const run = limiter(CONFIG.crawl.concurrency);
@@ -179,7 +188,7 @@ async function syncSource(src) {
   const imgDir = path.join(dataDir, topSlug, "images");
   const prodDir = path.join(dataDir, topSlug, "products");
   fs.mkdirSync(imgDir, { recursive: true }); fs.mkdirSync(prodDir, { recursive: true });
-  const nextState = { products: {}, categories: categories.map((c) => c.slug), feedResumeUrl, updatedAt: new Date().toISOString() };
+  const nextState = { products: {}, categories: categories.map((c) => c.slug), feedCursor, updatedAt: new Date().toISOString() };
   const imageHashIndex = readJson(path.join(imgDir, "_hash-index.json"), {}); // hash → filename
 
   for (const g of grouped) {
@@ -266,7 +275,7 @@ async function syncSource(src) {
   //  Safe only when the whole feed was traversed to its end in this run (no test
   //  cap, no window, cursor wrapped back to the start). A WINDOWED run sees only
   //  part of the catalog, so unseen products MUST be preserved, never deactivated.
-  const completeCrawl = MAX_PAGES === 0 && FEED_WINDOW === 0 && feedResumeUrl === FEED_START;
+  const completeCrawl = MAX_PAGES === 0 && FEED_WINDOW === 0 && feedCursor === 0;
   if (completeCrawl) {
     for (const [k, meta] of Object.entries(prevState.products)) {
       if (!nextState.products[k]) { nextState.products[k] = { ...meta, inactive: true, lastSeen: meta.lastSeen };
