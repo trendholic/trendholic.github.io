@@ -1,0 +1,61 @@
+{
+  "slug": "ysl-sl557-53-20-145-a-4098773",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4098774",
+  "source_parent_product_id": "4098773",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4098774.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/ysl-sl557-53-20-145-a-4098773/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4098774.html",
+    "https://acc.tangma2088.com/productinfoen_4098773.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/YSL%20SL557%2053-20-145%20A1_4098773.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/YSL%20SL557%2053-20-145%20A2_4098774.jpg"
+  ],
+  "source_last_seen": "2026-07-28T06:12:14.937Z",
+  "name": "YSL SL557 53-20-145 A",
+  "english_product_name": "YSL SL557 53-20-145 A",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4098773",
+  "parent_product_id": "4098773",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/ysl-sl557-53-20-145-a-4098773-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/YSL%20SL557%2053-20-145%20A1_4098773.jpg",
+      "content_hash": "d3b70db52174ce07e5867b96c51223b62a028532",
+      "alt": "YSL SL557 53-20-145 A"
+    },
+    {
+      "src": "/data/accessories/images/ysl-sl557-53-20-145-a-4098773-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/YSL%20SL557%2053-20-145%20A2_4098774.jpg",
+      "content_hash": "5298927015ba2326428beb6d184be65627a9e712",
+      "alt": "YSL SL557 53-20-145 A"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T06:12:14.937Z"
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "lv-cloak-e01-4098951",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4098953",
+  "source_parent_product_id": "4098951",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4098953.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-cloak-e01-4098951/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4098953.html",
+    "https://acc.tangma2088.com/productinfoen_4098952.html",
+    "https://acc.tangma2088.com/productinfoen_4098951.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/LV%20cloak%20E01%20(1)_4098951.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/LV%20cloak%20E01%20(3)_4098952.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/LV%20cloak%20E01%20(4)_4098953.jpg"
+  ],
+  "source_last_seen": "2026-07-28T06:12:14.937Z",
+  "name": "LV cloak E01",
+  "english_product_name": "LV cloak E01",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4098951",
+  "parent_product_id": "4098951",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/lv-cloak-e01-4098951-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/LV%20cloak%20E01%20(1)_4098951.jpg",
+      "content_hash": "ca2239feef0cd5ffad85d2fb2228d13881745e04",
+      "alt": "LV cloak E01"
+    },
+    {
+      "src": "/data/accessories/images/lv-cloak-e01-4098951-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/LV%20cloak%20E01%20(3)_4098952.jpg",
+      "content_hash": "c7b06dffe7a59d0da58667f014dde6e37434e93c",
+      "alt": "LV cloak E01"
+    },
+    {
+      "src": "/data/accessories/images/lv-cloak-e01-4098951-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/LV%20cloak%20E01%20(4)_4098953.jpg",
+      "content_hash": "02b591c6474ab63ec6c4d8e9e371ea01ef9dfe49",
+      "alt": "LV cloak E01"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T06:12:14.937Z"
+}

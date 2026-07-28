@@ -3,11 +3,11 @@
   "source": "accessories",
   "host": "acc.tangma2088.com",
   "count": 35,
-  "updatedAt": "2026-07-27T06:51:06.777Z",
+  "updatedAt": "2026-07-28T06:08:27.589Z",
   "categories": [
     {
-      "name": "New Arrival 0726",
-      "slug": "new-arrival-0726",
+      "name": "New Arrival 0727",
+      "slug": "new-arrival-0727",
       "source_url": "https://acc.tangma2088.com/categoryen_16511.html?path=0_16511",
       "source_path": "0_16511",
       "parent_path": "0"
@@ -34,8 +34,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Glasses Factory 0725",
-      "slug": "glasses-factory-0725",
+      "name": "Glasses Factory 0728",
+      "slug": "glasses-factory-0728",
       "source_url": "https://acc.tangma2088.com/categoryen_28251.html?path=0_28251",
       "source_path": "0_28251",
       "parent_path": "0"
@@ -104,8 +104,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Scarf F1st 0707",
-      "slug": "scarf-f1st-0707",
+      "name": "Scarf F1st 0728",
+      "slug": "scarf-f1st-0728",
       "source_url": "https://acc.tangma2088.com/categoryen_390.html?path=0_390",
       "source_path": "0_390",
       "parent_path": "0"

@@ -277,84 +277,96 @@
       "slug": "prada-1bd408-27x20x10cm-ap-2019819",
       "parent_product_id": "2019819",
       "firstSeen": "2026-07-24T06:21:34.958Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2019822": {
       "rawHash": "d4a07794a68a7cf4346814ead376fff61b415b62",
       "slug": "prada-2vc056-53x27x27cm-ap-2019822",
       "parent_product_id": "2019822",
       "firstSeen": "2026-07-24T06:21:34.958Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2019823": {
       "rawHash": "efa600b8c600610640876fba7558f295a4af02b8",
       "slug": "prada-2vg128-50x36x17cm-ap-2019823",
       "parent_product_id": "2019823",
       "firstSeen": "2026-07-24T06:21:34.958Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2019824": {
       "rawHash": "61d47e53ae7efda6b56de60d55b1e6ea913533a5",
       "slug": "prada-2vh213-26x20x14cm-ap-2019824",
       "parent_product_id": "2019824",
       "firstSeen": "2026-07-24T06:21:34.958Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2019825": {
       "rawHash": "e187f6ae9221172128ab60f694ea8df52c3241c7",
       "slug": "ysl-850533-22x22x10cm-8d-2019825",
       "parent_product_id": "2019825",
       "firstSeen": "2026-07-24T06:21:34.958Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2019834": {
       "rawHash": "97095c095e0162a044d02c5fcd1737c72729dcda",
       "slug": "ysl-hortense-871222-23x19x9cm-8d-2019834",
       "parent_product_id": "2019834",
       "firstSeen": "2026-07-24T06:21:34.958Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2019843": {
       "rawHash": "aec79103adc6af8a4c7844c3b8311aac93e3e3c1",
       "slug": "ysl-871151-33x27x14cm-8d-2019843",
       "parent_product_id": "2019843",
       "firstSeen": "2026-07-24T06:21:34.958Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2019870": {
       "rawHash": "5f9268dc5bcfd9c1ad901754caf548f7d6b521cf",
       "slug": "ysl-871220-41x35x15cm-8d-2019870",
       "parent_product_id": "2019870",
       "firstSeen": "2026-07-24T06:21:34.958Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2019879": {
       "rawHash": "40cde7a850e504121cf02fe178adc136b3eaab85",
       "slug": "ysl-872469-18x15x13cm-8d-2019879",
       "parent_product_id": "2019879",
       "firstSeen": "2026-07-24T06:21:34.958Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2019933": {
       "rawHash": "f0d4beb86757d2b7eefa42319c77b3714e36e4e5",
       "slug": "ysl-872680-25x22x10cm-8d-2019933",
       "parent_product_id": "2019933",
       "firstSeen": "2026-07-24T06:21:34.958Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2019960": {
       "rawHash": "330fcfc32ed7ed4f965f26566477b63d75894d2f",
       "slug": "ysl-bea-779029-28-47x23x13cm-8d-2019960",
       "parent_product_id": "2019960",
       "firstSeen": "2026-07-24T06:21:34.958Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2019987": {
       "rawHash": "ac917549aa880dd1b316ff0949257cc3e5fc11c3",
       "slug": "ysl-niki-633158-28x20x8cm-8d-2019987",
       "parent_product_id": "2019987",
       "firstSeen": "2026-07-24T06:21:34.958Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2019997": {
       "rawHash": "12bbf3b654fe316ffff4ae041b9f499a5b22b3b8",
@@ -369,126 +381,270 @@
       "slug": "prada-1be106-23x24-5x15cm-ap-2020006",
       "parent_product_id": "2020006",
       "firstSeen": "2026-07-23T17:12:25.297Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020016": {
       "rawHash": "f2ae389fda4b6d6c1ed79448e87c7d2ddd0329e4",
       "slug": "alma-m90611-23-5x17-5x11-5cm-ss-2020016",
       "parent_product_id": "2020016",
       "firstSeen": "2026-07-26T06:28:04.177Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020019": {
       "rawHash": "a72579f5e2a885bd47e77b66250e2bc9462b894a",
       "slug": "alma-m90611-18x12x8cm-ss-2020019",
       "parent_product_id": "2020019",
       "firstSeen": "2026-07-26T06:28:04.177Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020024": {
       "rawHash": "de071b85a74e9d2f4fe8f77c9c5aba0213c3be94",
       "slug": "cap-m27168-21x14x8cm-ss-2020024",
       "parent_product_id": "2020024",
       "firstSeen": "2026-07-26T06:28:04.177Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020027": {
       "rawHash": "48741b4ec88fd4eecee5fbea3a73f5260a9bd230",
       "slug": "cap-m27307-21x14x8cm-ss-2020027",
       "parent_product_id": "2020027",
       "firstSeen": "2026-07-26T06:28:04.177Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020034": {
       "rawHash": "85ed2b6e3ef5acc13831cc59bb8ca851d39ce248",
       "slug": "cap-m27308-22x12x8cm-ss-2020034",
       "parent_product_id": "2020034",
       "firstSeen": "2026-07-26T06:28:04.177Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020036": {
       "rawHash": "e8e0f54a8b17a0ced3b2682e5dbd3aba4e75eeb3",
       "slug": "cap-m27309-27x18x9cm-ss-2020036",
       "parent_product_id": "2020036",
       "firstSeen": "2026-07-26T06:28:04.177Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020038": {
       "rawHash": "8a3c85a20cace59e04e11d18b7f0443e4e852678",
       "slug": "prada-1bg392-47x35x15cm-ap-2020038",
       "parent_product_id": "2020038",
       "firstSeen": "2026-07-27T07:00:32.009Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020048": {
       "rawHash": "ba1d35918c42cf9d5bf90a1f71171636eb118b7f",
       "slug": "prada-1bg422-24x24x8cm-ap-2020048",
       "parent_product_id": "2020048",
       "firstSeen": "2026-07-27T07:00:32.009Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020057": {
       "rawHash": "fce0c40d3f80f5ce76ffea8c56a779441cccc7f6",
       "slug": "prada-1bg499-32x29x16cm-ap-2020057",
       "parent_product_id": "2020057",
       "firstSeen": "2026-07-27T07:00:32.009Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020066": {
       "rawHash": "b8d154767b2f83b3e7075f94f757e3e6a1e5a3cc",
       "slug": "prada-1bg500-26x25x14cm-ap-2020066",
       "parent_product_id": "2020066",
       "firstSeen": "2026-07-27T07:00:32.009Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020077": {
       "rawHash": "d03f24f57703ffe94b79245cdd97fc6d93cdebc6",
       "slug": "prada-1bg644-34x25x17cm-ap-2020077",
       "parent_product_id": "2020077",
       "firstSeen": "2026-07-27T07:00:32.009Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020104": {
       "rawHash": "1e30a1e7e6ba4e395264469b8f04ae162bce7af7",
       "slug": "prada-1bg645-30x22x15cm-ap-2020104",
       "parent_product_id": "2020104",
       "firstSeen": "2026-07-27T07:00:32.009Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020113": {
       "rawHash": "25d0ec2318f3b0cc29b6ffdb6ba933de08ae45be",
       "slug": "prada-2vh215-37-5x36x9cm-ap-2020113",
       "parent_product_id": "2020113",
       "firstSeen": "2026-07-27T07:00:32.009Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020122": {
       "rawHash": "216ad1d1c2569f2bff6eda63fbeb55b8034c2329",
       "slug": "prada-1zt092-17-5x22cm-ap-2020122",
       "parent_product_id": "2020122",
       "firstSeen": "2026-07-27T07:00:32.009Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020171": {
       "rawHash": "eeedb7fcb56a877df454a29fd0e54034183c1144",
       "slug": "prada-2vd066a-20x19x10cm-ap-2020171",
       "parent_product_id": "2020171",
       "firstSeen": "2026-07-27T07:00:32.009Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020181": {
       "rawHash": "4ee5c8f6d57c29337e94efd12f6254d58e62fd55",
       "slug": "prada-2vd085-34x29x10cm-ap-2020181",
       "parent_product_id": "2020181",
       "firstSeen": "2026-07-27T07:00:32.009Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
     },
     "2020190": {
       "rawHash": "1a03ab00fc35e4a4e52e3393bf4e90419525d4b8",
       "slug": "prada-carry-1ba496-19x21x7cm-ap-2020190",
       "parent_product_id": "2020190",
       "firstSeen": "2026-07-27T07:00:32.009Z",
-      "lastSeen": "2026-07-27T07:00:32.009Z"
+      "lastSeen": "2026-07-27T07:00:32.009Z",
+      "inactive": true
+    },
+    "2020357": {
+      "rawHash": "1672be37f08243db480adf472f3bd44eb6fb2bc4",
+      "slug": "prada-2vg128-50x36x17cm-ap-2020357",
+      "parent_product_id": "2020357",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020362": {
+      "rawHash": "1b4c7040e2aa5f6a16db3a05a569ee1dc0232303",
+      "slug": "goyard-6602-34x27x14cm-jj-2020362",
+      "parent_product_id": "2020362",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020394": {
+      "rawHash": "db7ec05eadbafca8234c4cf8a81ed8a2f8212c1e",
+      "slug": "goyard-hobo-26x21x10cm-jj-2020394",
+      "parent_product_id": "2020394",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020442": {
+      "rawHash": "6aff55d8a51d2f65852adb2a0d2dad78cbba9c33",
+      "slug": "hermes-birkin-19x27x8cm-jj-2020442",
+      "parent_product_id": "2020442",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020543": {
+      "rawHash": "87717c63181e4f9433131d5af64fc7963eb9e243",
+      "slug": "prada-1ba426-32x15-5x12cm-ap-2020543",
+      "parent_product_id": "2020543",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020552": {
+      "rawHash": "61fbc7161ffaa5123e16517646ad1eb9d14e1a35",
+      "slug": "prada-1ba457-28x14x10-5cm-ap-2020552",
+      "parent_product_id": "2020552",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020572": {
+      "rawHash": "6cb3f5adc2e08b7158519e598b55131d31ede5fa",
+      "slug": "prada-1ba486-23-5x12x9cm-ap-2020572",
+      "parent_product_id": "2020572",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020582": {
+      "rawHash": "781c0f7493a6b30cb5e65979e0b58d6697e482e3",
+      "slug": "prada-1ba916-21x12-5x8-5cm-ap-2020582",
+      "parent_product_id": "2020582",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020591": {
+      "rawHash": "7800617876b36cb67bbaf0b0a71050e5f771837a",
+      "slug": "prada-1bb154-32-5x17x16-5cm-ap-2020591",
+      "parent_product_id": "2020591",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020611": {
+      "rawHash": "ce1998ced51692287f7693a44ac890c54d7f3003",
+      "slug": "prada-1bc204-22x18x6cm-ap-2020611",
+      "parent_product_id": "2020611",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020640": {
+      "rawHash": "8e3f7348a34c047523adefb36365b5c7166c8cdb",
+      "slug": "prada-1bc302-20x12x11cm-ap-2020640",
+      "parent_product_id": "2020640",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020667": {
+      "rawHash": "882c23310e5d7b8835673e9ae33280504833ddd4",
+      "slug": "prada-1bd408-27x20x10cm-ap-2020667",
+      "parent_product_id": "2020667",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020687": {
+      "rawHash": "d730c9d98d750276fe63199c75a2eb3e04ba6ab8",
+      "slug": "prada-1be106-23x24-5x15cm-ap-2020687",
+      "parent_product_id": "2020687",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020704": {
+      "rawHash": "def209c86e91e707e1bf9c1952896d0fb4bc3297",
+      "slug": "chanel-2663-34x20x9-5cm-jj-2020704",
+      "parent_product_id": "2020704",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020728": {
+      "rawHash": "5ad3be21eb20babc888f7502aedc1a7848823037",
+      "slug": "chanel-2663-39x24x11cm-jj-2020728",
+      "parent_product_id": "2020728",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020752": {
+      "rawHash": "8bf19f1010e78ba5091f61c483798f545c56e669",
+      "slug": "lisa-m29251-9x11-5x1-5cm-gf-2020752",
+      "parent_product_id": "2020752",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020754": {
+      "rawHash": "316476fd765315f8c7af9aa1e1856d31473095f2",
+      "slug": "lisa-m29350-9x11-5x1-5cm-gf-2020754",
+      "parent_product_id": "2020754",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
+    },
+    "2020756": {
+      "rawHash": "5518e5f1c45f821afa13bcd34c5770ac392f890a",
+      "slug": "m28991-14x2-5x10cm-gf-2020756",
+      "parent_product_id": "2020756",
+      "firstSeen": "2026-07-28T06:25:08.718Z",
+      "lastSeen": "2026-07-28T06:25:08.718Z"
     }
   },
   "categories": [
@@ -547,5 +703,5 @@
     "2024-rimowa",
     "other-producing"
   ],
-  "updatedAt": "2026-07-27T07:00:32.009Z"
+  "updatedAt": "2026-07-28T06:25:08.718Z"
 }

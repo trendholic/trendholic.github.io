@@ -1,7 +1,7 @@
 {
   "top": "Shoes",
   "slug": "shoes",
-  "productCount": 119,
+  "productCount": 134,
   "subcategoriesDiscovered": 88,
   "subcategories": [
     {
@@ -30,8 +30,8 @@
       "source_path": "0_336"
     },
     {
-      "name": "Louis Vittion 2026 0725",
-      "slug": "louis-vittion-2026-0725",
+      "name": "Louis Vittion 2026 0728",
+      "slug": "louis-vittion-2026-0728",
       "source_path": "0_327"
     },
     {
@@ -140,8 +140,8 @@
       "source_path": "0_140"
     },
     {
-      "name": "Chanel 2026 0725",
-      "slug": "chanel-2026-0725",
+      "name": "Chanel 2026 0728",
+      "slug": "chanel-2026-0728",
       "source_path": "0_229"
     },
     {
@@ -155,8 +155,8 @@
       "source_path": "0_178397"
     },
     {
-      "name": "DG 2026 0725",
-      "slug": "dg-2026-0725",
+      "name": "DG 2026 0728",
+      "slug": "dg-2026-0728",
       "source_path": "0_145"
     },
     {
@@ -1068,6 +1068,820 @@
       "_og": "https://trendholic.github.io/data/shoes/images/brunello-cucinelli-sz38-45-mns0601-2989305-1.webp"
     },
     {
+      "slug": "chanel-sz35-39-8-5cm-mns0602-2991103",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2991111",
+      "source_parent_product_id": "2991103",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991111.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-sz35-39-8-5cm-mns0602-2991103/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2991111.html",
+        "https://shoes.tangma2088.com/productinfoen_2991110.html",
+        "https://shoes.tangma2088.com/productinfoen_2991109.html",
+        "https://shoes.tangma2088.com/productinfoen_2991108.html",
+        "https://shoes.tangma2088.com/productinfoen_2991107.html",
+        "https://shoes.tangma2088.com/productinfoen_2991106.html",
+        "https://shoes.tangma2088.com/productinfoen_2991105.html",
+        "https://shoes.tangma2088.com/productinfoen_2991104.html",
+        "https://shoes.tangma2088.com/productinfoen_2991103.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(1)_2991111.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(2)_2991110.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(3)_2991109.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(4)_2991108.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(5)_2991107.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(6)_2991106.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(7)_2991105.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(8)_2991104.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(9)_2991103.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Chanel sz35-39 8.5cm mns0602",
+      "english_product_name": "Chanel sz35-39 8.5cm mns0602",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2991103",
+      "parent_product_id": "2991103",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0602-2991103-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(1)_2991111.jpg",
+          "content_hash": "677639201644caa16e4c2d967e3c51e1583ce7d9",
+          "alt": "Chanel sz35-39 8.5cm mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0602-2991103-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(2)_2991110.jpg",
+          "content_hash": "28d725b0bf4c329ea4ce10ea7fc5e1d52e2b5055",
+          "alt": "Chanel sz35-39 8.5cm mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0602-2991103-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(3)_2991109.jpg",
+          "content_hash": "4a1f0cfd871754b148a500d59b614c7065b8683d",
+          "alt": "Chanel sz35-39 8.5cm mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0602-2991103-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(4)_2991108.jpg",
+          "content_hash": "9a53af8247ddf50bc6a11c8c6097a845995e480b",
+          "alt": "Chanel sz35-39 8.5cm mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0602-2991103-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(5)_2991107.jpg",
+          "content_hash": "d9ada8031635a476ee9e02d014798cb66ccd5a7a",
+          "alt": "Chanel sz35-39 8.5cm mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0602-2991103-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(6)_2991106.jpg",
+          "content_hash": "74ee2c38d2e56431706ef18a3fc83eb9e1b84f46",
+          "alt": "Chanel sz35-39 8.5cm mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0602-2991103-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(7)_2991105.jpg",
+          "content_hash": "0249497311fb93a7f1b2aff9fdb845eeb5b51b79",
+          "alt": "Chanel sz35-39 8.5cm mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0602-2991103-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0602%20(8)_2991104.jpg",
+          "content_hash": "9ea9582516b7722eeba3b8110bb7c2965e240873",
+          "alt": "Chanel sz35-39 8.5cm mns0602"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/chanel-sz35-39-8-5cm-mns0602-2991103/",
+      "_canonical": "https://trendholic.github.io/catalog/product/chanel-sz35-39-8-5cm-mns0602-2991103/",
+      "_og": "https://trendholic.github.io/data/shoes/images/chanel-sz35-39-8-5cm-mns0602-2991103-1.webp"
+    },
+    {
+      "slug": "chanel-sz35-39-8-5cm-mns0603-2991112",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2991120",
+      "source_parent_product_id": "2991112",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991120.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-sz35-39-8-5cm-mns0603-2991112/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2991120.html",
+        "https://shoes.tangma2088.com/productinfoen_2991119.html",
+        "https://shoes.tangma2088.com/productinfoen_2991118.html",
+        "https://shoes.tangma2088.com/productinfoen_2991117.html",
+        "https://shoes.tangma2088.com/productinfoen_2991116.html",
+        "https://shoes.tangma2088.com/productinfoen_2991115.html",
+        "https://shoes.tangma2088.com/productinfoen_2991114.html",
+        "https://shoes.tangma2088.com/productinfoen_2991113.html",
+        "https://shoes.tangma2088.com/productinfoen_2991112.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(1)_2991120.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(2)_2991119.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(3)_2991118.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(4)_2991117.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(5)_2991116.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(6)_2991115.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(7)_2991114.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(8)_2991113.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(9)_2991112.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Chanel sz35-39 8.5cm mns0603",
+      "english_product_name": "Chanel sz35-39 8.5cm mns0603",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2991112",
+      "parent_product_id": "2991112",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0603-2991112-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(1)_2991120.jpg",
+          "content_hash": "2a132b311d468f7d52232fef62650f9390fca3ac",
+          "alt": "Chanel sz35-39 8.5cm mns0603"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0603-2991112-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(2)_2991119.jpg",
+          "content_hash": "d62957bb577f8fd78016dbd2827cf6d5a79f73f1",
+          "alt": "Chanel sz35-39 8.5cm mns0603"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0603-2991112-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(3)_2991118.jpg",
+          "content_hash": "9216f61043677d156c2b907a3579fb1282b7a44b",
+          "alt": "Chanel sz35-39 8.5cm mns0603"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0603-2991112-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(4)_2991117.jpg",
+          "content_hash": "45e44e075b66a7db979926665c7031c2bd0f187a",
+          "alt": "Chanel sz35-39 8.5cm mns0603"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0603-2991112-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(5)_2991116.jpg",
+          "content_hash": "e97234f99041422096848a75d79932640871afa5",
+          "alt": "Chanel sz35-39 8.5cm mns0603"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0603-2991112-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(6)_2991115.jpg",
+          "content_hash": "c9d3b371003dd0594aed138c0feefbe96b560d8a",
+          "alt": "Chanel sz35-39 8.5cm mns0603"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0603-2991112-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(7)_2991114.jpg",
+          "content_hash": "3911fc782a7ccb580585f74fae79efd31b2ea261",
+          "alt": "Chanel sz35-39 8.5cm mns0603"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0603-2991112-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(8)_2991113.jpg",
+          "content_hash": "a3d67ff45da1dba1061f5d828c16d95824c106d5",
+          "alt": "Chanel sz35-39 8.5cm mns0603"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/chanel-sz35-39-8-5cm-mns0603-2991112/",
+      "_canonical": "https://trendholic.github.io/catalog/product/chanel-sz35-39-8-5cm-mns0603-2991112/",
+      "_og": "https://trendholic.github.io/data/shoes/images/chanel-sz35-39-8-5cm-mns0603-2991112-1.webp"
+    },
+    {
+      "slug": "chanel-sz35-39-9cm-mns0601-2991094",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2991102",
+      "source_parent_product_id": "2991094",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991102.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-sz35-39-9cm-mns0601-2991094/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2991102.html",
+        "https://shoes.tangma2088.com/productinfoen_2991101.html",
+        "https://shoes.tangma2088.com/productinfoen_2991100.html",
+        "https://shoes.tangma2088.com/productinfoen_2991099.html",
+        "https://shoes.tangma2088.com/productinfoen_2991098.html",
+        "https://shoes.tangma2088.com/productinfoen_2991097.html",
+        "https://shoes.tangma2088.com/productinfoen_2991096.html",
+        "https://shoes.tangma2088.com/productinfoen_2991095.html",
+        "https://shoes.tangma2088.com/productinfoen_2991094.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(1)_2991102.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(2)_2991101.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(3)_2991100.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(4)_2991099.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(5)_2991098.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(6)_2991097.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(7)_2991096.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(8)_2991095.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(9)_2991094.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Chanel sz35-39 9cm mns0601",
+      "english_product_name": "Chanel sz35-39 9cm mns0601",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2991094",
+      "parent_product_id": "2991094",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-9cm-mns0601-2991094-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(1)_2991102.jpg",
+          "content_hash": "61632ec6f55744c893f7b1c78df41aed5a6fcab3",
+          "alt": "Chanel sz35-39 9cm mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-9cm-mns0601-2991094-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(2)_2991101.jpg",
+          "content_hash": "5607572938c8cbf4fe6feb876a5a7d150c5a7f8b",
+          "alt": "Chanel sz35-39 9cm mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-9cm-mns0601-2991094-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(3)_2991100.jpg",
+          "content_hash": "9f8829628df05315e26013ba90c951cc4eb21156",
+          "alt": "Chanel sz35-39 9cm mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-9cm-mns0601-2991094-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(4)_2991099.jpg",
+          "content_hash": "b45d6be64c98a5f356094f50b829821b8ded7036",
+          "alt": "Chanel sz35-39 9cm mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-9cm-mns0601-2991094-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(5)_2991098.jpg",
+          "content_hash": "0d7d2a2e74456d3f6b1ae45e3090f25147b4f123",
+          "alt": "Chanel sz35-39 9cm mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-9cm-mns0601-2991094-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(6)_2991097.jpg",
+          "content_hash": "8bdbff54171b7e4191309abb79563625cf268540",
+          "alt": "Chanel sz35-39 9cm mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-9cm-mns0601-2991094-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(7)_2991096.jpg",
+          "content_hash": "bfc46b7415e4be5a0230271504210ab62ed8f7ad",
+          "alt": "Chanel sz35-39 9cm mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-9cm-mns0601-2991094-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%209cm%20mns0601%20(8)_2991095.jpg",
+          "content_hash": "86cba341cfd25aed5f5a1f3b6c6120d6eb064f78",
+          "alt": "Chanel sz35-39 9cm mns0601"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/chanel-sz35-39-9cm-mns0601-2991094/",
+      "_canonical": "https://trendholic.github.io/catalog/product/chanel-sz35-39-9cm-mns0601-2991094/",
+      "_og": "https://trendholic.github.io/data/shoes/images/chanel-sz35-39-9cm-mns0601-2991094-1.webp"
+    },
+    {
+      "slug": "chanel-sz35-39-mns0601-2991059",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2991129",
+      "source_parent_product_id": "2991059",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991129.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-sz35-39-mns0601-2991059/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2991129.html",
+        "https://shoes.tangma2088.com/productinfoen_2991128.html",
+        "https://shoes.tangma2088.com/productinfoen_2991127.html",
+        "https://shoes.tangma2088.com/productinfoen_2991126.html",
+        "https://shoes.tangma2088.com/productinfoen_2991125.html",
+        "https://shoes.tangma2088.com/productinfoen_2991124.html",
+        "https://shoes.tangma2088.com/productinfoen_2991123.html",
+        "https://shoes.tangma2088.com/productinfoen_2991122.html",
+        "https://shoes.tangma2088.com/productinfoen_2991121.html",
+        "https://shoes.tangma2088.com/productinfoen_2991066.html",
+        "https://shoes.tangma2088.com/productinfoen_2991065.html",
+        "https://shoes.tangma2088.com/productinfoen_2991064.html",
+        "https://shoes.tangma2088.com/productinfoen_2991063.html",
+        "https://shoes.tangma2088.com/productinfoen_2991062.html",
+        "https://shoes.tangma2088.com/productinfoen_2991061.html",
+        "https://shoes.tangma2088.com/productinfoen_2991060.html",
+        "https://shoes.tangma2088.com/productinfoen_2991059.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(1)_2991129.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20%20(1)_2991066.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(2)_2991128.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20%20(2)_2991065.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(3)_2991127.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20%20(3)_2991064.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(4)_2991126.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(5)_2991125.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20%20(5)_2991063.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(6)_2991124.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20%20(6)_2991062.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(7)_2991123.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20%20(7)_2991061.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(8)_2991122.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20%20(8)_2991060.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(9)_2991121.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20%20(9)_2991059.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Chanel sz35-39 mns0601",
+      "english_product_name": "Chanel sz35-39 mns0601",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2991059",
+      "parent_product_id": "2991059",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0601-2991059-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(1)_2991129.jpg",
+          "content_hash": "b659219a771d9952a096e0563848ee967bbe468d",
+          "alt": "Chanel sz35-39 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0601-2991059-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20%20(1)_2991066.jpg",
+          "content_hash": "aaf4e78701b18f4b0fa4a430726d0dcb2e039967",
+          "alt": "Chanel sz35-39 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0601-2991059-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(2)_2991128.jpg",
+          "content_hash": "3dbeec692e67c92b4e99f62e2f764750ca09c351",
+          "alt": "Chanel sz35-39 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0601-2991059-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20%20(2)_2991065.jpg",
+          "content_hash": "5ddc0a6f98ee315315ca09d69574ff1db5af2c20",
+          "alt": "Chanel sz35-39 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0601-2991059-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(3)_2991127.jpg",
+          "content_hash": "dd81399b325d62ca9ff3b1bc9b98d4f26c486323",
+          "alt": "Chanel sz35-39 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0601-2991059-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20%20(3)_2991064.jpg",
+          "content_hash": "e0aee68a7bdfe8a82d2c3a582820bc2a7bd10b46",
+          "alt": "Chanel sz35-39 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0601-2991059-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(4)_2991126.jpg",
+          "content_hash": "8332987944274da2b38f5dd4893791b6d2503d75",
+          "alt": "Chanel sz35-39 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0601-2991059-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0601%20(5)_2991125.jpg",
+          "content_hash": "7bb2f551d14779b6775758a921ca15cc55931a51",
+          "alt": "Chanel sz35-39 mns0601"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/chanel-sz35-39-mns0601-2991059/",
+      "_canonical": "https://trendholic.github.io/catalog/product/chanel-sz35-39-mns0601-2991059/",
+      "_og": "https://trendholic.github.io/data/shoes/images/chanel-sz35-39-mns0601-2991059-1.webp"
+    },
+    {
+      "slug": "chanel-sz35-39-mns0602-2991085",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2991093",
+      "source_parent_product_id": "2991085",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991093.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-sz35-39-mns0602-2991085/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2991093.html",
+        "https://shoes.tangma2088.com/productinfoen_2991092.html",
+        "https://shoes.tangma2088.com/productinfoen_2991091.html",
+        "https://shoes.tangma2088.com/productinfoen_2991090.html",
+        "https://shoes.tangma2088.com/productinfoen_2991089.html",
+        "https://shoes.tangma2088.com/productinfoen_2991088.html",
+        "https://shoes.tangma2088.com/productinfoen_2991087.html",
+        "https://shoes.tangma2088.com/productinfoen_2991086.html",
+        "https://shoes.tangma2088.com/productinfoen_2991085.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(1)_2991093.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(2)_2991092.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(3)_2991091.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(4)_2991090.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(5)_2991089.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(6)_2991088.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(7)_2991087.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(8)_2991086.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(9)_2991085.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Chanel sz35-39 mns0602",
+      "english_product_name": "Chanel sz35-39 mns0602",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2991085",
+      "parent_product_id": "2991085",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0602-2991085-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(1)_2991093.jpg",
+          "content_hash": "17b8b17f389cc8ad27e62cd3833163749c9bbb2d",
+          "alt": "Chanel sz35-39 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0602-2991085-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(2)_2991092.jpg",
+          "content_hash": "1a2ed0ca7143fa50d8752f5229a433fc7fff739c",
+          "alt": "Chanel sz35-39 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0602-2991085-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(3)_2991091.jpg",
+          "content_hash": "e69dd3d9f837ff6f2c8c8c308cbb331b7f65b270",
+          "alt": "Chanel sz35-39 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0602-2991085-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(4)_2991090.jpg",
+          "content_hash": "cbaff84839e1725f85f087d8afc758685ad80c6a",
+          "alt": "Chanel sz35-39 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0602-2991085-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(5)_2991089.jpg",
+          "content_hash": "51e330e3c98ce7c1e2d924f9dd7277c93c5c1d56",
+          "alt": "Chanel sz35-39 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0602-2991085-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(6)_2991088.jpg",
+          "content_hash": "b94990a64e7f1d00401d1267c5ce7b1059122189",
+          "alt": "Chanel sz35-39 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0602-2991085-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(7)_2991087.jpg",
+          "content_hash": "606ea29211c2e8f95145e80cd7ba6452f939ea2e",
+          "alt": "Chanel sz35-39 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-39-mns0602-2991085-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%20mns0602%20(8)_2991086.jpg",
+          "content_hash": "fcb4b96c36242057c13a586f3922a1c35b73528b",
+          "alt": "Chanel sz35-39 mns0602"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/chanel-sz35-39-mns0602-2991085/",
+      "_canonical": "https://trendholic.github.io/catalog/product/chanel-sz35-39-mns0602-2991085/",
+      "_og": "https://trendholic.github.io/data/shoes/images/chanel-sz35-39-mns0602-2991085-1.webp"
+    },
+    {
+      "slug": "chanel-sz35-40-mns0602-2991067",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2991075",
+      "source_parent_product_id": "2991067",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991075.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-sz35-40-mns0602-2991067/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2991075.html",
+        "https://shoes.tangma2088.com/productinfoen_2991074.html",
+        "https://shoes.tangma2088.com/productinfoen_2991073.html",
+        "https://shoes.tangma2088.com/productinfoen_2991072.html",
+        "https://shoes.tangma2088.com/productinfoen_2991071.html",
+        "https://shoes.tangma2088.com/productinfoen_2991070.html",
+        "https://shoes.tangma2088.com/productinfoen_2991069.html",
+        "https://shoes.tangma2088.com/productinfoen_2991068.html",
+        "https://shoes.tangma2088.com/productinfoen_2991067.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(1)_2991075.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(2)_2991074.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(3)_2991073.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(4)_2991072.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(5)_2991071.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(6)_2991070.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(7)_2991069.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(8)_2991068.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(9)_2991067.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Chanel sz35-40 mns0602",
+      "english_product_name": "Chanel sz35-40 mns0602",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2991067",
+      "parent_product_id": "2991067",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-mns0602-2991067-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(1)_2991075.jpg",
+          "content_hash": "d28d1e73c13edfd16d6f6f4efc75a72b77a688e2",
+          "alt": "Chanel sz35-40 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-mns0602-2991067-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(2)_2991074.jpg",
+          "content_hash": "6f808e6f02503de4c9a2d87d7ff1f6a460bfc482",
+          "alt": "Chanel sz35-40 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-mns0602-2991067-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(3)_2991073.jpg",
+          "content_hash": "91b0eccbde2f0713e3f62e22f4afac96a7d93b51",
+          "alt": "Chanel sz35-40 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-mns0602-2991067-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(4)_2991072.jpg",
+          "content_hash": "a57bb497f2ad15998e9e49b7bbe6ae89655c8bab",
+          "alt": "Chanel sz35-40 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-mns0602-2991067-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(5)_2991071.jpg",
+          "content_hash": "aa16ec19a1fcad356a4af582e586b0d4f1362543",
+          "alt": "Chanel sz35-40 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-mns0602-2991067-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(6)_2991070.jpg",
+          "content_hash": "6ab8a333e391deaf3f77d7ff37c7903b483cf88c",
+          "alt": "Chanel sz35-40 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-mns0602-2991067-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(7)_2991069.jpg",
+          "content_hash": "f082013e231c791779c9aadabd83bbdd03537ac4",
+          "alt": "Chanel sz35-40 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-mns0602-2991067-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(8)_2991068.jpg",
+          "content_hash": "7b752ec34cfaf3110cebc4d1b02c92c59d0612aa",
+          "alt": "Chanel sz35-40 mns0602"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/chanel-sz35-40-mns0602-2991067/",
+      "_canonical": "https://trendholic.github.io/catalog/product/chanel-sz35-40-mns0602-2991067/",
+      "_og": "https://trendholic.github.io/data/shoes/images/chanel-sz35-40-mns0602-2991067-1.webp"
+    },
+    {
+      "slug": "chanel-sz35-41-mns0601-2991076",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2991084",
+      "source_parent_product_id": "2991076",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991084.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-sz35-41-mns0601-2991076/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2991084.html",
+        "https://shoes.tangma2088.com/productinfoen_2991083.html",
+        "https://shoes.tangma2088.com/productinfoen_2991082.html",
+        "https://shoes.tangma2088.com/productinfoen_2991081.html",
+        "https://shoes.tangma2088.com/productinfoen_2991080.html",
+        "https://shoes.tangma2088.com/productinfoen_2991079.html",
+        "https://shoes.tangma2088.com/productinfoen_2991078.html",
+        "https://shoes.tangma2088.com/productinfoen_2991077.html",
+        "https://shoes.tangma2088.com/productinfoen_2991076.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(1)_2991084.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(2)_2991083.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(3)_2991082.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(4)_2991081.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(5)_2991080.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(6)_2991079.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(7)_2991078.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(8)_2991077.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(9)_2991076.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Chanel sz35-41 mns0601",
+      "english_product_name": "Chanel sz35-41 mns0601",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2991076",
+      "parent_product_id": "2991076",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/chanel-sz35-41-mns0601-2991076-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(1)_2991084.jpg",
+          "content_hash": "d79a32f220f39e0500d2a30832879d9383016c16",
+          "alt": "Chanel sz35-41 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-41-mns0601-2991076-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(2)_2991083.jpg",
+          "content_hash": "22711afadc2d359efbb01dff65f5409cc5385979",
+          "alt": "Chanel sz35-41 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-41-mns0601-2991076-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(3)_2991082.jpg",
+          "content_hash": "a90a59359cd787f5fdcf5c65bf12e0ec4c7eec9f",
+          "alt": "Chanel sz35-41 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-41-mns0601-2991076-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(4)_2991081.jpg",
+          "content_hash": "30a26f5482fe36206617ec9ba072176e045c3391",
+          "alt": "Chanel sz35-41 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-41-mns0601-2991076-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(5)_2991080.jpg",
+          "content_hash": "bbfb1a21869b1956ce727272dd0c168c5694fd74",
+          "alt": "Chanel sz35-41 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-41-mns0601-2991076-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(6)_2991079.jpg",
+          "content_hash": "2be2c47a2d753860dbf09a3311ffa18e0e0d3334",
+          "alt": "Chanel sz35-41 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-41-mns0601-2991076-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(7)_2991078.jpg",
+          "content_hash": "1c3e4309576dc2e83628c045b46031a570ca5661",
+          "alt": "Chanel sz35-41 mns0601"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-41-mns0601-2991076-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(8)_2991077.jpg",
+          "content_hash": "a3cda7cd52679550a0e2f1f582c25c870e77dbc9",
+          "alt": "Chanel sz35-41 mns0601"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/chanel-sz35-41-mns0601-2991076/",
+      "_canonical": "https://trendholic.github.io/catalog/product/chanel-sz35-41-mns0601-2991076/",
+      "_og": "https://trendholic.github.io/data/shoes/images/chanel-sz35-41-mns0601-2991076-1.webp"
+    },
+    {
       "slug": "dg-sz36-45-wm-2988705",
       "top_category": "Shoes",
       "source_site": "shoes",
@@ -1512,6 +2326,236 @@
       "_url": "/catalog/product/dg-sz38-45-wm0702-2988803/",
       "_canonical": "https://trendholic.github.io/catalog/product/dg-sz38-45-wm0702-2988803/",
       "_og": "https://trendholic.github.io/data/shoes/images/dg-sz38-45-wm0702-2988803-1.webp"
+    },
+    {
+      "slug": "dg-sz39-45-mns0602-2991040",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2991049",
+      "source_parent_product_id": "2991040",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991049.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/dg-sz39-45-mns0602-2991040/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2991049.html",
+        "https://shoes.tangma2088.com/productinfoen_2991048.html",
+        "https://shoes.tangma2088.com/productinfoen_2991047.html",
+        "https://shoes.tangma2088.com/productinfoen_2991046.html",
+        "https://shoes.tangma2088.com/productinfoen_2991045.html",
+        "https://shoes.tangma2088.com/productinfoen_2991044.html",
+        "https://shoes.tangma2088.com/productinfoen_2991043.html",
+        "https://shoes.tangma2088.com/productinfoen_2991042.html",
+        "https://shoes.tangma2088.com/productinfoen_2991041.html",
+        "https://shoes.tangma2088.com/productinfoen_2991040.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20%20(1)_2991049.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20%20(2)_2991048.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20%20(3)_2991047.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20(3)_2991046.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20(4)_2991045.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20(5)_2991044.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20(6)_2991043.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20(7)_2991042.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20(8)_2991041.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20(9)_2991040.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "DG sz39-45 mns0602",
+      "english_product_name": "DG sz39-45 mns0602",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2991040",
+      "parent_product_id": "2991040",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0602-2991040-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20%20(1)_2991049.jpg",
+          "content_hash": "9563cb87cc6ee7d61c79034f85f4e8a2b2f5b1e9",
+          "alt": "DG sz39-45 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0602-2991040-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20%20(2)_2991048.jpg",
+          "content_hash": "7286915b0e6a9bdc6eeed3792cb37c0d07cf0aa0",
+          "alt": "DG sz39-45 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0602-2991040-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20%20(3)_2991047.jpg",
+          "content_hash": "b758822fdc73708bbd2a2a7965d7fd0ce3ffbd5d",
+          "alt": "DG sz39-45 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0602-2991040-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20(3)_2991046.jpg",
+          "content_hash": "3c5d2e06a594406242831bb38ccecb11b1f4b708",
+          "alt": "DG sz39-45 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0602-2991040-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20(4)_2991045.jpg",
+          "content_hash": "6bac03a3796f1917686668f25c0714f3cf4b7094",
+          "alt": "DG sz39-45 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0602-2991040-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20(5)_2991044.jpg",
+          "content_hash": "90cd4381f90e09a0695296bba4de90261c9aa309",
+          "alt": "DG sz39-45 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0602-2991040-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20(6)_2991043.jpg",
+          "content_hash": "da46dae5c28d869ce78195f5889f5526156d888b",
+          "alt": "DG sz39-45 mns0602"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0602-2991040-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20(7)_2991042.jpg",
+          "content_hash": "f363fee26d1a9842f3fc67515c70ee06b9d3ff87",
+          "alt": "DG sz39-45 mns0602"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/dg-sz39-45-mns0602-2991040/",
+      "_canonical": "https://trendholic.github.io/catalog/product/dg-sz39-45-mns0602-2991040/",
+      "_og": "https://trendholic.github.io/data/shoes/images/dg-sz39-45-mns0602-2991040-1.webp"
+    },
+    {
+      "slug": "dg-sz39-45-mns0603-2991050",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2991058",
+      "source_parent_product_id": "2991050",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991058.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/dg-sz39-45-mns0603-2991050/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2991058.html",
+        "https://shoes.tangma2088.com/productinfoen_2991057.html",
+        "https://shoes.tangma2088.com/productinfoen_2991056.html",
+        "https://shoes.tangma2088.com/productinfoen_2991055.html",
+        "https://shoes.tangma2088.com/productinfoen_2991054.html",
+        "https://shoes.tangma2088.com/productinfoen_2991053.html",
+        "https://shoes.tangma2088.com/productinfoen_2991052.html",
+        "https://shoes.tangma2088.com/productinfoen_2991051.html",
+        "https://shoes.tangma2088.com/productinfoen_2991050.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(1)_2991058.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(2)_2991057.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(3)_2991056.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(4)_2991055.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(5)_2991054.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(6)_2991053.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(7)_2991052.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(8)_2991051.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(9)_2991050.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "DG sz39-45 mns0603",
+      "english_product_name": "DG sz39-45 mns0603",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2991050",
+      "parent_product_id": "2991050",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0603-2991050-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(1)_2991058.jpg",
+          "content_hash": "774e4fea552c63dee8a84ded35e45de3e1463fac",
+          "alt": "DG sz39-45 mns0603"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0603-2991050-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(2)_2991057.jpg",
+          "content_hash": "8458f04985a8a022f2cdf825aaed25f898342fae",
+          "alt": "DG sz39-45 mns0603"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0603-2991050-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(3)_2991056.jpg",
+          "content_hash": "969ef0d057e5d2247a959426a7f5aed6b0d0a36e",
+          "alt": "DG sz39-45 mns0603"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0603-2991050-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(4)_2991055.jpg",
+          "content_hash": "86c66f3853373e6c829b10245c723b1f5d476dc4",
+          "alt": "DG sz39-45 mns0603"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0603-2991050-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(5)_2991054.jpg",
+          "content_hash": "e7bab6921b2f31236a8fee862636417e8d8d45c7",
+          "alt": "DG sz39-45 mns0603"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0603-2991050-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(6)_2991053.jpg",
+          "content_hash": "77e173ba49e3ae728ece7ae205e3f35ee44a37b4",
+          "alt": "DG sz39-45 mns0603"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0603-2991050-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(7)_2991052.jpg",
+          "content_hash": "b91f1b421713696b25857c59b3872fa2787f884c",
+          "alt": "DG sz39-45 mns0603"
+        },
+        {
+          "src": "/data/shoes/images/dg-sz39-45-mns0603-2991050-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(8)_2991051.jpg",
+          "content_hash": "ae7d40a3772c50932f78120d7cf03ec2ed1fd236",
+          "alt": "DG sz39-45 mns0603"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/dg-sz39-45-mns0603-2991050/",
+      "_canonical": "https://trendholic.github.io/catalog/product/dg-sz39-45-mns0603-2991050/",
+      "_og": "https://trendholic.github.io/data/shoes/images/dg-sz39-45-mns0603-2991050-1.webp"
     },
     {
       "slug": "dior-colour-sz35-40-xj1101-2989803",
@@ -4023,7 +5067,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20GDT0401121776461_2990936.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20GDT0401141776459_2990935.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz35-45 GDT",
       "english_product_name": "Fendi sz35-45 GDT",
       "original_product_name": null,
@@ -4098,7 +5142,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz35-45-gdt-2990935/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz35-45-gdt-2990935/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz35-45-gdt-2990935-1.webp"
@@ -4254,6 +5298,130 @@
       "_url": "/catalog/product/fendi-sz35-45-ll1102-2990638/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz35-45-ll1102-2990638/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz35-45-ll1102-2990638-1.webp"
+    },
+    {
+      "slug": "fendi-sz35-45-ll1102-2990943",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2990956",
+      "source_parent_product_id": "2990943",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2990956.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz35-45-ll1102-2990943/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2990956.html",
+        "https://shoes.tangma2088.com/productinfoen_2990955.html",
+        "https://shoes.tangma2088.com/productinfoen_2990954.html",
+        "https://shoes.tangma2088.com/productinfoen_2990953.html",
+        "https://shoes.tangma2088.com/productinfoen_2990952.html",
+        "https://shoes.tangma2088.com/productinfoen_2990951.html",
+        "https://shoes.tangma2088.com/productinfoen_2990950.html",
+        "https://shoes.tangma2088.com/productinfoen_2990949.html",
+        "https://shoes.tangma2088.com/productinfoen_2990948.html",
+        "https://shoes.tangma2088.com/productinfoen_2990947.html",
+        "https://shoes.tangma2088.com/productinfoen_2990946.html",
+        "https://shoes.tangma2088.com/productinfoen_2990945.html",
+        "https://shoes.tangma2088.com/productinfoen_2990944.html",
+        "https://shoes.tangma2088.com/productinfoen_2990943.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20052292667_2990956.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20072292665_2990955.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20092292663_2990954.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20102292662_2990953.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20142292658_2990952.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20152292657_2990951.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20192292653_2990950.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20222292650_2990949.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20232292649_2990948.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20272292645_2990947.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20282292644_2990946.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20312292641_2990945.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20332292639_2990944.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20352292637_2990943.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Fendi sz35-45 LL1102",
+      "english_product_name": "Fendi sz35-45 LL1102",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2990943",
+      "parent_product_id": "2990943",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-ll1102-2990638-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20052292667_2990956.jpg",
+          "content_hash": "faf78a5a0a1791f763e6953a15f44e3a7e67adc6",
+          "alt": "Fendi sz35-45 LL1102"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-ll1102-2990638-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20072292665_2990955.jpg",
+          "content_hash": "507ea8029f4d1cf765bcb551cea625a4fcbd406a",
+          "alt": "Fendi sz35-45 LL1102"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-ll1102-2990638-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20092292663_2990954.jpg",
+          "content_hash": "df6a715003fb47118a0a3bfeb5f4c6c869771cc6",
+          "alt": "Fendi sz35-45 LL1102"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-ll1102-2990943-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20102292662_2990953.jpg",
+          "content_hash": "a59591587a8d5ecd3745018abe480c4b477ef95a",
+          "alt": "Fendi sz35-45 LL1102"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-ll1102-2990943-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20142292658_2990952.jpg",
+          "content_hash": "9cb0b8bd2191ab6f819e197a2ccb4c22d4c0606d",
+          "alt": "Fendi sz35-45 LL1102"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-ll1102-2990943-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20152292657_2990951.jpg",
+          "content_hash": "b558c7b0925d9d202ada7d84d969d5169b8e2ca6",
+          "alt": "Fendi sz35-45 LL1102"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-ll1102-2990943-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20192292653_2990950.jpg",
+          "content_hash": "c63cf7f3676e45551a75604e3e49422bce9e50b5",
+          "alt": "Fendi sz35-45 LL1102"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-ll1102-2990943-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20LL1102%20222292650_2990949.jpg",
+          "content_hash": "9ef8250e25ac3fa0837fce037ca7319226cb6b63",
+          "alt": "Fendi sz35-45 LL1102"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/fendi-sz35-45-ll1102-2990943/",
+      "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz35-45-ll1102-2990943/",
+      "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz35-45-ll1102-2990638-2.webp"
     },
     {
       "slug": "fendi-sz35-45-xj0701-2990653",
@@ -4432,6 +5600,130 @@
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz35-45-xj0701-2990653-1.webp"
     },
     {
+      "slug": "fendi-sz35-45-xj0701-2990957",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2990970",
+      "source_parent_product_id": "2990957",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2990970.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz35-45-xj0701-2990957/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2990970.html",
+        "https://shoes.tangma2088.com/productinfoen_2990969.html",
+        "https://shoes.tangma2088.com/productinfoen_2990968.html",
+        "https://shoes.tangma2088.com/productinfoen_2990967.html",
+        "https://shoes.tangma2088.com/productinfoen_2990966.html",
+        "https://shoes.tangma2088.com/productinfoen_2990965.html",
+        "https://shoes.tangma2088.com/productinfoen_2990964.html",
+        "https://shoes.tangma2088.com/productinfoen_2990963.html",
+        "https://shoes.tangma2088.com/productinfoen_2990962.html",
+        "https://shoes.tangma2088.com/productinfoen_2990961.html",
+        "https://shoes.tangma2088.com/productinfoen_2990960.html",
+        "https://shoes.tangma2088.com/productinfoen_2990959.html",
+        "https://shoes.tangma2088.com/productinfoen_2990958.html",
+        "https://shoes.tangma2088.com/productinfoen_2990957.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20012024562_2990970.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20022024561_2990969.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20052024558_2990968.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20082024555_2990967.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20092024554_2990966.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20102024553_2990965.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20122024551_2990964.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20152024548_2990963.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20162024547_2990962.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20182024545_2990961.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20202024543_2990960.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20222024541_2990959.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20232024540_2990958.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20252024538_2990957.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Fendi sz35-45 XJ0701",
+      "english_product_name": "Fendi sz35-45 XJ0701",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2990957",
+      "parent_product_id": "2990957",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0701-2990653-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20012024562_2990970.jpg",
+          "content_hash": "647a870a7f30148fefade0641733f69d04c65820",
+          "alt": "Fendi sz35-45 XJ0701"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0701-2990653-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20022024561_2990969.jpg",
+          "content_hash": "58857f0e67d51adc3c5c1b4742f3097549ab6a78",
+          "alt": "Fendi sz35-45 XJ0701"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0701-2990653-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20052024558_2990968.jpg",
+          "content_hash": "2b6415c1f763f19f6687f9e6420747552af7d527",
+          "alt": "Fendi sz35-45 XJ0701"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0701-2990957-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20082024555_2990967.jpg",
+          "content_hash": "ecf3ac3df50f31722632d872d6f2161f4105ca80",
+          "alt": "Fendi sz35-45 XJ0701"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0701-2990957-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20092024554_2990966.jpg",
+          "content_hash": "f508661220750c5103a883289adca21314f6b609",
+          "alt": "Fendi sz35-45 XJ0701"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0701-2990957-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20102024553_2990965.jpg",
+          "content_hash": "630b39b593e890d2d5b21545f5d65922950e7055",
+          "alt": "Fendi sz35-45 XJ0701"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0701-2990957-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20122024551_2990964.jpg",
+          "content_hash": "d335297f1e81d36bab1e3c8a16c67cda7e7fcf62",
+          "alt": "Fendi sz35-45 XJ0701"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0701-2990957-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0701%20152024548_2990963.jpg",
+          "content_hash": "958326b7cfdb5c307f774efcb9951e76377dd407",
+          "alt": "Fendi sz35-45 XJ0701"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/fendi-sz35-45-xj0701-2990957/",
+      "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz35-45-xj0701-2990957/",
+      "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz35-45-xj0701-2990653-1.webp"
+    },
+    {
       "slug": "fendi-sz35-45-xj0702-2990679",
       "top_category": "Shoes",
       "source_site": "shoes",
@@ -4562,6 +5854,102 @@
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz35-45-xj0702-2990679-1.webp"
     },
     {
+      "slug": "fendi-sz35-45-xj0702-2990971",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2990976",
+      "source_parent_product_id": "2990971",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2990976.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz35-45-xj0702-2990971/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2990976.html",
+        "https://shoes.tangma2088.com/productinfoen_2990975.html",
+        "https://shoes.tangma2088.com/productinfoen_2990974.html",
+        "https://shoes.tangma2088.com/productinfoen_2990973.html",
+        "https://shoes.tangma2088.com/productinfoen_2990972.html",
+        "https://shoes.tangma2088.com/productinfoen_2990971.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0702%20022024573_2990976.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0702%20032024572_2990975.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0702%20052024570_2990974.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0702%20072024568_2990973.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0702%20092024566_2990972.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0702%20112024564_2990971.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Fendi sz35-45 XJ0702",
+      "english_product_name": "Fendi sz35-45 XJ0702",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2990971",
+      "parent_product_id": "2990971",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0702-2990679-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0702%20022024573_2990976.jpg",
+          "content_hash": "79527af6ac767ea2299c90f73f2e6e46978e218a",
+          "alt": "Fendi sz35-45 XJ0702"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0702-2990679-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0702%20032024572_2990975.jpg",
+          "content_hash": "cb20730bff50310e21bfd3365b867c966a21d8e4",
+          "alt": "Fendi sz35-45 XJ0702"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0702-2990679-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0702%20052024570_2990974.jpg",
+          "content_hash": "c550f7be7df610c60ab31ad17601b452a9ed0d5a",
+          "alt": "Fendi sz35-45 XJ0702"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0702-2990971-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0702%20072024568_2990973.jpg",
+          "content_hash": "5e5b52216898abc680d75fb86c83e969e1568039",
+          "alt": "Fendi sz35-45 XJ0702"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0702-2990971-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0702%20092024566_2990972.jpg",
+          "content_hash": "f26398e9735ae0058ad47e653a7b4870add22999",
+          "alt": "Fendi sz35-45 XJ0702"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-45-xj0702-2990971-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-45%20XJ0702%20112024564_2990971.jpg",
+          "content_hash": "b7da86dc9d53ea829c6acfe6c5658d43979de466",
+          "alt": "Fendi sz35-45 XJ0702"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/fendi-sz35-45-xj0702-2990971/",
+      "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz35-45-xj0702-2990971/",
+      "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz35-45-xj0702-2990679-1.webp"
+    },
+    {
       "slug": "fendi-sz38-44-12c-ngh-10-2990842",
       "top_category": "Shoes",
       "source_site": "shoes",
@@ -4579,7 +5967,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(10)13594711578055_2990842.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (10)",
       "english_product_name": "Fendi sz38-44 12C ngh (10)",
       "original_product_name": null,
@@ -4612,7 +6000,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-10-2990842/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-10-2990842/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-10-2990842-1.webp"
@@ -4635,7 +6023,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(100)13595211578005_2990822.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (100)",
       "english_product_name": "Fendi sz38-44 12C ngh (100)",
       "original_product_name": null,
@@ -4668,7 +6056,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-100-2990822/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-100-2990822/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-100-2990822-1.webp"
@@ -4691,7 +6079,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(106)13595201578003_2990821.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (106)",
       "english_product_name": "Fendi sz38-44 12C ngh (106)",
       "original_product_name": null,
@@ -4724,7 +6112,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-106-2990821/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-106-2990821/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-106-2990821-1.webp"
@@ -4747,7 +6135,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(13)13594721578054_2990841.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (13)",
       "english_product_name": "Fendi sz38-44 12C ngh (13)",
       "original_product_name": null,
@@ -4780,7 +6168,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-13-2990841/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-13-2990841/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-13-2990841-1.webp"
@@ -4803,7 +6191,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(19)13594761578050_2990840.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (19)",
       "english_product_name": "Fendi sz38-44 12C ngh (19)",
       "original_product_name": null,
@@ -4836,7 +6224,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-19-2990840/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-19-2990840/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-19-2990840-1.webp"
@@ -4859,7 +6247,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(27)13594741578046_2990839.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (27)",
       "english_product_name": "Fendi sz38-44 12C ngh (27)",
       "original_product_name": null,
@@ -4892,7 +6280,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-27-2990839/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-27-2990839/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-27-2990839-1.webp"
@@ -4915,7 +6303,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(28)13594811578045_2990838.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (28)",
       "english_product_name": "Fendi sz38-44 12C ngh (28)",
       "original_product_name": null,
@@ -4948,7 +6336,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-28-2990838/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-28-2990838/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-28-2990838-1.webp"
@@ -4971,7 +6359,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(3)13594631578062_2990845.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (3)",
       "english_product_name": "Fendi sz38-44 12C ngh (3)",
       "original_product_name": null,
@@ -5004,7 +6392,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-3-2990845/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-3-2990845/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-3-2990845-1.webp"
@@ -5027,7 +6415,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(35)13594781578042_2990837.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (35)",
       "english_product_name": "Fendi sz38-44 12C ngh (35)",
       "original_product_name": null,
@@ -5060,7 +6448,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-35-2990837/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-35-2990837/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-35-2990837-1.webp"
@@ -5083,7 +6471,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(37)13594861578040_2990836.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (37)",
       "english_product_name": "Fendi sz38-44 12C ngh (37)",
       "original_product_name": null,
@@ -5116,7 +6504,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-37-2990836/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-37-2990836/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-37-2990836-1.webp"
@@ -5139,7 +6527,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(43)13594851578038_2990835.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (43)",
       "english_product_name": "Fendi sz38-44 12C ngh (43)",
       "original_product_name": null,
@@ -5172,7 +6560,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-43-2990835/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-43-2990835/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-43-2990835-1.webp"
@@ -5195,7 +6583,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(46)13594911578035_2990834.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (46)",
       "english_product_name": "Fendi sz38-44 12C ngh (46)",
       "original_product_name": null,
@@ -5228,7 +6616,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-46-2990834/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-46-2990834/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-46-2990834-1.webp"
@@ -5251,7 +6639,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(5)13594611578060_2990844.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (5)",
       "english_product_name": "Fendi sz38-44 12C ngh (5)",
       "original_product_name": null,
@@ -5284,7 +6672,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-5-2990844/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-5-2990844/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-5-2990844-1.webp"
@@ -5307,7 +6695,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(52)13594901578033_2990833.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (52)",
       "english_product_name": "Fendi sz38-44 12C ngh (52)",
       "original_product_name": null,
@@ -5340,7 +6728,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-52-2990833/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-52-2990833/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-52-2990833-1.webp"
@@ -5363,7 +6751,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(55)13594961578030_2990832.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (55)",
       "english_product_name": "Fendi sz38-44 12C ngh (55)",
       "original_product_name": null,
@@ -5396,7 +6784,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-55-2990832/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-55-2990832/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-55-2990832-1.webp"
@@ -5419,7 +6807,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(63)13594941578026_2990831.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (63)",
       "english_product_name": "Fendi sz38-44 12C ngh (63)",
       "original_product_name": null,
@@ -5452,7 +6840,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-63-2990831/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-63-2990831/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-63-2990831-1.webp"
@@ -5475,7 +6863,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(64)13595011578025_2990830.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (64)",
       "english_product_name": "Fendi sz38-44 12C ngh (64)",
       "original_product_name": null,
@@ -5508,7 +6896,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-64-2990830/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-64-2990830/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-64-2990830-1.webp"
@@ -5531,7 +6919,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(70)13595001578023_2990829.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (70)",
       "english_product_name": "Fendi sz38-44 12C ngh (70)",
       "original_product_name": null,
@@ -5564,7 +6952,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-70-2990829/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-70-2990829/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-70-2990829-1.webp"
@@ -5587,7 +6975,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(73)13595061578020_2990828.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (73)",
       "english_product_name": "Fendi sz38-44 12C ngh (73)",
       "original_product_name": null,
@@ -5620,7 +7008,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-73-2990828/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-73-2990828/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-73-2990828-1.webp"
@@ -5643,7 +7031,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(80)13595031578017_2990827.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (80)",
       "english_product_name": "Fendi sz38-44 12C ngh (80)",
       "original_product_name": null,
@@ -5676,7 +7064,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-80-2990827/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-80-2990827/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-80-2990827-1.webp"
@@ -5699,7 +7087,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(88)13595101578013_2990826.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (88)",
       "english_product_name": "Fendi sz38-44 12C ngh (88)",
       "original_product_name": null,
@@ -5732,7 +7120,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-88-2990826/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-88-2990826/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-88-2990826-1.webp"
@@ -5755,7 +7143,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(9)13594591578056_2990843.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (9)",
       "english_product_name": "Fendi sz38-44 12C ngh (9)",
       "original_product_name": null,
@@ -5788,7 +7176,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-9-2990843/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-9-2990843/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-9-2990843-1.webp"
@@ -5811,7 +7199,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(90)13595091578011_2990825.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (90)",
       "english_product_name": "Fendi sz38-44 12C ngh (90)",
       "original_product_name": null,
@@ -5844,7 +7232,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-90-2990825/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-90-2990825/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-90-2990825-1.webp"
@@ -5867,7 +7255,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(91)13595161578010_2990824.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (91)",
       "english_product_name": "Fendi sz38-44 12C ngh (91)",
       "original_product_name": null,
@@ -5900,7 +7288,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-91-2990824/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-91-2990824/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-91-2990824-1.webp"
@@ -5923,7 +7311,7 @@
       "source_image_urls": [
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%2012C%20ngh%20(98)13595131578007_2990823.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-44 12C ngh (98)",
       "english_product_name": "Fendi sz38-44 12C ngh (98)",
       "original_product_name": null,
@@ -5956,7 +7344,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-44-12c-ngh-98-2990823/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-12c-ngh-98-2990823/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-12c-ngh-98-2990823-1.webp"
@@ -6098,6 +7486,102 @@
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-hy1201-2990690-1.webp"
     },
     {
+      "slug": "fendi-sz38-44-hy1201-2990977",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2990982",
+      "source_parent_product_id": "2990977",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2990982.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz38-44-hy1201-2990977/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2990982.html",
+        "https://shoes.tangma2088.com/productinfoen_2990981.html",
+        "https://shoes.tangma2088.com/productinfoen_2990980.html",
+        "https://shoes.tangma2088.com/productinfoen_2990979.html",
+        "https://shoes.tangma2088.com/productinfoen_2990978.html",
+        "https://shoes.tangma2088.com/productinfoen_2990977.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%20HY1201%20012308760_2990982.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%20HY1201%20022308759_2990981.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%20HY1201%20062308755_2990980.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%20HY1201%20092308752_2990979.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%20HY1201%20102308751_2990978.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%20HY1201%20132308748_2990977.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Fendi sz38-44 HY1201",
+      "english_product_name": "Fendi sz38-44 HY1201",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2990977",
+      "parent_product_id": "2990977",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/fendi-sz38-44-hy1201-2990690-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%20HY1201%20012308760_2990982.jpg",
+          "content_hash": "77f96c7a6f4bdf40bfa8e72821dde15087c0769e",
+          "alt": "Fendi sz38-44 HY1201"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-44-hy1201-2990690-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%20HY1201%20022308759_2990981.jpg",
+          "content_hash": "2ec387051c23355bff350a721d190574c917fac5",
+          "alt": "Fendi sz38-44 HY1201"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-44-hy1201-2990690-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%20HY1201%20062308755_2990980.jpg",
+          "content_hash": "32aaee38d29049070f12fd8c8ef7e4ade47c4781",
+          "alt": "Fendi sz38-44 HY1201"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-44-hy1201-2990977-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%20HY1201%20092308752_2990979.jpg",
+          "content_hash": "f5c76429c955316126cc16e59af6263cab38450b",
+          "alt": "Fendi sz38-44 HY1201"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-44-hy1201-2990977-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%20HY1201%20102308751_2990978.jpg",
+          "content_hash": "57d17c4f840b84468a46a20cb85d5c6e743b2a4b",
+          "alt": "Fendi sz38-44 HY1201"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-44-hy1201-2990977-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-44%20HY1201%20132308748_2990977.jpg",
+          "content_hash": "a547d4c0824d0bae763b9868ca35debe1d654512",
+          "alt": "Fendi sz38-44 HY1201"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/fendi-sz38-44-hy1201-2990977/",
+      "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-44-hy1201-2990977/",
+      "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-44-hy1201-2990690-1.webp"
+    },
+    {
       "slug": "fendi-sz38-45-2c-crq701-2990847",
       "top_category": "Shoes",
       "source_site": "shoes",
@@ -6122,7 +7606,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20CRQ701%20061451514_2990848.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20CRQ701%20081451512_2990847.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 2C CRQ701",
       "english_product_name": "Fendi sz38-45 2C CRQ701",
       "original_product_name": null,
@@ -6173,7 +7657,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-2c-crq701-2990847/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-2c-crq701-2990847/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-2c-crq701-2990847-1.webp"
@@ -6202,7 +7686,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20TF0403%20061409971_2990852.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20TF0403%20091409968_2990851.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 2C TF0403",
       "english_product_name": "Fendi sz38-45 2C TF0403",
       "original_product_name": null,
@@ -6253,7 +7737,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-2c-tf0403-2990851/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-2c-tf0403-2990851/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-2c-tf0403-2990851-1.webp"
@@ -6282,7 +7766,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20TF08001%20061476464_2990856.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20TF08001%20081476462_2990855.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 2C TF08001",
       "english_product_name": "Fendi sz38-45 2C TF08001",
       "original_product_name": null,
@@ -6333,7 +7817,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-2c-tf08001-2990855/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-2c-tf08001-2990855/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-2c-tf08001-2990855-1.webp"
@@ -6362,7 +7846,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20ZX0301%20071397435_2990860.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%202C%20ZX0301%20101397432_2990859.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 2C ZX0301",
       "english_product_name": "Fendi sz38-45 2C ZX0301",
       "original_product_name": null,
@@ -6413,7 +7897,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-2c-zx0301-2990859/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-2c-zx0301-2990859/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-2c-zx0301-2990859-1.webp"
@@ -6446,7 +7930,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%203C%20WM0901101485593_2990864.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%203C%20WM0901121485591_2990863.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 3C WM",
       "english_product_name": "Fendi sz38-45 3C WM",
       "original_product_name": null,
@@ -6509,7 +7993,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-3c-wm-2990863/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-3c-wm-2990863/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-3c-wm-2990863-1.webp"
@@ -6546,7 +8030,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20CRQ0801%20131473260_2990870.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20CRQ0801%20151473258_2990869.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 4C CRQ0801",
       "english_product_name": "Fendi sz38-45 4C CRQ0801",
       "original_product_name": null,
@@ -6621,7 +8105,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-4c-crq0801-2990869/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-4c-crq0801-2990869/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-4c-crq0801-2990869-1.webp"
@@ -6773,6 +8257,118 @@
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-4c-tf-2990704-1.webp"
     },
     {
+      "slug": "fendi-sz38-45-4c-tf-2990983",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2990990",
+      "source_parent_product_id": "2990983",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2990990.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz38-45-4c-tf-2990983/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2990990.html",
+        "https://shoes.tangma2088.com/productinfoen_2990989.html",
+        "https://shoes.tangma2088.com/productinfoen_2990988.html",
+        "https://shoes.tangma2088.com/productinfoen_2990987.html",
+        "https://shoes.tangma2088.com/productinfoen_2990986.html",
+        "https://shoes.tangma2088.com/productinfoen_2990985.html",
+        "https://shoes.tangma2088.com/productinfoen_2990984.html",
+        "https://shoes.tangma2088.com/productinfoen_2990983.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101011514999_2990990.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101041514996_2990989.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101051514995_2990988.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101081514992_2990987.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101091514991_2990986.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101121514988_2990985.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101131514987_2990984.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101161514984_2990983.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Fendi sz38-45 4C TF",
+      "english_product_name": "Fendi sz38-45 4C TF",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2990983",
+      "parent_product_id": "2990983",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-4c-tf-2990704-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101011514999_2990990.jpg",
+          "content_hash": "d8d64533e05c148b4566064becaec07d15c2ddbf",
+          "alt": "Fendi sz38-45 4C TF"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-4c-tf-2990704-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101041514996_2990989.jpg",
+          "content_hash": "bb7fc2f31441406354cf0d1e0132d144046c2e16",
+          "alt": "Fendi sz38-45 4C TF"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-4c-tf-2990704-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101051514995_2990988.jpg",
+          "content_hash": "347c5819e8759a35108bceaeb52619ffcae5a7a0",
+          "alt": "Fendi sz38-45 4C TF"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-4c-tf-2990983-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101081514992_2990987.jpg",
+          "content_hash": "23f3cde4f0b178181cc39ac9326d881efbed9f3e",
+          "alt": "Fendi sz38-45 4C TF"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-4c-tf-2990983-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101091514991_2990986.jpg",
+          "content_hash": "da58fc086537b6b4136a2f1d902254f8f5c5212e",
+          "alt": "Fendi sz38-45 4C TF"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-4c-tf-2990983-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101121514988_2990985.jpg",
+          "content_hash": "cd33f7259c646f8d64a264103e1911f88690835a",
+          "alt": "Fendi sz38-45 4C TF"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-4c-tf-2990983-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101131514987_2990984.jpg",
+          "content_hash": "40c72ea445b4261f94d17d48516091d96a4285e2",
+          "alt": "Fendi sz38-45 4C TF"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-4c-tf-2990983-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%204C%20TF1101161514984_2990983.jpg",
+          "content_hash": "d0fc8c57f4a09f5cec02665477e853233ec1c508",
+          "alt": "Fendi sz38-45 4C TF"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/fendi-sz38-45-4c-tf-2990983/",
+      "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-4c-tf-2990983/",
+      "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-4c-tf-2990704-1.webp"
+    },
+    {
       "slug": "fendi-sz38-45-by1103-2990877",
       "top_category": "Shoes",
       "source_site": "shoes",
@@ -6804,7 +8400,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20BY1103%20142267669_2990878.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20BY1103%20172267666_2990877.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 BY1103",
       "english_product_name": "Fendi sz38-45 BY1103",
       "original_product_name": null,
@@ -6879,7 +8475,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-by1103-2990877/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-by1103-2990877/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-by1103-2990877-1.webp"
@@ -6908,7 +8504,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD090%20062138527_2990886.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD090%20072138526_2990885.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 CD090",
       "english_product_name": "Fendi sz38-45 CD090",
       "original_product_name": null,
@@ -6959,7 +8555,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-cd090-2990885/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-cd090-2990885/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-cd090-2990885-1.webp"
@@ -6984,7 +8580,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD1102%20012267687_2990890.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD1102%20052267683_2990889.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 CD1102",
       "english_product_name": "Fendi sz38-45 CD1102",
       "original_product_name": null,
@@ -7023,7 +8619,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-cd1102-2990889/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-cd1102-2990889/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-cd1102-2990889-1.webp"
@@ -7056,7 +8652,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD1104%20092267693_2990892.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20CD1104%20112267692_2990891.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 CD1104",
       "english_product_name": "Fendi sz38-45 CD1104",
       "original_product_name": null,
@@ -7119,7 +8715,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-cd1104-2990891/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-cd1104-2990891/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-cd1104-2990891-1.webp"
@@ -7257,6 +8853,122 @@
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-gdt1002-2990721-1.webp"
     },
     {
+      "slug": "fendi-sz38-45-gdt1002-2990728",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_product_id": "2990996",
+      "source_parent_product_id": "2990728",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2990996.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz38-45-gdt1002-2990728/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2990996.html",
+        "https://shoes.tangma2088.com/productinfoen_2990995.html",
+        "https://shoes.tangma2088.com/productinfoen_2990994.html",
+        "https://shoes.tangma2088.com/productinfoen_2990993.html",
+        "https://shoes.tangma2088.com/productinfoen_2990992.html",
+        "https://shoes.tangma2088.com/productinfoen_2990991.html",
+        "https://shoes.tangma2088.com/productinfoen_2990732.html",
+        "https://shoes.tangma2088.com/productinfoen_2990731.html",
+        "https://shoes.tangma2088.com/productinfoen_2990730.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20012193588_2990996.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20012193588_2990732.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20022193587_2990731.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20032193586_2990995.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20032193586_2990730.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20042193585_2990729.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20052193584_2990728.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20062193583_2990994.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20082193581_2990993.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20102193579_2990992.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20112193578_2990991.jpg"
+      ],
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
+      "name": "Fendi sz38-45 GDT1002",
+      "english_product_name": "Fendi sz38-45 GDT1002",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2990728",
+      "parent_product_id": "2990728",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-gdt1002-2990721-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20012193588_2990996.jpg",
+          "content_hash": "6d68b8da95d793bc66adf2c188fab0f63526e411",
+          "alt": "Fendi sz38-45 GDT1002"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-gdt1002-2990721-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20012193588_2990732.jpg",
+          "content_hash": "6d68b8da95d793bc66adf2c188fab0f63526e411",
+          "alt": "Fendi sz38-45 GDT1002"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-gdt1002-2990721-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20022193587_2990731.jpg",
+          "content_hash": "c7ea13135ab4a166c61618816ea3c838d3cb571f",
+          "alt": "Fendi sz38-45 GDT1002"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-gdt1002-2990721-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20032193586_2990995.jpg",
+          "content_hash": "66c0a0de205e2ff7d9339dbfcf4128a49396b164",
+          "alt": "Fendi sz38-45 GDT1002"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-gdt1002-2990721-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20032193586_2990730.jpg",
+          "content_hash": "66c0a0de205e2ff7d9339dbfcf4128a49396b164",
+          "alt": "Fendi sz38-45 GDT1002"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-gdt1002-2990721-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20042193585_2990729.jpg",
+          "content_hash": "21aff366f781fd8634576b108d8d8dd39b1e0501",
+          "alt": "Fendi sz38-45 GDT1002"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-gdt1002-2990721-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20052193584_2990728.jpg",
+          "content_hash": "1d4eb7830922d456e4bc749275e6ba61fd5d6530",
+          "alt": "Fendi sz38-45 GDT1002"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz38-45-gdt1002-2990721-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20GDT1002%20062193583_2990994.jpg",
+          "content_hash": "a9d0c967c5d3fe01652bd30f86ad1f464587cbc2",
+          "alt": "Fendi sz38-45 GDT1002"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-28T06:34:10.995Z",
+      "_url": "/catalog/product/fendi-sz38-45-gdt1002-2990728/",
+      "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-gdt1002-2990728/",
+      "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-gdt1002-2990721-1.webp"
+    },
+    {
       "slug": "fendi-sz38-45-hy-2990733",
       "top_category": "Shoes",
       "source_site": "shoes",
@@ -7310,7 +9022,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20HY0703131997478_2990997.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20HY0703131997478_2990733.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 HY",
       "english_product_name": "Fendi sz38-45 HY",
       "original_product_name": null,
@@ -7385,7 +9097,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-hy-2990733/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-hy-2990733/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-hy-2990733-1.webp"
@@ -7470,7 +9182,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20HY1101%20212241120_2990747.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20HY1101%20222241119_2990746.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 HY1101",
       "english_product_name": "Fendi sz38-45 HY1101",
       "original_product_name": null,
@@ -7545,7 +9257,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-hy1101-2990746/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-hy1101-2990746/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-hy1101-2990746-1.webp"
@@ -7574,7 +9286,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20J1003%20062340150_2990898.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20J1003%20082340148_2990897.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 J1003",
       "english_product_name": "Fendi sz38-45 J1003",
       "original_product_name": null,
@@ -7625,7 +9337,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-j1003-2990897/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-j1003-2990897/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-j1003-2990897-1.webp"
@@ -7654,7 +9366,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20N1201%20%20062320979_2990902.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20N1201%20%20082320977_2990901.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 N1201",
       "english_product_name": "Fendi sz38-45 N1201",
       "original_product_name": null,
@@ -7705,7 +9417,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-n1201-2990901/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-n1201-2990901/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-n1201-2990901-1.webp"
@@ -7750,7 +9462,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20WM0902062117016_2990910.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20WM0902092117013_2990909.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 WM",
       "english_product_name": "Fendi sz38-45 WM",
       "original_product_name": null,
@@ -7825,7 +9537,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-wm-2990905/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-wm-2990905/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-wm-2990905-1.webp"
@@ -7904,7 +9616,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20WM0903%20152116594_2990768.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20WM0903%20152117030_2990913.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 WM0903",
       "english_product_name": "Fendi sz38-45 WM0903",
       "original_product_name": null,
@@ -7979,7 +9691,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-wm0903-2990768/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-wm0903-2990768/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-wm0903-2990768-1.webp"
@@ -8036,7 +9748,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20WM0904%20112116610_2990784.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20WM0904%20122116609_2990783.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 WM0904",
       "english_product_name": "Fendi sz38-45 WM0904",
       "original_product_name": null,
@@ -8111,7 +9823,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-wm0904-2990783/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-wm0904-2990783/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-wm0904-2990783-1.webp"
@@ -8152,7 +9864,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20WM1006%20202705887_2990926.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20WM1006%20222705885_2990925.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 WM1006",
       "english_product_name": "Fendi sz38-45 WM1006",
       "original_product_name": null,
@@ -8227,7 +9939,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-wm1006-2990925/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-wm1006-2990925/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-wm1006-2990925-1.webp"
@@ -8299,7 +10011,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20XJ0902%20162120138_2990796.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20XJ0902%20172120137_2990795.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 XJ0902",
       "english_product_name": "Fendi sz38-45 XJ0902",
       "original_product_name": null,
@@ -8374,7 +10086,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-xj0902-2990795/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-xj0902-2990795/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-xj0902-2990795-1.webp"
@@ -8423,7 +10135,7 @@
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20XJ0903%20092120154_2991035.jpg",
         "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz38-45%20XJ0903%20092120154_2990812.jpg"
       ],
-      "source_last_seen": "2026-07-27T07:06:55.358Z",
+      "source_last_seen": "2026-07-28T06:34:10.995Z",
       "name": "Fendi sz38-45 XJ0903",
       "english_product_name": "Fendi sz38-45 XJ0903",
       "original_product_name": null,
@@ -8498,7 +10210,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-27T07:06:55.358Z",
+      "synced_at": "2026-07-28T06:34:10.995Z",
       "_url": "/catalog/product/fendi-sz38-45-xj0903-2990812/",
       "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz38-45-xj0903-2990812/",
       "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz38-45-xj0903-2990812-1.webp"

@@ -1,0 +1,61 @@
+{
+  "slug": "dior-glow-53-16-145-a-4098788",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_product_id": "4098789",
+  "source_parent_product_id": "4098788",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4098789.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dior-glow-53-16-145-a-4098788/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4098789.html",
+    "https://acc.tangma2088.com/productinfoen_4098788.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Dior%20Glow%2053-16-145%20a%2001_4098788.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Dior%20Glow%2053-16-145%20a%2002_4098789.jpg"
+  ],
+  "source_last_seen": "2026-07-28T06:12:14.937Z",
+  "name": "Dior Glow 53-16-145 a",
+  "english_product_name": "Dior Glow 53-16-145 a",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4098788",
+  "parent_product_id": "4098788",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/dior-glow-53-16-145-a-4098788-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Dior%20Glow%2053-16-145%20a%2001_4098788.jpg",
+      "content_hash": "c8fb8fd7aa718b4c56bc1626654e76d5f3f0f6e2",
+      "alt": "Dior Glow 53-16-145 a"
+    },
+    {
+      "src": "/data/accessories/images/dior-glow-53-16-145-a-4098788-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Dior%20Glow%2053-16-145%20a%2002_4098789.jpg",
+      "content_hash": "f18061e229abf3dd24ecfe9068a9f496450ec0e7",
+      "alt": "Dior Glow 53-16-145 a"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T06:12:14.937Z"
+}
