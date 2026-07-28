@@ -1010,16 +1010,396 @@
       "parent_product_id": "2991112",
       "firstSeen": "2026-07-28T06:34:10.995Z",
       "lastSeen": "2026-07-28T06:34:10.995Z"
+    },
+    "2991298": {
+      "rawHash": "827d19e3b8aca05cdb80ef379e0ea15dab4dd361",
+      "slug": "dior-sz38-44-mns0603-2991298",
+      "parent_product_id": "2991298",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991306": {
+      "rawHash": "2c63147960897131727c4721716349d0b3272456",
+      "slug": "smilerepublic-sz35-44-mns0601-2991306",
+      "parent_product_id": "2991306",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991315": {
+      "rawHash": "e06b9453c28eb7e4feccd111caf7f343de55289c",
+      "slug": "valentino-sz38-45-mns0601-2991315",
+      "parent_product_id": "2991315",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991328": {
+      "rawHash": "7b85fd5f770b1b5170c9472329767b0bf1ba0ef8",
+      "slug": "coach-sz38-45-mns0601-2991328",
+      "parent_product_id": "2991328",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991335": {
+      "rawHash": "ee200580925bc1b3d2cb4876edd349a63089f878",
+      "slug": "prada-sz38-45-mns0601-2991335",
+      "parent_product_id": "2991335",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991341": {
+      "rawHash": "3366dea468413aa289b0fe7455172eb6c80d01f7",
+      "slug": "gucci-sz38-45-mns0602-2991341",
+      "parent_product_id": "2991341",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991344": {
+      "rawHash": "b76285311300beac773284d5ba5bda4120e6be71",
+      "slug": "alexander-mcqueen-sz35-44-mns0601-2991344",
+      "parent_product_id": "2991344",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991354": {
+      "rawHash": "d2b9815fcf703ee6c67ec2180603db8a9811716f",
+      "slug": "alexander-mcqueen-sz35-44-mns0602-2991354",
+      "parent_product_id": "2991354",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991364": {
+      "rawHash": "0ca6861e757a1d056a5b467323dda33d2d2daa47",
+      "slug": "alexander-mcqueen-sz35-44-mns0603-2991364",
+      "parent_product_id": "2991364",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991374": {
+      "rawHash": "b1827dabf28076992d255577991432d7ce0a3cf2",
+      "slug": "zegna-sz38-45-mns0601-2991374",
+      "parent_product_id": "2991374",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991384": {
+      "rawHash": "0d519e016b682402f64a60fd9c1b6d04d4d145a1",
+      "slug": "zegna-sz38-45-mns0602-2991384",
+      "parent_product_id": "2991384",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991394": {
+      "rawHash": "08b6b03dfe352304d9cceee843dcd34fbd947ab9",
+      "slug": "hermes-sz35-44-mns0601-2991394",
+      "parent_product_id": "2991394",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991404": {
+      "rawHash": "31a890c95d98e4f06eccd5dd4c5e36ee5cca04ff",
+      "slug": "hermes-sz35-44-mns0602-2991404",
+      "parent_product_id": "2991404",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991413": {
+      "rawHash": "ca7c617834c6f2987101bb3e36d5a31d472b5eb7",
+      "slug": "maison-margiela-sz35-45-mns0601-2991413",
+      "parent_product_id": "2991413",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991423": {
+      "rawHash": "d35ae31ba686b8e7080c6b4e160476b948ebdf8c",
+      "slug": "loewe-sz35-40-mns0601-2991423",
+      "parent_product_id": "2991423",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991432": {
+      "rawHash": "13897d00e1678a269cc26b7e3042deb254ecc630",
+      "slug": "lv-sz35-40-mns0601-2991432",
+      "parent_product_id": "2991432",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991450": {
+      "rawHash": "6063e5debda8896d0d0b45911ef8f86ee013f76e",
+      "slug": "bottega-veneta-sz35-41-mns0601-2991450",
+      "parent_product_id": "2991450",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991468": {
+      "rawHash": "1dca4d28f14fc8d4457756927efacf2501ced652",
+      "slug": "bottega-veneta-sz35-41-9cm-mns0601-2991468",
+      "parent_product_id": "2991468",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991486": {
+      "rawHash": "709f883ce4fde7f28575c46c05bde449da3649c5",
+      "slug": "le-silla-sz35-41-10-5cm-0601-2991486",
+      "parent_product_id": "2991486",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991496": {
+      "rawHash": "3582f8b20d78c9d7418ee30df820fc7783db5e83",
+      "slug": "le-silla-sz35-41-10-5cm-0602-2991496",
+      "parent_product_id": "2991496",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991516": {
+      "rawHash": "b9c0c68d825ad52b567187b77655e0fc331e5cbe",
+      "slug": "le-silla-sz35-41-10-5cm-0604-2991516",
+      "parent_product_id": "2991516",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991526": {
+      "rawHash": "2a7cc01aba8d474c194ef6a3bb46396bafa493ec",
+      "slug": "le-silla-sz35-41-10-5cm-0605-2991526",
+      "parent_product_id": "2991526",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991535": {
+      "rawHash": "d89c37cf59f4d902df5749280e8bd612f057ddfb",
+      "slug": "le-silla-sz35-41-10-5cm-0606-2991535",
+      "parent_product_id": "2991535",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991545": {
+      "rawHash": "4a1746bffa53d9fce07cb8c8df9403495cc5f11c",
+      "slug": "le-silla-sz35-41-10-5cm-0607-2991545",
+      "parent_product_id": "2991545",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991555": {
+      "rawHash": "eb174a8a4ae9cb9ad63431a6477b90cc18cce36b",
+      "slug": "le-silla-sz35-41-10-5cm-0608-2991555",
+      "parent_product_id": "2991555",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991566": {
+      "rawHash": "a2633bc52d777c6cd363741bba859342023cce67",
+      "slug": "le-silla-sz35-41-10-5cm-0609-2991566",
+      "parent_product_id": "2991566",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991576": {
+      "rawHash": "9033903f058f0a85e0039243ea2c94a7a754c634",
+      "slug": "le-silla-sz35-41-10-5cm-0610-2991576",
+      "parent_product_id": "2991576",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991586": {
+      "rawHash": "18fd9a495b9e78f624938d2616c6a9e07c8cc1e9",
+      "slug": "le-silla-sz35-41-10-5cm-0603-2991586",
+      "parent_product_id": "2991586",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991596": {
+      "rawHash": "50a650ddf22a48c2c93307955c96ea13d17ae436",
+      "slug": "chanel-sz35-41-mns0601-2991596",
+      "parent_product_id": "2991596",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991598": {
+      "rawHash": "2b0c891779e1b3e4dc30041024f26fa34dd7affc",
+      "slug": "chanel-sz35-39-mns0602-2991598",
+      "parent_product_id": "2991598",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991600": {
+      "rawHash": "0fa68ea3246f0ba2d7b20eb890c44f0a40c28147",
+      "slug": "alala-sz35-41-mns0601-2991600",
+      "parent_product_id": "2991600",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991602": {
+      "rawHash": "71393c4f2536b875d4af7b12f154f3193d06a17f",
+      "slug": "chanel-sz35-39-9cm-mns0601-2991602",
+      "parent_product_id": "2991602",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991604": {
+      "rawHash": "20de40d429e697b4c9d331c692dee11b29d6e2dc",
+      "slug": "chanel-sz35-39-8-5cm-mns0603-2991604",
+      "parent_product_id": "2991604",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991606": {
+      "rawHash": "98289a5830c4f73a86730096b6153dcaaa97ef29",
+      "slug": "chanel-sz35-39-8-5cm-mns0602-2991606",
+      "parent_product_id": "2991606",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991608": {
+      "rawHash": "0c3c82025837afb56f841593077778aa0ad7207a",
+      "slug": "lv-sz36-39-12cm-mns0605-2991608",
+      "parent_product_id": "2991608",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991610": {
+      "rawHash": "de9202594f5218fab40abd78952030ffbc57c869",
+      "slug": "lv-sz36-39-12cm-mns0604-2991610",
+      "parent_product_id": "2991610",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991612": {
+      "rawHash": "b92661e3bf20957dea1c21b8f94e1bfcf75a2864",
+      "slug": "lv-sz36-39-12cm-mns0603-2991612",
+      "parent_product_id": "2991612",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991614": {
+      "rawHash": "4f27f24966efc3645facf9b3bde52e428268dd92",
+      "slug": "lv-sz36-39-8-5cm-mns0602-2991614",
+      "parent_product_id": "2991614",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991616": {
+      "rawHash": "7e961bd2b1afc96fcf3f662dee0bafab572c722e",
+      "slug": "lv-sz35-39-8cm-mns0601-2991616",
+      "parent_product_id": "2991616",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991618": {
+      "rawHash": "dbe3df9117c92d7470373b81406e8a0b5fb890e0",
+      "slug": "lv-sz38-45-mns0601-2991618",
+      "parent_product_id": "2991618",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991620": {
+      "rawHash": "a46f06aa531228dfdc2234ef8e0ee0d5a0e2e4e8",
+      "slug": "dior-sz38-45-mns0601-2991620",
+      "parent_product_id": "2991620",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991622": {
+      "rawHash": "d4496174d073de44b29c0ee9f20e0ecd520f6946",
+      "slug": "ysl-sz38-44-mns0601-2991622",
+      "parent_product_id": "2991622",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991632": {
+      "rawHash": "c96de76de3712845ab5351faa6b79d2b7816cd27",
+      "slug": "karl-lagefeld-sz36-45-mns0601-2991632",
+      "parent_product_id": "2991632",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991638": {
+      "rawHash": "361637dfc1f7fd66d3d1b15ef8d2662c00b16d29",
+      "slug": "lv-sz38-45-mns0602-2991638",
+      "parent_product_id": "2991638",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991644": {
+      "rawHash": "ed8969fad4e89ac64a4decdbe6be05f8fb23f2d8",
+      "slug": "dior-sz38-45-mns0602-2991644",
+      "parent_product_id": "2991644",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991652": {
+      "rawHash": "39f1b33e561e97c7ead7c58e601e375b3ce6b37a",
+      "slug": "loro-piana-sz39-46-mns0602-2991652",
+      "parent_product_id": "2991652",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991654": {
+      "rawHash": "3bba0b62ff0590bc1e8d51b028050503a3e7ff67",
+      "slug": "loro-piana-sz39-46-mns0601-2991654",
+      "parent_product_id": "2991654",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991658": {
+      "rawHash": "435aaf91ae6ebd0d837a4e8be9f5fc021d309ca1",
+      "slug": "diesdl-sz39-44-mns0601-2991658",
+      "parent_product_id": "2991658",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991660": {
+      "rawHash": "6de1b01fef4643d015f8c4cf11c0ee4c88d6c008",
+      "slug": "dg-sz39-45-mns0603-2991660",
+      "parent_product_id": "2991660",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991662": {
+      "rawHash": "677bd963b92d1427b4a15ff7ef2f99aab24c3049",
+      "slug": "dg-sz39-45-mns0602-2991662",
+      "parent_product_id": "2991662",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991664": {
+      "rawHash": "e2bfee25c9e5dac36de5dbeda9b0697a2068c253",
+      "slug": "burberry-sz38-46-mns0601-2991664",
+      "parent_product_id": "2991664",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991666": {
+      "rawHash": "84236ffbece6ecaa1494bde37508b11c360fb15e",
+      "slug": "chanel-sz35-40-mns0602-2991666",
+      "parent_product_id": "2991666",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991668": {
+      "rawHash": "393e398eaff42e1177458cd2063a152c7f5fc509",
+      "slug": "chanel-sz35-39-mns0601-2991668",
+      "parent_product_id": "2991668",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
+    },
+    "2991676": {
+      "rawHash": "38a328413b9127d03bc33de7c4b65a76c96d22d0",
+      "slug": "lv-sz39-44-mns0601-2991676",
+      "parent_product_id": "2991676",
+      "firstSeen": "2026-07-28T22:33:22.298Z",
+      "lastSeen": "2026-07-28T22:33:22.298Z"
     }
   },
   "categories": [
-    "new-arrival-0726",
+    "le-silla-2026-0728",
+    "new-arrival-0728",
     "factory-b-0726",
     "factory-c0726",
     "kid-shoes-0713",
-    "gucci-2026-0714",
+    "gucci-2026-0728",
     "louis-vittion-2026-0728",
-    "alexander-mcqueen-2026-0612",
+    "alala-2026-0728",
+    "alexander-mcqueen-2026-0728",
     "armani-2026-0621",
     "amiri-2026-0725",
     "acne-2026-0602",
@@ -1033,20 +1413,20 @@
     "berluti-2026-0623",
     "boss-2026-0715",
     "balenciaga-2026-0715",
-    "bottega-veneta-2026-0624",
-    "burberry-2026-0621",
+    "bottega-veneta-2026-0728",
+    "burberry-2026-0728",
     "bally-2026-0614",
     "brunello-cucinelli-2026-0725",
     "billionaire-2026-0607",
     "celine-20260319",
     "christian-louboutin-2026-0715",
     "chanel-2026-0728",
-    "coach-2026-0623",
+    "coach-2026-0728",
     "chrome-hearts-2026-0606",
     "dg-2026-0728",
-    "dior-2026-0725",
+    "dior-2026-0728",
     "dsq-2026-0717",
-    "diesel-2026-0717",
+    "diesel-2026-0728",
     "fendi-2026-0725",
     "ferragamo-2026-0622",
     "fog-2026-0602",
@@ -1056,23 +1436,23 @@
     "richard-2026-0530",
     "rickowens-2026-0606",
     "roger-vivier-2026-0725",
-    "hermes-2026-0721",
+    "hermes-2026-0728",
     "hogan-2026-0615",
     "jimmy-choo-20250628",
     "jil-sander-2026-0608",
     "jmweston-2026-0617",
-    "karl-lagefeld-2026-0608",
+    "karl-lagefeld-2026-0728",
     "kenzo-20250810",
     "kailas-2026-0624",
     "kiton-2026-0612",
     "kolon-sport-2026-0617",
     "lanvin-20260126",
-    "loro-piana-2026-0725",
-    "loewe-2026-0725",
+    "loro-piana-2026-0728",
+    "loewe-2026-0728",
     "miumiu-2026-0721",
     "moncler-2026-0612",
     "moschino-20250513",
-    "maison-margiela-2026-0721",
+    "maison-margiela-2026-0728",
     "magnanni-2026-0604",
     "marni-2026-0608",
     "moon-boot-20250412",
@@ -1083,24 +1463,25 @@
     "on-2026-0722",
     "onitsuka-tiger-2026-0608",
     "philipp-plein-2026-0623",
-    "prada-2026-0725",
+    "prada-2026-0728",
     "stefano-ricci-2026-0617",
     "santoni-2026-0623",
     "salomon-2026-0617",
-    "smilerepublic-2026-0725",
+    "smilerepublic-2026-0728",
     "thom-browne-2026-0624",
     "tom-ford-2026-0608",
     "tod-s-2026-0624",
     "tory-burch-20250513",
     "ugg-20260204",
-    "valentino-2026-0616",
+    "valentino-2026-0728",
     "versace-2026-0725",
     "veja-2026-0617",
-    "ysl-2026-0623",
+    "ysl-2026-0728",
     "y-3-20260204",
-    "zegna-2026-0725",
+    "zegna-2026-0728",
     "zilli-2026-0606",
     "zara-2026-0725"
   ],
-  "updatedAt": "2026-07-28T06:34:10.995Z"
+  "feedResumeUrl": "https://shoes.tangma2088.com/newproductsen_0.html",
+  "updatedAt": "2026-07-28T22:33:22.298Z"
 }

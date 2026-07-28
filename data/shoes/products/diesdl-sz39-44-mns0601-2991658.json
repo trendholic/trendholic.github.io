@@ -1,0 +1,64 @@
+{
+  "slug": "diesdl-sz39-44-mns0601-2991658",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991659",
+  "source_parent_product_id": "2991658",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991659.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/diesdl-sz39-44-mns0601-2991658/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991659.html",
+    "https://shoes.tangma2088.com/productinfoen_2991658.html",
+    "https://shoes.tangma2088.com/productinfoen_2991657.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Diesdl%20sz39-44%20mns0601%20(1)_2991659.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Diesdl%20sz39-44%20mns0601%20(3)_2991658.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:33:22.298Z",
+  "name": "Diesdl sz39-44 mns0601",
+  "english_product_name": "Diesdl sz39-44 mns0601",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991658",
+  "parent_product_id": "2991658",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/diesdl-sz39-44-mns0601-2991658-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Diesdl%20sz39-44%20mns0601%20(1)_2991659.jpg",
+      "content_hash": "2627b918666c8265a368950c8c5eecb596ededfc",
+      "alt": "Diesdl sz39-44 mns0601"
+    },
+    {
+      "src": "/data/shoes/images/diesdl-sz39-44-mns0601-2991658-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Diesdl%20sz39-44%20mns0601%20(3)_2991658.jpg",
+      "content_hash": "bb37a7a8d12f8af74787f6cc4eb383e0bcadebbc",
+      "alt": "Diesdl sz39-44 mns0601"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:33:22.298Z"
+}

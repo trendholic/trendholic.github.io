@@ -1,0 +1,63 @@
+{
+  "slug": "dg-sz39-45-mns0602-2991662",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991663",
+  "source_parent_product_id": "2991662",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991663.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dg-sz39-45-mns0602-2991662/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991663.html",
+    "https://shoes.tangma2088.com/productinfoen_2991662.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20%20(1)_2991663.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20%20(2)_2991662.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:33:22.298Z",
+  "name": "DG sz39-45 mns0602",
+  "english_product_name": "DG sz39-45 mns0602",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991662",
+  "parent_product_id": "2991662",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/dg-sz39-45-mns0602-2991040-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20%20(1)_2991663.jpg",
+      "content_hash": "9563cb87cc6ee7d61c79034f85f4e8a2b2f5b1e9",
+      "alt": "DG sz39-45 mns0602"
+    },
+    {
+      "src": "/data/shoes/images/dg-sz39-45-mns0602-2991040-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0602%20%20(2)_2991662.jpg",
+      "content_hash": "7286915b0e6a9bdc6eeed3792cb37c0d07cf0aa0",
+      "alt": "DG sz39-45 mns0602"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:33:22.298Z"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "zegna-m-4xl-8qx5857-5753730",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "5753733",
+  "source_parent_product_id": "5753730",
+  "source_product_url": "https://tangma2088.com/productinfoen_5753733.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/zegna-m-4xl-8qx5857-5753730/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5753733.html",
+    "https://tangma2088.com/productinfoen_5753732.html",
+    "https://tangma2088.com/productinfoen_5753731.html",
+    "https://tangma2088.com/productinfoen_5753730.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/Zegna%20M-4XL%208qx5857%20(1)_5753733.jpg",
+    "https://tangma2088.com/upfile/product/202607/Zegna%20M-4XL%208qx5857%20(2)_5753732.jpg",
+    "https://tangma2088.com/upfile/product/202607/Zegna%20M-4XL%208qx5857%20(3)_5753731.jpg",
+    "https://tangma2088.com/upfile/product/202607/Zegna%20M-4XL%208qx5857%20(4)_5753730.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:14:18.799Z",
+  "name": "Zegna M-4XL 8qx5857",
+  "english_product_name": "Zegna M-4XL 8qx5857",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5753730",
+  "parent_product_id": "5753730",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/zegna-m-4xl-8qx5857-5753730-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Zegna%20M-4XL%208qx5857%20(1)_5753733.jpg",
+      "content_hash": "6cbe0109c3c7b2b932ec957f114602468d2f55e9",
+      "alt": "Zegna M-4XL 8qx5857"
+    },
+    {
+      "src": "/data/apparel/images/zegna-m-4xl-8qx5857-5753730-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Zegna%20M-4XL%208qx5857%20(2)_5753732.jpg",
+      "content_hash": "0e20b21351d75d6aacce50ae5d4dd4ef99fba2b4",
+      "alt": "Zegna M-4XL 8qx5857"
+    },
+    {
+      "src": "/data/apparel/images/zegna-m-4xl-8qx5857-5753730-3.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Zegna%20M-4XL%208qx5857%20(3)_5753731.jpg",
+      "content_hash": "13bb897de1a77ddb2ae37964f357caeb4ff78161",
+      "alt": "Zegna M-4XL 8qx5857"
+    },
+    {
+      "src": "/data/apparel/images/zegna-m-4xl-8qx5857-5753730-4.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Zegna%20M-4XL%208qx5857%20(4)_5753730.jpg",
+      "content_hash": "3974ab697d24dc838e20d77222c4c6768e687896",
+      "alt": "Zegna M-4XL 8qx5857"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:14:18.799Z"
+}

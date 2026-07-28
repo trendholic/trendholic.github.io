@@ -1,0 +1,63 @@
+{
+  "slug": "chanel-sz35-39-8-5cm-mns0603-2991604",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991605",
+  "source_parent_product_id": "2991604",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991605.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-sz35-39-8-5cm-mns0603-2991604/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991605.html",
+    "https://shoes.tangma2088.com/productinfoen_2991604.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(1)_2991605.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(2)_2991604.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:33:22.298Z",
+  "name": "Chanel sz35-39 8.5cm mns0603",
+  "english_product_name": "Chanel sz35-39 8.5cm mns0603",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991604",
+  "parent_product_id": "2991604",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0603-2991112-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(1)_2991605.jpg",
+      "content_hash": "2a132b311d468f7d52232fef62650f9390fca3ac",
+      "alt": "Chanel sz35-39 8.5cm mns0603"
+    },
+    {
+      "src": "/data/shoes/images/chanel-sz35-39-8-5cm-mns0603-2991112-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-39%208.5cm%20mns0603%20(2)_2991604.jpg",
+      "content_hash": "d62957bb577f8fd78016dbd2827cf6d5a79f73f1",
+      "alt": "Chanel sz35-39 8.5cm mns0603"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:33:22.298Z"
+}

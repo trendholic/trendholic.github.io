@@ -1,0 +1,79 @@
+{
+  "slug": "ysl-m-6xl-8qx314-5753408",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "5753411",
+  "source_parent_product_id": "5753408",
+  "source_product_url": "https://tangma2088.com/productinfoen_5753411.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/ysl-m-6xl-8qx314-5753408/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5753411.html",
+    "https://tangma2088.com/productinfoen_5753410.html",
+    "https://tangma2088.com/productinfoen_5753409.html",
+    "https://tangma2088.com/productinfoen_5753408.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/YSL%20M-6XL%208qx314%20(1)_5753411.jpg",
+    "https://tangma2088.com/upfile/product/202607/YSL%20M-6XL%208qx314%20(2)_5753410.jpg",
+    "https://tangma2088.com/upfile/product/202607/YSL%20M-6XL%208qx314%20(3)_5753409.jpg",
+    "https://tangma2088.com/upfile/product/202607/YSL%20M-6XL%208qx314%20(4)_5753408.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:14:18.799Z",
+  "name": "YSL M-6XL 8qx314",
+  "english_product_name": "YSL M-6XL 8qx314",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5753408",
+  "parent_product_id": "5753408",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/ysl-m-6xl-8qx314-5753408-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/YSL%20M-6XL%208qx314%20(1)_5753411.jpg",
+      "content_hash": "9247e943ca21bad5bdbf55a22b903435a6af3c95",
+      "alt": "YSL M-6XL 8qx314"
+    },
+    {
+      "src": "/data/apparel/images/ysl-m-6xl-8qx314-5753408-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/YSL%20M-6XL%208qx314%20(2)_5753410.jpg",
+      "content_hash": "992256db28fa8e2965f94a41bb6436f9d7e3fe50",
+      "alt": "YSL M-6XL 8qx314"
+    },
+    {
+      "src": "/data/apparel/images/ysl-m-6xl-8qx314-5753408-3.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/YSL%20M-6XL%208qx314%20(3)_5753409.jpg",
+      "content_hash": "f068c8c6caa23221376e87f41b32c47a32815e5e",
+      "alt": "YSL M-6XL 8qx314"
+    },
+    {
+      "src": "/data/apparel/images/ysl-m-6xl-8qx314-5753408-4.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/YSL%20M-6XL%208qx314%20(4)_5753408.jpg",
+      "content_hash": "02bc45fe8ac6534c4221b8899e560209d977b075",
+      "alt": "YSL M-6XL 8qx314"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:14:18.799Z"
+}

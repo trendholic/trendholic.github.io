@@ -1,0 +1,63 @@
+{
+  "slug": "burberry-sz38-46-mns0601-2991664",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991665",
+  "source_parent_product_id": "2991664",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991665.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/burberry-sz38-46-mns0601-2991664/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991665.html",
+    "https://shoes.tangma2088.com/productinfoen_2991664.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Burberry%20sz38-46%20mns0601%20(1)_2991665.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Burberry%20sz38-46%20mns0601%20(2)_2991664.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:33:22.298Z",
+  "name": "Burberry sz38-46 mns0601",
+  "english_product_name": "Burberry sz38-46 mns0601",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991664",
+  "parent_product_id": "2991664",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/burberry-sz38-46-mns0601-2991664-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Burberry%20sz38-46%20mns0601%20(1)_2991665.jpg",
+      "content_hash": "194a783c9aa3ac8f663f31fde979d4791e4c892a",
+      "alt": "Burberry sz38-46 mns0601"
+    },
+    {
+      "src": "/data/shoes/images/burberry-sz38-46-mns0601-2991664-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Burberry%20sz38-46%20mns0601%20(2)_2991664.jpg",
+      "content_hash": "91b76d6caf2a7e43d5b966df405fe5711c00322e",
+      "alt": "Burberry sz38-46 mns0601"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:33:22.298Z"
+}

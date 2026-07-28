@@ -1,0 +1,63 @@
+{
+  "slug": "chanel-sz35-41-mns0601-2991596",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991597",
+  "source_parent_product_id": "2991596",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991597.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-sz35-41-mns0601-2991596/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991597.html",
+    "https://shoes.tangma2088.com/productinfoen_2991596.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(1)_2991597.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(2)_2991596.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:33:22.298Z",
+  "name": "Chanel sz35-41 mns0601",
+  "english_product_name": "Chanel sz35-41 mns0601",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991596",
+  "parent_product_id": "2991596",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/chanel-sz35-41-mns0601-2991076-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(1)_2991597.jpg",
+      "content_hash": "d79a32f220f39e0500d2a30832879d9383016c16",
+      "alt": "Chanel sz35-41 mns0601"
+    },
+    {
+      "src": "/data/shoes/images/chanel-sz35-41-mns0601-2991076-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-41%20mns0601%20(2)_2991596.jpg",
+      "content_hash": "22711afadc2d359efbb01dff65f5409cc5385979",
+      "alt": "Chanel sz35-41 mns0601"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:33:22.298Z"
+}

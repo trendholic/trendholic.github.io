@@ -6,6 +6,8 @@
   "source_top_category": "Bags",
   "source_category": "New Products",
   "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
   "source_product_id": "2020581",
   "source_parent_product_id": "2020572",
   "source_product_url": "https://bags.tangma2088.com/productinfoen_2020581.html",
@@ -34,7 +36,7 @@
     "https://bags.tangma2088.com/upfile/product/202607/Prada%201BA486%2023%205x12x9cm%20AP109_2020573.jpg",
     "https://bags.tangma2088.com/upfile/product/202607/Prada%201BA486%2023%205x12x9cm%20AP1010_2020572.jpg"
   ],
-  "source_last_seen": "2026-07-28T06:25:08.718Z",
+  "source_last_seen": "2026-07-28T22:30:09.503Z",
   "name": "Prada 1BA486 23 5x12x9cm AP",
   "english_product_name": "Prada 1BA486 23 5x12x9cm AP",
   "original_product_name": null,
@@ -109,5 +111,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-07-28T06:25:08.718Z"
+  "synced_at": "2026-07-28T22:30:09.503Z"
 }

@@ -1,0 +1,79 @@
+{
+  "slug": "dg-m-6xl-8qx324-5753428",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "5753431",
+  "source_parent_product_id": "5753428",
+  "source_product_url": "https://tangma2088.com/productinfoen_5753431.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dg-m-6xl-8qx324-5753428/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5753431.html",
+    "https://tangma2088.com/productinfoen_5753430.html",
+    "https://tangma2088.com/productinfoen_5753429.html",
+    "https://tangma2088.com/productinfoen_5753428.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/DG%20M-6XL%208qx324%20(1)_5753431.jpg",
+    "https://tangma2088.com/upfile/product/202607/DG%20M-6XL%208qx324%20(2)_5753430.jpg",
+    "https://tangma2088.com/upfile/product/202607/DG%20M-6XL%208qx324%20(3)_5753429.jpg",
+    "https://tangma2088.com/upfile/product/202607/DG%20M-6XL%208qx324%20(4)_5753428.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:14:18.799Z",
+  "name": "DG M-6XL 8qx324",
+  "english_product_name": "DG M-6XL 8qx324",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5753428",
+  "parent_product_id": "5753428",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/dg-m-6xl-8qx324-5753428-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/DG%20M-6XL%208qx324%20(1)_5753431.jpg",
+      "content_hash": "0aa80e1d0d1e5403b2468021e5358fd075849d23",
+      "alt": "DG M-6XL 8qx324"
+    },
+    {
+      "src": "/data/apparel/images/dg-m-6xl-8qx324-5753428-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/DG%20M-6XL%208qx324%20(2)_5753430.jpg",
+      "content_hash": "33595c7d38cd29ab2994912f7cf813b0e71516c7",
+      "alt": "DG M-6XL 8qx324"
+    },
+    {
+      "src": "/data/apparel/images/dg-m-6xl-8qx324-5753428-3.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/DG%20M-6XL%208qx324%20(3)_5753429.jpg",
+      "content_hash": "8ab0ffdafc46539d4bd0eb4220f1670c3e935b25",
+      "alt": "DG M-6XL 8qx324"
+    },
+    {
+      "src": "/data/apparel/images/dg-m-6xl-8qx324-5753428-4.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/DG%20M-6XL%208qx324%20(4)_5753428.jpg",
+      "content_hash": "bab8cdcda72776c7d8d54b23c25f55b94523b6d2",
+      "alt": "DG M-6XL 8qx324"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:14:18.799Z"
+}

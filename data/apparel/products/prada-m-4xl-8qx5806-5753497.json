@@ -1,0 +1,79 @@
+{
+  "slug": "prada-m-4xl-8qx5806-5753497",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "5753500",
+  "source_parent_product_id": "5753497",
+  "source_product_url": "https://tangma2088.com/productinfoen_5753500.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/prada-m-4xl-8qx5806-5753497/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5753500.html",
+    "https://tangma2088.com/productinfoen_5753499.html",
+    "https://tangma2088.com/productinfoen_5753498.html",
+    "https://tangma2088.com/productinfoen_5753497.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/Prada%20M-4XL%208qx5806%20(1)_5753500.jpg",
+    "https://tangma2088.com/upfile/product/202607/Prada%20M-4XL%208qx5806%20(2)_5753499.jpg",
+    "https://tangma2088.com/upfile/product/202607/Prada%20M-4XL%208qx5806%20(3)_5753498.jpg",
+    "https://tangma2088.com/upfile/product/202607/Prada%20M-4XL%208qx5806%20(4)_5753497.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:14:18.799Z",
+  "name": "Prada M-4XL 8qx5806",
+  "english_product_name": "Prada M-4XL 8qx5806",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5753497",
+  "parent_product_id": "5753497",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/prada-m-4xl-8qx5806-5753497-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Prada%20M-4XL%208qx5806%20(1)_5753500.jpg",
+      "content_hash": "bc92c8ff6e182602cf99c14db83fd98f201fcf67",
+      "alt": "Prada M-4XL 8qx5806"
+    },
+    {
+      "src": "/data/apparel/images/prada-m-4xl-8qx5806-5753497-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Prada%20M-4XL%208qx5806%20(2)_5753499.jpg",
+      "content_hash": "a79aee94cf4bf0c0a7cad5a36d44f748f2f19b55",
+      "alt": "Prada M-4XL 8qx5806"
+    },
+    {
+      "src": "/data/apparel/images/prada-m-4xl-8qx5806-5753497-3.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Prada%20M-4XL%208qx5806%20(3)_5753498.jpg",
+      "content_hash": "aaff99ae034addbeaad812dafeb860f2cf04931d",
+      "alt": "Prada M-4XL 8qx5806"
+    },
+    {
+      "src": "/data/apparel/images/prada-m-4xl-8qx5806-5753497-4.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Prada%20M-4XL%208qx5806%20(4)_5753497.jpg",
+      "content_hash": "966c3eb31456aeae5cb2c89b61474120bf9a63a8",
+      "alt": "Prada M-4XL 8qx5806"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:14:18.799Z"
+}

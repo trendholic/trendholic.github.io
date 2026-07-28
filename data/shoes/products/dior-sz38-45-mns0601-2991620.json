@@ -1,0 +1,79 @@
+{
+  "slug": "dior-sz38-45-mns0601-2991620",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991647",
+  "source_parent_product_id": "2991620",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991647.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dior-sz38-45-mns0601-2991620/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991647.html",
+    "https://shoes.tangma2088.com/productinfoen_2991646.html",
+    "https://shoes.tangma2088.com/productinfoen_2991621.html",
+    "https://shoes.tangma2088.com/productinfoen_2991620.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz38-45%20mns0601%20(1)_2991647.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz38-45%20mns0601%20(1)_2991621.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz38-45%20mns0601%20(2)_2991646.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz38-45%20mns0601%20(2)_2991620.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:33:22.298Z",
+  "name": "Dior sz38-45 mns0601",
+  "english_product_name": "Dior sz38-45 mns0601",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991620",
+  "parent_product_id": "2991620",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/dior-sz38-45-mns0601-2991620-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz38-45%20mns0601%20(1)_2991647.jpg",
+      "content_hash": "c79bc5e180e0a881a07c1a4292b077a348d0a62c",
+      "alt": "Dior sz38-45 mns0601"
+    },
+    {
+      "src": "/data/shoes/images/dior-sz38-45-mns0601-2991620-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz38-45%20mns0601%20(1)_2991621.jpg",
+      "content_hash": "60ff3752e71a0363ce74c44dd238753a42ac53e9",
+      "alt": "Dior sz38-45 mns0601"
+    },
+    {
+      "src": "/data/shoes/images/dior-sz38-45-mns0601-2991620-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz38-45%20mns0601%20(2)_2991646.jpg",
+      "content_hash": "316cd718c2ad950dff6aa3a2be15e957da3ead6b",
+      "alt": "Dior sz38-45 mns0601"
+    },
+    {
+      "src": "/data/shoes/images/dior-sz38-45-mns0601-2991620-4.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz38-45%20mns0601%20(2)_2991620.jpg",
+      "content_hash": "caf38259713523f45e95e80fa8b74b1eefbc2208",
+      "alt": "Dior sz38-45 mns0601"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:33:22.298Z"
+}

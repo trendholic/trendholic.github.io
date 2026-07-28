@@ -1,0 +1,63 @@
+{
+  "slug": "chanel-sz35-40-mns0602-2991666",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991667",
+  "source_parent_product_id": "2991666",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991667.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-sz35-40-mns0602-2991666/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991667.html",
+    "https://shoes.tangma2088.com/productinfoen_2991666.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(1)_2991667.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(2)_2991666.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:33:22.298Z",
+  "name": "Chanel sz35-40 mns0602",
+  "english_product_name": "Chanel sz35-40 mns0602",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991666",
+  "parent_product_id": "2991666",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/chanel-sz35-40-mns0602-2991067-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(1)_2991667.jpg",
+      "content_hash": "d28d1e73c13edfd16d6f6f4efc75a72b77a688e2",
+      "alt": "Chanel sz35-40 mns0602"
+    },
+    {
+      "src": "/data/shoes/images/chanel-sz35-40-mns0602-2991067-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20mns0602%20(2)_2991666.jpg",
+      "content_hash": "6f808e6f02503de4c9a2d87d7ff1f6a460bfc482",
+      "alt": "Chanel sz35-40 mns0602"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:33:22.298Z"
+}

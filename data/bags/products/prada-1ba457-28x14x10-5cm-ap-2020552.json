@@ -6,6 +6,8 @@
   "source_top_category": "Bags",
   "source_category": "New Products",
   "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
   "source_product_id": "2020571",
   "source_parent_product_id": "2020552",
   "source_product_url": "https://bags.tangma2088.com/productinfoen_2020571.html",
@@ -54,7 +56,7 @@
     "https://bags.tangma2088.com/upfile/product/202607/Prada%201BA457%2028x14x10%205cm%20AP310_2020553.jpg",
     "https://bags.tangma2088.com/upfile/product/202607/Prada%201BA457%2028x14x10%205cm%20AP311_2020552.jpg"
   ],
-  "source_last_seen": "2026-07-28T06:25:08.718Z",
+  "source_last_seen": "2026-07-28T22:30:09.503Z",
   "name": "Prada 1BA457 28x14x10 5cm AP",
   "english_product_name": "Prada 1BA457 28x14x10 5cm AP",
   "original_product_name": null,
@@ -129,5 +131,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-07-28T06:25:08.718Z"
+  "synced_at": "2026-07-28T22:30:09.503Z"
 }

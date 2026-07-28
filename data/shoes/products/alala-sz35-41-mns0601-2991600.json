@@ -1,0 +1,63 @@
+{
+  "slug": "alala-sz35-41-mns0601-2991600",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991601",
+  "source_parent_product_id": "2991600",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991601.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/alala-sz35-41-mns0601-2991600/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991601.html",
+    "https://shoes.tangma2088.com/productinfoen_2991600.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Alala%20sz35-41%20mns0601%20(1)_2991601.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Alala%20sz35-41%20mns0601%20(2)_2991600.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:33:22.298Z",
+  "name": "Alala sz35-41 mns0601",
+  "english_product_name": "Alala sz35-41 mns0601",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991600",
+  "parent_product_id": "2991600",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/alala-sz35-41-mns0601-2991600-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Alala%20sz35-41%20mns0601%20(1)_2991601.jpg",
+      "content_hash": "26c616ef288c6f03cee2fa9ea5a5388008818544",
+      "alt": "Alala sz35-41 mns0601"
+    },
+    {
+      "src": "/data/shoes/images/alala-sz35-41-mns0601-2991600-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Alala%20sz35-41%20mns0601%20(2)_2991600.jpg",
+      "content_hash": "f457287ff9fce94cb95ad486f5ce3975083d1749",
+      "alt": "Alala sz35-41 mns0601"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:33:22.298Z"
+}

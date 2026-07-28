@@ -1,0 +1,79 @@
+{
+  "slug": "lv-m-6xl-8qx327-5753440",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "5753443",
+  "source_parent_product_id": "5753440",
+  "source_product_url": "https://tangma2088.com/productinfoen_5753443.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-m-6xl-8qx327-5753440/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5753443.html",
+    "https://tangma2088.com/productinfoen_5753442.html",
+    "https://tangma2088.com/productinfoen_5753441.html",
+    "https://tangma2088.com/productinfoen_5753440.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/LV%20M-6XL%208qx327%20(1)_5753443.jpg",
+    "https://tangma2088.com/upfile/product/202607/LV%20M-6XL%208qx327%20(2)_5753442.jpg",
+    "https://tangma2088.com/upfile/product/202607/LV%20M-6XL%208qx327%20(3)_5753441.jpg",
+    "https://tangma2088.com/upfile/product/202607/LV%20M-6XL%208qx327%20(4)_5753440.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:14:18.799Z",
+  "name": "LV M-6XL 8qx327",
+  "english_product_name": "LV M-6XL 8qx327",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5753440",
+  "parent_product_id": "5753440",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/lv-m-6xl-8qx327-5750154-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/LV%20M-6XL%208qx327%20(1)_5753443.jpg",
+      "content_hash": "cdec9fec0d53790ffd7d4b7bddfc5058240df746",
+      "alt": "LV M-6XL 8qx327"
+    },
+    {
+      "src": "/data/apparel/images/lv-m-6xl-8qx327-5750154-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/LV%20M-6XL%208qx327%20(2)_5753442.jpg",
+      "content_hash": "67b81ee1c072bf9252ffb98e629872dbda6f1191",
+      "alt": "LV M-6XL 8qx327"
+    },
+    {
+      "src": "/data/apparel/images/lv-m-6xl-8qx327-5750154-3.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/LV%20M-6XL%208qx327%20(3)_5753441.jpg",
+      "content_hash": "ad9bb228984b6170907a34062ca08867cca254bb",
+      "alt": "LV M-6XL 8qx327"
+    },
+    {
+      "src": "/data/apparel/images/lv-m-6xl-8qx327-5750154-4.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/LV%20M-6XL%208qx327%20(4)_5753440.jpg",
+      "content_hash": "07753168646ed56495fad5d96835b072f246d814",
+      "alt": "LV M-6XL 8qx327"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:14:18.799Z"
+}

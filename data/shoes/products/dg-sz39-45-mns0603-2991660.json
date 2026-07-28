@@ -1,0 +1,63 @@
+{
+  "slug": "dg-sz39-45-mns0603-2991660",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991661",
+  "source_parent_product_id": "2991660",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991661.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dg-sz39-45-mns0603-2991660/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991661.html",
+    "https://shoes.tangma2088.com/productinfoen_2991660.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(1)_2991661.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(2)_2991660.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:33:22.298Z",
+  "name": "DG sz39-45 mns0603",
+  "english_product_name": "DG sz39-45 mns0603",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991660",
+  "parent_product_id": "2991660",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/dg-sz39-45-mns0603-2991050-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(1)_2991661.jpg",
+      "content_hash": "774e4fea552c63dee8a84ded35e45de3e1463fac",
+      "alt": "DG sz39-45 mns0603"
+    },
+    {
+      "src": "/data/shoes/images/dg-sz39-45-mns0603-2991050-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/DG%20sz39-45%20mns0603%20(2)_2991660.jpg",
+      "content_hash": "8458f04985a8a022f2cdf825aaed25f898342fae",
+      "alt": "DG sz39-45 mns0603"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:33:22.298Z"
+}

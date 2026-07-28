@@ -1,0 +1,63 @@
+{
+  "slug": "lv-sz36-39-12cm-mns0604-2991610",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991611",
+  "source_parent_product_id": "2991610",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991611.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz36-39-12cm-mns0604-2991610/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991611.html",
+    "https://shoes.tangma2088.com/productinfoen_2991610.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz36-39%2012cm%20mns0604%20(1)_2991611.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz36-39%2012cm%20mns0604%20(2)_2991610.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:33:22.298Z",
+  "name": "LV sz36-39 12cm mns0604",
+  "english_product_name": "LV sz36-39 12cm mns0604",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991610",
+  "parent_product_id": "2991610",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/lv-sz36-39-12cm-mns0604-2991610-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz36-39%2012cm%20mns0604%20(1)_2991611.jpg",
+      "content_hash": "475fa4bf538a0d4a737a634aa60aeb67163e19d3",
+      "alt": "LV sz36-39 12cm mns0604"
+    },
+    {
+      "src": "/data/shoes/images/lv-sz36-39-12cm-mns0604-2991610-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz36-39%2012cm%20mns0604%20(2)_2991610.jpg",
+      "content_hash": "562b7f3adab78d7af55aaa3ad025ede528f9be4d",
+      "alt": "LV sz36-39 12cm mns0604"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:33:22.298Z"
+}

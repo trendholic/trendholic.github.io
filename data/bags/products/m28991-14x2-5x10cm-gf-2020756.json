@@ -6,6 +6,8 @@
   "source_top_category": "Bags",
   "source_category": "New Products",
   "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
   "source_product_id": "2020760",
   "source_parent_product_id": "2020756",
   "source_product_url": "https://bags.tangma2088.com/productinfoen_2020760.html",
@@ -22,7 +24,7 @@
     "https://bags.tangma2088.com/upfile/product/202607/M28991%2014x2%205x10cm%20gf11_2020757.jpg",
     "https://bags.tangma2088.com/upfile/product/202607/M28991%2014x2%205x10cm%20gf21_2020758.jpg"
   ],
-  "source_last_seen": "2026-07-28T06:25:08.718Z",
+  "source_last_seen": "2026-07-28T22:30:09.503Z",
   "name": "M28991 14x2 5x10cm gf",
   "english_product_name": "M28991 14x2 5x10cm gf",
   "original_product_name": null,
@@ -67,5 +69,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-07-28T06:25:08.718Z"
+  "synced_at": "2026-07-28T22:30:09.503Z"
 }

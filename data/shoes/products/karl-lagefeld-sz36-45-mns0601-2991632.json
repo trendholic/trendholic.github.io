@@ -1,0 +1,63 @@
+{
+  "slug": "karl-lagefeld-sz36-45-mns0601-2991632",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991633",
+  "source_parent_product_id": "2991632",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991633.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/karl-lagefeld-sz36-45-mns0601-2991632/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991633.html",
+    "https://shoes.tangma2088.com/productinfoen_2991632.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Karl%20Lagefeld%20sz36-45%20mns0601%20(1)_2991633.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Karl%20Lagefeld%20sz36-45%20mns0601%20(2)_2991632.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:33:22.298Z",
+  "name": "Karl Lagefeld sz36-45 mns0601",
+  "english_product_name": "Karl Lagefeld sz36-45 mns0601",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991632",
+  "parent_product_id": "2991632",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/karl-lagefeld-sz36-45-mns0601-2991632-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Karl%20Lagefeld%20sz36-45%20mns0601%20(1)_2991633.jpg",
+      "content_hash": "af060f1eca277bd7da40195eff66bac5ab6b5f69",
+      "alt": "Karl Lagefeld sz36-45 mns0601"
+    },
+    {
+      "src": "/data/shoes/images/karl-lagefeld-sz36-45-mns0601-2991632-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Karl%20Lagefeld%20sz36-45%20mns0601%20(2)_2991632.jpg",
+      "content_hash": "ccc53858fb697fcf3605031571c5fc570e73fe14",
+      "alt": "Karl Lagefeld sz36-45 mns0601"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:33:22.298Z"
+}

@@ -6,6 +6,8 @@
   "source_top_category": "Bags",
   "source_category": "New Products",
   "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
   "source_product_id": "2020727",
   "source_parent_product_id": "2020704",
   "source_product_url": "https://bags.tangma2088.com/productinfoen_2020727.html",
@@ -62,7 +64,7 @@
     "https://bags.tangma2088.com/upfile/product/202607/Chanel%202663%2034x20x9%205cm%20jj27_2020721.jpg",
     "https://bags.tangma2088.com/upfile/product/202607/Chanel%202663%2034x20x9%205cm%20jj28_2020720.jpg"
   ],
-  "source_last_seen": "2026-07-28T06:25:08.718Z",
+  "source_last_seen": "2026-07-28T22:30:09.503Z",
   "name": "Chanel 2663 34x20x9 5cm jj",
   "english_product_name": "Chanel 2663 34x20x9 5cm jj",
   "original_product_name": null,
@@ -137,5 +139,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-07-28T06:25:08.718Z"
+  "synced_at": "2026-07-28T22:30:09.503Z"
 }

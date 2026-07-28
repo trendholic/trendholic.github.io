@@ -1498,13 +1498,314 @@
       "parent_product_id": "4099066",
       "firstSeen": "2026-07-28T06:12:14.937Z",
       "lastSeen": "2026-07-28T06:12:14.937Z"
+    },
+    "4099551": {
+      "rawHash": "dbba674d0557881a311f35d1993b6f749618f777",
+      "slug": "cartier-ct0803o-140-b-4099551",
+      "parent_product_id": "4099551",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099555": {
+      "rawHash": "658e7b752e7dbcff13e1e76ba503de9c93869f87",
+      "slug": "celine-cl40353u-4-17-145-b-4099555",
+      "parent_product_id": "4099555",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099561": {
+      "rawHash": "f6eb9217548c1a07d23ac85af81eea4e6780f5f7",
+      "slug": "celine-l42106u-52-22-145-b-4099561",
+      "parent_product_id": "4099561",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099569": {
+      "rawHash": "0dad9932a6f6bfb9683e062b3ca03a8eaf35249c",
+      "slug": "chane-ch4296h-57-19-145-b-4099569",
+      "parent_product_id": "4099569",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099575": {
+      "rawHash": "f9960dc019d2357daa6f68a36acf822f26f564ba",
+      "slug": "chanel-070201-b-4099575",
+      "parent_product_id": "4099575",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099581": {
+      "rawHash": "519467b1d88dc9b595919a4a2725a6307c81e14b",
+      "slug": "chanel-072801-b-4099581",
+      "parent_product_id": "4099581",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099588": {
+      "rawHash": "6f2d2ae73b3ddf41c71d4fe106c32ad7052b178f",
+      "slug": "chanel-ch7294b-52-21-145-b-4099588",
+      "parent_product_id": "4099588",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099595": {
+      "rawHash": "c94efe6f3e307146fac5b8aa7b7216e8263af580",
+      "slug": "chrome-heart-0728-57-21-151-b-4099595",
+      "parent_product_id": "4099595",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099601": {
+      "rawHash": "9cf106fa3742985c5eb3a88a02dd1f1f9c6593a5",
+      "slug": "chrome-heart-ch8335-52-20-153-b-4099601",
+      "parent_product_id": "4099601",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099605": {
+      "rawHash": "51a7572b61c3c5f40f1aa91ef354b4f0ec44aa8b",
+      "slug": "chrome-heart-lump-48-22-148-b-4099605",
+      "parent_product_id": "4099605",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099616": {
+      "rawHash": "a168d09f222366db2ff26a60f05969d20c73fb9c",
+      "slug": "dg-0702801-b-4099616",
+      "parent_product_id": "4099616",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099621": {
+      "rawHash": "ed9d2de75c6dcb8e954cb2e2d8a1516b284d6eac",
+      "slug": "dg-dg4553-50-25-145-b-4099621",
+      "parent_product_id": "4099621",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099626": {
+      "rawHash": "743f4e619da8d2f89e4f3bcdf02045af6fe6a089",
+      "slug": "dior-072801-b-4099626",
+      "parent_product_id": "4099626",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099632": {
+      "rawHash": "6aeed16b05fe1d88b3949c7bfc20f22660b77589",
+      "slug": "fred-fg40040u-58-17-145-b-4099632",
+      "parent_product_id": "4099632",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099640": {
+      "rawHash": "24a4802debdea9c47e430d2cf7af96fb2ed897a4",
+      "slug": "gucci-gg7302-52-19-145-b-4099640",
+      "parent_product_id": "4099640",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099647": {
+      "rawHash": "ec6e4098bbf65a34b56311b303a9df9a4cee2b0a",
+      "slug": "jimmy-choo-jc4014h-56-17-125-b-4099647",
+      "parent_product_id": "4099647",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099653": {
+      "rawHash": "5b0490bc9094eb4d54f4b9447b982ba29e4cc991",
+      "slug": "lv-z3157u-59-19-145-b-4099653",
+      "parent_product_id": "4099653",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099657": {
+      "rawHash": "c243b63c557fcbbb0b77ca92b8012f222eb059f3",
+      "slug": "lv-z3193u-56-19-140-b-4099657",
+      "parent_product_id": "4099657",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099663": {
+      "rawHash": "eb047a36c8651caed9a46ac0d84be63b36062efb",
+      "slug": "lv-z3273u-55-19-145-b-4099663",
+      "parent_product_id": "4099663",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099669": {
+      "rawHash": "8e3f3ddd5b08e19b67ff6a4d808be7277382b3dd",
+      "slug": "lv-z3300u-57-17-145-b-4099669",
+      "parent_product_id": "4099669",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099675": {
+      "rawHash": "c871c14204c7fae2955364e32140c7e5cbe7437c",
+      "slug": "lv-z3325u-57-17-140-b-4099675",
+      "parent_product_id": "4099675",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099681": {
+      "rawHash": "103c85593cba9a817c217704846f37ed15d80066",
+      "slug": "maybach-z1991-51-25-145-b-4099681",
+      "parent_product_id": "4099681",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099688": {
+      "rawHash": "ef4ebe8a51c936da92aad61b839b4b49d1b385a9",
+      "slug": "wsxc-4099688",
+      "parent_product_id": "4099688",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099695": {
+      "rawHash": "396cd1bc0df787f6e709c85cd6cd01f85ee70289",
+      "slug": "miumiu-b09s-52-21-140-b-4099695",
+      "parent_product_id": "4099695",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099701": {
+      "rawHash": "c4f55f6c4ab3d3bdc78dd7c36754d224f0ef3f7e",
+      "slug": "miumiu-mu176av-64-16-138-b-4099701",
+      "parent_product_id": "4099701",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099707": {
+      "rawHash": "ef348cd6cca9baa06b20a72e00bd0d2c3dcaa125",
+      "slug": "porsche-072801-b-4099707",
+      "parent_product_id": "4099707",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099711": {
+      "rawHash": "86e11a73699c7ed22a09683e0a79eacd4174f3b0",
+      "slug": "porsche-81006-53-19-145-b-4099711",
+      "parent_product_id": "4099711",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099716": {
+      "rawHash": "7709b6c9cc70ddbf1f2b73907bb2e6c037282fd1",
+      "slug": "prada-15w-55-19-140-b-4099716",
+      "parent_product_id": "4099716",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099722": {
+      "rawHash": "f5a5d471b3ea335006371800a5cf141d31c50dce",
+      "slug": "prada-opr24zs-55-18-145-b-4099722",
+      "parent_product_id": "4099722",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099727": {
+      "rawHash": "6ea1bfcab9ebf1e384a81bc8ec1a8974965a4d1c",
+      "slug": "prada-prd55s-55-19-145-b-4099727",
+      "parent_product_id": "4099727",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099733": {
+      "rawHash": "90733412e38376479484fcb5fc4e803ce291c88d",
+      "slug": "tf-ft1293-54-20-140-b-4099733",
+      "parent_product_id": "4099733",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099739": {
+      "rawHash": "ff41e3306759f47d0b9d5dbc4b971edb8b440fbb",
+      "slug": "versace-ve2292-65-17-145-b-4099739",
+      "parent_product_id": "4099739",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099745": {
+      "rawHash": "af97386fcb8267331727fc42b4afe21517928077",
+      "slug": "ysl-m1718l-58-18-145-b-4099745",
+      "parent_product_id": "4099745",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099752": {
+      "rawHash": "a246eb65266de9187a94f0172aa11dcef5234d03",
+      "slug": "hermes-200-260x230-270cm-4099752",
+      "parent_product_id": "4099752",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099768": {
+      "rawHash": "a10fb6a5f2e0a103d980c3c881c84c00f1a1f4c6",
+      "slug": "hermes-blanket-145x145-180cm-cushion45x45cm-4099768",
+      "parent_product_id": "4099768",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099776": {
+      "rawHash": "200ac316689f9ee6b60c0aa0e0281cb2fa950227",
+      "slug": "hermes-blanket-145x145-180cm-cushion45x45cm-30x50cm-4099776",
+      "parent_product_id": "4099776",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099790": {
+      "rawHash": "bc044f72b2c2cde9de61f903ada6626e34e07db3",
+      "slug": "bvlgari-towel-170x70cm-4099790",
+      "parent_product_id": "4099790",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099795": {
+      "rawHash": "556db0c2706ad454e03456edeedf81360bd13fa1",
+      "slug": "bv-bv1276s-52-18-140-b-4099795",
+      "parent_product_id": "4099795",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099804": {
+      "rawHash": "1772f0c82094c15c4bb14c26af669602655f6a4e",
+      "slug": "bv-bv1278sa-50-21-140-b-4099804",
+      "parent_product_id": "4099804",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099812": {
+      "rawHash": "407cbe4415041f4e3e2548c1346f9de6ad76a5a8",
+      "slug": "bvlgari-9036b-62-18-140-b-4099812",
+      "parent_product_id": "4099812",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099821": {
+      "rawHash": "9802416e297dc640c1f0d64821c6defd259b3122",
+      "slug": "bvlgari-070101-b-4099821",
+      "parent_product_id": "4099821",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099831": {
+      "rawHash": "284e880abe57d56d8ed997128123276274ecc21b",
+      "slug": "bvlgari-bv9035b-62-18-140-b-4099831",
+      "parent_product_id": "4099831",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
+    },
+    "4099840": {
+      "rawHash": "936f194f6c28e5f35ed3b2e3c936446656ce5ad3",
+      "slug": "cartier-072801-b-4099840",
+      "parent_product_id": "4099840",
+      "firstSeen": "2026-07-28T22:23:17.155Z",
+      "lastSeen": "2026-07-28T22:23:17.155Z"
     }
   },
   "categories": [
-    "new-arrival-0727",
+    "new-arrival-0728",
     "jewelry-0707",
     "glasses-0629",
-    "plain-glasses-0722",
+    "plain-glasses-0728",
     "glasses-factory-0728",
     "belts-0724",
     "watches-0721",
@@ -1521,9 +1822,9 @@
     "bathrobe-0417",
     "pen-0608",
     "umbrella-0726",
-    "towel-0316",
+    "towel-0728",
     "beddings-0608",
-    "blanket-0710",
+    "blanket-0728",
     "table-cushions-0701",
     "pet-clothes",
     "thermos-0411",
@@ -1537,5 +1838,6 @@
     "underware-sleepware-0307",
     "sunglasses-a"
   ],
-  "updatedAt": "2026-07-28T06:12:14.937Z"
+  "feedResumeUrl": "https://acc.tangma2088.com/newproductsen_0.html",
+  "updatedAt": "2026-07-28T22:23:17.155Z"
 }

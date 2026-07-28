@@ -1,0 +1,63 @@
+{
+  "slug": "lv-sz35-39-8cm-mns0601-2991616",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991617",
+  "source_parent_product_id": "2991616",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991617.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz35-39-8cm-mns0601-2991616/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991617.html",
+    "https://shoes.tangma2088.com/productinfoen_2991616.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-39%208cm%20mns0601%20(1)_2991617.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-39%208cm%20mns0601%20(2)_2991616.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:33:22.298Z",
+  "name": "LV sz35-39 8cm mns0601",
+  "english_product_name": "LV sz35-39 8cm mns0601",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991616",
+  "parent_product_id": "2991616",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/lv-sz35-39-8cm-mns0601-2991616-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-39%208cm%20mns0601%20(1)_2991617.jpg",
+      "content_hash": "dd78070523bafd50a497f40e2d22a2d60638284d",
+      "alt": "LV sz35-39 8cm mns0601"
+    },
+    {
+      "src": "/data/shoes/images/lv-sz35-39-8cm-mns0601-2991616-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-39%208cm%20mns0601%20(2)_2991616.jpg",
+      "content_hash": "aed666975117af97d495b602f69252246aa02925",
+      "alt": "LV sz35-39 8cm mns0601"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:33:22.298Z"
+}

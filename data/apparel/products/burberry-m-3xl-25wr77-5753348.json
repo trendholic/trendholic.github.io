@@ -1,0 +1,63 @@
+{
+  "slug": "burberry-m-3xl-25wr77-5753348",
+  "top_category": "Apparel",
+  "source_site": "apparel",
+  "source_domain": "tangma2088.com",
+  "source_top_category": "Apparel",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "5753349",
+  "source_parent_product_id": "5753348",
+  "source_product_url": "https://tangma2088.com/productinfoen_5753349.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/burberry-m-3xl-25wr77-5753348/",
+  "source_product_urls": [
+    "https://tangma2088.com/productinfoen_5753349.html",
+    "https://tangma2088.com/productinfoen_5753348.html"
+  ],
+  "source_image_urls": [
+    "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2025wr77%20(1)_5753349.jpg",
+    "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2025wr77%20(2)_5753348.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:14:18.799Z",
+  "name": "Burberry M-3XL 25wr77",
+  "english_product_name": "Burberry M-3XL 25wr77",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "5753348",
+  "parent_product_id": "5753348",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/apparel/images/burberry-m-3xl-25wr77-5753348-1.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2025wr77%20(1)_5753349.jpg",
+      "content_hash": "feabd94003b2b52480d1ccd4d3cae8119071011d",
+      "alt": "Burberry M-3XL 25wr77"
+    },
+    {
+      "src": "/data/apparel/images/burberry-m-3xl-25wr77-5753348-2.webp",
+      "source_url": "https://tangma2088.com/upfile/product/202607/Burberry%20M-3XL%2025wr77%20(2)_5753348.jpg",
+      "content_hash": "65b80341c4e51dd2c42998b8ebff54a17d2d7ad1",
+      "alt": "Burberry M-3XL 25wr77"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:14:18.799Z"
+}

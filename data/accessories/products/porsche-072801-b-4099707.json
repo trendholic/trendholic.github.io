@@ -1,0 +1,79 @@
+{
+  "slug": "porsche-072801-b-4099707",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4099710",
+  "source_parent_product_id": "4099707",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4099710.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/porsche-072801-b-4099707/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4099710.html",
+    "https://acc.tangma2088.com/productinfoen_4099709.html",
+    "https://acc.tangma2088.com/productinfoen_4099708.html",
+    "https://acc.tangma2088.com/productinfoen_4099707.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/PORSCHE%20072801%20b%2001_4099707.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/PORSCHE%20072801%20b%2002_4099708.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/PORSCHE%20072801%20b%2003_4099709.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/PORSCHE%20072801%20b%2004_4099710.jpg"
+  ],
+  "source_last_seen": "2026-07-28T22:23:17.155Z",
+  "name": "PORSCHE 072801 b",
+  "english_product_name": "PORSCHE 072801 b",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4099707",
+  "parent_product_id": "4099707",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/porsche-072801-b-4099707-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/PORSCHE%20072801%20b%2001_4099707.jpg",
+      "content_hash": "5b4e8d7a97ae607bc0b955536c81ab8ead930d19",
+      "alt": "PORSCHE 072801 b"
+    },
+    {
+      "src": "/data/accessories/images/porsche-072801-b-4099707-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/PORSCHE%20072801%20b%2002_4099708.jpg",
+      "content_hash": "c19eb75d6878751a96cd8fb149e4d1dc9306395d",
+      "alt": "PORSCHE 072801 b"
+    },
+    {
+      "src": "/data/accessories/images/porsche-072801-b-4099707-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/PORSCHE%20072801%20b%2003_4099709.jpg",
+      "content_hash": "79a66edc8e393f8849d830e6492346a6eedd7e35",
+      "alt": "PORSCHE 072801 b"
+    },
+    {
+      "src": "/data/accessories/images/porsche-072801-b-4099707-4.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/PORSCHE%20072801%20b%2004_4099710.jpg",
+      "content_hash": "eb5ae1faf400e73613bcb520d2a19f357c22cbc2",
+      "alt": "PORSCHE 072801 b"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-28T22:23:17.155Z"
+}
