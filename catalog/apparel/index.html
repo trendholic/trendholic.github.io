@@ -13,6 +13,7 @@
 <header class="cat-hd">
   <a class="brand" href="/catalog/"><b>TREND</b>HOLIC · Catalog</a>
   <input id="q" placeholder="Search name, brand, model…" autocomplete="off">
+  <button type="button" id="cart-btn" class="cart-open" aria-label="Open cart">🛒<span id="cart-count" class="cart-count" hidden>0</span></button>
   <a class="store" href="/index.html">← Store</a>
 </header>
 <main class="cat-main"><nav class="crumb"><a href="/catalog/">Catalog</a> › <span>Apparel</span></nav>
@@ -417,6 +418,26 @@
   <nav class="ft-nav"><a href="/catalog/">Catalog</a><a href="/index.html">Store</a></nav>
   <span class="ft-cp">© TrendHolic</span>
 </div></footer>
+<div id="cart-drawer" class="cart-drawer" hidden>
+  <div class="cart-backdrop" data-cart-close></div>
+  <aside class="cart-panel" role="dialog" aria-modal="true" aria-label="Your order">
+    <header class="cart-hd"><h2>Your Order</h2><button type="button" class="cart-x" data-cart-close aria-label="Close">✕</button></header>
+    <div id="cart-items" class="cart-items"></div>
+    <details class="cart-form"><summary>Your details (optional)</summary>
+      <input id="cf-name" placeholder="Your name" autocomplete="name">
+      <input id="cf-company" placeholder="Company" autocomplete="organization">
+      <input id="cf-phone" placeholder="Phone" autocomplete="tel" inputmode="tel">
+      <textarea id="cf-address" placeholder="Shipping address" autocomplete="street-address" rows="2"></textarea>
+    </details>
+    <footer class="cart-ft">
+      <div class="cart-sum">Total items: <b id="cart-total-items">0</b></div>
+      <button id="cart-checkout" type="button" class="wa-btn" disabled>Send Order via WhatsApp</button>
+      <button id="cart-clear" type="button" class="cart-clear">Clear cart</button>
+      <p class="cart-note">Final wholesale pricing is confirmed on WhatsApp.</p>
+    </footer>
+  </aside>
+</div>
 <div id="results" class="results" hidden></div>
 <script src="/catalog/catalog.js" defer></script>
+<script src="/catalog/catalog-cart.js" defer></script>
 </body></html>

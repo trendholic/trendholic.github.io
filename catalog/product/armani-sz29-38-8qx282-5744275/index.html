@@ -13,6 +13,7 @@
 <header class="cat-hd">
   <a class="brand" href="/catalog/"><b>TREND</b>HOLIC · Catalog</a>
   <input id="q" placeholder="Search name, brand, model…" autocomplete="off">
+  <button type="button" id="cart-btn" class="cart-open" aria-label="Open cart">🛒<span id="cart-count" class="cart-count" hidden>0</span></button>
   <a class="store" href="/index.html">← Store</a>
 </header>
 <main class="cat-main"><nav class="crumb"><a href="/catalog/">Catalog</a> › <a href="/catalog/apparel/">Apparel</a> › <span>Armani sz29-38 8qx282</span></nav>
@@ -23,6 +24,10 @@
           </div>
           <div class="info">
             <span class="tag">Apparel</span><h1>Armani sz29-38 8qx282</h1>
+            <div class="buy">
+              <div class="qtyctl"><button type="button" class="q-dec" aria-label="Decrease quantity">−</button><input class="q-in" type="number" min="1" value="1" aria-label="Quantity"><button type="button" class="q-inc" aria-label="Increase quantity">+</button></div>
+              <button type="button" class="add-cart wa-add" data-slug="armani-sz29-38-8qx282-5744275" data-name="Armani sz29-38 8qx282" data-ref="5744275" data-price="" data-currency="$" data-image="/data/apparel/images/armani-sz29-38-8qx282-5744275-1.webp" data-url="/catalog/product/armani-sz29-38-8qx282-5744275/">Add to Cart</button>
+            </div>
             <dl class="kv">
               <dt>Brand</dt><dd><span class="na">Not provided</span></dd>
               <dt>Model</dt><dd><span class="na">Not provided</span></dd>
@@ -41,6 +46,26 @@
   <nav class="ft-nav"><a href="/catalog/">Catalog</a><a href="/index.html">Store</a></nav>
   <span class="ft-cp">© TrendHolic</span>
 </div></footer>
+<div id="cart-drawer" class="cart-drawer" hidden>
+  <div class="cart-backdrop" data-cart-close></div>
+  <aside class="cart-panel" role="dialog" aria-modal="true" aria-label="Your order">
+    <header class="cart-hd"><h2>Your Order</h2><button type="button" class="cart-x" data-cart-close aria-label="Close">✕</button></header>
+    <div id="cart-items" class="cart-items"></div>
+    <details class="cart-form"><summary>Your details (optional)</summary>
+      <input id="cf-name" placeholder="Your name" autocomplete="name">
+      <input id="cf-company" placeholder="Company" autocomplete="organization">
+      <input id="cf-phone" placeholder="Phone" autocomplete="tel" inputmode="tel">
+      <textarea id="cf-address" placeholder="Shipping address" autocomplete="street-address" rows="2"></textarea>
+    </details>
+    <footer class="cart-ft">
+      <div class="cart-sum">Total items: <b id="cart-total-items">0</b></div>
+      <button id="cart-checkout" type="button" class="wa-btn" disabled>Send Order via WhatsApp</button>
+      <button id="cart-clear" type="button" class="cart-clear">Clear cart</button>
+      <p class="cart-note">Final wholesale pricing is confirmed on WhatsApp.</p>
+    </footer>
+  </aside>
+</div>
 <div id="results" class="results" hidden></div>
 <script src="/catalog/catalog.js" defer></script>
+<script src="/catalog/catalog-cart.js" defer></script>
 </body></html>
