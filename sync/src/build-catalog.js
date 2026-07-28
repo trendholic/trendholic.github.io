@@ -42,6 +42,11 @@ ${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script
   <a class="store" href="/index.html">← Store</a>
 </header>
 <main class="cat-main">${body}</main>
+<footer class="cat-ft"><div class="ft-in">
+  <span class="ft-brand"><b>TREND</b>HOLIC</span>
+  <nav class="ft-nav"><a href="/catalog/">Catalog</a><a href="/index.html">Store</a></nav>
+  <span class="ft-cp">© TrendHolic</span>
+</div></footer>
 <div id="results" class="results" hidden></div>
 <script src="/catalog/catalog.js" defer></script>
 </body></html>`;
@@ -103,14 +108,32 @@ function main() {
   // ---- landing ----
   const catCards = topCategories.map((t) =>
     `<a class="topcard" href="${cp}/${t.slug}/"><span class="tn">${esc(t.name)}</span><span class="tc">${t.productCount} product${t.productCount === 1 ? "" : "s"}</span></a>`).join("");
-  const featured = allRecords.map(card).join("");
+  // Featured: a balanced, image-first selection across the categories so the
+  // landing stays fast and visual. The full set is one click away per category
+  // or via search — nothing is hidden, just not all dumped onto the front page.
+  const FEATURED_MAX = 32;
+  const byTop = {};
+  for (const r of allRecords) { if (!r.image) continue; (byTop[r.topSlug] ||= []).push(r); }
+  for (const arr of Object.values(byTop)) arr.sort((a, b) => a.name.localeCompare(b.name));
+  const featuredRecords = [];
+  for (let round = 0; featuredRecords.length < FEATURED_MAX && round < 1000; round++) {
+    let progressed = false;
+    for (const t of topCategories) {
+      const arr = byTop[t.slug];
+      if (arr && arr.length) { featuredRecords.push(arr.shift()); progressed = true; if (featuredRecords.length >= FEATURED_MAX) break; }
+    }
+    if (!progressed) break;
+  }
+  const featured = featuredRecords.map(card).join("");
   writeFile(path.join(repo, "catalog", "index.html"), page({
     title: "Catalog | TrendHolic", desc: "Browse the TrendHolic catalog — Apparel, Accessories, Bags and Shoes.",
-    canonical: `${base}${cp}/`, ogImage: allRecords[0]?.image ? base + allRecords[0].image : null,
+    canonical: `${base}${cp}/`, ogImage: featuredRecords[0]?.image ? base + featuredRecords[0].image : null,
     body: `<section class="hero"><h1>TrendHolic Catalog</h1><p>Apparel · Accessories · Bags · Shoes</p></section>
+      <h2 class="sec">Browse by category</h2>
       <div class="tops">${catCards}</div>
-      <h2 class="sec">All products <span class="muted">(${allRecords.length})</span></h2>
-      <div class="grid">${featured}</div>`,
+      <h2 class="sec">Featured selection</h2>
+      <div class="grid">${featured}</div>
+      <p class="more muted">Browse a category above or search to see all ${allRecords.length} products.</p>`,
   }));
 
   // ---- category pages ----
@@ -203,7 +226,11 @@ a{color:inherit;text-decoration:none}img{max-width:100%}
 .kv dt{color:var(--muted)}.kv dd{margin:0}.na{color:var(--muted);font-style:italic}
 .results{position:fixed;top:58px;left:0;right:0;max-width:1180px;margin:0 auto;background:var(--surface);border:1px solid var(--rule);border-radius:0 0 12px 12px;max-height:70vh;overflow:auto;z-index:19;padding:8px}
 .results a{display:flex;gap:10px;align-items:center;padding:8px;border-radius:8px}.results a:hover{background:var(--surface2)}
-.results img{width:44px;height:44px;object-fit:cover;border-radius:6px}`;
+.results img{width:44px;height:44px;object-fit:cover;border-radius:6px}
+.more{margin:18px 0 4px;font-size:.9rem}
+.cat-ft{border-top:1px solid var(--rule);background:var(--surface);margin-top:44px}
+.ft-in{max-width:1180px;margin:0 auto;padding:22px 20px;display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap;font-size:.85rem;color:var(--muted)}
+.ft-brand b{color:var(--gold)}.ft-nav{display:flex;gap:18px}.ft-nav a:hover{color:var(--gold)}`;
 
 const CATALOG_JS = `(function(){
   var q=document.getElementById('q'),box=document.getElementById('results'),idx=null;
