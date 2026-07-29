@@ -8,11 +8,20 @@
   "source_category_original": "new",
   "source_categories": [],
   "source_category_slugs": [],
-  "source_product_id": "4099694",
+  "source_product_id": "4100047",
   "source_parent_product_id": "4099688",
-  "source_product_url": "https://acc.tangma2088.com/productinfoen_4099694.html",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4100047.html",
   "source_canonical_url": "https://trendholic.github.io/catalog/product/wsxc-4099688/",
   "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4100047.html",
+    "https://acc.tangma2088.com/productinfoen_4100046.html",
+    "https://acc.tangma2088.com/productinfoen_4100045.html",
+    "https://acc.tangma2088.com/productinfoen_4100044.html",
+    "https://acc.tangma2088.com/productinfoen_4100043.html",
+    "https://acc.tangma2088.com/productinfoen_4100042.html",
+    "https://acc.tangma2088.com/productinfoen_4100041.html",
+    "https://acc.tangma2088.com/productinfoen_4100040.html",
+    "https://acc.tangma2088.com/productinfoen_4100039.html",
     "https://acc.tangma2088.com/productinfoen_4099694.html",
     "https://acc.tangma2088.com/productinfoen_4099693.html",
     "https://acc.tangma2088.com/productinfoen_4099692.html",
@@ -22,15 +31,24 @@
     "https://acc.tangma2088.com/productinfoen_4099688.html"
   ],
   "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420270_4100047.jpg",
     "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420270_4099688.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420271_4100046.jpg",
     "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420271_4099689.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420272_4100045.jpg",
     "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420272_4099690.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420273_4100044.jpg",
     "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420273_4099691.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420274_4100043.jpg",
     "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420274_4099692.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420275_4100042.jpg",
     "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420275_4099693.jpg",
-    "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420276_4099694.jpg"
+    "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420276_4100041.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420276_4099694.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420277_4100040.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420278_4100039.jpg"
   ],
-  "source_last_seen": "2026-07-28T23:45:37.928Z",
+  "source_last_seen": "2026-07-29T06:14:22.695Z",
   "name": "wsxc",
   "english_product_name": "wsxc",
   "original_product_name": null,
@@ -57,8 +75,20 @@
   "images": [
     {
       "src": "/data/accessories/images/wsxc-4099688-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420270_4100047.jpg",
+      "content_hash": "3fb846aea02bdd89549e8b2d689c9060d78999db",
+      "alt": "wsxc"
+    },
+    {
+      "src": "/data/accessories/images/wsxc-4099688-1.webp",
       "source_url": "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420270_4099688.jpg",
       "content_hash": "3fb846aea02bdd89549e8b2d689c9060d78999db",
+      "alt": "wsxc"
+    },
+    {
+      "src": "/data/accessories/images/wsxc-4099688-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420271_4100046.jpg",
+      "content_hash": "41d0374a26f5f8e72310659ce2e83f46aae617c7",
       "alt": "wsxc"
     },
     {
@@ -69,8 +99,20 @@
     },
     {
       "src": "/data/accessories/images/wsxc-4099688-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420272_4100045.jpg",
+      "content_hash": "937e753705e1606dfee54c5935689c0f86932d2b",
+      "alt": "wsxc"
+    },
+    {
+      "src": "/data/accessories/images/wsxc-4099688-3.webp",
       "source_url": "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420272_4099690.jpg",
       "content_hash": "937e753705e1606dfee54c5935689c0f86932d2b",
+      "alt": "wsxc"
+    },
+    {
+      "src": "/data/accessories/images/wsxc-4099688-4.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420273_4100044.jpg",
+      "content_hash": "5a431f8c81b74f497c8c12e2793bb82cc0c5ba19",
       "alt": "wsxc"
     },
     {
@@ -78,26 +120,8 @@
       "source_url": "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420273_4099691.jpg",
       "content_hash": "5a431f8c81b74f497c8c12e2793bb82cc0c5ba19",
       "alt": "wsxc"
-    },
-    {
-      "src": "/data/accessories/images/wsxc-4099688-5.webp",
-      "source_url": "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420274_4099692.jpg",
-      "content_hash": "d7fd7a0b1f556cea173d290832404c0dc0692e97",
-      "alt": "wsxc"
-    },
-    {
-      "src": "/data/accessories/images/wsxc-4099688-6.webp",
-      "source_url": "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420275_4099693.jpg",
-      "content_hash": "936861a56f0d1fede456f515470977fc47eb26b0",
-      "alt": "wsxc"
-    },
-    {
-      "src": "/data/accessories/images/wsxc-4099688-7.webp",
-      "source_url": "https://acc.tangma2088.com/upfile/product/202607/wsxc17852568420276_4099694.jpg",
-      "content_hash": "71f5ee9fcd6379a4c79f1a5f7c4694452b1d9153",
-      "alt": "wsxc"
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-07-28T23:45:37.928Z"
+  "synced_at": "2026-07-29T06:14:22.695Z"
 }

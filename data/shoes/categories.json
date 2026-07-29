@@ -3,15 +3,8 @@
   "source": "shoes",
   "host": "shoes.tangma2088.com",
   "count": 90,
-  "updatedAt": "2026-07-28T23:47:57.707Z",
+  "updatedAt": "2026-07-29T06:20:30.192Z",
   "categories": [
-    {
-      "name": "Le silla 2026 0728",
-      "slug": "le-silla-2026-0728",
-      "source_url": "https://shoes.tangma2088.com/categoryen_181721.html?path=0_181721",
-      "source_path": "0_181721",
-      "parent_path": "0"
-    },
     {
       "name": "NEW ARRIVAL 0728",
       "slug": "new-arrival-0728",
@@ -41,8 +34,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Gucci 2026 0728",
-      "slug": "gucci-2026-0728",
+      "name": "Gucci 2026 0729",
+      "slug": "gucci-2026-0729",
       "source_url": "https://shoes.tangma2088.com/categoryen_336.html?path=0_336",
       "source_path": "0_336",
       "parent_path": "0"
@@ -52,13 +45,6 @@
       "slug": "louis-vittion-2026-0728",
       "source_url": "https://shoes.tangma2088.com/categoryen_327.html?path=0_327",
       "source_path": "0_327",
-      "parent_path": "0"
-    },
-    {
-      "name": "Alala 2026 0728",
-      "slug": "alala-2026-0728",
-      "source_url": "https://shoes.tangma2088.com/categoryen_181659.html?path=0_181659",
-      "source_path": "0_181659",
       "parent_path": "0"
     },
     {
@@ -115,6 +101,13 @@
       "slug": "altra-2026-0617",
       "source_url": "https://shoes.tangma2088.com/categoryen_179712.html?path=0_179712",
       "source_path": "0_179712",
+      "parent_path": "0"
+    },
+    {
+      "name": "Alala 2026 0728",
+      "slug": "alala-2026-0728",
+      "source_url": "https://shoes.tangma2088.com/categoryen_181659.html?path=0_181659",
+      "source_path": "0_181659",
       "parent_path": "0"
     },
     {
@@ -209,8 +202,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Chanel 2026 0728",
-      "slug": "chanel-2026-0728",
+      "name": "Chanel 2026 0729",
+      "slug": "chanel-2026-0729",
       "source_url": "https://shoes.tangma2088.com/categoryen_229.html?path=0_229",
       "source_path": "0_229",
       "parent_path": "0"
@@ -321,8 +314,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Hermes 2026 0728",
-      "slug": "hermes-2026-0728",
+      "name": "Hermes 2026 0729",
+      "slug": "hermes-2026-0729",
       "source_url": "https://shoes.tangma2088.com/categoryen_104.html?path=0_104",
       "source_path": "0_104",
       "parent_path": "0"
@@ -388,6 +381,13 @@
       "slug": "kolon-sport-2026-0617",
       "source_url": "https://shoes.tangma2088.com/categoryen_179727.html?path=0_179727",
       "source_path": "0_179727",
+      "parent_path": "0"
+    },
+    {
+      "name": "Le silla 2026 0728",
+      "slug": "le-silla-2026-0728",
+      "source_url": "https://shoes.tangma2088.com/categoryen_181721.html?path=0_181721",
+      "source_path": "0_181721",
       "parent_path": "0"
     },
     {
@@ -510,8 +510,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Prada 2026 0728",
-      "slug": "prada-2026-0728",
+      "name": "Prada 2026 0729",
+      "slug": "prada-2026-0729",
       "source_url": "https://shoes.tangma2088.com/categoryen_92.html?path=0_92",
       "source_path": "0_92",
       "parent_path": "0"
@@ -601,8 +601,8 @@
       "parent_path": "0"
     },
     {
-      "name": "YSL 2026 0728",
-      "slug": "ysl-2026-0728",
+      "name": "YSL 2026 0729",
+      "slug": "ysl-2026-0729",
       "source_url": "https://shoes.tangma2088.com/categoryen_84731.html?path=0_84731",
       "source_path": "0_84731",
       "parent_path": "0"

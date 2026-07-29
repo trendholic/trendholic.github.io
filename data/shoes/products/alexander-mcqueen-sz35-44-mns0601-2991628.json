@@ -1,0 +1,63 @@
+{
+  "slug": "alexander-mcqueen-sz35-44-mns0601-2991628",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991629",
+  "source_parent_product_id": "2991628",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991629.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/alexander-mcqueen-sz35-44-mns0601-2991628/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991629.html",
+    "https://shoes.tangma2088.com/productinfoen_2991628.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Alexander%20McQueen%20sz35-44%20mns0601%20(1)_2991629.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Alexander%20McQueen%20sz35-44%20mns0601%20(2)_2991628.jpg"
+  ],
+  "source_last_seen": "2026-07-29T06:22:34.980Z",
+  "name": "Alexander McQueen sz35-44 mns0601",
+  "english_product_name": "Alexander McQueen sz35-44 mns0601",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991628",
+  "parent_product_id": "2991628",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/alexander-mcqueen-sz35-44-mns0601-2991344-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Alexander%20McQueen%20sz35-44%20mns0601%20(1)_2991629.jpg",
+      "content_hash": "c5b11a8f76aa19151dd5a82fc9e72a9db6da057b",
+      "alt": "Alexander McQueen sz35-44 mns0601"
+    },
+    {
+      "src": "/data/shoes/images/alexander-mcqueen-sz35-44-mns0601-2991344-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Alexander%20McQueen%20sz35-44%20mns0601%20(2)_2991628.jpg",
+      "content_hash": "8f45d10efde594fbe8ff46a258446630804a3bd6",
+      "alt": "Alexander McQueen sz35-44 mns0601"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-29T06:22:34.980Z"
+}

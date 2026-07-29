@@ -1,0 +1,63 @@
+{
+  "slug": "maison-margiela-sz35-45-mns0601-2991678",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991679",
+  "source_parent_product_id": "2991678",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991679.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/maison-margiela-sz35-45-mns0601-2991678/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991679.html",
+    "https://shoes.tangma2088.com/productinfoen_2991678.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Maison%20Margiela%20sz35-45%20mns0601%20%20%20(1)_2991678.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Maison%20Margiela%20sz35-45%20mns0601%20%20%20(2)_2991679.jpg"
+  ],
+  "source_last_seen": "2026-07-29T06:22:34.980Z",
+  "name": "Maison Margiela sz35-45 mns0601",
+  "english_product_name": "Maison Margiela sz35-45 mns0601",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991678",
+  "parent_product_id": "2991678",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/maison-margiela-sz35-45-mns0601-2991413-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Maison%20Margiela%20sz35-45%20mns0601%20%20%20(1)_2991678.jpg",
+      "content_hash": "2c0f9e0d595a09bcc50e7412c3d6ef594e8651c5",
+      "alt": "Maison Margiela sz35-45 mns0601"
+    },
+    {
+      "src": "/data/shoes/images/maison-margiela-sz35-45-mns0601-2991413-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Maison%20Margiela%20sz35-45%20mns0601%20%20%20(2)_2991679.jpg",
+      "content_hash": "eba1512028419bae382fdd73b6471aec30bbe9c1",
+      "alt": "Maison Margiela sz35-45 mns0601"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-29T06:22:34.980Z"
+}

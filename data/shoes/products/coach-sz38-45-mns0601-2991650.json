@@ -1,0 +1,63 @@
+{
+  "slug": "coach-sz38-45-mns0601-2991650",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991651",
+  "source_parent_product_id": "2991650",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991651.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/coach-sz38-45-mns0601-2991650/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991651.html",
+    "https://shoes.tangma2088.com/productinfoen_2991650.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Coach%20sz38-45%20mns0601%20(1)_2991651.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Coach%20sz38-45%20mns0601%20(2)_2991650.jpg"
+  ],
+  "source_last_seen": "2026-07-29T06:22:34.980Z",
+  "name": "Coach sz38-45 mns0601",
+  "english_product_name": "Coach sz38-45 mns0601",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991650",
+  "parent_product_id": "2991650",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/coach-sz38-45-mns0601-2991328-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Coach%20sz38-45%20mns0601%20(1)_2991651.jpg",
+      "content_hash": "36b111f15fd15aa441ebbdd54d5bdd6fec01b62b",
+      "alt": "Coach sz38-45 mns0601"
+    },
+    {
+      "src": "/data/shoes/images/coach-sz38-45-mns0601-2991328-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Coach%20sz38-45%20mns0601%20(2)_2991650.jpg",
+      "content_hash": "afee70cb0c07fd81a29a01e6399eb9763a5f513f",
+      "alt": "Coach sz38-45 mns0601"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-29T06:22:34.980Z"
+}

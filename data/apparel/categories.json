@@ -3,7 +3,7 @@
   "source": "apparel",
   "host": "tangma2088.com",
   "count": 56,
-  "updatedAt": "2026-07-28T23:41:34.283Z",
+  "updatedAt": "2026-07-29T06:05:04.932Z",
   "categories": [
     {
       "name": "2025 New",
@@ -48,8 +48,8 @@
       "parent_path": null
     },
     {
-      "name": "By Style 0728",
-      "slug": "by-style-0728",
+      "name": "By Style 0729",
+      "slug": "by-style-0729",
       "source_url": "https://tangma2088.com/categoryen_1580.html?path=0_1580",
       "source_path": "0_1580",
       "parent_path": "0"
@@ -90,8 +90,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Bikini 0613",
-      "slug": "bikini-0613",
+      "name": "Bikini 0729",
+      "slug": "bikini-0729",
       "source_url": "https://tangma2088.com/categoryen_58658.html?path=0_58658",
       "source_path": "0_58658",
       "parent_path": "0"

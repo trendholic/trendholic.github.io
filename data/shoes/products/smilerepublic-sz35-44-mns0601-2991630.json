@@ -1,0 +1,63 @@
+{
+  "slug": "smilerepublic-sz35-44-mns0601-2991630",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2991631",
+  "source_parent_product_id": "2991630",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2991631.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/smilerepublic-sz35-44-mns0601-2991630/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2991631.html",
+    "https://shoes.tangma2088.com/productinfoen_2991630.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/SmileRepublic%20sz35-44%20mns0601%20(1)_2991631.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/SmileRepublic%20sz35-44%20mns0601%20(2)_2991630.jpg"
+  ],
+  "source_last_seen": "2026-07-29T06:22:34.980Z",
+  "name": "SmileRepublic sz35-44 mns0601",
+  "english_product_name": "SmileRepublic sz35-44 mns0601",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2991630",
+  "parent_product_id": "2991630",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/smilerepublic-sz35-44-mns0601-2991306-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/SmileRepublic%20sz35-44%20mns0601%20(1)_2991631.jpg",
+      "content_hash": "cc3547d619277144b71adc2dc4c0bfdeabc2bc11",
+      "alt": "SmileRepublic sz35-44 mns0601"
+    },
+    {
+      "src": "/data/shoes/images/smilerepublic-sz35-44-mns0601-2991306-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/SmileRepublic%20sz35-44%20mns0601%20(2)_2991630.jpg",
+      "content_hash": "498ee9f630d74ea317520ee3e930c46ce57e758a",
+      "alt": "SmileRepublic sz35-44 mns0601"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-29T06:22:34.980Z"
+}
