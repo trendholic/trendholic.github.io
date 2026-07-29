@@ -1,0 +1,64 @@
+name: Investigate JS Render (read-only)
+
+# READ-ONLY investigation of whether browser rendering exposes supplier category
+# products that plain HTTP misses. Manual dispatch only. Does NOT run the sync,
+# does NOT rebuild the catalog, does NOT touch retail — it only writes a report
+# under sync/investigation/ and uploads it as an artifact. No credentials, no
+# forms, no orders. Runs on the GitHub runner (direct internet).
+on:
+  workflow_dispatch:
+    inputs:
+      cats_per_domain:
+        description: "Categories to test per domain (keep small)"
+        type: string
+        default: "3"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: investigate-render
+  cancel-in-progress: false
+
+jobs:
+  investigate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        working-directory: sync
+        run: npm install --no-audit --no-fund
+
+      - name: Install Playwright Chromium
+        working-directory: sync
+        run: npx playwright install --with-deps chromium
+
+      - name: Run read-only render investigation
+        working-directory: sync
+        env:
+          INVESTIGATE_CATS_PER_DOMAIN: ${{ github.event.inputs.cats_per_domain || '3' }}
+        run: node scripts/investigate-render.mjs
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: render-report
+          path: sync/investigation/
+
+      - name: Commit report only (no catalog/retail/deploy changes)
+        run: |
+          git config user.name  "trendholic-sync[bot]"
+          git config user.email "sync-bot@users.noreply.github.com"
+          git add sync/investigation 2>/dev/null || true
+          if git diff --cached --quiet; then echo "No report changes."; exit 0; fi
+          git commit -m "chore(investigation): read-only JS-render category test report"
+          git push
