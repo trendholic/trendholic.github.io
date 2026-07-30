@@ -1,7 +1,7 @@
 {
   "top": "Bags",
   "slug": "bags",
-  "productCount": 88,
+  "productCount": 97,
   "subcategoriesDiscovered": 54,
   "subcategories": [
     {
@@ -727,6 +727,277 @@
       "_og": "https://trendholic.github.io/data/bags/images/cap-m27309-27x18x9cm-ss-2020036-1.webp"
     },
     {
+      "slug": "cap-m28455-27x18x9cm-ss-2020912",
+      "top_category": "Bags",
+      "source_site": "bags",
+      "source_domain": "bags.tangma2088.com",
+      "source_top_category": "Bags",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2020916",
+      "source_parent_product_id": "2020912",
+      "source_product_url": "https://bags.tangma2088.com/productinfoen_2020916.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/cap-m28455-27x18x9cm-ss-2020912/",
+      "source_product_urls": [
+        "https://bags.tangma2088.com/productinfoen_2020916.html",
+        "https://bags.tangma2088.com/productinfoen_2020915.html",
+        "https://bags.tangma2088.com/productinfoen_2020914.html",
+        "https://bags.tangma2088.com/productinfoen_2020913.html",
+        "https://bags.tangma2088.com/productinfoen_2020912.html"
+      ],
+      "source_image_urls": [
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28455%2027x18x9cm%20ss1_2020912.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28455%2027x18x9cm%20ss2_2020913.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28455%2027x18x9cm%20ss11_2020914.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28455%2027x18x9cm%20ss21_2020915.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28455%2027x18x9cm%20ss31_2020916.jpg"
+      ],
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
+      "name": "Cap M28455 27x18x9cm ss",
+      "english_product_name": "Cap M28455 27x18x9cm ss",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2020912",
+      "parent_product_id": "2020912",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/bags/images/cap-m28455-27x18x9cm-ss-2020912-1.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28455%2027x18x9cm%20ss1_2020912.jpg",
+          "content_hash": "d52622c99d02017be9744a94de064ae2d33fb87c",
+          "alt": "Cap M28455 27x18x9cm ss"
+        },
+        {
+          "src": "/data/bags/images/cap-m28455-27x18x9cm-ss-2020912-2.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28455%2027x18x9cm%20ss2_2020913.jpg",
+          "content_hash": "f38b6fd443ac7bd938f7fbb2ac7514ae8617122a",
+          "alt": "Cap M28455 27x18x9cm ss"
+        },
+        {
+          "src": "/data/bags/images/cap-m28455-27x18x9cm-ss-2020912-3.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28455%2027x18x9cm%20ss11_2020914.jpg",
+          "content_hash": "0f152f65de9d60b98c69880ac799ab9c254d269c",
+          "alt": "Cap M28455 27x18x9cm ss"
+        },
+        {
+          "src": "/data/bags/images/cap-m28455-27x18x9cm-ss-2020912-4.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28455%2027x18x9cm%20ss21_2020915.jpg",
+          "content_hash": "56e03b6db75dd15f5a04423a187fcd6015c8131a",
+          "alt": "Cap M28455 27x18x9cm ss"
+        },
+        {
+          "src": "/data/bags/images/cap-m28455-27x18x9cm-ss-2020912-5.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28455%2027x18x9cm%20ss31_2020916.jpg",
+          "content_hash": "9cc30aeb05db7a736efa2323effab80e5790114f",
+          "alt": "Cap M28455 27x18x9cm ss"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-30T06:02:57.439Z",
+      "_url": "/catalog/product/cap-m28455-27x18x9cm-ss-2020912/",
+      "_canonical": "https://trendholic.github.io/catalog/product/cap-m28455-27x18x9cm-ss-2020912/",
+      "_og": "https://trendholic.github.io/data/bags/images/cap-m28455-27x18x9cm-ss-2020912-1.webp"
+    },
+    {
+      "slug": "cap-m28716-21x14x8cm-ss-2020917",
+      "top_category": "Bags",
+      "source_site": "bags",
+      "source_domain": "bags.tangma2088.com",
+      "source_top_category": "Bags",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2020921",
+      "source_parent_product_id": "2020917",
+      "source_product_url": "https://bags.tangma2088.com/productinfoen_2020921.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/cap-m28716-21x14x8cm-ss-2020917/",
+      "source_product_urls": [
+        "https://bags.tangma2088.com/productinfoen_2020921.html",
+        "https://bags.tangma2088.com/productinfoen_2020920.html",
+        "https://bags.tangma2088.com/productinfoen_2020919.html",
+        "https://bags.tangma2088.com/productinfoen_2020918.html",
+        "https://bags.tangma2088.com/productinfoen_2020917.html"
+      ],
+      "source_image_urls": [
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28716%2021x14x8cm%20ss1_2020917.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28716%2021x14x8cm%20ss2_2020918.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28716%2021x14x8cm%20ss11_2020919.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28716%2021x14x8cm%20ss21_2020920.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28716%2021x14x8cm%20ss31_2020921.jpg"
+      ],
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
+      "name": "Cap M28716 21x14x8cm ss",
+      "english_product_name": "Cap M28716 21x14x8cm ss",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2020917",
+      "parent_product_id": "2020917",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/bags/images/cap-m28716-21x14x8cm-ss-2020917-1.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28716%2021x14x8cm%20ss1_2020917.jpg",
+          "content_hash": "b42cdf5cda5454ca7db3de951af6fffad0f12c88",
+          "alt": "Cap M28716 21x14x8cm ss"
+        },
+        {
+          "src": "/data/bags/images/cap-m28716-21x14x8cm-ss-2020917-2.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28716%2021x14x8cm%20ss2_2020918.jpg",
+          "content_hash": "12923da936f85f460c387faf6228dc7ae9df5d9b",
+          "alt": "Cap M28716 21x14x8cm ss"
+        },
+        {
+          "src": "/data/bags/images/cap-m28716-21x14x8cm-ss-2020917-3.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28716%2021x14x8cm%20ss11_2020919.jpg",
+          "content_hash": "f0f48598b9ee2d30af3a888f204d8b65ed3923d2",
+          "alt": "Cap M28716 21x14x8cm ss"
+        },
+        {
+          "src": "/data/bags/images/cap-m28716-21x14x8cm-ss-2020917-4.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28716%2021x14x8cm%20ss21_2020920.jpg",
+          "content_hash": "4258bb6669f095f4326846b7f8eb3cbdcb1ee905",
+          "alt": "Cap M28716 21x14x8cm ss"
+        },
+        {
+          "src": "/data/bags/images/cap-m28716-21x14x8cm-ss-2020917-5.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M28716%2021x14x8cm%20ss31_2020921.jpg",
+          "content_hash": "c27e689dce05dd74bc56ff005a87adbbc06865b7",
+          "alt": "Cap M28716 21x14x8cm ss"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-30T06:02:57.439Z",
+      "_url": "/catalog/product/cap-m28716-21x14x8cm-ss-2020917/",
+      "_canonical": "https://trendholic.github.io/catalog/product/cap-m28716-21x14x8cm-ss-2020917/",
+      "_og": "https://trendholic.github.io/data/bags/images/cap-m28716-21x14x8cm-ss-2020917-1.webp"
+    },
+    {
+      "slug": "cap-m29443-22x12x8cm-ss-2020922",
+      "top_category": "Bags",
+      "source_site": "bags",
+      "source_domain": "bags.tangma2088.com",
+      "source_top_category": "Bags",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2020927",
+      "source_parent_product_id": "2020922",
+      "source_product_url": "https://bags.tangma2088.com/productinfoen_2020927.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/cap-m29443-22x12x8cm-ss-2020922/",
+      "source_product_urls": [
+        "https://bags.tangma2088.com/productinfoen_2020927.html",
+        "https://bags.tangma2088.com/productinfoen_2020926.html",
+        "https://bags.tangma2088.com/productinfoen_2020925.html",
+        "https://bags.tangma2088.com/productinfoen_2020924.html",
+        "https://bags.tangma2088.com/productinfoen_2020923.html",
+        "https://bags.tangma2088.com/productinfoen_2020922.html"
+      ],
+      "source_image_urls": [
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M29443%2022x12x8cm%20ss1_2020922.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M29443%2022x12x8cm%20ss2_2020923.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M29443%2022x12x8cm%20ss11_2020924.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M29443%2022x12x8cm%20ss21_2020925.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Cap%20M29443%2022x12x8cm%20ss31_2020926.jpg"
+      ],
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
+      "name": "Cap M29443 22x12x8cm ss",
+      "english_product_name": "Cap M29443 22x12x8cm ss",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2020922",
+      "parent_product_id": "2020922",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/bags/images/cap-m29443-22x12x8cm-ss-2020922-1.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M29443%2022x12x8cm%20ss1_2020922.jpg",
+          "content_hash": "3f023c9fc537f39c658945d8ba68ac9f95493d13",
+          "alt": "Cap M29443 22x12x8cm ss"
+        },
+        {
+          "src": "/data/bags/images/cap-m29443-22x12x8cm-ss-2020922-2.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M29443%2022x12x8cm%20ss2_2020923.jpg",
+          "content_hash": "a6c7f774bcd2174958cf5240ba63eaa4f1b44cbe",
+          "alt": "Cap M29443 22x12x8cm ss"
+        },
+        {
+          "src": "/data/bags/images/cap-m29443-22x12x8cm-ss-2020922-3.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M29443%2022x12x8cm%20ss11_2020924.jpg",
+          "content_hash": "5a85d03d0f6b892d68e65d3467cde7da3b587487",
+          "alt": "Cap M29443 22x12x8cm ss"
+        },
+        {
+          "src": "/data/bags/images/cap-m29443-22x12x8cm-ss-2020922-4.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M29443%2022x12x8cm%20ss21_2020925.jpg",
+          "content_hash": "1d5ab638099f94b76bf7d90aee024f307818ee47",
+          "alt": "Cap M29443 22x12x8cm ss"
+        },
+        {
+          "src": "/data/bags/images/cap-m29443-22x12x8cm-ss-2020922-5.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Cap%20M29443%2022x12x8cm%20ss31_2020926.jpg",
+          "content_hash": "a564fd9ee6908d98dc1ace68c2fb0feabc8d368e",
+          "alt": "Cap M29443 22x12x8cm ss"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-30T06:02:57.439Z",
+      "_url": "/catalog/product/cap-m29443-22x12x8cm-ss-2020922/",
+      "_canonical": "https://trendholic.github.io/catalog/product/cap-m29443-22x12x8cm-ss-2020922/",
+      "_og": "https://trendholic.github.io/data/bags/images/cap-m29443-22x12x8cm-ss-2020922-1.webp"
+    },
+    {
       "slug": "cap-m29498-21x14x8cm-gf-2019629",
       "top_category": "Bags",
       "source_site": "bags",
@@ -1141,7 +1412,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Chanel%202663%2034x20x9%205cm%20jj27_2020721.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Chanel%202663%2034x20x9%205cm%20jj28_2020720.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Chanel 2663 34x20x9 5cm jj",
       "english_product_name": "Chanel 2663 34x20x9 5cm jj",
       "original_product_name": null,
@@ -1216,7 +1487,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/chanel-2663-34x20x9-5cm-jj-2020704/",
       "_canonical": "https://trendholic.github.io/catalog/product/chanel-2663-34x20x9-5cm-jj-2020704/",
       "_og": "https://trendholic.github.io/data/bags/images/chanel-2663-34x20x9-5cm-jj-2020704-1.webp"
@@ -1287,7 +1558,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Chanel%202663%2039x24x11cm%20jj27_2020745.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Chanel%202663%2039x24x11cm%20jj28_2020744.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Chanel 2663 39x24x11cm jj",
       "english_product_name": "Chanel 2663 39x24x11cm jj",
       "original_product_name": null,
@@ -1362,7 +1633,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/chanel-2663-39x24x11cm-jj-2020728/",
       "_canonical": "https://trendholic.github.io/catalog/product/chanel-2663-39x24x11cm-jj-2020728/",
       "_og": "https://trendholic.github.io/data/bags/images/chanel-2663-39x24x11cm-jj-2020728-1.webp"
@@ -1465,7 +1736,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Dior%20Bow%20S3900%2020x11x8cm%20jj47_2020794.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Dior%20Bow%20S3900%2020x11x8cm%20jj48_2020793.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Dior Bow S3900 20x11x8cm jj",
       "english_product_name": "Dior Bow S3900 20x11x8cm jj",
       "original_product_name": null,
@@ -1540,7 +1811,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/dior-bow-s3900-20x11x8cm-jj-2020761/",
       "_canonical": "https://trendholic.github.io/catalog/product/dior-bow-s3900-20x11x8cm-jj-2020761/",
       "_og": "https://trendholic.github.io/data/bags/images/dior-bow-s3900-20x11x8cm-jj-2020761-1.webp"
@@ -1627,7 +1898,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Goyard%201166%2026x21x10cm%20jj37_2020826.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Goyard%201166%2026x21x10cm%20jj38_2020825.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Goyard 1166 26x21x10cm jj",
       "english_product_name": "Goyard 1166 26x21x10cm jj",
       "original_product_name": null,
@@ -1702,7 +1973,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/goyard-1166-26x21x10cm-jj-2020801/",
       "_canonical": "https://trendholic.github.io/catalog/product/goyard-1166-26x21x10cm-jj-2020801/",
       "_og": "https://trendholic.github.io/data/bags/images/goyard-1166-26x21x10cm-jj-2020801-1.webp"
@@ -1789,7 +2060,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Goyard%201166%2042x27x15cm%20jj37_2020858.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Goyard%201166%2042x27x15cm%20jj38_2020857.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Goyard 1166 42x27x15cm jj",
       "english_product_name": "Goyard 1166 42x27x15cm jj",
       "original_product_name": null,
@@ -1864,10 +2135,101 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/goyard-1166-42x27x15cm-jj-2020833/",
       "_canonical": "https://trendholic.github.io/catalog/product/goyard-1166-42x27x15cm-jj-2020833/",
       "_og": "https://trendholic.github.io/data/bags/images/goyard-1166-42x27x15cm-jj-2020833-1.webp"
+    },
+    {
+      "slug": "goyard-2533-50cm-ss-2020929",
+      "top_category": "Bags",
+      "source_site": "bags",
+      "source_domain": "bags.tangma2088.com",
+      "source_top_category": "Bags",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2020933",
+      "source_parent_product_id": "2020929",
+      "source_product_url": "https://bags.tangma2088.com/productinfoen_2020933.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/goyard-2533-50cm-ss-2020929/",
+      "source_product_urls": [
+        "https://bags.tangma2088.com/productinfoen_2020933.html",
+        "https://bags.tangma2088.com/productinfoen_2020932.html",
+        "https://bags.tangma2088.com/productinfoen_2020931.html",
+        "https://bags.tangma2088.com/productinfoen_2020930.html",
+        "https://bags.tangma2088.com/productinfoen_2020929.html",
+        "https://bags.tangma2088.com/productinfoen_2020928.html"
+      ],
+      "source_image_urls": [
+        "https://bags.tangma2088.com/upfile/product/202607/Goyard%202533%2050cm%20ss1_2020929.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Goyard%202533%2050cm%20ss11_2020930.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Goyard%202533%2050cm%20ss21_2020931.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Goyard%202533%2050cm%20ss31_2020932.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Goyard%202533%2050cm%20ss41_2020933.jpg"
+      ],
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
+      "name": "Goyard 2533 50cm ss",
+      "english_product_name": "Goyard 2533 50cm ss",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2020929",
+      "parent_product_id": "2020929",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/bags/images/goyard-2533-50cm-ss-2020929-1.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Goyard%202533%2050cm%20ss1_2020929.jpg",
+          "content_hash": "3f849c85793f3a5aa6b9d451df9f3f1a2e29ae46",
+          "alt": "Goyard 2533 50cm ss"
+        },
+        {
+          "src": "/data/bags/images/goyard-2533-50cm-ss-2020929-2.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Goyard%202533%2050cm%20ss11_2020930.jpg",
+          "content_hash": "af47d603e512781c5cc6fd7e53491a0b79c7ad40",
+          "alt": "Goyard 2533 50cm ss"
+        },
+        {
+          "src": "/data/bags/images/goyard-2533-50cm-ss-2020929-3.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Goyard%202533%2050cm%20ss21_2020931.jpg",
+          "content_hash": "eb2c1de41374a378da0a1321d2307cc92ae01b6a",
+          "alt": "Goyard 2533 50cm ss"
+        },
+        {
+          "src": "/data/bags/images/goyard-2533-50cm-ss-2020929-4.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Goyard%202533%2050cm%20ss31_2020932.jpg",
+          "content_hash": "5f3dfa82cf333257d565d4a9c60978f0e4c34f0d",
+          "alt": "Goyard 2533 50cm ss"
+        },
+        {
+          "src": "/data/bags/images/goyard-2533-50cm-ss-2020929-5.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Goyard%202533%2050cm%20ss41_2020933.jpg",
+          "content_hash": "58ffc39a8f89af51670e0435b9e851409014893e",
+          "alt": "Goyard 2533 50cm ss"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-30T06:02:57.439Z",
+      "_url": "/catalog/product/goyard-2533-50cm-ss-2020929/",
+      "_canonical": "https://trendholic.github.io/catalog/product/goyard-2533-50cm-ss-2020929/",
+      "_og": "https://trendholic.github.io/data/bags/images/goyard-2533-50cm-ss-2020929-1.webp"
     },
     {
       "slug": "goyard-6602-34x27x14cm-jj-2020362",
@@ -2141,7 +2503,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Goyard%206685%2023x14x31cm%20jj57_2020905.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Goyard%206685%2023x14x31cm%20jj58_2020904.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Goyard 6685 23x14x31cm jj",
       "english_product_name": "Goyard 6685 23x14x31cm jj",
       "original_product_name": null,
@@ -2216,7 +2578,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/goyard-6685-23x14x31cm-jj-2020865/",
       "_canonical": "https://trendholic.github.io/catalog/product/goyard-6685-23x14x31cm-jj-2020865/",
       "_og": "https://trendholic.github.io/data/bags/images/goyard-6685-23x14x31cm-jj-2020865-1.webp"
@@ -2412,6 +2774,88 @@
       "_url": "/catalog/product/goyard-hobo-26x21x10cm-jj-2020394/",
       "_canonical": "https://trendholic.github.io/catalog/product/goyard-hobo-26x21x10cm-jj-2020394/",
       "_og": "https://trendholic.github.io/data/bags/images/goyard-hobo-26x21x10cm-jj-2020394-1.webp"
+    },
+    {
+      "slug": "graceful-m46205-31x26-5x14-5cm-ss-2020934",
+      "top_category": "Bags",
+      "source_site": "bags",
+      "source_domain": "bags.tangma2088.com",
+      "source_top_category": "Bags",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2020937",
+      "source_parent_product_id": "2020934",
+      "source_product_url": "https://bags.tangma2088.com/productinfoen_2020937.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/graceful-m46205-31x26-5x14-5cm-ss-2020934/",
+      "source_product_urls": [
+        "https://bags.tangma2088.com/productinfoen_2020937.html",
+        "https://bags.tangma2088.com/productinfoen_2020936.html",
+        "https://bags.tangma2088.com/productinfoen_2020935.html",
+        "https://bags.tangma2088.com/productinfoen_2020934.html"
+      ],
+      "source_image_urls": [
+        "https://bags.tangma2088.com/upfile/product/202607/Graceful%20M46205%2031x26%205x14%205cm%20ss1_2020934.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Graceful%20M46205%2031x26%205x14%205cm%20ss2_2020935.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Graceful%20M46205%2031x26%205x14%205cm%20ss11_2020936.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Graceful%20M46205%2031x26%205x14%205cm%20ss21_2020937.jpg"
+      ],
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
+      "name": "Graceful M46205 31x26 5x14 5cm ss",
+      "english_product_name": "Graceful M46205 31x26 5x14 5cm ss",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2020934",
+      "parent_product_id": "2020934",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/bags/images/graceful-m46205-31x26-5x14-5cm-ss-2020934-1.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Graceful%20M46205%2031x26%205x14%205cm%20ss1_2020934.jpg",
+          "content_hash": "28b1f01f152c93e5e91e49d6e223545c5934efdd",
+          "alt": "Graceful M46205 31x26 5x14 5cm ss"
+        },
+        {
+          "src": "/data/bags/images/graceful-m46205-31x26-5x14-5cm-ss-2020934-2.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Graceful%20M46205%2031x26%205x14%205cm%20ss2_2020935.jpg",
+          "content_hash": "3ddd600868ab015073e9a76f8d5c50a0ec42fa37",
+          "alt": "Graceful M46205 31x26 5x14 5cm ss"
+        },
+        {
+          "src": "/data/bags/images/graceful-m46205-31x26-5x14-5cm-ss-2020934-3.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Graceful%20M46205%2031x26%205x14%205cm%20ss11_2020936.jpg",
+          "content_hash": "50e394335ccf273caba0e4229d3ad2cf9b63464a",
+          "alt": "Graceful M46205 31x26 5x14 5cm ss"
+        },
+        {
+          "src": "/data/bags/images/graceful-m46205-31x26-5x14-5cm-ss-2020934-4.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Graceful%20M46205%2031x26%205x14%205cm%20ss21_2020937.jpg",
+          "content_hash": "63a73b225456d3e424ab9d06065f2e9b406351d2",
+          "alt": "Graceful M46205 31x26 5x14 5cm ss"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-30T06:02:57.439Z",
+      "_url": "/catalog/product/graceful-m46205-31x26-5x14-5cm-ss-2020934/",
+      "_canonical": "https://trendholic.github.io/catalog/product/graceful-m46205-31x26-5x14-5cm-ss-2020934/",
+      "_og": "https://trendholic.github.io/data/bags/images/graceful-m46205-31x26-5x14-5cm-ss-2020934-1.webp"
     },
     {
       "slug": "hermes-birkin-19x27x8cm-jj-2020442",
@@ -2898,7 +3342,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Lisa%20m29251%209x11%205x1%205cm%20gf1_2020752.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Lisa%20m29251%209x11%205x1%205cm%20gf2_2020753.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Lisa m29251 9x11 5x1 5cm gf",
       "english_product_name": "Lisa m29251 9x11 5x1 5cm gf",
       "original_product_name": null,
@@ -2937,7 +3381,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/lisa-m29251-9x11-5x1-5cm-gf-2020752/",
       "_canonical": "https://trendholic.github.io/catalog/product/lisa-m29251-9x11-5x1-5cm-gf-2020752/",
       "_og": "https://trendholic.github.io/data/bags/images/lisa-m29251-9x11-5x1-5cm-gf-2020752-1.webp"
@@ -2964,7 +3408,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Lisa%20m29350%209x11%205x1%205cm%20gf1_2020754.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Lisa%20m29350%209x11%205x1%205cm%20gf11_2020755.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Lisa m29350 9x11 5x1 5cm gf",
       "english_product_name": "Lisa m29350 9x11 5x1 5cm gf",
       "original_product_name": null,
@@ -3003,7 +3447,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/lisa-m29350-9x11-5x1-5cm-gf-2020754/",
       "_canonical": "https://trendholic.github.io/catalog/product/lisa-m29350-9x11-5x1-5cm-gf-2020754/",
       "_og": "https://trendholic.github.io/data/bags/images/lisa-m29350-9x11-5x1-5cm-gf-2020754-1.webp"
@@ -3034,7 +3478,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/M28991%2014x2%205x10cm%20gf11_2020757.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/M28991%2014x2%205x10cm%20gf21_2020758.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "M28991 14x2 5x10cm gf",
       "english_product_name": "M28991 14x2 5x10cm gf",
       "original_product_name": null,
@@ -3079,10 +3523,142 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/m28991-14x2-5x10cm-gf-2020756/",
       "_canonical": "https://trendholic.github.io/catalog/product/m28991-14x2-5x10cm-gf-2020756/",
       "_og": "https://trendholic.github.io/data/bags/images/m28991-14x2-5x10cm-gf-2020756-1.webp"
+    },
+    {
+      "slug": "m28994-10-2x7-3x0-3cm-gf-2020943",
+      "top_category": "Bags",
+      "source_site": "bags",
+      "source_domain": "bags.tangma2088.com",
+      "source_top_category": "Bags",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2020944",
+      "source_parent_product_id": "2020943",
+      "source_product_url": "https://bags.tangma2088.com/productinfoen_2020944.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/m28994-10-2x7-3x0-3cm-gf-2020943/",
+      "source_product_urls": [
+        "https://bags.tangma2088.com/productinfoen_2020944.html",
+        "https://bags.tangma2088.com/productinfoen_2020943.html"
+      ],
+      "source_image_urls": [
+        "https://bags.tangma2088.com/upfile/product/202607/m28994%2010%202x7%203x0%203cm%20gf1_2020943.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/m28994%2010%202x7%203x0%203cm%20gf2_2020944.jpg"
+      ],
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
+      "name": "m28994 10 2x7 3x0 3cm gf",
+      "english_product_name": "m28994 10 2x7 3x0 3cm gf",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2020943",
+      "parent_product_id": "2020943",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/bags/images/m28994-10-2x7-3x0-3cm-gf-2020943-1.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/m28994%2010%202x7%203x0%203cm%20gf1_2020943.jpg",
+          "content_hash": "b21471840f7bfde6ee736a01ae01e497bfbd0cfb",
+          "alt": "m28994 10 2x7 3x0 3cm gf"
+        },
+        {
+          "src": "/data/bags/images/m28994-10-2x7-3x0-3cm-gf-2020943-2.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/m28994%2010%202x7%203x0%203cm%20gf2_2020944.jpg",
+          "content_hash": "8f0734b6213174ddcba51bbec5a66fc145316b96",
+          "alt": "m28994 10 2x7 3x0 3cm gf"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-30T06:02:57.439Z",
+      "_url": "/catalog/product/m28994-10-2x7-3x0-3cm-gf-2020943/",
+      "_canonical": "https://trendholic.github.io/catalog/product/m28994-10-2x7-3x0-3cm-gf-2020943/",
+      "_og": "https://trendholic.github.io/data/bags/images/m28994-10-2x7-3x0-3cm-gf-2020943-1.webp"
+    },
+    {
+      "slug": "m28995-10-2x7-3x0-3cm-gf-2020945",
+      "top_category": "Bags",
+      "source_site": "bags",
+      "source_domain": "bags.tangma2088.com",
+      "source_top_category": "Bags",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2020946",
+      "source_parent_product_id": "2020945",
+      "source_product_url": "https://bags.tangma2088.com/productinfoen_2020946.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/m28995-10-2x7-3x0-3cm-gf-2020945/",
+      "source_product_urls": [
+        "https://bags.tangma2088.com/productinfoen_2020946.html",
+        "https://bags.tangma2088.com/productinfoen_2020945.html"
+      ],
+      "source_image_urls": [
+        "https://bags.tangma2088.com/upfile/product/202607/m28995%2010%202x7%203x0%203cm%20gf1_2020945.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/m28995%2010%202x7%203x0%203cm%20gf2_2020946.jpg"
+      ],
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
+      "name": "m28995 10 2x7 3x0 3cm gf",
+      "english_product_name": "m28995 10 2x7 3x0 3cm gf",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2020945",
+      "parent_product_id": "2020945",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/bags/images/m28995-10-2x7-3x0-3cm-gf-2020945-1.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/m28995%2010%202x7%203x0%203cm%20gf1_2020945.jpg",
+          "content_hash": "5eb5e1d3b1345568c2862fca95088d3dcaedbac8",
+          "alt": "m28995 10 2x7 3x0 3cm gf"
+        },
+        {
+          "src": "/data/bags/images/m28995-10-2x7-3x0-3cm-gf-2020945-2.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/m28995%2010%202x7%203x0%203cm%20gf2_2020946.jpg",
+          "content_hash": "ec27ca891603a78e3a21295565dce563d651a91d",
+          "alt": "m28995 10 2x7 3x0 3cm gf"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-30T06:02:57.439Z",
+      "_url": "/catalog/product/m28995-10-2x7-3x0-3cm-gf-2020945/",
+      "_canonical": "https://trendholic.github.io/catalog/product/m28995-10-2x7-3x0-3cm-gf-2020945/",
+      "_og": "https://trendholic.github.io/data/bags/images/m28995-10-2x7-3x0-3cm-gf-2020945-1.webp"
     },
     {
       "slug": "madeleine-m28610-29x18x10-5cm-gf-2019655",
@@ -3404,6 +3980,89 @@
       "_og": "https://trendholic.github.io/data/bags/images/neverfull-m25656-26-5x16-5x11cm-gf-2019667-1.webp"
     },
     {
+      "slug": "noe-m29537-24x13x8cm-ss-2020939",
+      "top_category": "Bags",
+      "source_site": "bags",
+      "source_domain": "bags.tangma2088.com",
+      "source_top_category": "Bags",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2020942",
+      "source_parent_product_id": "2020939",
+      "source_product_url": "https://bags.tangma2088.com/productinfoen_2020942.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/noe-m29537-24x13x8cm-ss-2020939/",
+      "source_product_urls": [
+        "https://bags.tangma2088.com/productinfoen_2020942.html",
+        "https://bags.tangma2088.com/productinfoen_2020941.html",
+        "https://bags.tangma2088.com/productinfoen_2020940.html",
+        "https://bags.tangma2088.com/productinfoen_2020939.html",
+        "https://bags.tangma2088.com/productinfoen_2020938.html"
+      ],
+      "source_image_urls": [
+        "https://bags.tangma2088.com/upfile/product/202607/Noe%20M29537%2024x13x8cm%20ss1_2020939.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Noe%20M29537%2024x13x8cm%20ss2_2020940.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Noe%20M29537%2024x13x8cm%20ss11_2020941.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Noe%20M29537%2024x13x8cm%20ss21_2020942.jpg"
+      ],
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
+      "name": "Noe M29537 24x13x8cm ss",
+      "english_product_name": "Noe M29537 24x13x8cm ss",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2020939",
+      "parent_product_id": "2020939",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/bags/images/noe-m29537-24x13x8cm-ss-2020939-1.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Noe%20M29537%2024x13x8cm%20ss1_2020939.jpg",
+          "content_hash": "a60372102fd661c3855917aa831456376564e01b",
+          "alt": "Noe M29537 24x13x8cm ss"
+        },
+        {
+          "src": "/data/bags/images/noe-m29537-24x13x8cm-ss-2020939-2.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Noe%20M29537%2024x13x8cm%20ss2_2020940.jpg",
+          "content_hash": "9bf64eb6d0320d52372d90b931ba7f75e84396fb",
+          "alt": "Noe M29537 24x13x8cm ss"
+        },
+        {
+          "src": "/data/bags/images/noe-m29537-24x13x8cm-ss-2020939-3.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Noe%20M29537%2024x13x8cm%20ss11_2020941.jpg",
+          "content_hash": "4f27c7f351a8b4206a0839416d9054d19fc0bc86",
+          "alt": "Noe M29537 24x13x8cm ss"
+        },
+        {
+          "src": "/data/bags/images/noe-m29537-24x13x8cm-ss-2020939-4.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Noe%20M29537%2024x13x8cm%20ss21_2020942.jpg",
+          "content_hash": "7eb871c9ebabb21c9f3af31e0c14e683647292a1",
+          "alt": "Noe M29537 24x13x8cm ss"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-30T06:02:57.439Z",
+      "_url": "/catalog/product/noe-m29537-24x13x8cm-ss-2020939/",
+      "_canonical": "https://trendholic.github.io/catalog/product/noe-m29537-24x13x8cm-ss-2020939/",
+      "_og": "https://trendholic.github.io/data/bags/images/noe-m29537-24x13x8cm-ss-2020939-1.webp"
+    },
+    {
       "slug": "prada-1ba426-32x15-5x12cm-ap-2020543",
       "top_category": "Bags",
       "source_site": "bags",
@@ -3577,7 +4236,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BA457%2028x14x10%205cm%20AP310_2020553.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BA457%2028x14x10%205cm%20AP311_2020552.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Prada 1BA457 28x14x10 5cm AP",
       "english_product_name": "Prada 1BA457 28x14x10 5cm AP",
       "original_product_name": null,
@@ -3652,7 +4311,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/prada-1ba457-28x14x10-5cm-ap-2020552/",
       "_canonical": "https://trendholic.github.io/catalog/product/prada-1ba457-28x14x10-5cm-ap-2020552/",
       "_og": "https://trendholic.github.io/data/bags/images/prada-1ba457-28x14x10-5cm-ap-2020552-1.webp"
@@ -3695,7 +4354,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BA486%2023%205x12x9cm%20AP109_2020573.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BA486%2023%205x12x9cm%20AP1010_2020572.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Prada 1BA486 23 5x12x9cm AP",
       "english_product_name": "Prada 1BA486 23 5x12x9cm AP",
       "original_product_name": null,
@@ -3770,7 +4429,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/prada-1ba486-23-5x12x9cm-ap-2020572/",
       "_canonical": "https://trendholic.github.io/catalog/product/prada-1ba486-23-5x12x9cm-ap-2020572/",
       "_og": "https://trendholic.github.io/data/bags/images/prada-1ba486-23-5x12x9cm-ap-2020572-1.webp"
@@ -3811,7 +4470,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BA916%2021x12%205x8%205cm%20AP8_2020583.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BA916%2021x12%205x8%205cm%20AP9_2020582.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Prada 1BA916 21x12 5x8 5cm AP",
       "english_product_name": "Prada 1BA916 21x12 5x8 5cm AP",
       "original_product_name": null,
@@ -3886,7 +4545,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/prada-1ba916-21x12-5x8-5cm-ap-2020582/",
       "_canonical": "https://trendholic.github.io/catalog/product/prada-1ba916-21x12-5x8-5cm-ap-2020582/",
       "_og": "https://trendholic.github.io/data/bags/images/prada-1ba916-21x12-5x8-5cm-ap-2020582-1.webp"
@@ -3949,7 +4608,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BB154%2032%205x17x16%205cm%20AP210_2020592.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BB154%2032%205x17x16%205cm%20AP211_2020591.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Prada 1BB154 32 5x17x16 5cm AP",
       "english_product_name": "Prada 1BB154 32 5x17x16 5cm AP",
       "original_product_name": null,
@@ -4024,7 +4683,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/prada-1bb154-32-5x17x16-5cm-ap-2020591/",
       "_canonical": "https://trendholic.github.io/catalog/product/prada-1bb154-32-5x17x16-5cm-ap-2020591/",
       "_og": "https://trendholic.github.io/data/bags/images/prada-1bb154-32-5x17x16-5cm-ap-2020591-1.webp"
@@ -4105,7 +4764,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BC204%2022x18x6cm%20AP310_2020630.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BC204%2022x18x6cm%20AP311_2020629.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Prada 1BC204 22x18x6cm AP",
       "english_product_name": "Prada 1BC204 22x18x6cm AP",
       "original_product_name": null,
@@ -4180,7 +4839,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/prada-1bc204-22x18x6cm-ap-2020611/",
       "_canonical": "https://trendholic.github.io/catalog/product/prada-1bc204-22x18x6cm-ap-2020611/",
       "_og": "https://trendholic.github.io/data/bags/images/prada-1bc204-22x18x6cm-ap-2020611-1.webp"
@@ -4450,7 +5109,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BC302%2020x12x11cm%20AP48_2020659.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BC302%2020x12x11cm%20AP49_2020658.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Prada 1BC302 20x12x11cm AP",
       "english_product_name": "Prada 1BC302 20x12x11cm AP",
       "original_product_name": null,
@@ -4525,7 +5184,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/prada-1bc302-20x12x11cm-ap-2020640/",
       "_canonical": "https://trendholic.github.io/catalog/product/prada-1bc302-20x12x11cm-ap-2020640/",
       "_og": "https://trendholic.github.io/data/bags/images/prada-1bc302-20x12x11cm-ap-2020640-1.webp"
@@ -4653,7 +5312,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BD408%2027x20x10cm%20AP18_2020679.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BD408%2027x20x10cm%20AP19_2020678.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Prada 1BD408 27x20x10cm AP",
       "english_product_name": "Prada 1BD408 27x20x10cm AP",
       "original_product_name": null,
@@ -4728,7 +5387,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/prada-1bd408-27x20x10cm-ap-2020667/",
       "_canonical": "https://trendholic.github.io/catalog/product/prada-1bd408-27x20x10cm-ap-2020667/",
       "_og": "https://trendholic.github.io/data/bags/images/prada-1bd408-27x20x10cm-ap-2020667-1.webp"
@@ -4901,7 +5560,7 @@
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP17_2020697.jpg",
         "https://bags.tangma2088.com/upfile/product/202607/Prada%201BE106%2023x24%205x15cm%20AP18_2020696.jpg"
       ],
-      "source_last_seen": "2026-07-29T06:20:27.005Z",
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
       "name": "Prada 1BE106 23x24 5x15cm AP",
       "english_product_name": "Prada 1BE106 23x24 5x15cm AP",
       "original_product_name": null,
@@ -4976,7 +5635,7 @@
         }
       ],
       "pdfs": [],
-      "synced_at": "2026-07-29T06:20:27.005Z",
+      "synced_at": "2026-07-30T06:02:57.439Z",
       "_url": "/catalog/product/prada-1be106-23x24-5x15cm-ap-2020687/",
       "_canonical": "https://trendholic.github.io/catalog/product/prada-1be106-23x24-5x15cm-ap-2020687/",
       "_og": "https://trendholic.github.io/data/bags/images/prada-1be106-23x24-5x15cm-ap-2020687-1.webp"
@@ -6942,6 +7601,82 @@
       "_url": "/catalog/product/prada-route-1bg660-28x21x13cm-ap-2019687/",
       "_canonical": "https://trendholic.github.io/catalog/product/prada-route-1bg660-28x21x13cm-ap-2019687/",
       "_og": "https://trendholic.github.io/data/bags/images/prada-route-1bg660-28x21x13cm-ap-2019687-1.webp"
+    },
+    {
+      "slug": "romy-m28984-12x8x0-8cm-gf-2020948",
+      "top_category": "Bags",
+      "source_site": "bags",
+      "source_domain": "bags.tangma2088.com",
+      "source_top_category": "Bags",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2020951",
+      "source_parent_product_id": "2020948",
+      "source_product_url": "https://bags.tangma2088.com/productinfoen_2020951.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/romy-m28984-12x8x0-8cm-gf-2020948/",
+      "source_product_urls": [
+        "https://bags.tangma2088.com/productinfoen_2020951.html",
+        "https://bags.tangma2088.com/productinfoen_2020950.html",
+        "https://bags.tangma2088.com/productinfoen_2020949.html",
+        "https://bags.tangma2088.com/productinfoen_2020948.html",
+        "https://bags.tangma2088.com/productinfoen_2020947.html"
+      ],
+      "source_image_urls": [
+        "https://bags.tangma2088.com/upfile/product/202607/Romy%20m28984%2012x8x0%208cm%20gf1_2020948.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Romy%20m28984%2012x8x0%208cm%20gf11_2020949.jpg",
+        "https://bags.tangma2088.com/upfile/product/202607/Romy%20m28984%2012x8x0%208cm%20gf21_2020950.jpg"
+      ],
+      "source_last_seen": "2026-07-30T06:02:57.439Z",
+      "name": "Romy m28984 12x8x0 8cm gf",
+      "english_product_name": "Romy m28984 12x8x0 8cm gf",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2020948",
+      "parent_product_id": "2020948",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/bags/images/romy-m28984-12x8x0-8cm-gf-2020948-1.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Romy%20m28984%2012x8x0%208cm%20gf1_2020948.jpg",
+          "content_hash": "f9ccbaa63258aed51218d671267f2ce418680b26",
+          "alt": "Romy m28984 12x8x0 8cm gf"
+        },
+        {
+          "src": "/data/bags/images/romy-m28984-12x8x0-8cm-gf-2020948-2.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Romy%20m28984%2012x8x0%208cm%20gf11_2020949.jpg",
+          "content_hash": "eb89a16f91f90ca809d719e991f8c238b95da4d5",
+          "alt": "Romy m28984 12x8x0 8cm gf"
+        },
+        {
+          "src": "/data/bags/images/romy-m28984-12x8x0-8cm-gf-2020948-3.webp",
+          "source_url": "https://bags.tangma2088.com/upfile/product/202607/Romy%20m28984%2012x8x0%208cm%20gf21_2020950.jpg",
+          "content_hash": "66941e0e813b12698ea40fd3f2048159d259e46e",
+          "alt": "Romy m28984 12x8x0 8cm gf"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-30T06:02:57.439Z",
+      "_url": "/catalog/product/romy-m28984-12x8x0-8cm-gf-2020948/",
+      "_canonical": "https://trendholic.github.io/catalog/product/romy-m28984-12x8x0-8cm-gf-2020948/",
+      "_og": "https://trendholic.github.io/data/bags/images/romy-m28984-12x8x0-8cm-gf-2020948-1.webp"
     },
     {
       "slug": "side-trunk-m28569-23-5x16x8-5cm-gf-2019692",

@@ -1932,6 +1932,76 @@
       "parent_product_id": "4099996",
       "firstSeen": "2026-07-29T06:14:22.695Z",
       "lastSeen": "2026-07-29T06:14:22.695Z"
+    },
+    "4100586": {
+      "rawHash": "38f47808311310d9372a87bf3cc627c8ac62d21a",
+      "slug": "chrome-hearts-cap-dx-4100586",
+      "parent_product_id": "4100586",
+      "firstSeen": "2026-07-30T05:59:05.816Z",
+      "lastSeen": "2026-07-30T05:59:05.816Z"
+    },
+    "4100626": {
+      "rawHash": "cc5b88b21abb26597502d0e4fe413145b4540bc4",
+      "slug": "ck-cap-dx-4100626",
+      "parent_product_id": "4100626",
+      "firstSeen": "2026-07-30T05:59:05.816Z",
+      "lastSeen": "2026-07-30T05:59:05.816Z"
+    },
+    "4100636": {
+      "rawHash": "f7d4155f68762c8053dee0c431a89ba730868656",
+      "slug": "diesel-cap-dx-4100636",
+      "parent_product_id": "4100636",
+      "firstSeen": "2026-07-30T05:59:05.816Z",
+      "lastSeen": "2026-07-30T05:59:05.816Z"
+    },
+    "4100695": {
+      "rawHash": "2832d29aee0e653c815fd753a6952e060f28eab5",
+      "slug": "dior-cap-dx-4100695",
+      "parent_product_id": "4100695",
+      "firstSeen": "2026-07-30T05:59:05.816Z",
+      "lastSeen": "2026-07-30T05:59:05.816Z"
+    },
+    "4100710": {
+      "rawHash": "a6cf843368fe613aca5dd78c3351a63b156ef828",
+      "slug": "gucci-cap-dx-4100710",
+      "parent_product_id": "4100710",
+      "firstSeen": "2026-07-30T05:59:05.816Z",
+      "lastSeen": "2026-07-30T05:59:05.816Z"
+    },
+    "4100727": {
+      "rawHash": "92016c26ed251b863df6c6087ddd5d5a8b967786",
+      "slug": "loro-piana-cap-dx-4100727",
+      "parent_product_id": "4100727",
+      "firstSeen": "2026-07-30T05:59:05.816Z",
+      "lastSeen": "2026-07-30T05:59:05.816Z"
+    },
+    "4100816": {
+      "rawHash": "a983343c470abff0232843a3166268919480b027",
+      "slug": "lv-cap-dx-4100816",
+      "parent_product_id": "4100816",
+      "firstSeen": "2026-07-30T05:59:05.816Z",
+      "lastSeen": "2026-07-30T05:59:05.816Z"
+    },
+    "4100840": {
+      "rawHash": "b0ef74c8e62d10005da21e4ee191875918e6b117",
+      "slug": "matin-cap-dx-4100840",
+      "parent_product_id": "4100840",
+      "firstSeen": "2026-07-30T05:59:05.816Z",
+      "lastSeen": "2026-07-30T05:59:05.816Z"
+    },
+    "4100883": {
+      "rawHash": "9162fb13d1be08a76ed4f6f6be20985c493be8ef",
+      "slug": "miumiu-cap-dx-4100883",
+      "parent_product_id": "4100883",
+      "firstSeen": "2026-07-30T05:59:05.816Z",
+      "lastSeen": "2026-07-30T05:59:05.816Z"
+    },
+    "4100945": {
+      "rawHash": "c48038ffd0751da7024cfb7566a5b52e39f4fe87",
+      "slug": "nike-cap-dx-4100945",
+      "parent_product_id": "4100945",
+      "firstSeen": "2026-07-30T05:59:05.816Z",
+      "lastSeen": "2026-07-30T05:59:05.816Z"
     }
   },
   "categories": [
@@ -1942,7 +2012,7 @@
     "glasses-factory-0728",
     "belts-0724",
     "watches-0721",
-    "caps-0714",
+    "caps-0730",
     "bucket-hat-0713",
     "26-hat-0717",
     "more-caps-hats-0714",
@@ -1971,5 +2041,5 @@
     "underware-sleepware-0307",
     "sunglasses-a"
   ],
-  "updatedAt": "2026-07-29T06:14:22.695Z"
+  "updatedAt": "2026-07-30T05:59:05.816Z"
 }

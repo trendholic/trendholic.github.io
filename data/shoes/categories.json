@@ -3,25 +3,25 @@
   "source": "shoes",
   "host": "shoes.tangma2088.com",
   "count": 90,
-  "updatedAt": "2026-07-29T06:20:30.192Z",
+  "updatedAt": "2026-07-30T06:03:42.156Z",
   "categories": [
     {
-      "name": "NEW ARRIVAL 0728",
-      "slug": "new-arrival-0728",
+      "name": "NEW ARRIVAL 0729",
+      "slug": "new-arrival-0729",
       "source_url": "https://shoes.tangma2088.com/categoryen_355.html?path=0_355",
       "source_path": "0_355",
       "parent_path": "0"
     },
     {
-      "name": "Factory B 0726",
-      "slug": "factory-b-0726",
+      "name": "Factory B 0729",
+      "slug": "factory-b-0729",
       "source_url": "https://shoes.tangma2088.com/categoryen_367.html?path=0_367",
       "source_path": "0_367",
       "parent_path": "0"
     },
     {
-      "name": "Factory C0726",
-      "slug": "factory-c0726",
+      "name": "Factory C0730",
+      "slug": "factory-c0730",
       "source_url": "https://shoes.tangma2088.com/categoryen_65136.html?path=0_65136",
       "source_path": "0_65136",
       "parent_path": "0"
@@ -41,8 +41,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Louis Vittion 2026 0728",
-      "slug": "louis-vittion-2026-0728",
+      "name": "Louis Vittion 2026 0729",
+      "slug": "louis-vittion-2026-0729",
       "source_url": "https://shoes.tangma2088.com/categoryen_327.html?path=0_327",
       "source_path": "0_327",
       "parent_path": "0"
@@ -279,8 +279,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Givenchy 2026 0624",
-      "slug": "givenchy-2026-0624",
+      "name": "Givenchy 2026 0729",
+      "slug": "givenchy-2026-0729",
       "source_url": "https://shoes.tangma2088.com/categoryen_132.html?path=0_132",
       "source_path": "0_132",
       "parent_path": "0"
@@ -398,15 +398,15 @@
       "parent_path": "0"
     },
     {
-      "name": "Loro Piana 2026 0728",
-      "slug": "loro-piana-2026-0728",
+      "name": "Loro Piana 2026 0729",
+      "slug": "loro-piana-2026-0729",
       "source_url": "https://shoes.tangma2088.com/categoryen_154701.html?path=0_154701",
       "source_path": "0_154701",
       "parent_path": "0"
     },
     {
-      "name": "Loewe 2026 0728",
-      "slug": "loewe-2026-0728",
+      "name": "Loewe 2026 0729",
+      "slug": "loewe-2026-0729",
       "source_url": "https://shoes.tangma2088.com/categoryen_156405.html?path=0_156405",
       "source_path": "0_156405",
       "parent_path": "0"
@@ -587,8 +587,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Versace 2026 0725",
-      "slug": "versace-2026-0725",
+      "name": "Versace 2026 0729",
+      "slug": "versace-2026-0729",
       "source_url": "https://shoes.tangma2088.com/categoryen_72.html?path=0_72",
       "source_path": "0_72",
       "parent_path": "0"
