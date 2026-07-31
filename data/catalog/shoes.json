@@ -1,17 +1,17 @@
 {
   "top": "Shoes",
   "slug": "shoes",
-  "productCount": 236,
-  "subcategoriesDiscovered": 90,
+  "productCount": 261,
+  "subcategoriesDiscovered": 92,
   "subcategories": [
     {
-      "name": "NEW ARRIVAL 0729",
-      "slug": "new-arrival-0729",
+      "name": "NEW ARRIVAL 0730",
+      "slug": "new-arrival-0730",
       "source_path": "0_355"
     },
     {
-      "name": "Factory B 0729",
-      "slug": "factory-b-0729",
+      "name": "Factory B 0730",
+      "slug": "factory-b-0730",
       "source_path": "0_367"
     },
     {
@@ -30,9 +30,14 @@
       "source_path": "0_336"
     },
     {
-      "name": "Louis Vittion 2026 0729",
-      "slug": "louis-vittion-2026-0729",
+      "name": "Louis Vittion 2026 0731",
+      "slug": "louis-vittion-2026-0731",
       "source_path": "0_327"
+    },
+    {
+      "name": "Amina muaddi 2026 0730",
+      "slug": "amina-muaddi-2026-0730",
+      "source_path": "0_181821"
     },
     {
       "name": "Alexander McQueen 2026 0728",
@@ -40,8 +45,8 @@
       "source_path": "0_347"
     },
     {
-      "name": "Armani 2026 0621",
-      "slug": "armani-2026-0621",
+      "name": "Armani 2026 0730",
+      "slug": "armani-2026-0730",
       "source_path": "0_350"
     },
     {
@@ -100,8 +105,8 @@
       "source_path": "0_64532"
     },
     {
-      "name": "Boss 2026 0715",
-      "slug": "boss-2026-0715",
+      "name": "Boss 2026 0730",
+      "slug": "boss-2026-0730",
       "source_path": "0_234"
     },
     {
@@ -125,8 +130,8 @@
       "source_path": "0_316"
     },
     {
-      "name": "Brunello Cucinelli 2026 0725",
-      "slug": "brunello-cucinelli-2026-0725",
+      "name": "Brunello Cucinelli 2026 0730",
+      "slug": "brunello-cucinelli-2026-0730",
       "source_path": "0_142649"
     },
     {
@@ -140,8 +145,8 @@
       "source_path": "0_80836"
     },
     {
-      "name": "Christian Louboutin 2026 0715",
-      "slug": "christian-louboutin-2026-0715",
+      "name": "Christian Louboutin 2026 0730",
+      "slug": "christian-louboutin-2026-0730",
       "source_path": "0_140"
     },
     {
@@ -165,8 +170,8 @@
       "source_path": "0_145"
     },
     {
-      "name": "Dior 2026 0728",
-      "slug": "dior-2026-0728",
+      "name": "Dior 2026 0730",
+      "slug": "dior-2026-0730",
       "source_path": "0_151"
     },
     {
@@ -225,8 +230,8 @@
       "source_path": "0_181547"
     },
     {
-      "name": "Hermes 2026 0729",
-      "slug": "hermes-2026-0729",
+      "name": "Hermes 2026 0731",
+      "slug": "hermes-2026-0731",
       "source_path": "0_104"
     },
     {
@@ -285,8 +290,8 @@
       "source_path": "0_80225"
     },
     {
-      "name": "Loro Piana 2026 0729",
-      "slug": "loro-piana-2026-0729",
+      "name": "Loro Piana 2026 0730",
+      "slug": "loro-piana-2026-0730",
       "source_path": "0_154701"
     },
     {
@@ -335,6 +340,11 @@
       "source_path": "0_154721"
     },
     {
+      "name": "Newrock 2026 0730",
+      "slug": "newrock-2026-0730",
+      "source_path": "0_181815"
+    },
+    {
       "name": "Nike 2026 0624",
       "slug": "nike-2026-0624",
       "source_path": "0_178663"
@@ -365,8 +375,8 @@
       "source_path": "0_88"
     },
     {
-      "name": "Prada 2026 0729",
-      "slug": "prada-2026-0729",
+      "name": "Prada 2026 0730",
+      "slug": "prada-2026-0730",
       "source_path": "0_92"
     },
     {
@@ -415,8 +425,8 @@
       "source_path": "0_28852"
     },
     {
-      "name": "Valentino 2026 0728",
-      "slug": "valentino-2026-0728",
+      "name": "Valentino 2026 0730",
+      "slug": "valentino-2026-0730",
       "source_path": "0_56"
     },
     {
@@ -430,8 +440,8 @@
       "source_path": "0_179656"
     },
     {
-      "name": "YSL 2026 0729",
-      "slug": "ysl-2026-0729",
+      "name": "YSL 2026 0730",
+      "slug": "ysl-2026-0730",
       "source_path": "0_84731"
     },
     {
@@ -440,8 +450,8 @@
       "source_path": "0_47"
     },
     {
-      "name": "ZEGNA 2026 0728",
-      "slug": "zegna-2026-0728",
+      "name": "ZEGNA 2026 0730",
+      "slug": "zegna-2026-0730",
       "source_path": "0_139955"
     },
     {
@@ -2300,6 +2310,310 @@
       "_og": "https://trendholic.github.io/data/shoes/images/burberry-sz38-46-mns0601-2991664-1.webp"
     },
     {
+      "slug": "celine-sz35-40-ly-2995537",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995741",
+      "source_parent_product_id": "2995537",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995741.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/celine-sz35-40-ly-2995537/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995741.html",
+        "https://shoes.tangma2088.com/productinfoen_2995740.html",
+        "https://shoes.tangma2088.com/productinfoen_2995739.html",
+        "https://shoes.tangma2088.com/productinfoen_2995738.html",
+        "https://shoes.tangma2088.com/productinfoen_2995737.html",
+        "https://shoes.tangma2088.com/productinfoen_2995736.html",
+        "https://shoes.tangma2088.com/productinfoen_2995735.html",
+        "https://shoes.tangma2088.com/productinfoen_2995734.html",
+        "https://shoes.tangma2088.com/productinfoen_2995733.html",
+        "https://shoes.tangma2088.com/productinfoen_2995732.html",
+        "https://shoes.tangma2088.com/productinfoen_2995731.html",
+        "https://shoes.tangma2088.com/productinfoen_2995730.html",
+        "https://shoes.tangma2088.com/productinfoen_2995729.html",
+        "https://shoes.tangma2088.com/productinfoen_2995728.html",
+        "https://shoes.tangma2088.com/productinfoen_2995727.html",
+        "https://shoes.tangma2088.com/productinfoen_2995726.html",
+        "https://shoes.tangma2088.com/productinfoen_2995725.html",
+        "https://shoes.tangma2088.com/productinfoen_2995724.html",
+        "https://shoes.tangma2088.com/productinfoen_2995723.html",
+        "https://shoes.tangma2088.com/productinfoen_2995722.html",
+        "https://shoes.tangma2088.com/productinfoen_2995550.html",
+        "https://shoes.tangma2088.com/productinfoen_2995549.html",
+        "https://shoes.tangma2088.com/productinfoen_2995548.html",
+        "https://shoes.tangma2088.com/productinfoen_2995547.html",
+        "https://shoes.tangma2088.com/productinfoen_2995546.html",
+        "https://shoes.tangma2088.com/productinfoen_2995545.html",
+        "https://shoes.tangma2088.com/productinfoen_2995544.html",
+        "https://shoes.tangma2088.com/productinfoen_2995543.html",
+        "https://shoes.tangma2088.com/productinfoen_2995542.html",
+        "https://shoes.tangma2088.com/productinfoen_2995541.html",
+        "https://shoes.tangma2088.com/productinfoen_2995540.html",
+        "https://shoes.tangma2088.com/productinfoen_2995539.html",
+        "https://shoes.tangma2088.com/productinfoen_2995538.html",
+        "https://shoes.tangma2088.com/productinfoen_2995537.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07001_2995550.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07002_2995549.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07003_2995548.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07004_2995547.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07005_2995546.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07006_2995545.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07007_2995544.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07008_2995543.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07009_2995542.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07010_2995541.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07011_2995540.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07012_2995539.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07013_2995538.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07014_2995537.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070200_2995741.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070201_2995740.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070202_2995739.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070203_2995738.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070204_2995737.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070205_2995736.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070206_2995735.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070207_2995734.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070208_2995733.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070209_2995732.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070210_2995731.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070211_2995730.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070212_2995729.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070213_2995728.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070214_2995727.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070215_2995726.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070216_2995725.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070217_2995724.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070218_2995723.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY070219_2995722.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Celine sz35-40 LY",
+      "english_product_name": "Celine sz35-40 LY",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995537",
+      "parent_product_id": "2995537",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly-2995537-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07001_2995550.jpg",
+          "content_hash": "163c0ca7a1e1c0152571fa0377a1c8199f8366f5",
+          "alt": "Celine sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly-2995537-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07002_2995549.jpg",
+          "content_hash": "7bd44a0dc7e70ecb34255cfd28b190b7075dd235",
+          "alt": "Celine sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly-2995537-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07003_2995548.jpg",
+          "content_hash": "9cd27f424c1568e82f5afe0b99d7d805218a3d4c",
+          "alt": "Celine sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly-2995537-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07004_2995547.jpg",
+          "content_hash": "43967f90c08824110e5b13089dd09a1363e84218",
+          "alt": "Celine sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly-2995537-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07005_2995546.jpg",
+          "content_hash": "4f77138817d8b5ab5ab2ea2d2645b2c6ea92e326",
+          "alt": "Celine sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly-2995537-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07006_2995545.jpg",
+          "content_hash": "c5dc2a3da47b2044ff215d8dcd019d121ecb6a18",
+          "alt": "Celine sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly-2995537-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07007_2995544.jpg",
+          "content_hash": "148a7fcb5e7919fc26aad9ad16760846d7a7d2f0",
+          "alt": "Celine sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly-2995537-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY07008_2995543.jpg",
+          "content_hash": "9f28a510cc4a35a309a25d6bb2c6fdfe31cecd1a",
+          "alt": "Celine sz35-40 LY"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/celine-sz35-40-ly-2995537/",
+      "_canonical": "https://trendholic.github.io/catalog/product/celine-sz35-40-ly-2995537/",
+      "_og": "https://trendholic.github.io/data/shoes/images/celine-sz35-40-ly-2995537-1.webp"
+    },
+    {
+      "slug": "celine-sz35-40-ly0706-2995742",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995761",
+      "source_parent_product_id": "2995742",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995761.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/celine-sz35-40-ly0706-2995742/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995761.html",
+        "https://shoes.tangma2088.com/productinfoen_2995760.html",
+        "https://shoes.tangma2088.com/productinfoen_2995759.html",
+        "https://shoes.tangma2088.com/productinfoen_2995758.html",
+        "https://shoes.tangma2088.com/productinfoen_2995757.html",
+        "https://shoes.tangma2088.com/productinfoen_2995756.html",
+        "https://shoes.tangma2088.com/productinfoen_2995755.html",
+        "https://shoes.tangma2088.com/productinfoen_2995754.html",
+        "https://shoes.tangma2088.com/productinfoen_2995753.html",
+        "https://shoes.tangma2088.com/productinfoen_2995752.html",
+        "https://shoes.tangma2088.com/productinfoen_2995751.html",
+        "https://shoes.tangma2088.com/productinfoen_2995750.html",
+        "https://shoes.tangma2088.com/productinfoen_2995749.html",
+        "https://shoes.tangma2088.com/productinfoen_2995748.html",
+        "https://shoes.tangma2088.com/productinfoen_2995747.html",
+        "https://shoes.tangma2088.com/productinfoen_2995746.html",
+        "https://shoes.tangma2088.com/productinfoen_2995745.html",
+        "https://shoes.tangma2088.com/productinfoen_2995744.html",
+        "https://shoes.tangma2088.com/productinfoen_2995743.html",
+        "https://shoes.tangma2088.com/productinfoen_2995742.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2001_2995761.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2002_2995760.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2003_2995759.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2004_2995758.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2005_2995757.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2006_2995756.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2007_2995755.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2008_2995754.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2009_2995753.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2010_2995752.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2011_2995751.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2012_2995750.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2013_2995749.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2014_2995748.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2015_2995747.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2016_2995746.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2017_2995745.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2018_2995744.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2019_2995743.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2020_2995742.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Celine sz35-40 LY0706",
+      "english_product_name": "Celine sz35-40 LY0706",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995742",
+      "parent_product_id": "2995742",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly0706-2995742-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2001_2995761.jpg",
+          "content_hash": "e089fd333457f6b8d7526b17aef327f52dee8809",
+          "alt": "Celine sz35-40 LY0706"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly0706-2995742-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2002_2995760.jpg",
+          "content_hash": "ad1cc1caeb0eb7b2e97b35afcdb5e1e96a901b64",
+          "alt": "Celine sz35-40 LY0706"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly0706-2995742-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2003_2995759.jpg",
+          "content_hash": "d0a2e6fffc72ac272f4b3ab99b45b8258fa8ed63",
+          "alt": "Celine sz35-40 LY0706"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly0706-2995742-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2004_2995758.jpg",
+          "content_hash": "03f488225a55204fcefe945e4888f4cdbb86007c",
+          "alt": "Celine sz35-40 LY0706"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly0706-2995742-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2005_2995757.jpg",
+          "content_hash": "1c8c420939c9b9c6a09da870bc40d73d169254f1",
+          "alt": "Celine sz35-40 LY0706"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly0706-2995742-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2006_2995756.jpg",
+          "content_hash": "e1f519616ea9083f54375be72424928eb96ab66c",
+          "alt": "Celine sz35-40 LY0706"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly0706-2995742-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2007_2995755.jpg",
+          "content_hash": "0a99aba1c7ea0b235b52eb514e92922340e82dfe",
+          "alt": "Celine sz35-40 LY0706"
+        },
+        {
+          "src": "/data/shoes/images/celine-sz35-40-ly0706-2995742-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Celine%20sz35-40%20LY0706%2008_2995754.jpg",
+          "content_hash": "3f23e0dd234e84343cb4d94042ac70a40103971f",
+          "alt": "Celine sz35-40 LY0706"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/celine-sz35-40-ly0706-2995742/",
+      "_canonical": "https://trendholic.github.io/catalog/product/celine-sz35-40-ly0706-2995742/",
+      "_og": "https://trendholic.github.io/data/shoes/images/celine-sz35-40-ly0706-2995742-1.webp"
+    },
+    {
       "slug": "chanel-sz35-39-8-5cm-mns0602-2991103",
       "top_category": "Shoes",
       "source_site": "shoes",
@@ -3346,6 +3660,144 @@
       "_url": "/catalog/product/chanel-sz35-39-mns0603-2991716/",
       "_canonical": "https://trendholic.github.io/catalog/product/chanel-sz35-39-mns0603-2991716/",
       "_og": "https://trendholic.github.io/data/shoes/images/chanel-sz35-39-mns0603-2991716-1.webp"
+    },
+    {
+      "slug": "chanel-sz35-40-gdt-2995551",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995570",
+      "source_parent_product_id": "2995551",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995570.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-sz35-40-gdt-2995551/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995570.html",
+        "https://shoes.tangma2088.com/productinfoen_2995569.html",
+        "https://shoes.tangma2088.com/productinfoen_2995568.html",
+        "https://shoes.tangma2088.com/productinfoen_2995567.html",
+        "https://shoes.tangma2088.com/productinfoen_2995566.html",
+        "https://shoes.tangma2088.com/productinfoen_2995565.html",
+        "https://shoes.tangma2088.com/productinfoen_2995564.html",
+        "https://shoes.tangma2088.com/productinfoen_2995563.html",
+        "https://shoes.tangma2088.com/productinfoen_2995562.html",
+        "https://shoes.tangma2088.com/productinfoen_2995561.html",
+        "https://shoes.tangma2088.com/productinfoen_2995560.html",
+        "https://shoes.tangma2088.com/productinfoen_2995559.html",
+        "https://shoes.tangma2088.com/productinfoen_2995558.html",
+        "https://shoes.tangma2088.com/productinfoen_2995557.html",
+        "https://shoes.tangma2088.com/productinfoen_2995556.html",
+        "https://shoes.tangma2088.com/productinfoen_2995555.html",
+        "https://shoes.tangma2088.com/productinfoen_2995554.html",
+        "https://shoes.tangma2088.com/productinfoen_2995553.html",
+        "https://shoes.tangma2088.com/productinfoen_2995552.html",
+        "https://shoes.tangma2088.com/productinfoen_2995551.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070201_2995570.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070202_2995569.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070203_2995568.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070204_2995567.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070205_2995566.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070206_2995565.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070207_2995564.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070208_2995563.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070209_2995562.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070210_2995561.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070211_2995560.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070212_2995559.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070213_2995558.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070214_2995557.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070215_2995556.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070216_2995555.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070217_2995554.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070218_2995553.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070219_2995552.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070220_2995551.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Chanel sz35-40 GDT",
+      "english_product_name": "Chanel sz35-40 GDT",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995551",
+      "parent_product_id": "2995551",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-gdt-2995551-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070201_2995570.jpg",
+          "content_hash": "db870de5ca9c51c1d490f047795b8ab9697b8845",
+          "alt": "Chanel sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-gdt-2995551-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070202_2995569.jpg",
+          "content_hash": "9401043c198308e16c6aa1030449c76a671b7532",
+          "alt": "Chanel sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-gdt-2995551-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070203_2995568.jpg",
+          "content_hash": "90c00d8e569e12eff82410527269653fd7163076",
+          "alt": "Chanel sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-gdt-2995551-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070204_2995567.jpg",
+          "content_hash": "d33487ad0729f6fa4b77106a9bc8c238ac62414b",
+          "alt": "Chanel sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-gdt-2995551-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070205_2995566.jpg",
+          "content_hash": "ef9c5165b8ca68a5fbfb25e6a52730fba5f920dc",
+          "alt": "Chanel sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-gdt-2995551-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070206_2995565.jpg",
+          "content_hash": "4c9d294dd4bfc07cbf13ea93b34c1d7f664cbcc8",
+          "alt": "Chanel sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-gdt-2995551-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070207_2995564.jpg",
+          "content_hash": "83017fd80a0f217096cb6e7b4313b4f2c9e25753",
+          "alt": "Chanel sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/chanel-sz35-40-gdt-2995551-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Chanel%20sz35-40%20GDT070208_2995563.jpg",
+          "content_hash": "5c66eb0fd1d8d53687ec6a8ccad32862d08a7b26",
+          "alt": "Chanel sz35-40 GDT"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/chanel-sz35-40-gdt-2995551/",
+      "_canonical": "https://trendholic.github.io/catalog/product/chanel-sz35-40-gdt-2995551/",
+      "_og": "https://trendholic.github.io/data/shoes/images/chanel-sz35-40-gdt-2995551-1.webp"
     },
     {
       "slug": "chanel-sz35-40-gdt0702-2992878",
@@ -5839,6 +6291,150 @@
       "_og": "https://trendholic.github.io/data/shoes/images/dior-sz35-40-gdt-2989846-1.webp"
     },
     {
+      "slug": "dior-sz35-40-gdt0702-2995571",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995593",
+      "source_parent_product_id": "2995571",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995593.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/dior-sz35-40-gdt0702-2995571/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995593.html",
+        "https://shoes.tangma2088.com/productinfoen_2995592.html",
+        "https://shoes.tangma2088.com/productinfoen_2995591.html",
+        "https://shoes.tangma2088.com/productinfoen_2995590.html",
+        "https://shoes.tangma2088.com/productinfoen_2995589.html",
+        "https://shoes.tangma2088.com/productinfoen_2995588.html",
+        "https://shoes.tangma2088.com/productinfoen_2995587.html",
+        "https://shoes.tangma2088.com/productinfoen_2995586.html",
+        "https://shoes.tangma2088.com/productinfoen_2995585.html",
+        "https://shoes.tangma2088.com/productinfoen_2995584.html",
+        "https://shoes.tangma2088.com/productinfoen_2995583.html",
+        "https://shoes.tangma2088.com/productinfoen_2995582.html",
+        "https://shoes.tangma2088.com/productinfoen_2995581.html",
+        "https://shoes.tangma2088.com/productinfoen_2995580.html",
+        "https://shoes.tangma2088.com/productinfoen_2995579.html",
+        "https://shoes.tangma2088.com/productinfoen_2995578.html",
+        "https://shoes.tangma2088.com/productinfoen_2995577.html",
+        "https://shoes.tangma2088.com/productinfoen_2995576.html",
+        "https://shoes.tangma2088.com/productinfoen_2995575.html",
+        "https://shoes.tangma2088.com/productinfoen_2995574.html",
+        "https://shoes.tangma2088.com/productinfoen_2995573.html",
+        "https://shoes.tangma2088.com/productinfoen_2995572.html",
+        "https://shoes.tangma2088.com/productinfoen_2995571.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2001_2995593.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2002_2995592.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2003_2995591.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2004_2995590.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2005_2995589.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2006_2995588.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2007_2995587.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2008_2995586.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2009_2995585.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2010_2995584.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2011_2995583.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2012_2995582.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2013_2995581.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2014_2995580.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2015_2995579.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2016_2995578.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2017_2995577.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2018_2995576.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2019_2995575.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2020_2995574.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2021_2995573.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2022_2995572.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2023_2995571.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Dior sz35-40 GDT0702",
+      "english_product_name": "Dior sz35-40 GDT0702",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995571",
+      "parent_product_id": "2995571",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/dior-sz35-40-gdt0702-2995571-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2001_2995593.jpg",
+          "content_hash": "153317f3f46fd3130954f4a09acfc2c28425cfbd",
+          "alt": "Dior sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/dior-sz35-40-gdt0702-2995571-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2002_2995592.jpg",
+          "content_hash": "3d38d5203928e81e44b9962e7da84d022de3a04b",
+          "alt": "Dior sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/dior-sz35-40-gdt0702-2995571-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2003_2995591.jpg",
+          "content_hash": "d1e571fa29c2d3edff4fb6ce5af58c08007eb533",
+          "alt": "Dior sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/dior-sz35-40-gdt0702-2995571-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2004_2995590.jpg",
+          "content_hash": "a925e0f9d69c4b744f64186b606108649b01516b",
+          "alt": "Dior sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/dior-sz35-40-gdt0702-2995571-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2005_2995589.jpg",
+          "content_hash": "547bc90f902c0610033e27e2419bec60222ee22c",
+          "alt": "Dior sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/dior-sz35-40-gdt0702-2995571-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2006_2995588.jpg",
+          "content_hash": "59a864c9293ec0ed7fff1dd9271609f8ad79898d",
+          "alt": "Dior sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/dior-sz35-40-gdt0702-2995571-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2007_2995587.jpg",
+          "content_hash": "34be9a8bb4ece631d2aa1702f83828689bd571d7",
+          "alt": "Dior sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/dior-sz35-40-gdt0702-2995571-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Dior%20sz35-40%20GDT0702%2008_2995586.jpg",
+          "content_hash": "881d273cd07934e819597f5c40956c90ef2403de",
+          "alt": "Dior sz35-40 GDT0702"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/dior-sz35-40-gdt0702-2995571/",
+      "_canonical": "https://trendholic.github.io/catalog/product/dior-sz35-40-gdt0702-2995571/",
+      "_og": "https://trendholic.github.io/data/shoes/images/dior-sz35-40-gdt0702-2995571-1.webp"
+    },
+    {
       "slug": "dior-sz35-40-gdt0801-2989827",
       "top_category": "Shoes",
       "source_site": "shoes",
@@ -7927,6 +8523,148 @@
       "_url": "/catalog/product/dior-sz38-45-mns0602-2991644/",
       "_canonical": "https://trendholic.github.io/catalog/product/dior-sz38-45-mns0602-2991644/",
       "_og": "https://trendholic.github.io/data/shoes/images/dior-sz38-45-mns0602-2991644-1.webp"
+    },
+    {
+      "slug": "fendi-sz35-40-gdt-2995502",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995523",
+      "source_parent_product_id": "2995502",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995523.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz35-40-gdt-2995502/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995523.html",
+        "https://shoes.tangma2088.com/productinfoen_2995522.html",
+        "https://shoes.tangma2088.com/productinfoen_2995521.html",
+        "https://shoes.tangma2088.com/productinfoen_2995520.html",
+        "https://shoes.tangma2088.com/productinfoen_2995519.html",
+        "https://shoes.tangma2088.com/productinfoen_2995518.html",
+        "https://shoes.tangma2088.com/productinfoen_2995517.html",
+        "https://shoes.tangma2088.com/productinfoen_2995516.html",
+        "https://shoes.tangma2088.com/productinfoen_2995515.html",
+        "https://shoes.tangma2088.com/productinfoen_2995514.html",
+        "https://shoes.tangma2088.com/productinfoen_2995513.html",
+        "https://shoes.tangma2088.com/productinfoen_2995512.html",
+        "https://shoes.tangma2088.com/productinfoen_2995511.html",
+        "https://shoes.tangma2088.com/productinfoen_2995510.html",
+        "https://shoes.tangma2088.com/productinfoen_2995509.html",
+        "https://shoes.tangma2088.com/productinfoen_2995508.html",
+        "https://shoes.tangma2088.com/productinfoen_2995507.html",
+        "https://shoes.tangma2088.com/productinfoen_2995506.html",
+        "https://shoes.tangma2088.com/productinfoen_2995505.html",
+        "https://shoes.tangma2088.com/productinfoen_2995504.html",
+        "https://shoes.tangma2088.com/productinfoen_2995503.html",
+        "https://shoes.tangma2088.com/productinfoen_2995502.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070401_2995523.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070402_2995522.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070403_2995521.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070404_2995520.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070405_2995519.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070406_2995518.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070407_2995517.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070408_2995516.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070409_2995515.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070410_2995514.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070411_2995513.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070412_2995512.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070413_2995511.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070414_2995510.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070415_2995509.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070416_2995508.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070417_2995507.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070418_2995506.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070419_2995505.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070420_2995504.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070421_2995503.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070422_2995502.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Fendi sz35-40 GDT",
+      "english_product_name": "Fendi sz35-40 GDT",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995502",
+      "parent_product_id": "2995502",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/fendi-sz35-40-gdt-2995502-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070401_2995523.jpg",
+          "content_hash": "bdcd5758221cf2e327d5cfa58835e7d8875a59c9",
+          "alt": "Fendi sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-40-gdt-2995502-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070402_2995522.jpg",
+          "content_hash": "e973cbb4413f018f18c4a5d7fce42748ae34aa29",
+          "alt": "Fendi sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-40-gdt-2995502-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070403_2995521.jpg",
+          "content_hash": "fe3d051b5531cdfa8586c592ba7a97f44a3f30fd",
+          "alt": "Fendi sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-40-gdt-2995502-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070404_2995520.jpg",
+          "content_hash": "e40069e755a6692a7b0ef98f1129f7d0cb0d1ca0",
+          "alt": "Fendi sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-40-gdt-2995502-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070405_2995519.jpg",
+          "content_hash": "5d7964aa2eaa914f6f0562caef906290df4512d3",
+          "alt": "Fendi sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-40-gdt-2995502-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070406_2995518.jpg",
+          "content_hash": "d7586da9d54f28d34116fe1df94b62007334d48e",
+          "alt": "Fendi sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-40-gdt-2995502-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070407_2995517.jpg",
+          "content_hash": "4de78615a258be5c8e6ef906c97f5dc11ec3dd86",
+          "alt": "Fendi sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/fendi-sz35-40-gdt-2995502-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Fendi%20sz35-40%20GDT070408_2995516.jpg",
+          "content_hash": "0d3386ed0645bc9cbe995d2633a7ded9141884dc",
+          "alt": "Fendi sz35-40 GDT"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/fendi-sz35-40-gdt-2995502/",
+      "_canonical": "https://trendholic.github.io/catalog/product/fendi-sz35-40-gdt-2995502/",
+      "_og": "https://trendholic.github.io/data/shoes/images/fendi-sz35-40-gdt-2995502-1.webp"
     },
     {
       "slug": "fendi-sz35-45-gdt-2990935",
@@ -13762,6 +14500,182 @@
       "_og": "https://trendholic.github.io/data/shoes/images/givenchy-sz38-45-wm0706-2988620-1.webp"
     },
     {
+      "slug": "gucci-sz35-40-gdt0702-2995594",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995632",
+      "source_parent_product_id": "2995594",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995632.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/gucci-sz35-40-gdt0702-2995594/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995632.html",
+        "https://shoes.tangma2088.com/productinfoen_2995631.html",
+        "https://shoes.tangma2088.com/productinfoen_2995630.html",
+        "https://shoes.tangma2088.com/productinfoen_2995629.html",
+        "https://shoes.tangma2088.com/productinfoen_2995628.html",
+        "https://shoes.tangma2088.com/productinfoen_2995627.html",
+        "https://shoes.tangma2088.com/productinfoen_2995626.html",
+        "https://shoes.tangma2088.com/productinfoen_2995625.html",
+        "https://shoes.tangma2088.com/productinfoen_2995624.html",
+        "https://shoes.tangma2088.com/productinfoen_2995623.html",
+        "https://shoes.tangma2088.com/productinfoen_2995622.html",
+        "https://shoes.tangma2088.com/productinfoen_2995621.html",
+        "https://shoes.tangma2088.com/productinfoen_2995620.html",
+        "https://shoes.tangma2088.com/productinfoen_2995619.html",
+        "https://shoes.tangma2088.com/productinfoen_2995618.html",
+        "https://shoes.tangma2088.com/productinfoen_2995617.html",
+        "https://shoes.tangma2088.com/productinfoen_2995616.html",
+        "https://shoes.tangma2088.com/productinfoen_2995615.html",
+        "https://shoes.tangma2088.com/productinfoen_2995614.html",
+        "https://shoes.tangma2088.com/productinfoen_2995613.html",
+        "https://shoes.tangma2088.com/productinfoen_2995612.html",
+        "https://shoes.tangma2088.com/productinfoen_2995611.html",
+        "https://shoes.tangma2088.com/productinfoen_2995610.html",
+        "https://shoes.tangma2088.com/productinfoen_2995609.html",
+        "https://shoes.tangma2088.com/productinfoen_2995608.html",
+        "https://shoes.tangma2088.com/productinfoen_2995607.html",
+        "https://shoes.tangma2088.com/productinfoen_2995606.html",
+        "https://shoes.tangma2088.com/productinfoen_2995605.html",
+        "https://shoes.tangma2088.com/productinfoen_2995604.html",
+        "https://shoes.tangma2088.com/productinfoen_2995603.html",
+        "https://shoes.tangma2088.com/productinfoen_2995602.html",
+        "https://shoes.tangma2088.com/productinfoen_2995601.html",
+        "https://shoes.tangma2088.com/productinfoen_2995600.html",
+        "https://shoes.tangma2088.com/productinfoen_2995599.html",
+        "https://shoes.tangma2088.com/productinfoen_2995598.html",
+        "https://shoes.tangma2088.com/productinfoen_2995597.html",
+        "https://shoes.tangma2088.com/productinfoen_2995596.html",
+        "https://shoes.tangma2088.com/productinfoen_2995595.html",
+        "https://shoes.tangma2088.com/productinfoen_2995594.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2001_2995632.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2002_2995631.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2003_2995630.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2004_2995629.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2005_2995628.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2006_2995627.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2007_2995626.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2008_2995625.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2009_2995624.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2010_2995623.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2011_2995622.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2012_2995621.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2013_2995620.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2014_2995619.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2015_2995618.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2016_2995617.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2017_2995616.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2018_2995615.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2019_2995614.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2020_2995613.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2021_2995612.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2022_2995611.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2023_2995610.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2024_2995609.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2025_2995608.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2026_2995607.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2027_2995606.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2028_2995605.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2029_2995604.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2030_2995603.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2031_2995602.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2032_2995601.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2033_2995600.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2034_2995599.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2035_2995598.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2036_2995597.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2037_2995596.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2038_2995595.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2039_2995594.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Gucci sz35-40 GDT0702",
+      "english_product_name": "Gucci sz35-40 GDT0702",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995594",
+      "parent_product_id": "2995594",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/gucci-sz35-40-gdt0702-2995594-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2001_2995632.jpg",
+          "content_hash": "1527ebab62efbaba3efe1f825a9a4e700e2ff117",
+          "alt": "Gucci sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/gucci-sz35-40-gdt0702-2995594-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2002_2995631.jpg",
+          "content_hash": "78277143e7b6a40a3db11d11da78d27578919e5d",
+          "alt": "Gucci sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/gucci-sz35-40-gdt0702-2995594-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2003_2995630.jpg",
+          "content_hash": "f971938a357fce7f41936fbf73ddac2e3398891f",
+          "alt": "Gucci sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/gucci-sz35-40-gdt0702-2995594-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2004_2995629.jpg",
+          "content_hash": "da9cc7755756f50b28fb70b5f10e3c77acc05622",
+          "alt": "Gucci sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/gucci-sz35-40-gdt0702-2995594-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2005_2995628.jpg",
+          "content_hash": "23d81ee4551743ea0d48987616c2bd8a88ead815",
+          "alt": "Gucci sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/gucci-sz35-40-gdt0702-2995594-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2006_2995627.jpg",
+          "content_hash": "eeef5103c6a9722d866e44cdcfc49f808ebce16f",
+          "alt": "Gucci sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/gucci-sz35-40-gdt0702-2995594-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2007_2995626.jpg",
+          "content_hash": "3211f88ab23989eab0b6ecdf859985c4b8b298c3",
+          "alt": "Gucci sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/gucci-sz35-40-gdt0702-2995594-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Gucci%20sz35-40%20GDT0702%2008_2995625.jpg",
+          "content_hash": "45b6dfd33346fbc56f551940de0a4773f6fa498d",
+          "alt": "Gucci sz35-40 GDT0702"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/gucci-sz35-40-gdt0702-2995594/",
+      "_canonical": "https://trendholic.github.io/catalog/product/gucci-sz35-40-gdt0702-2995594/",
+      "_og": "https://trendholic.github.io/data/shoes/images/gucci-sz35-40-gdt0702-2995594-1.webp"
+    },
+    {
       "slug": "gucci-sz35-42-gdt-2992891",
       "top_category": "Shoes",
       "source_site": "shoes",
@@ -14628,6 +15542,1164 @@
       "_url": "/catalog/product/gucci-sz38-47-mns0607-2991872/",
       "_canonical": "https://trendholic.github.io/catalog/product/gucci-sz38-47-mns0607-2991872/",
       "_og": "https://trendholic.github.io/data/shoes/images/gucci-sz38-47-mns0607-2991872-1.webp"
+    },
+    {
+      "slug": "hermes-sz35-39-mns0702-2995813",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995821",
+      "source_parent_product_id": "2995813",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995821.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0702-2995813/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995821.html",
+        "https://shoes.tangma2088.com/productinfoen_2995820.html",
+        "https://shoes.tangma2088.com/productinfoen_2995819.html",
+        "https://shoes.tangma2088.com/productinfoen_2995818.html",
+        "https://shoes.tangma2088.com/productinfoen_2995817.html",
+        "https://shoes.tangma2088.com/productinfoen_2995816.html",
+        "https://shoes.tangma2088.com/productinfoen_2995815.html",
+        "https://shoes.tangma2088.com/productinfoen_2995814.html",
+        "https://shoes.tangma2088.com/productinfoen_2995813.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(1)_2995821.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(2)_2995820.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(3)_2995819.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(4)_2995818.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(5)_2995817.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(6)_2995816.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(7)_2995815.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(8)_2995814.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(9)_2995813.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Hermes sz35-39 mns0702",
+      "english_product_name": "Hermes sz35-39 mns0702",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995813",
+      "parent_product_id": "2995813",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0702-2995813-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(1)_2995821.jpg",
+          "content_hash": "4a76b4770dcfa492b1c008c56644c9cfbd922624",
+          "alt": "Hermes sz35-39 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0702-2995813-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(2)_2995820.jpg",
+          "content_hash": "7439030832f1c0e20ec7c37b7e7c01e613d615cb",
+          "alt": "Hermes sz35-39 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0702-2995813-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(3)_2995819.jpg",
+          "content_hash": "e6a383487f1034991ea55781d6bc1d960d68d12d",
+          "alt": "Hermes sz35-39 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0702-2995813-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(4)_2995818.jpg",
+          "content_hash": "bee0f6bd0483f7cc4a795b4421b9f1c751118c31",
+          "alt": "Hermes sz35-39 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0702-2995813-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(5)_2995817.jpg",
+          "content_hash": "093e64a1f33a6a3931f1597cb25fd696e7243ddb",
+          "alt": "Hermes sz35-39 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0702-2995813-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(6)_2995816.jpg",
+          "content_hash": "46f08f270d3195bf63ce400dd553d5c696fb9a42",
+          "alt": "Hermes sz35-39 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0702-2995813-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(7)_2995815.jpg",
+          "content_hash": "17410ec5a21187e4961dc3425c01efc17897d4ae",
+          "alt": "Hermes sz35-39 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0702-2995813-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0702%20(8)_2995814.jpg",
+          "content_hash": "61d8bd9f749ab27a91401ac490272671043586fd",
+          "alt": "Hermes sz35-39 mns0702"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/hermes-sz35-39-mns0702-2995813/",
+      "_canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0702-2995813/",
+      "_og": "https://trendholic.github.io/data/shoes/images/hermes-sz35-39-mns0702-2995813-1.webp"
+    },
+    {
+      "slug": "hermes-sz35-39-mns0703-2995822",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995830",
+      "source_parent_product_id": "2995822",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995830.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0703-2995822/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995830.html",
+        "https://shoes.tangma2088.com/productinfoen_2995829.html",
+        "https://shoes.tangma2088.com/productinfoen_2995828.html",
+        "https://shoes.tangma2088.com/productinfoen_2995827.html",
+        "https://shoes.tangma2088.com/productinfoen_2995826.html",
+        "https://shoes.tangma2088.com/productinfoen_2995825.html",
+        "https://shoes.tangma2088.com/productinfoen_2995824.html",
+        "https://shoes.tangma2088.com/productinfoen_2995823.html",
+        "https://shoes.tangma2088.com/productinfoen_2995822.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(1)_2995830.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(2)_2995829.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(3)_2995828.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(4)_2995827.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(5)_2995826.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(6)_2995825.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(7)_2995824.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(8)_2995823.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(9)_2995822.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Hermes sz35-39 mns0703",
+      "english_product_name": "Hermes sz35-39 mns0703",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995822",
+      "parent_product_id": "2995822",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0703-2995822-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(1)_2995830.jpg",
+          "content_hash": "9e1d02036ea4b5e47bae5f99034021fb3de74670",
+          "alt": "Hermes sz35-39 mns0703"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0703-2995822-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(2)_2995829.jpg",
+          "content_hash": "87e45e8430dcdeaa68f82ba6e20bc9c115803ada",
+          "alt": "Hermes sz35-39 mns0703"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0703-2995822-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(3)_2995828.jpg",
+          "content_hash": "43210d725dd7613d6a6297563f8977270cccd5e9",
+          "alt": "Hermes sz35-39 mns0703"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0703-2995822-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(4)_2995827.jpg",
+          "content_hash": "a8bff86f75de94dbb1b73b331c8b4c124fb7eb9c",
+          "alt": "Hermes sz35-39 mns0703"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0703-2995822-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(5)_2995826.jpg",
+          "content_hash": "804750a7b88dfe19b0ff570bf1f71b777de2ed9f",
+          "alt": "Hermes sz35-39 mns0703"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0703-2995822-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(6)_2995825.jpg",
+          "content_hash": "b16038db5b69943d0506206bc7d10b61eec6f945",
+          "alt": "Hermes sz35-39 mns0703"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0703-2995822-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(7)_2995824.jpg",
+          "content_hash": "05114be1061a69254b34847b42c453abce946a74",
+          "alt": "Hermes sz35-39 mns0703"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0703-2995822-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0703%20(8)_2995823.jpg",
+          "content_hash": "c5664916e92e8041b672cb09044fd1167b70b2af",
+          "alt": "Hermes sz35-39 mns0703"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/hermes-sz35-39-mns0703-2995822/",
+      "_canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0703-2995822/",
+      "_og": "https://trendholic.github.io/data/shoes/images/hermes-sz35-39-mns0703-2995822-1.webp"
+    },
+    {
+      "slug": "hermes-sz35-39-mns0704-2995831",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995839",
+      "source_parent_product_id": "2995831",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995839.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0704-2995831/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995839.html",
+        "https://shoes.tangma2088.com/productinfoen_2995838.html",
+        "https://shoes.tangma2088.com/productinfoen_2995837.html",
+        "https://shoes.tangma2088.com/productinfoen_2995836.html",
+        "https://shoes.tangma2088.com/productinfoen_2995835.html",
+        "https://shoes.tangma2088.com/productinfoen_2995834.html",
+        "https://shoes.tangma2088.com/productinfoen_2995833.html",
+        "https://shoes.tangma2088.com/productinfoen_2995832.html",
+        "https://shoes.tangma2088.com/productinfoen_2995831.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(1)_2995839.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(2)_2995838.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(3)_2995837.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(4)_2995836.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(5)_2995835.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(6)_2995834.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(7)_2995833.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(8)_2995832.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(9)_2995831.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Hermes sz35-39 mns0704",
+      "english_product_name": "Hermes sz35-39 mns0704",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995831",
+      "parent_product_id": "2995831",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0704-2995831-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(1)_2995839.jpg",
+          "content_hash": "18260ea3305edd44174875471de0f505bd46e62a",
+          "alt": "Hermes sz35-39 mns0704"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0704-2995831-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(2)_2995838.jpg",
+          "content_hash": "666a012d84da08483600ffc622537e242d5926df",
+          "alt": "Hermes sz35-39 mns0704"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0704-2995831-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(3)_2995837.jpg",
+          "content_hash": "08f6e2a753399c3451c41850dca241be073148e8",
+          "alt": "Hermes sz35-39 mns0704"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0704-2995831-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(4)_2995836.jpg",
+          "content_hash": "c48f9e5d9424921268bf97022034d2256d2f7ccd",
+          "alt": "Hermes sz35-39 mns0704"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0704-2995831-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(5)_2995835.jpg",
+          "content_hash": "ca76c7863f388a3ba2047094638d885de60e8186",
+          "alt": "Hermes sz35-39 mns0704"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0704-2995831-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(6)_2995834.jpg",
+          "content_hash": "4228bbc988d3dde39ea590832cb182d35cae21c8",
+          "alt": "Hermes sz35-39 mns0704"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0704-2995831-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(7)_2995833.jpg",
+          "content_hash": "6ae17a5e41f0d4d7947b8f6ad119aa6bc018c0ac",
+          "alt": "Hermes sz35-39 mns0704"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0704-2995831-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0704%20(8)_2995832.jpg",
+          "content_hash": "9011805b2a98bf07234ff88681c57938d8668163",
+          "alt": "Hermes sz35-39 mns0704"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/hermes-sz35-39-mns0704-2995831/",
+      "_canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0704-2995831/",
+      "_og": "https://trendholic.github.io/data/shoes/images/hermes-sz35-39-mns0704-2995831-1.webp"
+    },
+    {
+      "slug": "hermes-sz35-39-mns0705-2995840",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995848",
+      "source_parent_product_id": "2995840",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995848.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0705-2995840/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995848.html",
+        "https://shoes.tangma2088.com/productinfoen_2995847.html",
+        "https://shoes.tangma2088.com/productinfoen_2995846.html",
+        "https://shoes.tangma2088.com/productinfoen_2995845.html",
+        "https://shoes.tangma2088.com/productinfoen_2995844.html",
+        "https://shoes.tangma2088.com/productinfoen_2995843.html",
+        "https://shoes.tangma2088.com/productinfoen_2995842.html",
+        "https://shoes.tangma2088.com/productinfoen_2995841.html",
+        "https://shoes.tangma2088.com/productinfoen_2995840.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(1)_2995848.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(2)_2995847.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(3)_2995846.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(4)_2995845.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(5)_2995844.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(6)_2995843.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(7)_2995842.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(8)_2995841.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(9)_2995840.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Hermes sz35-39 mns0705",
+      "english_product_name": "Hermes sz35-39 mns0705",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995840",
+      "parent_product_id": "2995840",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0705-2995840-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(1)_2995848.jpg",
+          "content_hash": "06ba95496e3a5ec265123b7cd172b63c0bccff75",
+          "alt": "Hermes sz35-39 mns0705"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0705-2995840-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(2)_2995847.jpg",
+          "content_hash": "2bfe4ec38aee16a0ce11abfba282d64613097067",
+          "alt": "Hermes sz35-39 mns0705"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0705-2995840-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(3)_2995846.jpg",
+          "content_hash": "ff1b124d0e6597d056e68ad5ea84019e81dd73e8",
+          "alt": "Hermes sz35-39 mns0705"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0705-2995840-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(4)_2995845.jpg",
+          "content_hash": "2836db3b6d35504b8aa59af1f0b8ff0bac7f1d3f",
+          "alt": "Hermes sz35-39 mns0705"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0705-2995840-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(5)_2995844.jpg",
+          "content_hash": "1a25affb4d1167bf90e28ed3fcf4fa3326fdcae4",
+          "alt": "Hermes sz35-39 mns0705"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0705-2995840-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(6)_2995843.jpg",
+          "content_hash": "3aa8c1d1faeba3fcfa012802b63233704766ee5b",
+          "alt": "Hermes sz35-39 mns0705"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0705-2995840-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(7)_2995842.jpg",
+          "content_hash": "66197b6a970ae619e25d5ba0a5b8168946ac59f4",
+          "alt": "Hermes sz35-39 mns0705"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0705-2995840-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0705%20(8)_2995841.jpg",
+          "content_hash": "c7c451ac07e002b783c323e05d06a80f6864442a",
+          "alt": "Hermes sz35-39 mns0705"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/hermes-sz35-39-mns0705-2995840/",
+      "_canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0705-2995840/",
+      "_og": "https://trendholic.github.io/data/shoes/images/hermes-sz35-39-mns0705-2995840-1.webp"
+    },
+    {
+      "slug": "hermes-sz35-39-mns0706-2995849",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995857",
+      "source_parent_product_id": "2995849",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995857.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0706-2995849/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995857.html",
+        "https://shoes.tangma2088.com/productinfoen_2995856.html",
+        "https://shoes.tangma2088.com/productinfoen_2995855.html",
+        "https://shoes.tangma2088.com/productinfoen_2995854.html",
+        "https://shoes.tangma2088.com/productinfoen_2995853.html",
+        "https://shoes.tangma2088.com/productinfoen_2995852.html",
+        "https://shoes.tangma2088.com/productinfoen_2995851.html",
+        "https://shoes.tangma2088.com/productinfoen_2995850.html",
+        "https://shoes.tangma2088.com/productinfoen_2995849.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(1)_2995857.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(2)_2995856.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(3)_2995855.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(4)_2995854.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(5)_2995853.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(6)_2995852.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(7)_2995851.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(8)_2995850.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(9)_2995849.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Hermes sz35-39 mns0706",
+      "english_product_name": "Hermes sz35-39 mns0706",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995849",
+      "parent_product_id": "2995849",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0706-2995849-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(1)_2995857.jpg",
+          "content_hash": "45b40244817eb94c02110a99b73b3cf8783a61ef",
+          "alt": "Hermes sz35-39 mns0706"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0706-2995849-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(2)_2995856.jpg",
+          "content_hash": "8c462ede9461c0163b617c463b8fdcb9673a5b1f",
+          "alt": "Hermes sz35-39 mns0706"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0706-2995849-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(3)_2995855.jpg",
+          "content_hash": "349b0870b952d98d45faf10cc2f4ae1e00b47c0f",
+          "alt": "Hermes sz35-39 mns0706"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0706-2995849-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(4)_2995854.jpg",
+          "content_hash": "fe15e4482c8a348213ad9a75fd64859e07558a32",
+          "alt": "Hermes sz35-39 mns0706"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0706-2995849-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(5)_2995853.jpg",
+          "content_hash": "13f201e19a8cc8928c153d71262d5f784620d0ca",
+          "alt": "Hermes sz35-39 mns0706"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0706-2995849-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(6)_2995852.jpg",
+          "content_hash": "915f91f5059d2982a270bdf5539c990f7eeeae08",
+          "alt": "Hermes sz35-39 mns0706"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0706-2995849-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(7)_2995851.jpg",
+          "content_hash": "d42fc172597ad30b70207210b1af0085b3970a24",
+          "alt": "Hermes sz35-39 mns0706"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0706-2995849-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0706%20(8)_2995850.jpg",
+          "content_hash": "78fc83de3cd9df3bb8a6477d019427ca8634ba3c",
+          "alt": "Hermes sz35-39 mns0706"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/hermes-sz35-39-mns0706-2995849/",
+      "_canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0706-2995849/",
+      "_og": "https://trendholic.github.io/data/shoes/images/hermes-sz35-39-mns0706-2995849-1.webp"
+    },
+    {
+      "slug": "hermes-sz35-39-mns0707-2995858",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995866",
+      "source_parent_product_id": "2995858",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995866.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0707-2995858/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995866.html",
+        "https://shoes.tangma2088.com/productinfoen_2995865.html",
+        "https://shoes.tangma2088.com/productinfoen_2995864.html",
+        "https://shoes.tangma2088.com/productinfoen_2995863.html",
+        "https://shoes.tangma2088.com/productinfoen_2995862.html",
+        "https://shoes.tangma2088.com/productinfoen_2995861.html",
+        "https://shoes.tangma2088.com/productinfoen_2995860.html",
+        "https://shoes.tangma2088.com/productinfoen_2995859.html",
+        "https://shoes.tangma2088.com/productinfoen_2995858.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(1)_2995866.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(2)_2995865.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(3)_2995864.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(4)_2995863.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(5)_2995862.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(6)_2995861.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(7)_2995860.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(8)_2995859.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(9)_2995858.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Hermes sz35-39 mns0707",
+      "english_product_name": "Hermes sz35-39 mns0707",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995858",
+      "parent_product_id": "2995858",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0707-2995858-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(1)_2995866.jpg",
+          "content_hash": "42aaa2ab6e1d8ac41fca8bf74b24859426bc8ddf",
+          "alt": "Hermes sz35-39 mns0707"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0707-2995858-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(2)_2995865.jpg",
+          "content_hash": "4ece9f1b067cf3363988c312457e44266a5c425b",
+          "alt": "Hermes sz35-39 mns0707"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0707-2995858-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(3)_2995864.jpg",
+          "content_hash": "1a41e0e98f9b5a74fe1edb38be46d16011702746",
+          "alt": "Hermes sz35-39 mns0707"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0707-2995858-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(4)_2995863.jpg",
+          "content_hash": "bc0e735319fe95c022b6bb5fa83481351c635a5d",
+          "alt": "Hermes sz35-39 mns0707"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0707-2995858-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(5)_2995862.jpg",
+          "content_hash": "df408e111f9d6679377a9cd7047e1bd0ab5c5671",
+          "alt": "Hermes sz35-39 mns0707"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0707-2995858-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(6)_2995861.jpg",
+          "content_hash": "e4019794e051aade0a890da3c6f1c54b5bf5d69e",
+          "alt": "Hermes sz35-39 mns0707"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0707-2995858-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(7)_2995860.jpg",
+          "content_hash": "6c92197dffc205843ed05d45e2d0ca830bbe41cd",
+          "alt": "Hermes sz35-39 mns0707"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0707-2995858-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0707%20(8)_2995859.jpg",
+          "content_hash": "d7fe497c7985148e3bbc9619731891baa8a04b6b",
+          "alt": "Hermes sz35-39 mns0707"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/hermes-sz35-39-mns0707-2995858/",
+      "_canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0707-2995858/",
+      "_og": "https://trendholic.github.io/data/shoes/images/hermes-sz35-39-mns0707-2995858-1.webp"
+    },
+    {
+      "slug": "hermes-sz35-39-mns0708-2995867",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995875",
+      "source_parent_product_id": "2995867",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995875.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0708-2995867/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995875.html",
+        "https://shoes.tangma2088.com/productinfoen_2995874.html",
+        "https://shoes.tangma2088.com/productinfoen_2995873.html",
+        "https://shoes.tangma2088.com/productinfoen_2995872.html",
+        "https://shoes.tangma2088.com/productinfoen_2995871.html",
+        "https://shoes.tangma2088.com/productinfoen_2995870.html",
+        "https://shoes.tangma2088.com/productinfoen_2995869.html",
+        "https://shoes.tangma2088.com/productinfoen_2995868.html",
+        "https://shoes.tangma2088.com/productinfoen_2995867.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(1)_2995875.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(2)_2995874.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(3)_2995873.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(4)_2995872.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(5)_2995871.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(6)_2995870.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(7)_2995869.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(8)_2995868.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(9)_2995867.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Hermes sz35-39 mns0708",
+      "english_product_name": "Hermes sz35-39 mns0708",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995867",
+      "parent_product_id": "2995867",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0708-2995867-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(1)_2995875.jpg",
+          "content_hash": "bb765e3c38756d57d15c528349fe2bd5b9ccd7f6",
+          "alt": "Hermes sz35-39 mns0708"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0708-2995867-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(2)_2995874.jpg",
+          "content_hash": "d81277b60802ab44908cb6a6e850e7570245188d",
+          "alt": "Hermes sz35-39 mns0708"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0708-2995867-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(3)_2995873.jpg",
+          "content_hash": "c8b792b24caeab49ce4a42d98ee46f5adf0ea9a1",
+          "alt": "Hermes sz35-39 mns0708"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0708-2995867-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(4)_2995872.jpg",
+          "content_hash": "19a1dc33d89ab6de26819b92e0ce3f3241e9944e",
+          "alt": "Hermes sz35-39 mns0708"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0708-2995867-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(5)_2995871.jpg",
+          "content_hash": "04c4cfb0aef90b58e27dd445776909741856af9d",
+          "alt": "Hermes sz35-39 mns0708"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0708-2995867-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(6)_2995870.jpg",
+          "content_hash": "9bb0ea1bd3b0db697261a28babb80e2956251fa6",
+          "alt": "Hermes sz35-39 mns0708"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0708-2995867-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(7)_2995869.jpg",
+          "content_hash": "2ee0ad2f0b385e8c4754c9e1978e35cf7bf23993",
+          "alt": "Hermes sz35-39 mns0708"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0708-2995867-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0708%20(8)_2995868.jpg",
+          "content_hash": "2803980e53c91d3de502c3ce658624db9bca8e0d",
+          "alt": "Hermes sz35-39 mns0708"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/hermes-sz35-39-mns0708-2995867/",
+      "_canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0708-2995867/",
+      "_og": "https://trendholic.github.io/data/shoes/images/hermes-sz35-39-mns0708-2995867-1.webp"
+    },
+    {
+      "slug": "hermes-sz35-39-mns0709-2995876",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995884",
+      "source_parent_product_id": "2995876",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995884.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0709-2995876/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995884.html",
+        "https://shoes.tangma2088.com/productinfoen_2995883.html",
+        "https://shoes.tangma2088.com/productinfoen_2995882.html",
+        "https://shoes.tangma2088.com/productinfoen_2995881.html",
+        "https://shoes.tangma2088.com/productinfoen_2995880.html",
+        "https://shoes.tangma2088.com/productinfoen_2995879.html",
+        "https://shoes.tangma2088.com/productinfoen_2995878.html",
+        "https://shoes.tangma2088.com/productinfoen_2995877.html",
+        "https://shoes.tangma2088.com/productinfoen_2995876.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(1)_2995884.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(2)_2995883.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(3)_2995882.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(4)_2995881.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(5)_2995880.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(6)_2995879.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(7)_2995878.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(8)_2995877.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(9)_2995876.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Hermes sz35-39 mns0709",
+      "english_product_name": "Hermes sz35-39 mns0709",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995876",
+      "parent_product_id": "2995876",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0709-2995876-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(1)_2995884.jpg",
+          "content_hash": "1795776c0e62a1c7250c13564c59ac922b68dce2",
+          "alt": "Hermes sz35-39 mns0709"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0709-2995876-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(2)_2995883.jpg",
+          "content_hash": "14bccc3e1cd89e41158a4b3f3b74b6c766517d90",
+          "alt": "Hermes sz35-39 mns0709"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0709-2995876-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(3)_2995882.jpg",
+          "content_hash": "1e1a2de9db8a31c0a7e52193908adc7b82211267",
+          "alt": "Hermes sz35-39 mns0709"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0709-2995876-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(4)_2995881.jpg",
+          "content_hash": "59988ff9d0ce8cc323ea44f020ea9e7a38c753d5",
+          "alt": "Hermes sz35-39 mns0709"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0709-2995876-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(5)_2995880.jpg",
+          "content_hash": "c698e27becce5fe51ffc2ef019519c63ec8e54bb",
+          "alt": "Hermes sz35-39 mns0709"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0709-2995876-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(6)_2995879.jpg",
+          "content_hash": "6c4782754d4964e8184ff3aad57c9ba6d7a299fd",
+          "alt": "Hermes sz35-39 mns0709"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0709-2995876-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(7)_2995878.jpg",
+          "content_hash": "161b62a488a20d65fade08d1c6fff2f47877bb74",
+          "alt": "Hermes sz35-39 mns0709"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0709-2995876-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(8)_2995877.jpg",
+          "content_hash": "feed1f22acb665ce9cd766fb650f4b1317c59258",
+          "alt": "Hermes sz35-39 mns0709"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/hermes-sz35-39-mns0709-2995876/",
+      "_canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0709-2995876/",
+      "_og": "https://trendholic.github.io/data/shoes/images/hermes-sz35-39-mns0709-2995876-1.webp"
+    },
+    {
+      "slug": "hermes-sz35-39-mns0710-2995885",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995893",
+      "source_parent_product_id": "2995885",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995893.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0710-2995885/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995893.html",
+        "https://shoes.tangma2088.com/productinfoen_2995892.html",
+        "https://shoes.tangma2088.com/productinfoen_2995891.html",
+        "https://shoes.tangma2088.com/productinfoen_2995890.html",
+        "https://shoes.tangma2088.com/productinfoen_2995889.html",
+        "https://shoes.tangma2088.com/productinfoen_2995888.html",
+        "https://shoes.tangma2088.com/productinfoen_2995887.html",
+        "https://shoes.tangma2088.com/productinfoen_2995886.html",
+        "https://shoes.tangma2088.com/productinfoen_2995885.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(1)_2995893.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(2)_2995892.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(3)_2995891.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(4)_2995890.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(5)_2995889.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(6)_2995888.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(7)_2995887.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(8)_2995886.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(9)_2995885.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Hermes sz35-39 mns0710",
+      "english_product_name": "Hermes sz35-39 mns0710",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995885",
+      "parent_product_id": "2995885",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0710-2995885-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(1)_2995893.jpg",
+          "content_hash": "9a4e15c706a1d10230cd8b6f7f5db843bad5a3dc",
+          "alt": "Hermes sz35-39 mns0710"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0710-2995885-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(2)_2995892.jpg",
+          "content_hash": "59bb1e4b52a5622b83a1ea48f509c2e61300545a",
+          "alt": "Hermes sz35-39 mns0710"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0710-2995885-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(3)_2995891.jpg",
+          "content_hash": "a47060ce13b7563a4352272a12416ce48695dcb1",
+          "alt": "Hermes sz35-39 mns0710"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0710-2995885-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(4)_2995890.jpg",
+          "content_hash": "581ca4ad1c807c1e929acb59bac4c28eb8cae1e4",
+          "alt": "Hermes sz35-39 mns0710"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0710-2995885-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(5)_2995889.jpg",
+          "content_hash": "93991125cbf6593f15ddd0abef9d412aee15e54c",
+          "alt": "Hermes sz35-39 mns0710"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0710-2995885-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(6)_2995888.jpg",
+          "content_hash": "1e72fe99b8d115719232480f0ef2be9aab1ab400",
+          "alt": "Hermes sz35-39 mns0710"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0710-2995885-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(7)_2995887.jpg",
+          "content_hash": "0a88cbfdfd438a4d537345face03d1f51234bd8f",
+          "alt": "Hermes sz35-39 mns0710"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0710-2995885-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0710%20(8)_2995886.jpg",
+          "content_hash": "70898a155362e2ba4334e23d4e6bb086d6dff4aa",
+          "alt": "Hermes sz35-39 mns0710"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/hermes-sz35-39-mns0710-2995885/",
+      "_canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0710-2995885/",
+      "_og": "https://trendholic.github.io/data/shoes/images/hermes-sz35-39-mns0710-2995885-1.webp"
+    },
+    {
+      "slug": "hermes-sz35-39-mns0711-2995894",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995901",
+      "source_parent_product_id": "2995894",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995901.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0711-2995894/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995901.html",
+        "https://shoes.tangma2088.com/productinfoen_2995900.html",
+        "https://shoes.tangma2088.com/productinfoen_2995899.html",
+        "https://shoes.tangma2088.com/productinfoen_2995898.html",
+        "https://shoes.tangma2088.com/productinfoen_2995897.html",
+        "https://shoes.tangma2088.com/productinfoen_2995896.html",
+        "https://shoes.tangma2088.com/productinfoen_2995895.html",
+        "https://shoes.tangma2088.com/productinfoen_2995894.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(1)_2995901.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(2)_2995900.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(3)_2995899.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(4)_2995898.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(5)_2995897.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(6)_2995896.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(7)_2995895.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(8)_2995894.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Hermes sz35-39 mns0711",
+      "english_product_name": "Hermes sz35-39 mns0711",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995894",
+      "parent_product_id": "2995894",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0711-2995894-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(1)_2995901.jpg",
+          "content_hash": "a444b709245dee1159bb260f0c631bae29b794ff",
+          "alt": "Hermes sz35-39 mns0711"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0711-2995894-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(2)_2995900.jpg",
+          "content_hash": "2d8ad1e6e787227f9e2cd60d86cd4a94563f24f6",
+          "alt": "Hermes sz35-39 mns0711"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0711-2995894-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(3)_2995899.jpg",
+          "content_hash": "5a8f8e1d97b72b863a3054c5e517036d25577f75",
+          "alt": "Hermes sz35-39 mns0711"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0711-2995894-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(4)_2995898.jpg",
+          "content_hash": "0dfdafd3536bee10b3ba717980fbf0ed948af2d6",
+          "alt": "Hermes sz35-39 mns0711"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0711-2995894-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(5)_2995897.jpg",
+          "content_hash": "79544dd675a040361d6b3e0bb09cf1dcb1a5cdb9",
+          "alt": "Hermes sz35-39 mns0711"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0711-2995894-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(6)_2995896.jpg",
+          "content_hash": "caa498e13b74802251d1ab115ee400b31f062618",
+          "alt": "Hermes sz35-39 mns0711"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0711-2995894-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(7)_2995895.jpg",
+          "content_hash": "23d2d0e67cdb0ea23cc30af7bef1301011b19840",
+          "alt": "Hermes sz35-39 mns0711"
+        },
+        {
+          "src": "/data/shoes/images/hermes-sz35-39-mns0711-2995894-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0711%20(8)_2995894.jpg",
+          "content_hash": "e4c988a8647a40cbefc4f631a1437e3b36ef0874",
+          "alt": "Hermes sz35-39 mns0711"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/hermes-sz35-39-mns0711-2995894/",
+      "_canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0711-2995894/",
+      "_og": "https://trendholic.github.io/data/shoes/images/hermes-sz35-39-mns0711-2995894-1.webp"
     },
     {
       "slug": "hermes-sz35-40-mns0601-2991881",
@@ -17267,6 +19339,242 @@
       "_og": "https://trendholic.github.io/data/shoes/images/loro-piana-sz39-46-mns0602-2991652-1.webp"
     },
     {
+      "slug": "lv-sz34-40-mns0701-2995793",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995801",
+      "source_parent_product_id": "2995793",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995801.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz34-40-mns0701-2995793/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995801.html",
+        "https://shoes.tangma2088.com/productinfoen_2995800.html",
+        "https://shoes.tangma2088.com/productinfoen_2995799.html",
+        "https://shoes.tangma2088.com/productinfoen_2995798.html",
+        "https://shoes.tangma2088.com/productinfoen_2995797.html",
+        "https://shoes.tangma2088.com/productinfoen_2995796.html",
+        "https://shoes.tangma2088.com/productinfoen_2995795.html",
+        "https://shoes.tangma2088.com/productinfoen_2995794.html",
+        "https://shoes.tangma2088.com/productinfoen_2995793.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(1)_2995801.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(2)_2995800.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(3)_2995799.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(4)_2995798.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(5)_2995797.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(6)_2995796.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(7)_2995795.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(8)_2995794.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(9)_2995793.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "LV sz34-40 mns0701",
+      "english_product_name": "LV sz34-40 mns0701",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995793",
+      "parent_product_id": "2995793",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0701-2995793-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(1)_2995801.jpg",
+          "content_hash": "d0a31c9ddc7e261eb6ec55211ed58b44ab716a23",
+          "alt": "LV sz34-40 mns0701"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0701-2995793-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(2)_2995800.jpg",
+          "content_hash": "c288c4b589041f267a04cd48a5fbc96308353c16",
+          "alt": "LV sz34-40 mns0701"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0701-2995793-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(3)_2995799.jpg",
+          "content_hash": "8a87410f043fd69a8ee7d75b9cc72925b1272bab",
+          "alt": "LV sz34-40 mns0701"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0701-2995793-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(4)_2995798.jpg",
+          "content_hash": "66c83f4497f2dac674723191561438d984d2aa7c",
+          "alt": "LV sz34-40 mns0701"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0701-2995793-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(5)_2995797.jpg",
+          "content_hash": "3d061f4dd0ba253aa6e053bfc180561708237ce2",
+          "alt": "LV sz34-40 mns0701"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0701-2995793-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(6)_2995796.jpg",
+          "content_hash": "26ff4539c7a26cbae89f9bd803547b837953c448",
+          "alt": "LV sz34-40 mns0701"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0701-2995793-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(7)_2995795.jpg",
+          "content_hash": "08d9e628a99c86394e2d89e30330cfbc00221f45",
+          "alt": "LV sz34-40 mns0701"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0701-2995793-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0701%20(8)_2995794.jpg",
+          "content_hash": "a3b0f3cb0cad86ae0636a7671086fc1c5b257157",
+          "alt": "LV sz34-40 mns0701"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/lv-sz34-40-mns0701-2995793/",
+      "_canonical": "https://trendholic.github.io/catalog/product/lv-sz34-40-mns0701-2995793/",
+      "_og": "https://trendholic.github.io/data/shoes/images/lv-sz34-40-mns0701-2995793-1.webp"
+    },
+    {
+      "slug": "lv-sz34-40-mns0702-2995802",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995812",
+      "source_parent_product_id": "2995802",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995812.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz34-40-mns0702-2995802/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995812.html",
+        "https://shoes.tangma2088.com/productinfoen_2995811.html",
+        "https://shoes.tangma2088.com/productinfoen_2995810.html",
+        "https://shoes.tangma2088.com/productinfoen_2995809.html",
+        "https://shoes.tangma2088.com/productinfoen_2995808.html",
+        "https://shoes.tangma2088.com/productinfoen_2995807.html",
+        "https://shoes.tangma2088.com/productinfoen_2995806.html",
+        "https://shoes.tangma2088.com/productinfoen_2995805.html",
+        "https://shoes.tangma2088.com/productinfoen_2995804.html",
+        "https://shoes.tangma2088.com/productinfoen_2995803.html",
+        "https://shoes.tangma2088.com/productinfoen_2995802.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(1)_2995812.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(2)_2995811.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(3)_2995810.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(4)_2995809.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(5)_2995808.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(6)_2995807.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(7)_2995806.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(8)_2995805.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(9)_2995804.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(10)_2995803.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(11)_2995802.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "LV sz34-40 mns0702",
+      "english_product_name": "LV sz34-40 mns0702",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995802",
+      "parent_product_id": "2995802",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0702-2995802-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(1)_2995812.jpg",
+          "content_hash": "12b3df07934a4f72590ba476816005fbcb0c5643",
+          "alt": "LV sz34-40 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0702-2995802-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(2)_2995811.jpg",
+          "content_hash": "8debd4779be8dd51e787062acf5952b9d73e42e0",
+          "alt": "LV sz34-40 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0702-2995802-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(3)_2995810.jpg",
+          "content_hash": "9190a705ff7f2d0928948817adec788f4cdefaeb",
+          "alt": "LV sz34-40 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0702-2995802-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(4)_2995809.jpg",
+          "content_hash": "e9236a0d0accd11133d440bd97e7742ae4934d39",
+          "alt": "LV sz34-40 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0702-2995802-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(5)_2995808.jpg",
+          "content_hash": "0561d7820cbab40efa90501e90ad60ced403dc52",
+          "alt": "LV sz34-40 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0702-2995802-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(6)_2995807.jpg",
+          "content_hash": "e8a69a8d7f6a279003f825c9368a8475e2112ef7",
+          "alt": "LV sz34-40 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0702-2995802-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(7)_2995806.jpg",
+          "content_hash": "aa9011eed23837b0bef927eef9923507b45d19c3",
+          "alt": "LV sz34-40 mns0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz34-40-mns0702-2995802-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz34-40%20mns0702%20(8)_2995805.jpg",
+          "content_hash": "233011fc860325dc2da5b427910c0e700410e847",
+          "alt": "LV sz34-40 mns0702"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/lv-sz34-40-mns0702-2995802/",
+      "_canonical": "https://trendholic.github.io/catalog/product/lv-sz34-40-mns0702-2995802/",
+      "_og": "https://trendholic.github.io/data/shoes/images/lv-sz34-40-mns0702-2995802-1.webp"
+    },
+    {
       "slug": "lv-sz35-39-8cm-mns0601-2991616",
       "top_category": "Shoes",
       "source_site": "shoes",
@@ -17453,6 +19761,130 @@
       "_url": "/catalog/product/lv-sz35-40-gdt-2992648/",
       "_canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-gdt-2992648/",
       "_og": "https://trendholic.github.io/data/shoes/images/lv-sz35-40-gdt-2992648-1.webp"
+    },
+    {
+      "slug": "lv-sz35-40-gdt-2995524",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995536",
+      "source_parent_product_id": "2995524",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995536.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz35-40-gdt-2995524/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995536.html",
+        "https://shoes.tangma2088.com/productinfoen_2995535.html",
+        "https://shoes.tangma2088.com/productinfoen_2995534.html",
+        "https://shoes.tangma2088.com/productinfoen_2995533.html",
+        "https://shoes.tangma2088.com/productinfoen_2995532.html",
+        "https://shoes.tangma2088.com/productinfoen_2995531.html",
+        "https://shoes.tangma2088.com/productinfoen_2995530.html",
+        "https://shoes.tangma2088.com/productinfoen_2995529.html",
+        "https://shoes.tangma2088.com/productinfoen_2995528.html",
+        "https://shoes.tangma2088.com/productinfoen_2995527.html",
+        "https://shoes.tangma2088.com/productinfoen_2995526.html",
+        "https://shoes.tangma2088.com/productinfoen_2995525.html",
+        "https://shoes.tangma2088.com/productinfoen_2995524.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070201_2995536.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070202_2995535.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070203_2995534.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070204_2995533.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070205_2995532.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070206_2995531.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070207_2995530.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070208_2995529.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070209_2995528.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070210_2995527.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070211_2995526.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070212_2995525.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070213_2995524.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "LV sz35-40 GDT",
+      "english_product_name": "LV sz35-40 GDT",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995524",
+      "parent_product_id": "2995524",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/lv-sz35-40-gdt-2995524-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070201_2995536.jpg",
+          "content_hash": "0d84bf8b3fc42d97ecbd75a11226ca71fbf25c54",
+          "alt": "LV sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-40-gdt-2995524-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070202_2995535.jpg",
+          "content_hash": "e56134e6e366d6229f33b3d6ceac7623f4216e9d",
+          "alt": "LV sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-40-gdt-2995524-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070203_2995534.jpg",
+          "content_hash": "87dd51d459d580b1453c00a1cafa5e1bd7238aa1",
+          "alt": "LV sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-40-gdt-2995524-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070204_2995533.jpg",
+          "content_hash": "61eabb8823b4f2069a6d98338bd4f4a18d2d69f8",
+          "alt": "LV sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-40-gdt-2995524-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070205_2995532.jpg",
+          "content_hash": "257aef63c0e2b8a2261fec7b0497511699d98241",
+          "alt": "LV sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-40-gdt-2995524-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070206_2995531.jpg",
+          "content_hash": "66448d13f0bac84c6aec9f2f4d59ce3034af4dce",
+          "alt": "LV sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-40-gdt-2995524-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070207_2995530.jpg",
+          "content_hash": "7e84a482e03e873baa70eeb8495fcb7ed25c2c93",
+          "alt": "LV sz35-40 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-40-gdt-2995524-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%20GDT070208_2995529.jpg",
+          "content_hash": "2a7e806b0187318f82d1c6a661894937f9978b1b",
+          "alt": "LV sz35-40 GDT"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/lv-sz35-40-gdt-2995524/",
+      "_canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-gdt-2995524/",
+      "_og": "https://trendholic.github.io/data/shoes/images/lv-sz35-40-gdt-2995524-1.webp"
     },
     {
       "slug": "lv-sz35-40-gdt0702-2992615",
@@ -18079,6 +20511,576 @@
       "_url": "/catalog/product/lv-sz35-41-2989976/",
       "_canonical": "https://trendholic.github.io/catalog/product/lv-sz35-41-2989976/",
       "_og": "https://trendholic.github.io/data/shoes/images/lv-sz35-41-2989976-1.webp"
+    },
+    {
+      "slug": "lv-sz35-44-gdt-2995633",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995649",
+      "source_parent_product_id": "2995633",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995649.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz35-44-gdt-2995633/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995649.html",
+        "https://shoes.tangma2088.com/productinfoen_2995648.html",
+        "https://shoes.tangma2088.com/productinfoen_2995647.html",
+        "https://shoes.tangma2088.com/productinfoen_2995646.html",
+        "https://shoes.tangma2088.com/productinfoen_2995645.html",
+        "https://shoes.tangma2088.com/productinfoen_2995644.html",
+        "https://shoes.tangma2088.com/productinfoen_2995643.html",
+        "https://shoes.tangma2088.com/productinfoen_2995642.html",
+        "https://shoes.tangma2088.com/productinfoen_2995641.html",
+        "https://shoes.tangma2088.com/productinfoen_2995640.html",
+        "https://shoes.tangma2088.com/productinfoen_2995639.html",
+        "https://shoes.tangma2088.com/productinfoen_2995638.html",
+        "https://shoes.tangma2088.com/productinfoen_2995637.html",
+        "https://shoes.tangma2088.com/productinfoen_2995636.html",
+        "https://shoes.tangma2088.com/productinfoen_2995635.html",
+        "https://shoes.tangma2088.com/productinfoen_2995634.html",
+        "https://shoes.tangma2088.com/productinfoen_2995633.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070201_2995649.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070202_2995648.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070203_2995647.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070204_2995646.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070205_2995645.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070206_2995644.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070207_2995643.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070208_2995642.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070209_2995641.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070210_2995640.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070211_2995639.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070212_2995638.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070213_2995637.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070214_2995636.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070215_2995635.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070216_2995634.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070217_2995633.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "LV sz35-44 GDT",
+      "english_product_name": "LV sz35-44 GDT",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995633",
+      "parent_product_id": "2995633",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt-2995633-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070201_2995649.jpg",
+          "content_hash": "b02e04e04e651c51c8ea23af8f37711a50b7997d",
+          "alt": "LV sz35-44 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt-2995633-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070202_2995648.jpg",
+          "content_hash": "82ce32702ac2f3307d804852892be8685e1e0053",
+          "alt": "LV sz35-44 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt-2995633-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070203_2995647.jpg",
+          "content_hash": "57812dd232d20540064ebf67ecc8e6203d71b156",
+          "alt": "LV sz35-44 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt-2995633-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070204_2995646.jpg",
+          "content_hash": "e37fbdc99e58f5c38d19f6749bb92ffd6c665273",
+          "alt": "LV sz35-44 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt-2995633-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070205_2995645.jpg",
+          "content_hash": "41fcaba6cc7bc3dbe8a8aac3150b31781f3fd85a",
+          "alt": "LV sz35-44 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt-2995633-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070206_2995644.jpg",
+          "content_hash": "a05be225a844a077be135ca04513aff0d3c151e2",
+          "alt": "LV sz35-44 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt-2995633-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070207_2995643.jpg",
+          "content_hash": "fec6036d0b260c1235fcbf7b2e829f61bbefb6f6",
+          "alt": "LV sz35-44 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt-2995633-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT070208_2995642.jpg",
+          "content_hash": "6dde497b33d6848320c4b03e3efa227d04fe6a18",
+          "alt": "LV sz35-44 GDT"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/lv-sz35-44-gdt-2995633/",
+      "_canonical": "https://trendholic.github.io/catalog/product/lv-sz35-44-gdt-2995633/",
+      "_og": "https://trendholic.github.io/data/shoes/images/lv-sz35-44-gdt-2995633-1.webp"
+    },
+    {
+      "slug": "lv-sz35-44-gdt07023-2995650",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995692",
+      "source_parent_product_id": "2995650",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995692.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz35-44-gdt07023-2995650/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995692.html",
+        "https://shoes.tangma2088.com/productinfoen_2995691.html",
+        "https://shoes.tangma2088.com/productinfoen_2995690.html",
+        "https://shoes.tangma2088.com/productinfoen_2995689.html",
+        "https://shoes.tangma2088.com/productinfoen_2995688.html",
+        "https://shoes.tangma2088.com/productinfoen_2995687.html",
+        "https://shoes.tangma2088.com/productinfoen_2995686.html",
+        "https://shoes.tangma2088.com/productinfoen_2995685.html",
+        "https://shoes.tangma2088.com/productinfoen_2995684.html",
+        "https://shoes.tangma2088.com/productinfoen_2995683.html",
+        "https://shoes.tangma2088.com/productinfoen_2995682.html",
+        "https://shoes.tangma2088.com/productinfoen_2995681.html",
+        "https://shoes.tangma2088.com/productinfoen_2995680.html",
+        "https://shoes.tangma2088.com/productinfoen_2995679.html",
+        "https://shoes.tangma2088.com/productinfoen_2995678.html",
+        "https://shoes.tangma2088.com/productinfoen_2995677.html",
+        "https://shoes.tangma2088.com/productinfoen_2995676.html",
+        "https://shoes.tangma2088.com/productinfoen_2995675.html",
+        "https://shoes.tangma2088.com/productinfoen_2995674.html",
+        "https://shoes.tangma2088.com/productinfoen_2995673.html",
+        "https://shoes.tangma2088.com/productinfoen_2995672.html",
+        "https://shoes.tangma2088.com/productinfoen_2995671.html",
+        "https://shoes.tangma2088.com/productinfoen_2995670.html",
+        "https://shoes.tangma2088.com/productinfoen_2995669.html",
+        "https://shoes.tangma2088.com/productinfoen_2995668.html",
+        "https://shoes.tangma2088.com/productinfoen_2995667.html",
+        "https://shoes.tangma2088.com/productinfoen_2995666.html",
+        "https://shoes.tangma2088.com/productinfoen_2995665.html",
+        "https://shoes.tangma2088.com/productinfoen_2995664.html",
+        "https://shoes.tangma2088.com/productinfoen_2995663.html",
+        "https://shoes.tangma2088.com/productinfoen_2995662.html",
+        "https://shoes.tangma2088.com/productinfoen_2995661.html",
+        "https://shoes.tangma2088.com/productinfoen_2995660.html",
+        "https://shoes.tangma2088.com/productinfoen_2995659.html",
+        "https://shoes.tangma2088.com/productinfoen_2995658.html",
+        "https://shoes.tangma2088.com/productinfoen_2995657.html",
+        "https://shoes.tangma2088.com/productinfoen_2995656.html",
+        "https://shoes.tangma2088.com/productinfoen_2995655.html",
+        "https://shoes.tangma2088.com/productinfoen_2995654.html",
+        "https://shoes.tangma2088.com/productinfoen_2995653.html",
+        "https://shoes.tangma2088.com/productinfoen_2995652.html",
+        "https://shoes.tangma2088.com/productinfoen_2995651.html",
+        "https://shoes.tangma2088.com/productinfoen_2995650.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2001_2995692.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2002_2995691.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2003_2995690.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2004_2995689.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2005_2995688.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2006_2995687.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2007_2995686.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2008_2995685.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2009_2995684.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2010_2995683.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2011_2995682.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2012_2995681.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2013_2995680.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2014_2995679.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2015_2995678.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2016_2995677.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2017_2995676.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2018_2995675.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2019_2995674.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2020_2995673.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2021_2995672.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2022_2995671.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2023_2995670.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2024_2995669.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2025_2995668.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2026_2995667.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2027_2995666.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2028_2995665.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2029_2995664.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2030_2995663.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2031_2995662.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2032_2995661.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2033_2995660.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2034_2995659.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2035_2995658.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2036_2995657.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2037_2995656.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2038_2995655.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2039_2995654.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2040_2995653.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2041_2995652.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2042_2995651.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2043_2995650.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "LV sz35-44 GDT07023",
+      "english_product_name": "LV sz35-44 GDT07023",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995650",
+      "parent_product_id": "2995650",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt07023-2995650-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2001_2995692.jpg",
+          "content_hash": "e18fa60eac7f7631f524fe29f0c3fb16e909621c",
+          "alt": "LV sz35-44 GDT07023"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt07023-2995650-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2002_2995691.jpg",
+          "content_hash": "30a74ad2b0a3acc3bce058e5af26d8baa84775b3",
+          "alt": "LV sz35-44 GDT07023"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt07023-2995650-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2003_2995690.jpg",
+          "content_hash": "c272c0167c6268232570a2a0048deb4089447eff",
+          "alt": "LV sz35-44 GDT07023"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt07023-2995650-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2004_2995689.jpg",
+          "content_hash": "ed0db0cc918521941112cea5fa7819a199fed9cd",
+          "alt": "LV sz35-44 GDT07023"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt07023-2995650-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2005_2995688.jpg",
+          "content_hash": "a0c39cd597ff352d6eb11fe341af8d5dbd8a5b3a",
+          "alt": "LV sz35-44 GDT07023"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt07023-2995650-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2006_2995687.jpg",
+          "content_hash": "3344c1806d9b01edd215fea65b03f811e3c1dd65",
+          "alt": "LV sz35-44 GDT07023"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt07023-2995650-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2007_2995686.jpg",
+          "content_hash": "d28fa3e65b7c14c7147911339e481b9772f4bae7",
+          "alt": "LV sz35-44 GDT07023"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-44-gdt07023-2995650-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-44%20GDT07023%2008_2995685.jpg",
+          "content_hash": "a05ab4aa96ee6617360dd7f32c74f7b6670c6e57",
+          "alt": "LV sz35-44 GDT07023"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/lv-sz35-44-gdt07023-2995650/",
+      "_canonical": "https://trendholic.github.io/catalog/product/lv-sz35-44-gdt07023-2995650/",
+      "_og": "https://trendholic.github.io/data/shoes/images/lv-sz35-44-gdt07023-2995650-1.webp"
+    },
+    {
+      "slug": "lv-sz35-45-gdt-2995693",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995711",
+      "source_parent_product_id": "2995693",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995711.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz35-45-gdt-2995693/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995711.html",
+        "https://shoes.tangma2088.com/productinfoen_2995710.html",
+        "https://shoes.tangma2088.com/productinfoen_2995709.html",
+        "https://shoes.tangma2088.com/productinfoen_2995708.html",
+        "https://shoes.tangma2088.com/productinfoen_2995707.html",
+        "https://shoes.tangma2088.com/productinfoen_2995706.html",
+        "https://shoes.tangma2088.com/productinfoen_2995705.html",
+        "https://shoes.tangma2088.com/productinfoen_2995704.html",
+        "https://shoes.tangma2088.com/productinfoen_2995703.html",
+        "https://shoes.tangma2088.com/productinfoen_2995702.html",
+        "https://shoes.tangma2088.com/productinfoen_2995701.html",
+        "https://shoes.tangma2088.com/productinfoen_2995700.html",
+        "https://shoes.tangma2088.com/productinfoen_2995699.html",
+        "https://shoes.tangma2088.com/productinfoen_2995698.html",
+        "https://shoes.tangma2088.com/productinfoen_2995697.html",
+        "https://shoes.tangma2088.com/productinfoen_2995696.html",
+        "https://shoes.tangma2088.com/productinfoen_2995695.html",
+        "https://shoes.tangma2088.com/productinfoen_2995694.html",
+        "https://shoes.tangma2088.com/productinfoen_2995693.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070201_2995711.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070202_2995710.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070203_2995709.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070204_2995708.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070205_2995707.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070206_2995706.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070207_2995705.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070208_2995704.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070209_2995703.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070210_2995702.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070211_2995701.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070212_2995700.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070213_2995699.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070214_2995698.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070215_2995697.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070216_2995696.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070217_2995695.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070218_2995694.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070219_2995693.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "LV sz35-45 GDT",
+      "english_product_name": "LV sz35-45 GDT",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995693",
+      "parent_product_id": "2995693",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/lv-sz35-45-gdt-2995693-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070201_2995711.jpg",
+          "content_hash": "206a55fe0fa3f2655cde669a8af9a21f5530e21b",
+          "alt": "LV sz35-45 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-45-gdt-2995693-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070202_2995710.jpg",
+          "content_hash": "cce168e5ccca6f8b2d616e696a8ca8d8a6fa9dbe",
+          "alt": "LV sz35-45 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-45-gdt-2995693-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070203_2995709.jpg",
+          "content_hash": "7872a32c76d340a38e647cbe8a3955199e841082",
+          "alt": "LV sz35-45 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-45-gdt-2995693-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070204_2995708.jpg",
+          "content_hash": "758ab1488eefe756aa632d9a713bf34e938d7cba",
+          "alt": "LV sz35-45 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-45-gdt-2995693-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070205_2995707.jpg",
+          "content_hash": "65e84a3698e4eda88c70d8f754ed07823e4a09b9",
+          "alt": "LV sz35-45 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-45-gdt-2995693-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070206_2995706.jpg",
+          "content_hash": "1fcc21149b2bebbc5f9d670df44de775476f989c",
+          "alt": "LV sz35-45 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-45-gdt-2995693-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070207_2995705.jpg",
+          "content_hash": "87c98dc13bd2ba6144e2aaa47eafa64d958992e1",
+          "alt": "LV sz35-45 GDT"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-45-gdt-2995693-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-45%20GDT070208_2995704.jpg",
+          "content_hash": "b895900cef8b0e3ac3f4d953a69d4028db544b4b",
+          "alt": "LV sz35-45 GDT"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/lv-sz35-45-gdt-2995693/",
+      "_canonical": "https://trendholic.github.io/catalog/product/lv-sz35-45-gdt-2995693/",
+      "_og": "https://trendholic.github.io/data/shoes/images/lv-sz35-45-gdt-2995693-1.webp"
+    },
+    {
+      "slug": "lv-sz35-46-gdt0702-2995712",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995721",
+      "source_parent_product_id": "2995712",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995721.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz35-46-gdt0702-2995712/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995721.html",
+        "https://shoes.tangma2088.com/productinfoen_2995720.html",
+        "https://shoes.tangma2088.com/productinfoen_2995719.html",
+        "https://shoes.tangma2088.com/productinfoen_2995718.html",
+        "https://shoes.tangma2088.com/productinfoen_2995717.html",
+        "https://shoes.tangma2088.com/productinfoen_2995716.html",
+        "https://shoes.tangma2088.com/productinfoen_2995715.html",
+        "https://shoes.tangma2088.com/productinfoen_2995714.html",
+        "https://shoes.tangma2088.com/productinfoen_2995713.html",
+        "https://shoes.tangma2088.com/productinfoen_2995712.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2001_2995721.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2002_2995720.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2003_2995719.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2004_2995718.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2005_2995717.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2006_2995716.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2007_2995715.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2008_2995714.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2009_2995713.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2010_2995712.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "LV sz35-46 GDT0702",
+      "english_product_name": "LV sz35-46 GDT0702",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995712",
+      "parent_product_id": "2995712",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/lv-sz35-46-gdt0702-2995712-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2001_2995721.jpg",
+          "content_hash": "59025ed60784c246acf6eacf3691094b496938fa",
+          "alt": "LV sz35-46 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-46-gdt0702-2995712-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2002_2995720.jpg",
+          "content_hash": "26cf9293eeaa7e04abb2ff60425f786b2c6d6728",
+          "alt": "LV sz35-46 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-46-gdt0702-2995712-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2003_2995719.jpg",
+          "content_hash": "1e6641d41226de4546f31f67cd3d5e5fce87ea7f",
+          "alt": "LV sz35-46 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-46-gdt0702-2995712-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2004_2995718.jpg",
+          "content_hash": "46d76000d1ae7062ea41395b539ad9d05a331d3d",
+          "alt": "LV sz35-46 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-46-gdt0702-2995712-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2005_2995717.jpg",
+          "content_hash": "f3ab438599731f7f002cc9240ac2aed79f896419",
+          "alt": "LV sz35-46 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-46-gdt0702-2995712-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2006_2995716.jpg",
+          "content_hash": "aa0321a2bf9166be3763efaaab9e9851f2e56286",
+          "alt": "LV sz35-46 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-46-gdt0702-2995712-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2007_2995715.jpg",
+          "content_hash": "e817731f4a0cc31fff4ae2478e17d8fa7da08ac6",
+          "alt": "LV sz35-46 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/lv-sz35-46-gdt0702-2995712-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-46%20GDT0702%2008_2995714.jpg",
+          "content_hash": "121457df67d497bef4c2ef65a13978d3c7c5dcbb",
+          "alt": "LV sz35-46 GDT0702"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/lv-sz35-46-gdt0702-2995712/",
+      "_canonical": "https://trendholic.github.io/catalog/product/lv-sz35-46-gdt0702-2995712/",
+      "_og": "https://trendholic.github.io/data/shoes/images/lv-sz35-46-gdt0702-2995712-1.webp"
     },
     {
       "slug": "lv-sz35-46-mns0601-2989296",
@@ -21502,6 +24504,122 @@
       "_og": "https://trendholic.github.io/data/shoes/images/prada-sz35-40-39-46-mns0601-2991753-1.webp"
     },
     {
+      "slug": "prada-sz35-40-ly-2995762",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995770",
+      "source_parent_product_id": "2995762",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995770.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/prada-sz35-40-ly-2995762/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995770.html",
+        "https://shoes.tangma2088.com/productinfoen_2995769.html",
+        "https://shoes.tangma2088.com/productinfoen_2995768.html",
+        "https://shoes.tangma2088.com/productinfoen_2995767.html",
+        "https://shoes.tangma2088.com/productinfoen_2995766.html",
+        "https://shoes.tangma2088.com/productinfoen_2995765.html",
+        "https://shoes.tangma2088.com/productinfoen_2995764.html",
+        "https://shoes.tangma2088.com/productinfoen_2995763.html",
+        "https://shoes.tangma2088.com/productinfoen_2995762.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070201_2995770.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070202_2995769.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070203_2995768.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070204_2995767.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070205_2995766.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070206_2995765.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070207_2995764.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070208_2995763.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070209_2995762.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Prada sz35-40 LY",
+      "english_product_name": "Prada sz35-40 LY",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995762",
+      "parent_product_id": "2995762",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/prada-sz35-40-ly-2995762-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070201_2995770.jpg",
+          "content_hash": "db77e28d24159ac0c0d9c221c211a9daf04427ad",
+          "alt": "Prada sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/prada-sz35-40-ly-2995762-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070202_2995769.jpg",
+          "content_hash": "316605ae041b585fb4d46be0a9a9ede090c5934a",
+          "alt": "Prada sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/prada-sz35-40-ly-2995762-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070203_2995768.jpg",
+          "content_hash": "6ab5e7487074a15dc9e26429579ee677bc8b2907",
+          "alt": "Prada sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/prada-sz35-40-ly-2995762-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070204_2995767.jpg",
+          "content_hash": "b1d33b1eacc324d5f8b8114b9d455bab66673240",
+          "alt": "Prada sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/prada-sz35-40-ly-2995762-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070205_2995766.jpg",
+          "content_hash": "13dcf304e5339815e654ff299d5cb0dd7a3590f2",
+          "alt": "Prada sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/prada-sz35-40-ly-2995762-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070206_2995765.jpg",
+          "content_hash": "604759153d800d43e67a8bbacb64ce9e4dbc1fc4",
+          "alt": "Prada sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/prada-sz35-40-ly-2995762-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070207_2995764.jpg",
+          "content_hash": "b7bfcdaba801083b6b0b39fb2974deaef4b3424b",
+          "alt": "Prada sz35-40 LY"
+        },
+        {
+          "src": "/data/shoes/images/prada-sz35-40-ly-2995762-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Prada%20sz35-40%20LY070208_2995763.jpg",
+          "content_hash": "0aa404e1f74492b76238ff48c910f3abd743f0f4",
+          "alt": "Prada sz35-40 LY"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/prada-sz35-40-ly-2995762/",
+      "_canonical": "https://trendholic.github.io/catalog/product/prada-sz35-40-ly-2995762/",
+      "_og": "https://trendholic.github.io/data/shoes/images/prada-sz35-40-ly-2995762-1.webp"
+    },
+    {
       "slug": "prada-sz35-40-mns0601-2991762",
       "top_category": "Shoes",
       "source_site": "shoes",
@@ -24084,6 +27202,148 @@
       "_url": "/catalog/product/valentino-sz35-40-gdt-2992690/",
       "_canonical": "https://trendholic.github.io/catalog/product/valentino-sz35-40-gdt-2992690/",
       "_og": "https://trendholic.github.io/data/shoes/images/valentino-sz35-40-gdt-2992690-1.webp"
+    },
+    {
+      "slug": "valentino-sz35-40-gdt0702-2995771",
+      "top_category": "Shoes",
+      "source_site": "shoes",
+      "source_domain": "shoes.tangma2088.com",
+      "source_top_category": "Shoes",
+      "source_category": "New Products",
+      "source_category_original": "new",
+      "source_categories": [],
+      "source_category_slugs": [],
+      "source_product_id": "2995792",
+      "source_parent_product_id": "2995771",
+      "source_product_url": "https://shoes.tangma2088.com/productinfoen_2995792.html",
+      "source_canonical_url": "https://trendholic.github.io/catalog/product/valentino-sz35-40-gdt0702-2995771/",
+      "source_product_urls": [
+        "https://shoes.tangma2088.com/productinfoen_2995792.html",
+        "https://shoes.tangma2088.com/productinfoen_2995791.html",
+        "https://shoes.tangma2088.com/productinfoen_2995790.html",
+        "https://shoes.tangma2088.com/productinfoen_2995789.html",
+        "https://shoes.tangma2088.com/productinfoen_2995788.html",
+        "https://shoes.tangma2088.com/productinfoen_2995787.html",
+        "https://shoes.tangma2088.com/productinfoen_2995786.html",
+        "https://shoes.tangma2088.com/productinfoen_2995785.html",
+        "https://shoes.tangma2088.com/productinfoen_2995784.html",
+        "https://shoes.tangma2088.com/productinfoen_2995783.html",
+        "https://shoes.tangma2088.com/productinfoen_2995782.html",
+        "https://shoes.tangma2088.com/productinfoen_2995781.html",
+        "https://shoes.tangma2088.com/productinfoen_2995780.html",
+        "https://shoes.tangma2088.com/productinfoen_2995779.html",
+        "https://shoes.tangma2088.com/productinfoen_2995778.html",
+        "https://shoes.tangma2088.com/productinfoen_2995777.html",
+        "https://shoes.tangma2088.com/productinfoen_2995776.html",
+        "https://shoes.tangma2088.com/productinfoen_2995775.html",
+        "https://shoes.tangma2088.com/productinfoen_2995774.html",
+        "https://shoes.tangma2088.com/productinfoen_2995773.html",
+        "https://shoes.tangma2088.com/productinfoen_2995772.html",
+        "https://shoes.tangma2088.com/productinfoen_2995771.html"
+      ],
+      "source_image_urls": [
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2001_2995792.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2002_2995791.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2003_2995790.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2004_2995789.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2005_2995788.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2006_2995787.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2007_2995786.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2008_2995785.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2009_2995784.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2010_2995783.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2011_2995782.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2012_2995781.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2013_2995780.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2014_2995779.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2015_2995778.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2016_2995777.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2017_2995776.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2018_2995775.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2019_2995774.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2020_2995773.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2021_2995772.jpg",
+        "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2022_2995771.jpg"
+      ],
+      "source_last_seen": "2026-07-31T06:36:29.749Z",
+      "name": "Valentino sz35-40 GDT0702",
+      "english_product_name": "Valentino sz35-40 GDT0702",
+      "original_product_name": null,
+      "brand": null,
+      "sku": null,
+      "model_number": null,
+      "product_code": null,
+      "product_id": "2995771",
+      "parent_product_id": "2995771",
+      "description": null,
+      "features": [],
+      "specifications": null,
+      "materials": null,
+      "color": null,
+      "size": null,
+      "variants": [],
+      "dimensions": null,
+      "weight": null,
+      "packaging": null,
+      "moq": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "images": [
+        {
+          "src": "/data/shoes/images/valentino-sz35-40-gdt0702-2995771-1.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2001_2995792.jpg",
+          "content_hash": "0127ec05dfef9581497e4663a9f9ec0555c224ce",
+          "alt": "Valentino sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz35-40-gdt0702-2995771-2.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2002_2995791.jpg",
+          "content_hash": "e83efdc82df7fa7056f19bd5c5eff2eb1b7ac628",
+          "alt": "Valentino sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz35-40-gdt0702-2995771-3.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2003_2995790.jpg",
+          "content_hash": "03d07104d20cb2d36485f21c81ae9acb6fc57b92",
+          "alt": "Valentino sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz35-40-gdt0702-2995771-4.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2004_2995789.jpg",
+          "content_hash": "8dcc15d67cea16d29866e7dcbf42ab043d558387",
+          "alt": "Valentino sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz35-40-gdt0702-2995771-5.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2005_2995788.jpg",
+          "content_hash": "e46d0f9e76b0c20654ef23c5143907f945a34e7b",
+          "alt": "Valentino sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz35-40-gdt0702-2995771-6.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2006_2995787.jpg",
+          "content_hash": "914daecd13d9228dc63d4af86911e9507c589190",
+          "alt": "Valentino sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz35-40-gdt0702-2995771-7.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2007_2995786.jpg",
+          "content_hash": "bfd2051d96e318f594f4d0c074d28c830a009e5a",
+          "alt": "Valentino sz35-40 GDT0702"
+        },
+        {
+          "src": "/data/shoes/images/valentino-sz35-40-gdt0702-2995771-8.webp",
+          "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Valentino%20sz35-40%20GDT0702%2008_2995785.jpg",
+          "content_hash": "e3bf305fb63a98cdc326d0cd3b449f840ca044de",
+          "alt": "Valentino sz35-40 GDT0702"
+        }
+      ],
+      "pdfs": [],
+      "synced_at": "2026-07-31T06:36:29.749Z",
+      "_url": "/catalog/product/valentino-sz35-40-gdt0702-2995771/",
+      "_canonical": "https://trendholic.github.io/catalog/product/valentino-sz35-40-gdt0702-2995771/",
+      "_og": "https://trendholic.github.io/data/shoes/images/valentino-sz35-40-gdt0702-2995771-1.webp"
     },
     {
       "slug": "valentino-sz38-45-mns0601-2991315",

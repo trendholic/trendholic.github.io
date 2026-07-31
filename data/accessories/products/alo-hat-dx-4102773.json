@@ -1,0 +1,71 @@
+{
+  "slug": "alo-hat-dx-4102773",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4102775",
+  "source_parent_product_id": "4102773",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4102775.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/alo-hat-dx-4102773/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4102775.html",
+    "https://acc.tangma2088.com/productinfoen_4102774.html",
+    "https://acc.tangma2088.com/productinfoen_4102773.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Alo%20hat%20dx%20(243)_4102773.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Alo%20hat%20dx%20(248)_4102774.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Alo%20hat%20dx%20(257)_4102775.jpg"
+  ],
+  "source_last_seen": "2026-07-31T06:27:46.747Z",
+  "name": "Alo hat dx",
+  "english_product_name": "Alo hat dx",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4102773",
+  "parent_product_id": "4102773",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/alo-hat-dx-4102773-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Alo%20hat%20dx%20(243)_4102773.jpg",
+      "content_hash": "31f686923d1886d4cb18e8b9e9bdd4b6cc936056",
+      "alt": "Alo hat dx"
+    },
+    {
+      "src": "/data/accessories/images/alo-hat-dx-4102773-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Alo%20hat%20dx%20(248)_4102774.jpg",
+      "content_hash": "fad5bfce7022e07ef2d1d4937aaea784bcff1e1f",
+      "alt": "Alo hat dx"
+    },
+    {
+      "src": "/data/accessories/images/alo-hat-dx-4102773-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Alo%20hat%20dx%20(257)_4102775.jpg",
+      "content_hash": "e7a8fb51b3f6a2d4858ff4804b3772b4b739a2be",
+      "alt": "Alo hat dx"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-31T06:27:46.747Z"
+}

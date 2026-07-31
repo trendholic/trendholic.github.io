@@ -1,0 +1,71 @@
+{
+  "slug": "ck-cap-dx-4102981",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4102983",
+  "source_parent_product_id": "4102981",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4102983.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/ck-cap-dx-4102981/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4102983.html",
+    "https://acc.tangma2088.com/productinfoen_4102982.html",
+    "https://acc.tangma2088.com/productinfoen_4102981.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/CK%20Cap%20dx%20(2772)_4102981.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/CK%20Cap%20dx%20(2781)_4102982.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/CK%20Cap%20dx%20(2790)_4102983.jpg"
+  ],
+  "source_last_seen": "2026-07-31T06:27:46.747Z",
+  "name": "CK Cap dx",
+  "english_product_name": "CK Cap dx",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4102981",
+  "parent_product_id": "4102981",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/ck-cap-dx-4100626-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/CK%20Cap%20dx%20(2772)_4102981.jpg",
+      "content_hash": "8ffa8b4850a3de2b5e73c19f0db32d69e728196d",
+      "alt": "CK Cap dx"
+    },
+    {
+      "src": "/data/accessories/images/ck-cap-dx-4100626-7.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/CK%20Cap%20dx%20(2781)_4102982.jpg",
+      "content_hash": "c50c4e748b1b39a60888110fc034af9f45aaf988",
+      "alt": "CK Cap dx"
+    },
+    {
+      "src": "/data/accessories/images/ck-cap-dx-4102981-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/CK%20Cap%20dx%20(2790)_4102983.jpg",
+      "content_hash": "e30db1b1c39ae0110876d241dde1270156479afd",
+      "alt": "CK Cap dx"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-31T06:27:46.747Z"
+}

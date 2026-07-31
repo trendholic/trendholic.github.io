@@ -1,0 +1,79 @@
+{
+  "slug": "gucci-cap-dx-4103007",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4103010",
+  "source_parent_product_id": "4103007",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4103010.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/gucci-cap-dx-4103007/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4103010.html",
+    "https://acc.tangma2088.com/productinfoen_4103009.html",
+    "https://acc.tangma2088.com/productinfoen_4103008.html",
+    "https://acc.tangma2088.com/productinfoen_4103007.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/Gucci%20Cap%20dx%20(1533)_4103007.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Gucci%20Cap%20dx%20(1539)_4103008.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Gucci%20Cap%20dx%20(1547)_4103009.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/Gucci%20Cap%20dx%20(1555)_4103010.jpg"
+  ],
+  "source_last_seen": "2026-07-31T06:27:46.747Z",
+  "name": "Gucci Cap dx",
+  "english_product_name": "Gucci Cap dx",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4103007",
+  "parent_product_id": "4103007",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/gucci-cap-dx-4100710-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Gucci%20Cap%20dx%20(1533)_4103007.jpg",
+      "content_hash": "418ffd898b6dbfde0a74fdb5f7f18eb1e25f175b",
+      "alt": "Gucci Cap dx"
+    },
+    {
+      "src": "/data/accessories/images/gucci-cap-dx-4100710-7.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Gucci%20Cap%20dx%20(1539)_4103008.jpg",
+      "content_hash": "56e70d1f552c9c582a59bd09927d45257019c65e",
+      "alt": "Gucci Cap dx"
+    },
+    {
+      "src": "/data/accessories/images/gucci-cap-dx-4103007-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Gucci%20Cap%20dx%20(1547)_4103009.jpg",
+      "content_hash": "a9d09e39f3215ff32da2bbd4759683c2607f8e5d",
+      "alt": "Gucci Cap dx"
+    },
+    {
+      "src": "/data/accessories/images/gucci-cap-dx-4103007-4.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/Gucci%20Cap%20dx%20(1555)_4103010.jpg",
+      "content_hash": "8cbb0843ca5f5dc9d8f56af54743d8bf870e96b0",
+      "alt": "Gucci Cap dx"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-07-31T06:27:46.747Z"
+}
