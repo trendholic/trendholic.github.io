@@ -1,0 +1,87 @@
+{
+  "slug": "dita-073101-c-4103994",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4103998",
+  "source_parent_product_id": "4103994",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4103998.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dita-073101-c-4103994/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4103998.html",
+    "https://acc.tangma2088.com/productinfoen_4103997.html",
+    "https://acc.tangma2088.com/productinfoen_4103996.html",
+    "https://acc.tangma2088.com/productinfoen_4103995.html",
+    "https://acc.tangma2088.com/productinfoen_4103994.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202607/DITA%20073101%20C01_4103994.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/DITA%20073101%20C02_4103995.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/DITA%20073101%20C03_4103996.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/DITA%20073101%20C04_4103997.jpg",
+    "https://acc.tangma2088.com/upfile/product/202607/DITA%20073101%20C05_4103998.jpg"
+  ],
+  "source_last_seen": "2026-08-01T06:20:11.504Z",
+  "name": "DITA 073101 C",
+  "english_product_name": "DITA 073101 C",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4103994",
+  "parent_product_id": "4103994",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/dita-073101-c-4103994-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/DITA%20073101%20C01_4103994.jpg",
+      "content_hash": "3dbab31b4c11afd306962572eedbe4f0d65c5c46",
+      "alt": "DITA 073101 C"
+    },
+    {
+      "src": "/data/accessories/images/dita-073101-c-4103994-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/DITA%20073101%20C02_4103995.jpg",
+      "content_hash": "da60beaa0af4fd58f7c3a8d67ec0f64befd68fa9",
+      "alt": "DITA 073101 C"
+    },
+    {
+      "src": "/data/accessories/images/dita-dts122-52-22-145-c-4103999-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/DITA%20073101%20C03_4103996.jpg",
+      "content_hash": "411ed2841f884a7c4195f2060ea9f06d629e32c1",
+      "alt": "DITA 073101 C"
+    },
+    {
+      "src": "/data/accessories/images/dita-dts122-52-22-145-c-4103999-4.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/DITA%20073101%20C04_4103997.jpg",
+      "content_hash": "fbd41ba595a4d8c24bf9aa3d8970219cee40c970",
+      "alt": "DITA 073101 C"
+    },
+    {
+      "src": "/data/accessories/images/dita-dts122-52-22-145-c-4103999-5.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202607/DITA%20073101%20C05_4103998.jpg",
+      "content_hash": "5302c4b5e246e50c308615d08c7a89c621b8721d",
+      "alt": "DITA 073101 C"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-01T06:20:11.504Z"
+}

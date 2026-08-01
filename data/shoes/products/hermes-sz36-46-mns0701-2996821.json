@@ -1,0 +1,63 @@
+{
+  "slug": "hermes-sz36-46-mns0701-2996821",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2996822",
+  "source_parent_product_id": "2996821",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2996822.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz36-46-mns0701-2996821/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2996822.html",
+    "https://shoes.tangma2088.com/productinfoen_2996821.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz36-46%20mns0701%20(1)_2996822.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz36-46%20mns0701%20(2)_2996821.jpg"
+  ],
+  "source_last_seen": "2026-08-01T06:30:57.298Z",
+  "name": "Hermes sz36-46 mns0701",
+  "english_product_name": "Hermes sz36-46 mns0701",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2996821",
+  "parent_product_id": "2996821",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/hermes-sz36-46-mns0701-2996821-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz36-46%20mns0701%20(1)_2996822.jpg",
+      "content_hash": "b0c8a85edcc25352db4baf499ffa53e4d1c543d8",
+      "alt": "Hermes sz36-46 mns0701"
+    },
+    {
+      "src": "/data/shoes/images/hermes-sz36-46-mns0701-2996821-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz36-46%20mns0701%20(2)_2996821.jpg",
+      "content_hash": "85dc8432e4b86bbec7f4eaa81bd79e3cc2fe1da8",
+      "alt": "Hermes sz36-46 mns0701"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-01T06:30:57.298Z"
+}

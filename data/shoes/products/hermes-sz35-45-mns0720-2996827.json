@@ -1,0 +1,63 @@
+{
+  "slug": "hermes-sz35-45-mns0720-2996827",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2996828",
+  "source_parent_product_id": "2996827",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2996828.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-45-mns0720-2996827/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2996828.html",
+    "https://shoes.tangma2088.com/productinfoen_2996827.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-45%20mns0720%20(1)_2996828.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-45%20mns0720%20(2)_2996827.jpg"
+  ],
+  "source_last_seen": "2026-08-01T06:30:57.298Z",
+  "name": "Hermes sz35-45 mns0720",
+  "english_product_name": "Hermes sz35-45 mns0720",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2996827",
+  "parent_product_id": "2996827",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/hermes-sz35-45-mns0720-2996827-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-45%20mns0720%20(1)_2996828.jpg",
+      "content_hash": "2d89d54a285f6aa3e1fd29e7d346a3c4529eb32a",
+      "alt": "Hermes sz35-45 mns0720"
+    },
+    {
+      "src": "/data/shoes/images/hermes-sz35-45-mns0720-2996827-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-45%20mns0720%20(2)_2996827.jpg",
+      "content_hash": "04fbea2b3f9aeb5333eaaced60ac92492d5db4d1",
+      "alt": "Hermes sz35-45 mns0720"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-01T06:30:57.298Z"
+}

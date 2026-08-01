@@ -1,0 +1,79 @@
+{
+  "slug": "hermes-sz35-39-mns0709-2996801",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2996938",
+  "source_parent_product_id": "2996801",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2996938.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0709-2996801/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2996938.html",
+    "https://shoes.tangma2088.com/productinfoen_2996937.html",
+    "https://shoes.tangma2088.com/productinfoen_2996802.html",
+    "https://shoes.tangma2088.com/productinfoen_2996801.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(1)_2996938.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(1)_2996802.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(2)_2996937.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(2)_2996801.jpg"
+  ],
+  "source_last_seen": "2026-08-01T06:30:57.298Z",
+  "name": "Hermes sz35-39 mns0709",
+  "english_product_name": "Hermes sz35-39 mns0709",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2996801",
+  "parent_product_id": "2996801",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/hermes-sz35-39-mns0709-2996801-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(1)_2996938.jpg",
+      "content_hash": "8cae14d5384141d929eb2b92e40054d24e8938bb",
+      "alt": "Hermes sz35-39 mns0709"
+    },
+    {
+      "src": "/data/shoes/images/hermes-sz35-39-mns0709-2995876-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(1)_2996802.jpg",
+      "content_hash": "1795776c0e62a1c7250c13564c59ac922b68dce2",
+      "alt": "Hermes sz35-39 mns0709"
+    },
+    {
+      "src": "/data/shoes/images/hermes-sz35-39-mns0709-2996801-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(2)_2996937.jpg",
+      "content_hash": "c3ef60813e12fe3ef54d1f2f040fa2203f374892",
+      "alt": "Hermes sz35-39 mns0709"
+    },
+    {
+      "src": "/data/shoes/images/hermes-sz35-39-mns0709-2995876-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-39%20mns0709%20(2)_2996801.jpg",
+      "content_hash": "14bccc3e1cd89e41158a4b3f3b74b6c766517d90",
+      "alt": "Hermes sz35-39 mns0709"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-01T06:30:57.298Z"
+}

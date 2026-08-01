@@ -1,7 +1,151 @@
 {
-  "updatedAt": "2026-07-31T06:40:47.611Z",
-  "count": 1032,
+  "updatedAt": "2026-08-01T06:37:53.849Z",
+  "count": 1221,
   "records": [
+    {
+      "slug": "acne-sz46-52-bhtx26131-5785621",
+      "name": "Acne sz46-52 bhtx26131",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/acne-sz46-52-bhtx26131-5785621-1.webp",
+      "url": "/catalog/product/acne-sz46-52-bhtx26131-5785621/",
+      "canonical": "https://trendholic.github.io/catalog/product/acne-sz46-52-bhtx26131-5785621/",
+      "keywords": [
+        "Acne sz46-52 bhtx26131",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "acne-sz46-52-bhtx26171-5785641",
+      "name": "Acne sz46-52 bhtx26171",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/acne-sz46-52-bhtx26171-5785641-1.webp",
+      "url": "/catalog/product/acne-sz46-52-bhtx26171-5785641/",
+      "canonical": "https://trendholic.github.io/catalog/product/acne-sz46-52-bhtx26171-5785641/",
+      "keywords": [
+        "Acne sz46-52 bhtx26171",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "adidas-s-2xl-bhtxb265-5785756",
+      "name": "Adidas S-2XL bhtxB265",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/adidas-s-2xl-bhtxb265-5785756-1.webp",
+      "url": "/catalog/product/adidas-s-2xl-bhtxb265-5785756/",
+      "canonical": "https://trendholic.github.io/catalog/product/adidas-s-2xl-bhtxb265-5785756/",
+      "keywords": [
+        "Adidas S-2XL bhtxB265",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "adidas-s-2xl-bhtxb282-5785794",
+      "name": "Adidas S-2XL bhtxB282",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/adidas-s-2xl-bhtxb282-5785794-1.webp",
+      "url": "/catalog/product/adidas-s-2xl-bhtxb282-5785794/",
+      "canonical": "https://trendholic.github.io/catalog/product/adidas-s-2xl-bhtxb282-5785794/",
+      "keywords": [
+        "Adidas S-2XL bhtxB282",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "adidas-s-2xl-bhtxb284-5785807",
+      "name": "Adidas S-2XL bhtxB284",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/adidas-s-2xl-bhtxb284-5785807-1.webp",
+      "url": "/catalog/product/adidas-s-2xl-bhtxb284-5785807/",
+      "canonical": "https://trendholic.github.io/catalog/product/adidas-s-2xl-bhtxb284-5785807/",
+      "keywords": [
+        "Adidas S-2XL bhtxB284",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "adidas-s-2xl-bhtxb285-5785770",
+      "name": "Adidas S-2XL bhtxB285",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/adidas-s-2xl-bhtxb285-5785770-1.webp",
+      "url": "/catalog/product/adidas-s-2xl-bhtxb285-5785770/",
+      "canonical": "https://trendholic.github.io/catalog/product/adidas-s-2xl-bhtxb285-5785770/",
+      "keywords": [
+        "Adidas S-2XL bhtxB285",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "adidas-s-2xl-bhtxb286-5785781",
+      "name": "Adidas S-2XL bhtxB286",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/adidas-s-2xl-bhtxb286-5785781-1.webp",
+      "url": "/catalog/product/adidas-s-2xl-bhtxb286-5785781/",
+      "canonical": "https://trendholic.github.io/catalog/product/adidas-s-2xl-bhtxb286-5785781/",
+      "keywords": [
+        "Adidas S-2XL bhtxB286",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "adidas-xs-xl-bhtxb273-5785746",
+      "name": "Adidas XS-XL bhtxB273",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/adidas-xs-xl-bhtxb273-5785746-1.webp",
+      "url": "/catalog/product/adidas-xs-xl-bhtxb273-5785746/",
+      "canonical": "https://trendholic.github.io/catalog/product/adidas-xs-xl-bhtxb273-5785746/",
+      "keywords": [
+        "Adidas XS-XL bhtxB273",
+        "Apparel",
+        "New Products"
+      ]
+    },
     {
       "slug": "alo-m-6xl-8qx326-5753436",
       "name": "Alo M-6XL 8qx326",
@@ -39,6 +183,24 @@
       ]
     },
     {
+      "slug": "ami-s-2xl-dgtr01-5785817",
+      "name": "Ami S-2XL dgtr01",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/ami-s-2xl-dgtr01-5785817-1.webp",
+      "url": "/catalog/product/ami-s-2xl-dgtr01-5785817/",
+      "canonical": "https://trendholic.github.io/catalog/product/ami-s-2xl-dgtr01-5785817/",
+      "keywords": [
+        "Ami S-2XL dgtr01",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
       "slug": "ami-s-xl-25wr632-5753337",
       "name": "Ami S-XL 25wr632",
       "top": "Apparel",
@@ -70,6 +232,258 @@
       "canonical": "https://trendholic.github.io/catalog/product/amiri-m-2xl-12yh59-5744108/",
       "keywords": [
         "Amiri M-2XL 12yh59",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tn355-5785660",
+      "name": "Amiri sz29-38 25tn355",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tn355-5785660-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tn355-5785660/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tn355-5785660/",
+      "keywords": [
+        "Amiri sz29-38 25tn355",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tn362-5785669",
+      "name": "Amiri sz29-38 25tn362",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tn362-5785669-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tn362-5785669/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tn362-5785669/",
+      "keywords": [
+        "Amiri sz29-38 25tn362",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tn363-5785677",
+      "name": "Amiri sz29-38 25tn363",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tn363-5785677-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tn363-5785677/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tn363-5785677/",
+      "keywords": [
+        "Amiri sz29-38 25tn363",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tn364-5785685",
+      "name": "Amiri sz29-38 25tn364",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tn364-5785685-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tn364-5785685/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tn364-5785685/",
+      "keywords": [
+        "Amiri sz29-38 25tn364",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tn366-5785693",
+      "name": "Amiri sz29-38 25tn366",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tn366-5785693-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tn366-5785693/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tn366-5785693/",
+      "keywords": [
+        "Amiri sz29-38 25tn366",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tn367-5785720",
+      "name": "Amiri sz29-38 25tn367",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tn367-5785720-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tn367-5785720/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tn367-5785720/",
+      "keywords": [
+        "Amiri sz29-38 25tn367",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tn368-5785728",
+      "name": "Amiri sz29-38 25tn368",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tn368-5785728-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tn368-5785728/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tn368-5785728/",
+      "keywords": [
+        "Amiri sz29-38 25tn368",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tn373-5785948",
+      "name": "Amiri sz29-38 25tn373",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tn373-5785948-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tn373-5785948/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tn373-5785948/",
+      "keywords": [
+        "Amiri sz29-38 25tn373",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tn377-5785956",
+      "name": "Amiri sz29-38 25tn377",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tn377-5785956-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tn377-5785956/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tn377-5785956/",
+      "keywords": [
+        "Amiri sz29-38 25tn377",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tn380-5785974",
+      "name": "Amiri sz29-38 25tn380",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tn380-5785974-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tn380-5785974/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tn380-5785974/",
+      "keywords": [
+        "Amiri sz29-38 25tn380",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tr66-5785628",
+      "name": "Amiri sz29-38 25tr66",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tr66-5785628-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tr66-5785628/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tr66-5785628/",
+      "keywords": [
+        "Amiri sz29-38 25tr66",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tr67-5785651",
+      "name": "Amiri sz29-38 25tr67",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tr67-5785651-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tr67-5785651/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tr67-5785651/",
+      "keywords": [
+        "Amiri sz29-38 25tr67",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tx3633-5785997",
+      "name": "Amiri sz29-38 25tx3633",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tx3633-5785997-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tx3633-5785997/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tx3633-5785997/",
+      "keywords": [
+        "Amiri sz29-38 25tx3633",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "amiri-sz29-38-25tx382-5785983",
+      "name": "Amiri sz29-38 25tx382",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/amiri-sz29-38-25tx382-5785983-1.webp",
+      "url": "/catalog/product/amiri-sz29-38-25tx382-5785983/",
+      "canonical": "https://trendholic.github.io/catalog/product/amiri-sz29-38-25tx382-5785983/",
+      "keywords": [
+        "Amiri sz29-38 25tx382",
         "Apparel",
         "New Products"
       ]
@@ -1047,6 +1461,24 @@
       ]
     },
     {
+      "slug": "balenciaga-s-xl-bhtx36-5785924",
+      "name": "Balenciaga S-XL bhtx36",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/balenciaga-s-xl-bhtx36-5785924-1.webp",
+      "url": "/catalog/product/balenciaga-s-xl-bhtx36-5785924/",
+      "canonical": "https://trendholic.github.io/catalog/product/balenciaga-s-xl-bhtx36-5785924/",
+      "keywords": [
+        "Balenciaga S-XL bhtx36",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
       "slug": "balenciaga-sz100-160-5736553",
       "name": "Balenciaga sz100-160",
       "top": "Apparel",
@@ -1096,6 +1528,60 @@
       "canonical": "https://trendholic.github.io/catalog/product/balenciaga-sz110-160-5736834/",
       "keywords": [
         "Balenciaga sz110-160",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "balenciaga-xs-l-bhtx33-5785887",
+      "name": "Balenciaga XS-L bhtx33",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/balenciaga-xs-l-bhtx33-5785887-1.webp",
+      "url": "/catalog/product/balenciaga-xs-l-bhtx33-5785887/",
+      "canonical": "https://trendholic.github.io/catalog/product/balenciaga-xs-l-bhtx33-5785887/",
+      "keywords": [
+        "Balenciaga XS-L bhtx33",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "balenciaga-xs-l-bhtx34-5785899",
+      "name": "Balenciaga XS-L bhtx34",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/balenciaga-xs-l-bhtx34-5785899-1.webp",
+      "url": "/catalog/product/balenciaga-xs-l-bhtx34-5785899/",
+      "canonical": "https://trendholic.github.io/catalog/product/balenciaga-xs-l-bhtx34-5785899/",
+      "keywords": [
+        "Balenciaga XS-L bhtx34",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "balenciaga-xs-l-bhtx35-5785911",
+      "name": "Balenciaga XS-L bhtx35",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/balenciaga-xs-l-bhtx35-5785911-1.webp",
+      "url": "/catalog/product/balenciaga-xs-l-bhtx35-5785911/",
+      "canonical": "https://trendholic.github.io/catalog/product/balenciaga-xs-l-bhtx35-5785911/",
+      "keywords": [
+        "Balenciaga XS-L bhtx35",
         "Apparel",
         "New Products"
       ]
@@ -1204,6 +1690,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/balenciaga-xs-l-xbtx3069-5754909/",
       "keywords": [
         "Balenciaga XS-L xbtx3069",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "bc-s-xl-bhtx01-5785938",
+      "name": "BC S-XL bhtx01",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/bc-s-xl-bhtx01-5785938-1.webp",
+      "url": "/catalog/product/bc-s-xl-bhtx01-5785938/",
+      "canonical": "https://trendholic.github.io/catalog/product/bc-s-xl-bhtx01-5785938/",
+      "keywords": [
+        "BC S-XL bhtx01",
         "Apparel",
         "New Products"
       ]
@@ -2343,6 +2847,60 @@
       ]
     },
     {
+      "slug": "burberry-s-2xl-dgtr58-5785836",
+      "name": "Burberry S-2XL dgtr58",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/burberry-s-2xl-dgtr58-5785836-1.webp",
+      "url": "/catalog/product/burberry-s-2xl-dgtr58-5785836/",
+      "canonical": "https://trendholic.github.io/catalog/product/burberry-s-2xl-dgtr58-5785836/",
+      "keywords": [
+        "Burberry S-2XL dgtr58",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "burberry-s-2xl-dgtr59-5785846",
+      "name": "Burberry S-2XL dgtr59",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/burberry-s-2xl-dgtr59-5785846-1.webp",
+      "url": "/catalog/product/burberry-s-2xl-dgtr59-5785846/",
+      "canonical": "https://trendholic.github.io/catalog/product/burberry-s-2xl-dgtr59-5785846/",
+      "keywords": [
+        "Burberry S-2XL dgtr59",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "burberry-s-2xl-dgtr60-5785861",
+      "name": "Burberry S-2XL dgtr60",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/burberry-s-2xl-dgtr60-5785861-1.webp",
+      "url": "/catalog/product/burberry-s-2xl-dgtr60-5785861/",
+      "canonical": "https://trendholic.github.io/catalog/product/burberry-s-2xl-dgtr60-5785861/",
+      "keywords": [
+        "Burberry S-2XL dgtr60",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
       "slug": "burberry-sz28-38-25tr84-5749795",
       "name": "Burberry sz28-38 25tr84",
       "top": "Apparel",
@@ -2523,6 +3081,24 @@
       ]
     },
     {
+      "slug": "chanel-s-2xl-dgtr07-5785877",
+      "name": "Chanel S-2XL dgtr07",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/chanel-s-2xl-dgtr07-5785877-1.webp",
+      "url": "/catalog/product/chanel-s-2xl-dgtr07-5785877/",
+      "canonical": "https://trendholic.github.io/catalog/product/chanel-s-2xl-dgtr07-5785877/",
+      "keywords": [
+        "Chanel S-2XL dgtr07",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
       "slug": "chanel-s-xl-5763414",
       "name": "Chanel S-XL",
       "top": "Apparel",
@@ -2644,6 +3220,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/denim-tears-sz29-38-13xr01-5729226/",
       "keywords": [
         "Denim Tears sz29-38 13xr01",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "descente-s-2xl-dgtr03-5785964",
+      "name": "Descente S-2XL dgtr03",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/descente-s-2xl-dgtr03-5785964-1.webp",
+      "url": "/catalog/product/descente-s-2xl-dgtr03-5785964/",
+      "canonical": "https://trendholic.github.io/catalog/product/descente-s-2xl-dgtr03-5785964/",
+      "keywords": [
+        "Descente S-2XL dgtr03",
         "Apparel",
         "New Products"
       ]
@@ -6393,6 +6987,24 @@
       ]
     },
     {
+      "slug": "revolve-s-2xl-dgtr03-5785701",
+      "name": "Revolve S-2XL dgtr03",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/revolve-s-2xl-dgtr03-5785701-1.webp",
+      "url": "/catalog/product/revolve-s-2xl-dgtr03-5785701/",
+      "canonical": "https://trendholic.github.io/catalog/product/revolve-s-2xl-dgtr03-5785701/",
+      "keywords": [
+        "Revolve S-2XL dgtr03",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
       "slug": "roberto-cavalli-m-4xl-8qx5835-5753631",
       "name": "Roberto Cavalli M-4XL 8qx5835",
       "top": "Apparel",
@@ -6717,6 +7329,24 @@
       ]
     },
     {
+      "slug": "ysl-s-2xl-dgtr09-5785736",
+      "name": "YSL S-2XL dgtr09",
+      "top": "Apparel",
+      "topSlug": "apparel",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/apparel/images/ysl-s-2xl-dgtr09-5785736-1.webp",
+      "url": "/catalog/product/ysl-s-2xl-dgtr09-5785736/",
+      "canonical": "https://trendholic.github.io/catalog/product/ysl-s-2xl-dgtr09-5785736/",
+      "keywords": [
+        "YSL S-2XL dgtr09",
+        "Apparel",
+        "New Products"
+      ]
+    },
+    {
       "slug": "zegna-m-4xl-8qx5857-5753730",
       "name": "Zegna M-4XL 8qx5857",
       "top": "Apparel",
@@ -6767,6 +7397,24 @@
       "keywords": [
         "Zegna sz30-40 13xr32",
         "Apparel",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "9713-53-23-142-c-4104089",
+      "name": "9713 53 23 142 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/9713-53-23-142-c-4104089-1.webp",
+      "url": "/catalog/product/9713-53-23-142-c-4104089/",
+      "canonical": "https://trendholic.github.io/catalog/product/9713-53-23-142-c-4104089/",
+      "keywords": [
+        "9713 53 23 142 c",
+        "Accessories",
         "New Products"
       ]
     },
@@ -7275,6 +7923,24 @@
       ]
     },
     {
+      "slug": "burberry-be6020-54-19-145-c-4103929",
+      "name": "Burberry BE6020 54 19-145 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/burberry-be6020-54-19-145-c-4103929-1.webp",
+      "url": "/catalog/product/burberry-be6020-54-19-145-c-4103929/",
+      "canonical": "https://trendholic.github.io/catalog/product/burberry-be6020-54-19-145-c-4103929/",
+      "keywords": [
+        "Burberry BE6020 54 19-145 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "burberry-boxer-l-3xl-33-4096225",
       "name": "Burberry boxer L-3XL 33",
       "top": "Accessories",
@@ -7671,6 +8337,24 @@
       ]
     },
     {
+      "slug": "bvlgari-bv52341u-55-23-145-c-4103935",
+      "name": "BVLGARI BV52341U 55 23-145 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/bvlgari-bv52341u-55-23-145-c-4103935-1.webp",
+      "url": "/catalog/product/bvlgari-bv52341u-55-23-145-c-4103935/",
+      "canonical": "https://trendholic.github.io/catalog/product/bvlgari-bv52341u-55-23-145-c-4103935/",
+      "keywords": [
+        "BVLGARI BV52341U 55 23-145 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "bvlgari-bv9035b-62-18-140-b-4099831",
       "name": "BVLGARI BV9035B 62 18-140 b",
       "top": "Accessories",
@@ -7815,6 +8499,24 @@
       ]
     },
     {
+      "slug": "cartier-ct0571-60-18-143-c-4103941",
+      "name": "Cartier CT0571 60 18 143 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/cartier-ct0571-60-18-143-c-4103941-1.webp",
+      "url": "/catalog/product/cartier-ct0571-60-18-143-c-4103941/",
+      "canonical": "https://trendholic.github.io/catalog/product/cartier-ct0571-60-18-143-c-4103941/",
+      "keywords": [
+        "Cartier CT0571 60 18 143 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "cartier-ct0634s-49-18-143-a-4098972",
       "name": "Cartier CT0634S 49 18-143 a",
       "top": "Accessories",
@@ -7864,6 +8566,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/cartier-ct0803o-140-b-4099849/",
       "keywords": [
         "Cartier CT0803O 140 b",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "cartier-ct0803o-55-16-140-c-4103949",
+      "name": "Cartier CT0803O 55 16-140 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/cartier-ct0803o-55-16-140-c-4103949-1.webp",
+      "url": "/catalog/product/cartier-ct0803o-55-16-140-c-4103949/",
+      "canonical": "https://trendholic.github.io/catalog/product/cartier-ct0803o-55-16-140-c-4103949/",
+      "keywords": [
+        "Cartier CT0803O 55 16-140 c",
         "Accessories",
         "New Products"
       ]
@@ -7936,6 +8656,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/celine-cl40353u-4-17-145-b-4099855/",
       "keywords": [
         "Celine CL40353U 4 17-145 B",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "celine-cl42106u-52-22-145-c-4103961",
+      "name": "Celine CL42106U 52 22-145 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/celine-cl42106u-52-22-145-c-4103961-1.webp",
+      "url": "/catalog/product/celine-cl42106u-52-22-145-c-4103961/",
+      "canonical": "https://trendholic.github.io/catalog/product/celine-cl42106u-52-22-145-c-4103961/",
+      "keywords": [
+        "Celine CL42106U 52 22-145 C",
         "Accessories",
         "New Products"
       ]
@@ -8067,6 +8805,24 @@
       ]
     },
     {
+      "slug": "chaenl-ch9164b-52-19-145-c-4103969",
+      "name": "Chaenl CH9164B 52 19 145 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/chaenl-ch9164b-52-19-145-c-4103969-1.webp",
+      "url": "/catalog/product/chaenl-ch9164b-52-19-145-c-4103969/",
+      "canonical": "https://trendholic.github.io/catalog/product/chaenl-ch9164b-52-19-145-c-4103969/",
+      "keywords": [
+        "Chaenl CH9164B 52 19 145 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "chane-ch4296h-57-19-145-b-4099569",
       "name": "CHANE CH4296H 57 19-145 b",
       "top": "Accessories",
@@ -8098,6 +8854,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/chane-ch4296h-57-19-145-b-4099873/",
       "keywords": [
         "CHANE CH4296H 57 19-145 b",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "chane-ch4296h-57-19-145-c-4103973",
+      "name": "CHANE CH4296H 57 19-145 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/chane-ch4296h-57-19-145-c-4103973-1.webp",
+      "url": "/catalog/product/chane-ch4296h-57-19-145-c-4103973/",
+      "canonical": "https://trendholic.github.io/catalog/product/chane-ch4296h-57-19-145-c-4103973/",
+      "keywords": [
+        "CHANE CH4296H 57 19-145 C",
         "Accessories",
         "New Products"
       ]
@@ -8494,6 +9268,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/chanel-ch7294b-52-21-145-b-4099897/",
       "keywords": [
         "Chanel CH7294B 52 21-145 b",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "chanel-ch9164b-52-19-145-c-4103979",
+      "name": "Chanel CH9164B 52 19 145 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/chanel-ch9164b-52-19-145-c-4103979-1.webp",
+      "url": "/catalog/product/chanel-ch9164b-52-19-145-c-4103979/",
+      "canonical": "https://trendholic.github.io/catalog/product/chanel-ch9164b-52-19-145-c-4103979/",
+      "keywords": [
+        "Chanel CH9164B 52 19 145 c",
         "Accessories",
         "New Products"
       ]
@@ -9255,6 +10047,24 @@
       ]
     },
     {
+      "slug": "dior-0731-54-18-140-c-4103987",
+      "name": "Dior 0731 54 18-140 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/dior-0731-54-18-140-c-4103987-1.webp",
+      "url": "/catalog/product/dior-0731-54-18-140-c-4103987/",
+      "canonical": "https://trendholic.github.io/catalog/product/dior-0731-54-18-140-c-4103987/",
+      "keywords": [
+        "Dior 0731 54 18-140 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "dior-boxer-l-3xl-27-4096299",
       "name": "Dior boxer L-3XL 27",
       "top": "Accessories",
@@ -9561,6 +10371,24 @@
       ]
     },
     {
+      "slug": "dita-073101-c-4103994",
+      "name": "DITA 073101 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/dita-073101-c-4103994-1.webp",
+      "url": "/catalog/product/dita-073101-c-4103994/",
+      "canonical": "https://trendholic.github.io/catalog/product/dita-073101-c-4103994/",
+      "keywords": [
+        "DITA 073101 C",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "dita-dts122-52-22-145-a-4099057",
       "name": "DITA DTS122 52 22-145 A",
       "top": "Accessories",
@@ -9579,6 +10407,24 @@
       ]
     },
     {
+      "slug": "dita-dts122-52-22-145-c-4103999",
+      "name": "DITA DTS122 52 22-145 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/dita-dts122-52-22-145-c-4103999-1.webp",
+      "url": "/catalog/product/dita-dts122-52-22-145-c-4103999/",
+      "canonical": "https://trendholic.github.io/catalog/product/dita-dts122-52-22-145-c-4103999/",
+      "keywords": [
+        "DITA DTS122 52 22-145 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "dita-dts122-52-22-145-e-4096680",
       "name": "DITA DTS122 52 22-145 E",
       "top": "Accessories",
@@ -9592,6 +10438,42 @@
       "canonical": "https://trendholic.github.io/catalog/product/dita-dts122-52-22-145-e-4096680/",
       "keywords": [
         "DITA DTS122 52 22-145 E",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dita-dts780-52-22-144-c-4104004",
+      "name": "DITA DTS780 52 22-144 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/dita-dts780-52-22-144-c-4104004-1.webp",
+      "url": "/catalog/product/dita-dts780-52-22-144-c-4104004/",
+      "canonical": "https://trendholic.github.io/catalog/product/dita-dts780-52-22-144-c-4104004/",
+      "keywords": [
+        "DITA DTS780 52 22-144 C",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dita-ts7806-52-22-144-c-4104017",
+      "name": "DITA TS7806 52 22-144 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/dita-ts7806-52-22-144-c-4104017-1.webp",
+      "url": "/catalog/product/dita-ts7806-52-22-144-c-4104017/",
+      "canonical": "https://trendholic.github.io/catalog/product/dita-ts7806-52-22-144-c-4104017/",
+      "keywords": [
+        "DITA TS7806 52 22-144 C",
         "Accessories",
         "New Products"
       ]
@@ -9741,6 +10623,24 @@
       ]
     },
     {
+      "slug": "fred-fg40040u-58-17-145-c-4104041",
+      "name": "FRED FG40040U 58 17-145 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/fred-fg40040u-58-17-145-c-4104041-1.webp",
+      "url": "/catalog/product/fred-fg40040u-58-17-145-c-4104041/",
+      "canonical": "https://trendholic.github.io/catalog/product/fred-fg40040u-58-17-145-c-4104041/",
+      "keywords": [
+        "FRED FG40040U 58 17-145 C",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "fred-fg40040u-58-17-145-g-4096688",
       "name": "FRED FG40040U 58 17-145 G",
       "top": "Accessories",
@@ -9754,6 +10654,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/fred-fg40040u-58-17-145-g-4096688/",
       "keywords": [
         "FRED FG40040U 58 17-145 G",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fred-fg57165u-58-18-145-c-4104053",
+      "name": "FRED FG57165U 58 18-145 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/fred-fg57165u-58-18-145-c-4104053-1.webp",
+      "url": "/catalog/product/fred-fg57165u-58-18-145-c-4104053/",
+      "canonical": "https://trendholic.github.io/catalog/product/fred-fg57165u-58-18-145-c-4104053/",
+      "keywords": [
+        "FRED FG57165U 58 18-145 c",
         "Accessories",
         "New Products"
       ]
@@ -9790,6 +10708,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/fred-fg57166u-54-17-145-e-4096706/",
       "keywords": [
         "FRED FG57166U 54 17-145 e",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "fred-g57166u-54-17-145-c-4104059",
+      "name": "FRED G57166U 54 17-145 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/fred-g57166u-54-17-145-c-4104059-1.webp",
+      "url": "/catalog/product/fred-g57166u-54-17-145-c-4104059/",
+      "canonical": "https://trendholic.github.io/catalog/product/fred-g57166u-54-17-145-c-4104059/",
+      "keywords": [
+        "FRED G57166U 54 17-145 c",
         "Accessories",
         "New Products"
       ]
@@ -10006,6 +10942,78 @@
       "canonical": "https://trendholic.github.io/catalog/product/gucci-gg2065s-51-23-145-e-4096624/",
       "keywords": [
         "Gucci GG2065S 51 23-145 e",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "gucci-gg2388s-55-17-140-c-4104065",
+      "name": "Gucci GG2388S 55 17-140 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/gucci-gg2388s-55-17-140-c-4104065-1.webp",
+      "url": "/catalog/product/gucci-gg2388s-55-17-140-c-4104065/",
+      "canonical": "https://trendholic.github.io/catalog/product/gucci-gg2388s-55-17-140-c-4104065/",
+      "keywords": [
+        "Gucci GG2388S 55 17-140 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "gucci-gg2389s-56-21-130-c-4104071",
+      "name": "Gucci GG2389S 56 21-130 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/gucci-gg2389s-56-21-130-c-4104071-1.webp",
+      "url": "/catalog/product/gucci-gg2389s-56-21-130-c-4104071/",
+      "canonical": "https://trendholic.github.io/catalog/product/gucci-gg2389s-56-21-130-c-4104071/",
+      "keywords": [
+        "Gucci GG2389S 56 21-130 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "gucci-gg7200-55-18-141-c-4104077",
+      "name": "Gucci GG7200 55 18-141 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/gucci-gg7200-55-18-141-c-4104077-1.webp",
+      "url": "/catalog/product/gucci-gg7200-55-18-141-c-4104077/",
+      "canonical": "https://trendholic.github.io/catalog/product/gucci-gg7200-55-18-141-c-4104077/",
+      "keywords": [
+        "Gucci GG7200 55 18-141 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "gucci-gg7232-60-15-145-c-4104083",
+      "name": "Gucci GG7232 60 15-145 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/gucci-gg7232-60-15-145-c-4104083-1.webp",
+      "url": "/catalog/product/gucci-gg7232-60-15-145-c-4104083/",
+      "canonical": "https://trendholic.github.io/catalog/product/gucci-gg7232-60-15-145-c-4104083/",
+      "keywords": [
+        "Gucci GG7232 60 15-145 c",
         "Accessories",
         "New Products"
       ]
@@ -10317,6 +11325,114 @@
       ]
     },
     {
+      "slug": "jacques-marie-mag-073101-4104096",
+      "name": "JACQUES MARIE MAG 073101",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/jacques-marie-mag-073101-4104096-1.webp",
+      "url": "/catalog/product/jacques-marie-mag-073101-4104096/",
+      "canonical": "https://trendholic.github.io/catalog/product/jacques-marie-mag-073101-4104096/",
+      "keywords": [
+        "JACQUES MARIE MAG 073101",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "jacques-marie-mag-hartigan-45-24-c-4104102",
+      "name": "JACQUES MARIE MAG HARTIGAN 45 24 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/jacques-marie-mag-hartigan-45-24-c-4104102-1.webp",
+      "url": "/catalog/product/jacques-marie-mag-hartigan-45-24-c-4104102/",
+      "canonical": "https://trendholic.github.io/catalog/product/jacques-marie-mag-hartigan-45-24-c-4104102/",
+      "keywords": [
+        "JACQUES MARIE MAG HARTIGAN 45 24 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "jacques-marie-mag-jmmrz14p-54-20-145-c-4104115",
+      "name": "JACQUES MARIE MAG JMMRZ14P 54 20-145 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/jacques-marie-mag-jmmrz14p-54-20-145-c-4104115-1.webp",
+      "url": "/catalog/product/jacques-marie-mag-jmmrz14p-54-20-145-c-4104115/",
+      "canonical": "https://trendholic.github.io/catalog/product/jacques-marie-mag-jmmrz14p-54-20-145-c-4104115/",
+      "keywords": [
+        "JACQUES MARIE MAG JMMRZ14P 54 20-145 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "jacques-marie-mag-mu04z-50-18-140-c-4104122",
+      "name": "JACQUES MARIE MAG MU04Z 50 18-140 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/jacques-marie-mag-mu04z-50-18-140-c-4104122-1.webp",
+      "url": "/catalog/product/jacques-marie-mag-mu04z-50-18-140-c-4104122/",
+      "canonical": "https://trendholic.github.io/catalog/product/jacques-marie-mag-mu04z-50-18-140-c-4104122/",
+      "keywords": [
+        "JACQUES MARIE MAG MU04Z 50 18-140 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "jd-c460-51-21-145-c-4104142",
+      "name": "JD C460 51 21-145 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/jd-c460-51-21-145-c-4104142-1.webp",
+      "url": "/catalog/product/jd-c460-51-21-145-c-4104142/",
+      "canonical": "https://trendholic.github.io/catalog/product/jd-c460-51-21-145-c-4104142/",
+      "keywords": [
+        "JD C460 51 21-145 C",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "jd-c461-51-21-145-c-4104147",
+      "name": "JD C461 51 21-145 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/jd-c461-51-21-145-c-4104147-1.webp",
+      "url": "/catalog/product/jd-c461-51-21-145-c-4104147/",
+      "canonical": "https://trendholic.github.io/catalog/product/jd-c461-51-21-145-c-4104147/",
+      "keywords": [
+        "JD C461 51 21-145 C",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "jean-paul-gaultier-100ml-4098398",
       "name": "Jean Paul Gaultier 100ml",
       "top": "Accessories",
@@ -10438,6 +11554,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/kenzo-boxer-m-xl-20-4096373/",
       "keywords": [
         "Kenzo boxer M-XL 20",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "kub-raum-maske-50-22-145-c-4104156",
+      "name": "KUB RAUM Maske 50 22-145 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/kub-raum-maske-50-22-145-c-4104156-1.webp",
+      "url": "/catalog/product/kub-raum-maske-50-22-145-c-4104156/",
+      "canonical": "https://trendholic.github.io/catalog/product/kub-raum-maske-50-22-145-c-4104156/",
+      "keywords": [
+        "KUB RAUM Maske 50 22-145 c",
         "Accessories",
         "New Products"
       ]
@@ -11217,6 +12351,24 @@
       ]
     },
     {
+      "slug": "miumiu-b53s-144-0-125-c-4104162",
+      "name": "MiuMiu B53S 144 0-125 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/miumiu-b53s-144-0-125-c-4104162-1.webp",
+      "url": "/catalog/product/miumiu-b53s-144-0-125-c-4104162/",
+      "canonical": "https://trendholic.github.io/catalog/product/miumiu-b53s-144-0-125-c-4104162/",
+      "keywords": [
+        "MiuMiu B53S 144 0-125 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "miumiu-beret-dx-4102835",
       "name": "Miumiu beret dx",
       "top": "Accessories",
@@ -11325,6 +12477,42 @@
       ]
     },
     {
+      "slug": "miumiu-lsmu04z-50-18-140-c-4104170",
+      "name": "MiuMiu LSMU04Z 50 18-140 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/miumiu-lsmu04z-50-18-140-c-4104170-1.webp",
+      "url": "/catalog/product/miumiu-lsmu04z-50-18-140-c-4104170/",
+      "canonical": "https://trendholic.github.io/catalog/product/miumiu-lsmu04z-50-18-140-c-4104170/",
+      "keywords": [
+        "MiuMiu LSMU04Z 50 18-140 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "miumiu-mu04z-50-18-140-c-4104179",
+      "name": "MiuMiu MU04Z 50 18-140 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/miumiu-mu04z-50-18-140-c-4104179-1.webp",
+      "url": "/catalog/product/miumiu-mu04z-50-18-140-c-4104179/",
+      "canonical": "https://trendholic.github.io/catalog/product/miumiu-mu04z-50-18-140-c-4104179/",
+      "keywords": [
+        "MiuMiu MU04Z 50 18-140 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "miumiu-mu176av-64-16-138-b-4099701",
       "name": "MiuMiu MU176AV 64 16-138 b",
       "top": "Accessories",
@@ -11415,6 +12603,24 @@
       ]
     },
     {
+      "slug": "moncler-gloves-dx-4103879",
+      "name": "Moncler Gloves dx",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/moncler-gloves-dx-4103879-1.webp",
+      "url": "/catalog/product/moncler-gloves-dx-4103879/",
+      "canonical": "https://trendholic.github.io/catalog/product/moncler-gloves-dx-4103879/",
+      "keywords": [
+        "Moncler Gloves dx",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "moschino-umbrella-4098154",
       "name": "Moschino Umbrella",
       "top": "Accessories",
@@ -11482,6 +12688,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/oakley-072-e-4096640/",
       "keywords": [
         "Oakley 072 e",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "off-oer108r-50-20-145-c-4104185",
+      "name": "OFF OER108R 50 20-145 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/off-oer108r-50-20-145-c-4104185-1.webp",
+      "url": "/catalog/product/off-oer108r-50-20-145-c-4104185/",
+      "canonical": "https://trendholic.github.io/catalog/product/off-oer108r-50-20-145-c-4104185/",
+      "keywords": [
+        "OFF OER108R 50 20-145 C",
         "Accessories",
         "New Products"
       ]
@@ -11631,6 +12855,24 @@
       ]
     },
     {
+      "slug": "prada-gloves-dx-4103893",
+      "name": "Prada Gloves dx",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/prada-gloves-dx-4103893-1.webp",
+      "url": "/catalog/product/prada-gloves-dx-4103893/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-gloves-dx-4103893/",
+      "keywords": [
+        "Prada Gloves dx",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "prada-hat-dx-4102768",
       "name": "Prada hat dx",
       "top": "Accessories",
@@ -11680,6 +12922,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/prada-prd55s-55-19-145-b-4099727/",
       "keywords": [
         "Prada PRD55S 55 19-145 b",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "prada-spr06y-53-21-145-c-4104189",
+      "name": "Prada  SPR06Y 53-21-145 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/prada-spr06y-53-21-145-c-4104189-1.webp",
+      "url": "/catalog/product/prada-spr06y-53-21-145-c-4104189/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-spr06y-53-21-145-c-4104189/",
+      "keywords": [
+        "Prada  SPR06Y 53-21-145 c",
         "Accessories",
         "New Products"
       ]
@@ -11775,6 +13035,42 @@
       ]
     },
     {
+      "slug": "tf-1044-60-12-140-c-4104197",
+      "name": "TF 1044 60-12-140 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/tf-1044-60-12-140-c-4104197-1.webp",
+      "url": "/catalog/product/tf-1044-60-12-140-c-4104197/",
+      "canonical": "https://trendholic.github.io/catalog/product/tf-1044-60-12-140-c-4104197/",
+      "keywords": [
+        "TF 1044 60-12-140 C",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "tf-ft1208-61-12-140-c-4104213",
+      "name": "TF FT1208 61-12-140 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/tf-ft1208-61-12-140-c-4104213-1.webp",
+      "url": "/catalog/product/tf-ft1208-61-12-140-c-4104213/",
+      "canonical": "https://trendholic.github.io/catalog/product/tf-ft1208-61-12-140-c-4104213/",
+      "keywords": [
+        "TF FT1208 61-12-140 C",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "tf-ft1293-54-20-140-b-4099733",
       "name": "TF FT1293 54 20-140 B",
       "top": "Accessories",
@@ -11806,6 +13102,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/tf-tf0975-52-23-145-a-4098751/",
       "keywords": [
         "TF TF0975 52 23-145 A",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "tf-tf1204-63-11-140-c-4104247",
+      "name": "TF TF1204 63-11-140 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/tf-tf1204-63-11-140-c-4104247-1.webp",
+      "url": "/catalog/product/tf-tf1204-63-11-140-c-4104247/",
+      "canonical": "https://trendholic.github.io/catalog/product/tf-tf1204-63-11-140-c-4104247/",
+      "keywords": [
+        "TF TF1204 63-11-140 C",
         "Accessories",
         "New Products"
       ]
@@ -11955,6 +13269,42 @@
       ]
     },
     {
+      "slug": "versace-ve44780u-52-19-148-c-4104261",
+      "name": "Versace VE44780U 52 19-148 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/versace-ve44780u-52-19-148-c-4104261-1.webp",
+      "url": "/catalog/product/versace-ve44780u-52-19-148-c-4104261/",
+      "canonical": "https://trendholic.github.io/catalog/product/versace-ve44780u-52-19-148-c-4104261/",
+      "keywords": [
+        "Versace VE44780U 52 19-148 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "versace-ve6787-54-20-148-c-4104255",
+      "name": "Versace VE6787 54 20-148 c",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/versace-ve6787-54-20-148-c-4104255-1.webp",
+      "url": "/catalog/product/versace-ve6787-54-20-148-c-4104255/",
+      "canonical": "https://trendholic.github.io/catalog/product/versace-ve6787-54-20-148-c-4104255/",
+      "keywords": [
+        "Versace VE6787 54 20-148 c",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "versace-woman-boxer-04-4096392",
       "name": "Versace woman boxer 04",
       "top": "Accessories",
@@ -11991,6 +13341,24 @@
       ]
     },
     {
+      "slug": "vivienne-westwood-gloves-dx-4103922",
+      "name": "Vivienne Westwood Gloves dx",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/vivienne-westwood-gloves-dx-4103922-1.webp",
+      "url": "/catalog/product/vivienne-westwood-gloves-dx-4103922/",
+      "canonical": "https://trendholic.github.io/catalog/product/vivienne-westwood-gloves-dx-4103922/",
+      "keywords": [
+        "Vivienne Westwood Gloves dx",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
       "slug": "wsxc-4099688",
       "name": "wsxc",
       "top": "Accessories",
@@ -12004,6 +13372,42 @@
       "canonical": "https://trendholic.github.io/catalog/product/wsxc-4099688/",
       "keywords": [
         "wsxc",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "ysl-2165-54-20-145-c-4104275",
+      "name": "YSL 2165 54 20-145 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/ysl-2165-54-20-145-c-4104275-1.webp",
+      "url": "/catalog/product/ysl-2165-54-20-145-c-4104275/",
+      "canonical": "https://trendholic.github.io/catalog/product/ysl-2165-54-20-145-c-4104275/",
+      "keywords": [
+        "YSL 2165 54 20-145 C",
+        "Accessories",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "ysl-545-58-16-145-c-4104267",
+      "name": "YSL 545 58 16-145 C",
+      "top": "Accessories",
+      "topSlug": "accessories",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/accessories/images/ysl-545-58-16-145-c-4104267-1.webp",
+      "url": "/catalog/product/ysl-545-58-16-145-c-4104267/",
+      "canonical": "https://trendholic.github.io/catalog/product/ysl-545-58-16-145-c-4104267/",
+      "keywords": [
+        "YSL 545 58 16-145 C",
         "Accessories",
         "New Products"
       ]
@@ -12819,6 +14223,24 @@
       ]
     },
     {
+      "slug": "prada-1ba486-23-5x12x9cm-ap-2020574",
+      "name": "Prada 1BA486 23 5x12x9cm AP",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-1ba486-23-5x12x9cm-ap-2020572-1.webp",
+      "url": "/catalog/product/prada-1ba486-23-5x12x9cm-ap-2020574/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-1ba486-23-5x12x9cm-ap-2020574/",
+      "keywords": [
+        "Prada 1BA486 23 5x12x9cm AP",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
       "slug": "prada-1ba916-21x12-5x8-5cm-ap-2020582",
       "name": "Prada 1BA916 21x12 5x8 5cm AP",
       "top": "Bags",
@@ -13125,6 +14547,24 @@
       ]
     },
     {
+      "slug": "prada-2636-23x13x11cm-ss-2020962",
+      "name": "Prada 2636 23x13x11cm ss",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/prada-2636-23x13x11cm-ss-2020962-1.webp",
+      "url": "/catalog/product/prada-2636-23x13x11cm-ss-2020962/",
+      "canonical": "https://trendholic.github.io/catalog/product/prada-2636-23x13x11cm-ss-2020962/",
+      "keywords": [
+        "Prada 2636 23x13x11cm ss",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
       "slug": "prada-2na068-22x14x6-5cm-ap-2019614",
       "name": "Prada 2NA068 22x14x6 5cm AP",
       "top": "Bags",
@@ -13359,6 +14799,42 @@
       ]
     },
     {
+      "slug": "rosalie-m28987-11x8x2-5cm-gf-2020953",
+      "name": "Rosalie M28987 11x8x2 5cm gf",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/rosalie-m28987-11x8x2-5cm-gf-2020953-1.webp",
+      "url": "/catalog/product/rosalie-m28987-11x8x2-5cm-gf-2020953/",
+      "canonical": "https://trendholic.github.io/catalog/product/rosalie-m28987-11x8x2-5cm-gf-2020953/",
+      "keywords": [
+        "Rosalie M28987 11x8x2 5cm gf",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "sarah-m29465-19x10-5x2cm-gf-2020956",
+      "name": "Sarah m29465 19x10 5x2cm gf",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/sarah-m29465-19x10-5x2cm-gf-2020956-1.webp",
+      "url": "/catalog/product/sarah-m29465-19x10-5x2cm-gf-2020956/",
+      "canonical": "https://trendholic.github.io/catalog/product/sarah-m29465-19x10-5x2cm-gf-2020956/",
+      "keywords": [
+        "Sarah m29465 19x10 5x2cm gf",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
       "slug": "side-trunk-m28569-23-5x16x8-5cm-gf-2019692",
       "name": "Side Trunk M28569 23 5x16x8 5cm gf",
       "top": "Bags",
@@ -13408,6 +14884,42 @@
       "canonical": "https://trendholic.github.io/catalog/product/slim-trunk-m29088-23x12x4cm-gf-2019682/",
       "keywords": [
         "Slim Trunk m29088 23x12x4cm gf",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "speedy-m13259-25x19x15cm-ss-2020964",
+      "name": "Speedy M13259 25x19x15cm ss",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/speedy-m13259-25x19x15cm-ss-2020964-1.webp",
+      "url": "/catalog/product/speedy-m13259-25x19x15cm-ss-2020964/",
+      "canonical": "https://trendholic.github.io/catalog/product/speedy-m13259-25x19x15cm-ss-2020964/",
+      "keywords": [
+        "Speedy M13259 25x19x15cm ss",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "speedy-m19282-30x21x17cm-ss-2020966",
+      "name": "Speedy M19282 30x21x17cm ss",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/speedy-m19282-30x21x17cm-ss-2020966-1.webp",
+      "url": "/catalog/product/speedy-m19282-30x21x17cm-ss-2020966/",
+      "canonical": "https://trendholic.github.io/catalog/product/speedy-m19282-30x21x17cm-ss-2020966/",
+      "keywords": [
+        "Speedy M19282 30x21x17cm ss",
         "Bags",
         "New Products"
       ]
@@ -13881,6 +15393,24 @@
       ]
     },
     {
+      "slug": "zippy-m28969-19-5x10-5x2-5cm-gf-2020959",
+      "name": "Zippy m28969 19 5x10 5x2 5cm gf",
+      "top": "Bags",
+      "topSlug": "bags",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/bags/images/zippy-m28969-19-5x10-5x2-5cm-gf-2020959-1.webp",
+      "url": "/catalog/product/zippy-m28969-19-5x10-5x2-5cm-gf-2020959/",
+      "canonical": "https://trendholic.github.io/catalog/product/zippy-m28969-19-5x10-5x2-5cm-gf-2020959/",
+      "keywords": [
+        "Zippy m28969 19 5x10 5x2 5cm gf",
+        "Bags",
+        "New Products"
+      ]
+    },
+    {
       "slug": "alala-sz35-41-mns0601-2991600",
       "name": "Alala sz35-41 mns0601",
       "top": "Shoes",
@@ -14074,6 +15604,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/balenciaga-sz35-40-gdt0702-2992994/",
       "keywords": [
         "Balenciaga sz35-40 GDT0702",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "boss-sz38-45-mns0702-2996640",
+      "name": "Boss sz38-45 mns0702",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/boss-sz38-45-mns0702-2996640-1.webp",
+      "url": "/catalog/product/boss-sz38-45-mns0702-2996640/",
+      "canonical": "https://trendholic.github.io/catalog/product/boss-sz38-45-mns0702-2996640/",
+      "keywords": [
+        "Boss sz38-45 mns0702",
         "Shoes",
         "New Products"
       ]
@@ -14403,6 +15951,24 @@
       ]
     },
     {
+      "slug": "chanel-sz35-39-mns0701-2996734",
+      "name": "Chanel sz35-39 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/chanel-sz35-39-mns0701-2996734-1.webp",
+      "url": "/catalog/product/chanel-sz35-39-mns0701-2996734/",
+      "canonical": "https://trendholic.github.io/catalog/product/chanel-sz35-39-mns0701-2996734/",
+      "keywords": [
+        "Chanel sz35-39 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "chanel-sz35-40-gdt-2995551",
       "name": "Chanel sz35-40 GDT",
       "top": "Shoes",
@@ -14524,6 +16090,24 @@
       "canonical": "https://trendholic.github.io/catalog/product/chanel-sz35-41-mns0604-2991725/",
       "keywords": [
         "Chanel sz35-41 mns0604",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "cl-sz38-46-mns0712-2996644",
+      "name": "CL sz38-46 mns0712",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/cl-sz38-46-mns0712-2996644-1.webp",
+      "url": "/catalog/product/cl-sz38-46-mns0712-2996644/",
+      "canonical": "https://trendholic.github.io/catalog/product/cl-sz38-46-mns0712-2996644/",
+      "keywords": [
+        "CL sz38-46 mns0712",
         "Shoes",
         "New Products"
       ]
@@ -14740,6 +16324,42 @@
       "canonical": "https://trendholic.github.io/catalog/product/dior-colour-sz35-40-xj1101-2989803/",
       "keywords": [
         "Dior colour sz35-40 XJ1101",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dior-sz34-43-7-5cm-mns0703-2996877",
+      "name": "Dior sz34-43 7.5cm mns0703",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/dior-sz34-43-7-5cm-mns0703-2996877-1.webp",
+      "url": "/catalog/product/dior-sz34-43-7-5cm-mns0703-2996877/",
+      "canonical": "https://trendholic.github.io/catalog/product/dior-sz34-43-7-5cm-mns0703-2996877/",
+      "keywords": [
+        "Dior sz34-43 7.5cm mns0703",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dior-sz35-39-4-5cm-mns0704-2996875",
+      "name": "Dior sz35-39 4.5cm mns0704",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/dior-sz35-39-4-5cm-mns0704-2996875-1.webp",
+      "url": "/catalog/product/dior-sz35-39-4-5cm-mns0704-2996875/",
+      "canonical": "https://trendholic.github.io/catalog/product/dior-sz35-39-4-5cm-mns0704-2996875/",
+      "keywords": [
+        "Dior sz35-39 4.5cm mns0704",
         "Shoes",
         "New Products"
       ]
@@ -15172,6 +16792,114 @@
       "canonical": "https://trendholic.github.io/catalog/product/dior-sz38-45-mns0602-2991644/",
       "keywords": [
         "Dior sz38-45 mns0602",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dior-sz39-44-mns0701-2996631",
+      "name": "Dior sz39-44 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/dior-sz39-44-mns0701-2996631-1.webp",
+      "url": "/catalog/product/dior-sz39-44-mns0701-2996631/",
+      "canonical": "https://trendholic.github.io/catalog/product/dior-sz39-44-mns0701-2996631/",
+      "keywords": [
+        "Dior sz39-44 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dymalnotpy-sz35-39-mns0701-2996770",
+      "name": "Dymalnotpy sz35-39 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/dymalnotpy-sz35-39-mns0701-2996770-1.webp",
+      "url": "/catalog/product/dymalnotpy-sz35-39-mns0701-2996770/",
+      "canonical": "https://trendholic.github.io/catalog/product/dymalnotpy-sz35-39-mns0701-2996770/",
+      "keywords": [
+        "Dymalnotpy sz35-39 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dymonlatry-sz35-39-39-44-mns0701-2996971",
+      "name": "Dymonlatry sz35-39 39-44 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/dymonlatry-sz35-39-39-44-mns0701-2996971-1.webp",
+      "url": "/catalog/product/dymonlatry-sz35-39-39-44-mns0701-2996971/",
+      "canonical": "https://trendholic.github.io/catalog/product/dymonlatry-sz35-39-39-44-mns0701-2996971/",
+      "keywords": [
+        "Dymonlatry sz35-39 39-44 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dymonlatry-sz35-39-mns0701-2996752",
+      "name": "Dymonlatry sz35-39 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/dymonlatry-sz35-39-mns0701-2996752-1.webp",
+      "url": "/catalog/product/dymonlatry-sz35-39-mns0701-2996752/",
+      "canonical": "https://trendholic.github.io/catalog/product/dymonlatry-sz35-39-mns0701-2996752/",
+      "keywords": [
+        "Dymonlatry sz35-39 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dymonlatry-sz35-41-mns0701-2996725",
+      "name": "Dymonlatry sz35-41 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/dymonlatry-sz35-41-mns0701-2996725-1.webp",
+      "url": "/catalog/product/dymonlatry-sz35-41-mns0701-2996725/",
+      "canonical": "https://trendholic.github.io/catalog/product/dymonlatry-sz35-41-mns0701-2996725/",
+      "keywords": [
+        "Dymonlatry sz35-41 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "dymonlatry-sz35-41-mns0702-2996761",
+      "name": "Dymonlatry sz35-41 mns0702",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/dymonlatry-sz35-41-mns0702-2996761-1.webp",
+      "url": "/catalog/product/dymonlatry-sz35-41-mns0702-2996761/",
+      "canonical": "https://trendholic.github.io/catalog/product/dymonlatry-sz35-41-mns0702-2996761/",
+      "keywords": [
+        "Dymonlatry sz35-41 mns0702",
         "Shoes",
         "New Products"
       ]
@@ -16473,6 +18201,24 @@
       ]
     },
     {
+      "slug": "gucci-sz38-45-mns0701-2996653",
+      "name": "Gucci sz38-45 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/gucci-sz38-45-mns0701-2996653-1.webp",
+      "url": "/catalog/product/gucci-sz38-45-mns0701-2996653/",
+      "canonical": "https://trendholic.github.io/catalog/product/gucci-sz38-45-mns0701-2996653/",
+      "keywords": [
+        "Gucci sz38-45 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "gucci-sz38-47-mns0607-2991872",
       "name": "Gucci sz38-47 mns0607",
       "top": "Shoes",
@@ -16491,6 +18237,78 @@
       ]
     },
     {
+      "slug": "hermes-sz34-46-mns0701-2996967",
+      "name": "Hermes sz34-46 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz34-46-mns0701-2996967-1.webp",
+      "url": "/catalog/product/hermes-sz34-46-mns0701-2996967/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz34-46-mns0701-2996967/",
+      "keywords": [
+        "Hermes sz34-46 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz34-46-mns0702-2996966",
+      "name": "Hermes sz34-46 mns0702",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz34-46-mns0702-2996966-1.webp",
+      "url": "/catalog/product/hermes-sz34-46-mns0702-2996966/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz34-46-mns0702-2996966/",
+      "keywords": [
+        "Hermes sz34-46 mns0702",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-4-5cm-mns0736-2996879",
+      "name": "Hermes sz35-39 4.5cm mns0736",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-4-5cm-mns0736-2996879-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-4-5cm-mns0736-2996879/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-4-5cm-mns0736-2996879/",
+      "keywords": [
+        "Hermes sz35-39 4.5cm mns0736",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-8-5cm-mns0737-2996881",
+      "name": "Hermes sz35-39 8.5cm mns0737",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-8-5cm-mns0737-2996881-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-8-5cm-mns0737-2996881/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-8-5cm-mns0737-2996881/",
+      "keywords": [
+        "Hermes sz35-39 8.5cm mns0737",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "hermes-sz35-39-mns0702-2995813",
       "name": "Hermes sz35-39 mns0702",
       "top": "Shoes",
@@ -16502,6 +18320,24 @@
       "image": "/data/shoes/images/hermes-sz35-39-mns0702-2995813-1.webp",
       "url": "/catalog/product/hermes-sz35-39-mns0702-2995813/",
       "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0702-2995813/",
+      "keywords": [
+        "Hermes sz35-39 mns0702",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-mns0702-2996815",
+      "name": "Hermes sz35-39 mns0702",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0702-2995813-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0702-2996815/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0702-2996815/",
       "keywords": [
         "Hermes sz35-39 mns0702",
         "Shoes",
@@ -16527,6 +18363,24 @@
       ]
     },
     {
+      "slug": "hermes-sz35-39-mns0703-2996716",
+      "name": "Hermes sz35-39 mns0703",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0703-2996716-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0703-2996716/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0703-2996716/",
+      "keywords": [
+        "Hermes sz35-39 mns0703",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "hermes-sz35-39-mns0704-2995831",
       "name": "Hermes sz35-39 mns0704",
       "top": "Shoes",
@@ -16538,6 +18392,24 @@
       "image": "/data/shoes/images/hermes-sz35-39-mns0704-2995831-1.webp",
       "url": "/catalog/product/hermes-sz35-39-mns0704-2995831/",
       "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0704-2995831/",
+      "keywords": [
+        "Hermes sz35-39 mns0704",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-mns0704-2996811",
+      "name": "Hermes sz35-39 mns0704",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0704-2995831-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0704-2996811/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0704-2996811/",
       "keywords": [
         "Hermes sz35-39 mns0704",
         "Shoes",
@@ -16563,6 +18435,24 @@
       ]
     },
     {
+      "slug": "hermes-sz35-39-mns0705-2996809",
+      "name": "Hermes sz35-39 mns0705",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0705-2995840-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0705-2996809/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0705-2996809/",
+      "keywords": [
+        "Hermes sz35-39 mns0705",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "hermes-sz35-39-mns0706-2995849",
       "name": "Hermes sz35-39 mns0706",
       "top": "Shoes",
@@ -16574,6 +18464,24 @@
       "image": "/data/shoes/images/hermes-sz35-39-mns0706-2995849-1.webp",
       "url": "/catalog/product/hermes-sz35-39-mns0706-2995849/",
       "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0706-2995849/",
+      "keywords": [
+        "Hermes sz35-39 mns0706",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-mns0706-2996807",
+      "name": "Hermes sz35-39 mns0706",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0706-2995849-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0706-2996807/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0706-2996807/",
       "keywords": [
         "Hermes sz35-39 mns0706",
         "Shoes",
@@ -16599,6 +18507,24 @@
       ]
     },
     {
+      "slug": "hermes-sz35-39-mns0707-2996805",
+      "name": "Hermes sz35-39 mns0707",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0707-2995858-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0707-2996805/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0707-2996805/",
+      "keywords": [
+        "Hermes sz35-39 mns0707",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "hermes-sz35-39-mns0708-2995867",
       "name": "Hermes sz35-39 mns0708",
       "top": "Shoes",
@@ -16610,6 +18536,24 @@
       "image": "/data/shoes/images/hermes-sz35-39-mns0708-2995867-1.webp",
       "url": "/catalog/product/hermes-sz35-39-mns0708-2995867/",
       "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0708-2995867/",
+      "keywords": [
+        "Hermes sz35-39 mns0708",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-mns0708-2996803",
+      "name": "Hermes sz35-39 mns0708",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0708-2996803-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0708-2996803/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0708-2996803/",
       "keywords": [
         "Hermes sz35-39 mns0708",
         "Shoes",
@@ -16635,6 +18579,24 @@
       ]
     },
     {
+      "slug": "hermes-sz35-39-mns0709-2996801",
+      "name": "Hermes sz35-39 mns0709",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0709-2996801-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0709-2996801/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0709-2996801/",
+      "keywords": [
+        "Hermes sz35-39 mns0709",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "hermes-sz35-39-mns0710-2995885",
       "name": "Hermes sz35-39 mns0710",
       "top": "Shoes",
@@ -16646,6 +18608,24 @@
       "image": "/data/shoes/images/hermes-sz35-39-mns0710-2995885-1.webp",
       "url": "/catalog/product/hermes-sz35-39-mns0710-2995885/",
       "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0710-2995885/",
+      "keywords": [
+        "Hermes sz35-39 mns0710",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-mns0710-2996799",
+      "name": "Hermes sz35-39 mns0710",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0710-2995885-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0710-2996799/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0710-2996799/",
       "keywords": [
         "Hermes sz35-39 mns0710",
         "Shoes",
@@ -16671,6 +18651,168 @@
       ]
     },
     {
+      "slug": "hermes-sz35-39-mns0711-2996797",
+      "name": "Hermes sz35-39 mns0711",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0711-2995894-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0711-2996797/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0711-2996797/",
+      "keywords": [
+        "Hermes sz35-39 mns0711",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-mns0731-2996883",
+      "name": "Hermes sz35-39 mns0731",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0731-2996883-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0731-2996883/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0731-2996883/",
+      "keywords": [
+        "Hermes sz35-39 mns0731",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-mns0732-2996885",
+      "name": "Hermes sz35-39 mns0732",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0732-2996885-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0732-2996885/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0732-2996885/",
+      "keywords": [
+        "Hermes sz35-39 mns0732",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-mns0733-2996887",
+      "name": "Hermes sz35-39 mns0733",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0733-2996887-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0733-2996887/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0733-2996887/",
+      "keywords": [
+        "Hermes sz35-39 mns0733",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-mns0734-2996889",
+      "name": "Hermes sz35-39 mns0734",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0734-2996889-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0734-2996889/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0734-2996889/",
+      "keywords": [
+        "Hermes sz35-39 mns0734",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-mns0735-2996891",
+      "name": "Hermes sz35-39 mns0735",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0735-2996891-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0735-2996891/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0735-2996891/",
+      "keywords": [
+        "Hermes sz35-39 mns0735",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-mns0738-2996893",
+      "name": "Hermes sz35-39 mns0738",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0738-2996893-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0738-2996893/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0738-2996893/",
+      "keywords": [
+        "Hermes sz35-39 mns0738",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-39-mns0739-2996895",
+      "name": "Hermes sz35-39 mns0739",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-39-mns0739-2996895-1.webp",
+      "url": "/catalog/product/hermes-sz35-39-mns0739-2996895/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-39-mns0739-2996895/",
+      "keywords": [
+        "Hermes sz35-39 mns0739",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-40-39-44-mns0702-2996957",
+      "name": "Hermes sz35-40 39-44 mns0702",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-40-39-44-mns0702-2996957-1.webp",
+      "url": "/catalog/product/hermes-sz35-40-39-44-mns0702-2996957/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-40-39-44-mns0702-2996957/",
+      "keywords": [
+        "Hermes sz35-40 39-44 mns0702",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "hermes-sz35-40-mns0601-2991881",
       "name": "Hermes sz35-40 mns0601",
       "top": "Shoes",
@@ -16684,6 +18826,60 @@
       "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-40-mns0601-2991881/",
       "keywords": [
         "Hermes sz35-40 mns0601",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-40-mns0702-2996788",
+      "name": "Hermes sz35-40 mns0702",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-40-mns0702-2996788-1.webp",
+      "url": "/catalog/product/hermes-sz35-40-mns0702-2996788/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-40-mns0702-2996788/",
+      "keywords": [
+        "Hermes sz35-40 mns0702",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-41-mns0703-2996973",
+      "name": "Hermes sz35-41 mns0703",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-41-mns0703-2996973-1.webp",
+      "url": "/catalog/product/hermes-sz35-41-mns0703-2996973/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-41-mns0703-2996973/",
+      "keywords": [
+        "Hermes sz35-41 mns0703",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-41-mns0710-2996935",
+      "name": "Hermes sz35-41 mns0710",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-41-mns0710-2996935-1.webp",
+      "url": "/catalog/product/hermes-sz35-41-mns0710-2996935/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-41-mns0710-2996935/",
+      "keywords": [
+        "Hermes sz35-41 mns0710",
         "Shoes",
         "New Products"
       ]
@@ -16761,6 +18957,456 @@
       ]
     },
     {
+      "slug": "hermes-sz35-44-mns0701-2996951",
+      "name": "Hermes sz35-44 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0701-2996951-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0701-2996951/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0701-2996951/",
+      "keywords": [
+        "Hermes sz35-44 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0702-2996863",
+      "name": "Hermes sz35-44 mns0702",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0702-2996863-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0702-2996863/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0702-2996863/",
+      "keywords": [
+        "Hermes sz35-44 mns0702",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0703-2996861",
+      "name": "Hermes sz35-44 mns0703",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0703-2996861-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0703-2996861/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0703-2996861/",
+      "keywords": [
+        "Hermes sz35-44 mns0703",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0704-2996859",
+      "name": "Hermes sz35-44 mns0704",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0704-2996859-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0704-2996859/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0704-2996859/",
+      "keywords": [
+        "Hermes sz35-44 mns0704",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0705-2996857",
+      "name": "Hermes sz35-44 mns0705",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0705-2996857-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0705-2996857/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0705-2996857/",
+      "keywords": [
+        "Hermes sz35-44 mns0705",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0706-2996855",
+      "name": "Hermes sz35-44 mns0706",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0706-2996855-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0706-2996855/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0706-2996855/",
+      "keywords": [
+        "Hermes sz35-44 mns0706",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0707-2996853",
+      "name": "Hermes sz35-44 mns0707",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0707-2996853-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0707-2996853/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0707-2996853/",
+      "keywords": [
+        "Hermes sz35-44 mns0707",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0708-2996851",
+      "name": "Hermes sz35-44 mns0708",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0708-2996851-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0708-2996851/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0708-2996851/",
+      "keywords": [
+        "Hermes sz35-44 mns0708",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0709-2996849",
+      "name": "Hermes sz35-44 mns0709",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0709-2996849-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0709-2996849/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0709-2996849/",
+      "keywords": [
+        "Hermes sz35-44 mns0709",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0710-2996847",
+      "name": "Hermes sz35-44 mns0710",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0710-2996847-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0710-2996847/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0710-2996847/",
+      "keywords": [
+        "Hermes sz35-44 mns0710",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0711-2996845",
+      "name": "Hermes sz35-44 mns0711",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0711-2996845-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0711-2996845/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0711-2996845/",
+      "keywords": [
+        "Hermes sz35-44 mns0711",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0712-2996843",
+      "name": "Hermes sz35-44 mns0712",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0712-2996843-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0712-2996843/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0712-2996843/",
+      "keywords": [
+        "Hermes sz35-44 mns0712",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0713-2996841",
+      "name": "Hermes sz35-44 mns0713",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0713-2996841-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0713-2996841/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0713-2996841/",
+      "keywords": [
+        "Hermes sz35-44 mns0713",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0714-2996839",
+      "name": "Hermes sz35-44 mns0714",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0714-2996839-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0714-2996839/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0714-2996839/",
+      "keywords": [
+        "Hermes sz35-44 mns0714",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0715-2996837",
+      "name": "Hermes sz35-44 mns0715",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0715-2996837-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0715-2996837/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0715-2996837/",
+      "keywords": [
+        "Hermes sz35-44 mns0715",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0716-2996835",
+      "name": "Hermes sz35-44 mns0716",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0716-2996835-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0716-2996835/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0716-2996835/",
+      "keywords": [
+        "Hermes sz35-44 mns0716",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0717-2996833",
+      "name": "Hermes sz35-44 mns0717",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0717-2996833-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0717-2996833/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0717-2996833/",
+      "keywords": [
+        "Hermes sz35-44 mns0717",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-44-mns0718-2996831",
+      "name": "Hermes sz35-44 mns0718",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-44-mns0718-2996831-1.webp",
+      "url": "/catalog/product/hermes-sz35-44-mns0718-2996831/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0718-2996831/",
+      "keywords": [
+        "Hermes sz35-44 mns0718",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-45-mns0719-2996829",
+      "name": "Hermes sz35-45 mns0719",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-45-mns0719-2996829-1.webp",
+      "url": "/catalog/product/hermes-sz35-45-mns0719-2996829/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-45-mns0719-2996829/",
+      "keywords": [
+        "Hermes sz35-45 mns0719",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-45-mns0720-2996827",
+      "name": "Hermes sz35-45 mns0720",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-45-mns0720-2996827-1.webp",
+      "url": "/catalog/product/hermes-sz35-45-mns0720-2996827/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-45-mns0720-2996827/",
+      "keywords": [
+        "Hermes sz35-45 mns0720",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-45-mns0721-2996825",
+      "name": "Hermes sz35-45 mns0721",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-45-mns0721-2996825-1.webp",
+      "url": "/catalog/product/hermes-sz35-45-mns0721-2996825/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-45-mns0721-2996825/",
+      "keywords": [
+        "Hermes sz35-45 mns0721",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-46-mns0703-2996955",
+      "name": "Hermes sz35-46 mns0703",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-46-mns0703-2996955-1.webp",
+      "url": "/catalog/product/hermes-sz35-46-mns0703-2996955/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-46-mns0703-2996955/",
+      "keywords": [
+        "Hermes sz35-46 mns0703",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-46-mns0704-2996953",
+      "name": "Hermes sz35-46 mns0704",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-46-mns0704-2996953-1.webp",
+      "url": "/catalog/product/hermes-sz35-46-mns0704-2996953/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-46-mns0704-2996953/",
+      "keywords": [
+        "Hermes sz35-46 mns0704",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz35-46-mns0722-2996823",
+      "name": "Hermes sz35-46 mns0722",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz35-46-mns0722-2996823-1.webp",
+      "url": "/catalog/product/hermes-sz35-46-mns0722-2996823/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz35-46-mns0722-2996823/",
+      "keywords": [
+        "Hermes sz35-46 mns0722",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz36-46-mns0701-2996821",
+      "name": "Hermes sz36-46 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz36-46-mns0701-2996821-1.webp",
+      "url": "/catalog/product/hermes-sz36-46-mns0701-2996821/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz36-46-mns0701-2996821/",
+      "keywords": [
+        "Hermes sz36-46 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "hermes-sz38-44-wm-2988922",
       "name": "Hermes sz38-44 WM",
       "top": "Shoes",
@@ -16792,6 +19438,78 @@
       "canonical": "https://trendholic.github.io/catalog/product/hermes-sz38-45-wm-2988710/",
       "keywords": [
         "Hermes sz38-45 WM",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz39-44-mns0702-2996947",
+      "name": "Hermes sz39-44 mns0702",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz39-44-mns0702-2996947-1.webp",
+      "url": "/catalog/product/hermes-sz39-44-mns0702-2996947/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz39-44-mns0702-2996947/",
+      "keywords": [
+        "Hermes sz39-44 mns0702",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz39-44-mns0703-2996945",
+      "name": "Hermes sz39-44 mns0703",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz39-44-mns0703-2996945-1.webp",
+      "url": "/catalog/product/hermes-sz39-44-mns0703-2996945/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz39-44-mns0703-2996945/",
+      "keywords": [
+        "Hermes sz39-44 mns0703",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz39-44-mns0710-2996660",
+      "name": "Hermes sz39-44 mns0710",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz39-44-mns0710-2996660-1.webp",
+      "url": "/catalog/product/hermes-sz39-44-mns0710-2996660/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz39-44-mns0710-2996660/",
+      "keywords": [
+        "Hermes sz39-44 mns0710",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "hermes-sz39-46-mns0701-2996943",
+      "name": "Hermes sz39-46 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/hermes-sz39-46-mns0701-2996943-1.webp",
+      "url": "/catalog/product/hermes-sz39-46-mns0701-2996943/",
+      "canonical": "https://trendholic.github.io/catalog/product/hermes-sz39-46-mns0701-2996943/",
+      "keywords": [
+        "Hermes sz39-46 mns0701",
         "Shoes",
         "New Products"
       ]
@@ -17085,6 +19803,24 @@
       ]
     },
     {
+      "slug": "lv-sz34-40-mns0701-2996819",
+      "name": "LV sz34-40 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz34-40-mns0701-2995793-1.webp",
+      "url": "/catalog/product/lv-sz34-40-mns0701-2996819/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz34-40-mns0701-2996819/",
+      "keywords": [
+        "LV sz34-40 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "lv-sz34-40-mns0702-2995802",
       "name": "LV sz34-40 mns0702",
       "top": "Shoes",
@@ -17103,6 +19839,60 @@
       ]
     },
     {
+      "slug": "lv-sz34-40-mns0702-2996817",
+      "name": "LV sz34-40 mns0702",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz34-40-mns0702-2995802-1.webp",
+      "url": "/catalog/product/lv-sz34-40-mns0702-2996817/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz34-40-mns0702-2996817/",
+      "keywords": [
+        "LV sz34-40 mns0702",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-39-7-5cm-9-5cm-mns0733-2996933",
+      "name": "LV sz35-39 7.5cm 9.5cm mns0733",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-39-7-5cm-9-5cm-mns0733-2996933-1.webp",
+      "url": "/catalog/product/lv-sz35-39-7-5cm-9-5cm-mns0733-2996933/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-39-7-5cm-9-5cm-mns0733-2996933/",
+      "keywords": [
+        "LV sz35-39 7.5cm 9.5cm mns0733",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-39-7-5cm-mns0734-2996931",
+      "name": "LV sz35-39 7.5cm mns0734",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-39-7-5cm-mns0734-2996931-1.webp",
+      "url": "/catalog/product/lv-sz35-39-7-5cm-mns0734-2996931/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-39-7-5cm-mns0734-2996931/",
+      "keywords": [
+        "LV sz35-39 7.5cm mns0734",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "lv-sz35-39-8cm-mns0601-2991616",
       "name": "LV sz35-39 8cm mns0601",
       "top": "Shoes",
@@ -17116,6 +19906,258 @@
       "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-39-8cm-mns0601-2991616/",
       "keywords": [
         "LV sz35-39 8cm mns0601",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-10cm-mns0746-2996907",
+      "name": "LV sz35-40 10cm mns0746",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-10cm-mns0746-2996907-1.webp",
+      "url": "/catalog/product/lv-sz35-40-10cm-mns0746-2996907/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-10cm-mns0746-2996907/",
+      "keywords": [
+        "LV sz35-40 10cm mns0746",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-10cm-mns0747-2996905",
+      "name": "LV sz35-40 10cm mns0747",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-10cm-mns0747-2996905-1.webp",
+      "url": "/catalog/product/lv-sz35-40-10cm-mns0747-2996905/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-10cm-mns0747-2996905/",
+      "keywords": [
+        "LV sz35-40 10cm mns0747",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-12cm-mns0748-2996903",
+      "name": "LV sz35-40 12cm mns0748",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-12cm-mns0748-2996903-1.webp",
+      "url": "/catalog/product/lv-sz35-40-12cm-mns0748-2996903/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-12cm-mns0748-2996903/",
+      "keywords": [
+        "LV sz35-40 12cm mns0748",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-3-5cm-mns0735-2996929",
+      "name": "LV sz35-40 3.5cm mns0735",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-3-5cm-mns0735-2996929-1.webp",
+      "url": "/catalog/product/lv-sz35-40-3-5cm-mns0735-2996929/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-3-5cm-mns0735-2996929/",
+      "keywords": [
+        "LV sz35-40 3.5cm mns0735",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-3-5cm-mns0736-2996927",
+      "name": "LV sz35-40 3.5cm mns0736",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-3-5cm-mns0736-2996927-1.webp",
+      "url": "/catalog/product/lv-sz35-40-3-5cm-mns0736-2996927/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-3-5cm-mns0736-2996927/",
+      "keywords": [
+        "LV sz35-40 3.5cm mns0736",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-5-5cm-mns0737-2996925",
+      "name": "LV sz35-40 5.5cm mns0737",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-5-5cm-mns0737-2996925-1.webp",
+      "url": "/catalog/product/lv-sz35-40-5-5cm-mns0737-2996925/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-5-5cm-mns0737-2996925/",
+      "keywords": [
+        "LV sz35-40 5.5cm mns0737",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-5-5cm-mns0738-2996923",
+      "name": "LV sz35-40 5.5cm mns0738",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-5-5cm-mns0738-2996923-1.webp",
+      "url": "/catalog/product/lv-sz35-40-5-5cm-mns0738-2996923/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-5-5cm-mns0738-2996923/",
+      "keywords": [
+        "LV sz35-40 5.5cm mns0738",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-5-5cm-mns0739-2996921",
+      "name": "LV sz35-40 5.5cm mns0739",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-5-5cm-mns0739-2996921-1.webp",
+      "url": "/catalog/product/lv-sz35-40-5-5cm-mns0739-2996921/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-5-5cm-mns0739-2996921/",
+      "keywords": [
+        "LV sz35-40 5.5cm mns0739",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-5-5cm-mns0740-2996919",
+      "name": "LV sz35-40 5.5cm mns0740",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-5-5cm-mns0740-2996919-1.webp",
+      "url": "/catalog/product/lv-sz35-40-5-5cm-mns0740-2996919/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-5-5cm-mns0740-2996919/",
+      "keywords": [
+        "LV sz35-40 5.5cm mns0740",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-5-5cm-mns0741-2996917",
+      "name": "LV sz35-40 5.5cm mns0741",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-5-5cm-mns0741-2996917-1.webp",
+      "url": "/catalog/product/lv-sz35-40-5-5cm-mns0741-2996917/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-5-5cm-mns0741-2996917/",
+      "keywords": [
+        "LV sz35-40 5.5cm mns0741",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-8-5cm-mns0742-2996915",
+      "name": "LV sz35-40 8.5cm mns0742",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-8-5cm-mns0742-2996915-1.webp",
+      "url": "/catalog/product/lv-sz35-40-8-5cm-mns0742-2996915/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-8-5cm-mns0742-2996915/",
+      "keywords": [
+        "LV sz35-40 8.5cm mns0742",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-8-5cm-mns0743-2996913",
+      "name": "LV sz35-40 8.5cm mns0743",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-8-5cm-mns0743-2996913-1.webp",
+      "url": "/catalog/product/lv-sz35-40-8-5cm-mns0743-2996913/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-8-5cm-mns0743-2996913/",
+      "keywords": [
+        "LV sz35-40 8.5cm mns0743",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-8-5cm-mns0744-2996911",
+      "name": "LV sz35-40 8.5cm mns0744",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-8-5cm-mns0744-2996911-1.webp",
+      "url": "/catalog/product/lv-sz35-40-8-5cm-mns0744-2996911/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-8-5cm-mns0744-2996911/",
+      "keywords": [
+        "LV sz35-40 8.5cm mns0744",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-40-8-5cm-mns0745-2996909",
+      "name": "LV sz35-40 8.5cm mns0745",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-40-8-5cm-mns0745-2996909-1.webp",
+      "url": "/catalog/product/lv-sz35-40-8-5cm-mns0745-2996909/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-40-8-5cm-mns0745-2996909/",
+      "keywords": [
+        "LV sz35-40 8.5cm mns0745",
         "Shoes",
         "New Products"
       ]
@@ -17224,6 +20266,78 @@
       "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-41-2989976/",
       "keywords": [
         "LV sz35-41",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-41-5-5cm-mns0730-2996901",
+      "name": "LV sz35-41 5.5cm mns0730",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-41-5-5cm-mns0730-2996901-1.webp",
+      "url": "/catalog/product/lv-sz35-41-5-5cm-mns0730-2996901/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-41-5-5cm-mns0730-2996901/",
+      "keywords": [
+        "LV sz35-41 5.5cm mns0730",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-41-5-5cm-mns0731-2996899",
+      "name": "LV sz35-41 5.5cm mns0731",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-41-5-5cm-mns0731-2996899-1.webp",
+      "url": "/catalog/product/lv-sz35-41-5-5cm-mns0731-2996899/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-41-5-5cm-mns0731-2996899/",
+      "keywords": [
+        "LV sz35-41 5.5cm mns0731",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-41-5-5cm-mns0732-2996897",
+      "name": "LV sz35-41 5.5cm mns0732",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-41-5-5cm-mns0732-2996897-1.webp",
+      "url": "/catalog/product/lv-sz35-41-5-5cm-mns0732-2996897/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-41-5-5cm-mns0732-2996897/",
+      "keywords": [
+        "LV sz35-41 5.5cm mns0732",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz35-41-mns0701-2996779",
+      "name": "LV sz35-41  mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz35-41-mns0701-2996779-1.webp",
+      "url": "/catalog/product/lv-sz35-41-mns0701-2996779/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz35-41-mns0701-2996779/",
+      "keywords": [
+        "LV sz35-41  mns0701",
         "Shoes",
         "New Products"
       ]
@@ -17458,6 +20572,60 @@
       "canonical": "https://trendholic.github.io/catalog/product/lv-sz38-45-mns0602-2991638/",
       "keywords": [
         "LV sz38-45 mns0602",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz38-45-mns0704-2996669",
+      "name": "LV sz38-45 mns0704",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz38-45-mns0704-2996669-1.webp",
+      "url": "/catalog/product/lv-sz38-45-mns0704-2996669/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz38-45-mns0704-2996669/",
+      "keywords": [
+        "LV sz38-45 mns0704",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz38-45-mns0705-2996676",
+      "name": "LV sz38-45 mns0705",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz38-45-mns0705-2996676-1.webp",
+      "url": "/catalog/product/lv-sz38-45-mns0705-2996676/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz38-45-mns0705-2996676/",
+      "keywords": [
+        "LV sz38-45 mns0705",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "lv-sz38-45-mns0706-2996685",
+      "name": "LV sz38-45 mns0706",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz38-45-mns0706-2996685-1.webp",
+      "url": "/catalog/product/lv-sz38-45-mns0706-2996685/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz38-45-mns0706-2996685/",
+      "keywords": [
+        "LV sz38-45 mns0706",
         "Shoes",
         "New Products"
       ]
@@ -17805,6 +20973,24 @@
       ]
     },
     {
+      "slug": "lv-sz39-44-mns0707-2996694",
+      "name": "LV sz39-44 mns0707",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/lv-sz39-44-mns0707-2996694-1.webp",
+      "url": "/catalog/product/lv-sz39-44-mns0707-2996694/",
+      "canonical": "https://trendholic.github.io/catalog/product/lv-sz39-44-mns0707-2996694/",
+      "keywords": [
+        "LV sz39-44 mns0707",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "lv-sz39-44-wm-2988725",
       "name": "LV sz39-44 WM",
       "top": "Shoes",
@@ -17859,6 +21045,78 @@
       ]
     },
     {
+      "slug": "maison-mihara-yasuhiro-sz35-39-39-44-mns0703-2996871",
+      "name": "Maison Mihara Yasuhiro sz35-39 39-44 mns0703",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/maison-mihara-yasuhiro-sz35-39-39-44-mns0703-2996871-1.webp",
+      "url": "/catalog/product/maison-mihara-yasuhiro-sz35-39-39-44-mns0703-2996871/",
+      "canonical": "https://trendholic.github.io/catalog/product/maison-mihara-yasuhiro-sz35-39-39-44-mns0703-2996871/",
+      "keywords": [
+        "Maison Mihara Yasuhiro sz35-39 39-44 mns0703",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "maison-mihara-yasuhiro-sz35-44-mns0704-2996869",
+      "name": "Maison Mihara Yasuhiro sz35-44 mns0704",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/maison-mihara-yasuhiro-sz35-44-mns0704-2996869-1.webp",
+      "url": "/catalog/product/maison-mihara-yasuhiro-sz35-44-mns0704-2996869/",
+      "canonical": "https://trendholic.github.io/catalog/product/maison-mihara-yasuhiro-sz35-44-mns0704-2996869/",
+      "keywords": [
+        "Maison Mihara Yasuhiro sz35-44 mns0704",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "maison-mihara-yasuhiro-sz35-44-mns0705-2996867",
+      "name": "Maison Mihara Yasuhiro sz35-44 mns0705",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/maison-mihara-yasuhiro-sz35-44-mns0705-2996867-1.webp",
+      "url": "/catalog/product/maison-mihara-yasuhiro-sz35-44-mns0705-2996867/",
+      "canonical": "https://trendholic.github.io/catalog/product/maison-mihara-yasuhiro-sz35-44-mns0705-2996867/",
+      "keywords": [
+        "Maison Mihara Yasuhiro sz35-44 mns0705",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "maison-mihara-yasuhiro-sz35-45-mns0706-2996865",
+      "name": "Maison Mihara Yasuhiro sz35-45 mns0706",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/maison-mihara-yasuhiro-sz35-45-mns0706-2996865-1.webp",
+      "url": "/catalog/product/maison-mihara-yasuhiro-sz35-45-mns0706-2996865/",
+      "canonical": "https://trendholic.github.io/catalog/product/maison-mihara-yasuhiro-sz35-45-mns0706-2996865/",
+      "keywords": [
+        "Maison Mihara Yasuhiro sz35-45 mns0706",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
       "slug": "moncler-sz38-45-wm0703-2988742",
       "name": "Moncler sz38-45 WM0703",
       "top": "Shoes",
@@ -17872,6 +21130,114 @@
       "canonical": "https://trendholic.github.io/catalog/product/moncler-sz38-45-wm0703-2988742/",
       "keywords": [
         "Moncler sz38-45 WM0703",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "newrock-sz35-39-39-44-mns0701-2996617",
+      "name": "Newrock sz35-39 39-44 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/newrock-sz35-39-39-44-mns0701-2996617-1.webp",
+      "url": "/catalog/product/newrock-sz35-39-39-44-mns0701-2996617/",
+      "canonical": "https://trendholic.github.io/catalog/product/newrock-sz35-39-39-44-mns0701-2996617/",
+      "keywords": [
+        "Newrock sz35-39 39-44 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "newrock-sz35-39-39-44-mns0705-2996963",
+      "name": "Newrock sz35-39 39-44 mns0705",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/newrock-sz35-39-39-44-mns0705-2996963-1.webp",
+      "url": "/catalog/product/newrock-sz35-39-39-44-mns0705-2996963/",
+      "canonical": "https://trendholic.github.io/catalog/product/newrock-sz35-39-39-44-mns0705-2996963/",
+      "keywords": [
+        "Newrock sz35-39 39-44 mns0705",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "newrock-sz35-39-39-44-mns0706-2996961",
+      "name": "Newrock sz35-39 39-44 mns0706",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/newrock-sz35-39-39-44-mns0706-2996961-1.webp",
+      "url": "/catalog/product/newrock-sz35-39-39-44-mns0706-2996961/",
+      "canonical": "https://trendholic.github.io/catalog/product/newrock-sz35-39-39-44-mns0706-2996961/",
+      "keywords": [
+        "Newrock sz35-39 39-44 mns0706",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "newrock-sz35-39-39-44-mns0707-2996959",
+      "name": "Newrock sz35-39 39-44 mns0707",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/newrock-sz35-39-39-44-mns0707-2996959-1.webp",
+      "url": "/catalog/product/newrock-sz35-39-39-44-mns0707-2996959/",
+      "canonical": "https://trendholic.github.io/catalog/product/newrock-sz35-39-39-44-mns0707-2996959/",
+      "keywords": [
+        "Newrock sz35-39 39-44 mns0707",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "newrock-sz35-39-mns0701-2996941",
+      "name": "Newrock sz35-39 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/newrock-sz35-39-mns0701-2996941-1.webp",
+      "url": "/catalog/product/newrock-sz35-39-mns0701-2996941/",
+      "canonical": "https://trendholic.github.io/catalog/product/newrock-sz35-39-mns0701-2996941/",
+      "keywords": [
+        "Newrock sz35-39 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "newrock-sz35-45-mns0702-2996622",
+      "name": "Newrock sz35-45 mns0702",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/newrock-sz35-45-mns0702-2996622-1.webp",
+      "url": "/catalog/product/newrock-sz35-45-mns0702-2996622/",
+      "canonical": "https://trendholic.github.io/catalog/product/newrock-sz35-45-mns0702-2996622/",
+      "keywords": [
+        "Newrock sz35-45 mns0702",
         "Shoes",
         "New Products"
       ]
@@ -18574,6 +21940,42 @@
       "canonical": "https://trendholic.github.io/catalog/product/zegna-sz38-45-mns0602-2991682/",
       "keywords": [
         "Zegna sz38-45  mns0602",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "zegna-sz38-45-mns0701-2996698",
+      "name": "Zegna sz38-45 mns0701",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/zegna-sz38-45-mns0701-2996698-1.webp",
+      "url": "/catalog/product/zegna-sz38-45-mns0701-2996698/",
+      "canonical": "https://trendholic.github.io/catalog/product/zegna-sz38-45-mns0701-2996698/",
+      "keywords": [
+        "Zegna sz38-45 mns0701",
+        "Shoes",
+        "New Products"
+      ]
+    },
+    {
+      "slug": "zegna-sz38-46-mns0702-2996707",
+      "name": "Zegna sz38-46 mns0702",
+      "top": "Shoes",
+      "topSlug": "shoes",
+      "brand": "",
+      "model": "",
+      "sku": "",
+      "category": "New Products",
+      "image": "/data/shoes/images/zegna-sz38-46-mns0702-2996707-1.webp",
+      "url": "/catalog/product/zegna-sz38-46-mns0702-2996707/",
+      "canonical": "https://trendholic.github.io/catalog/product/zegna-sz38-46-mns0702-2996707/",
+      "keywords": [
+        "Zegna sz38-46 mns0702",
         "Shoes",
         "New Products"
       ]

@@ -1,0 +1,63 @@
+{
+  "slug": "lv-sz35-40-8-5cm-mns0743-2996913",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2996914",
+  "source_parent_product_id": "2996913",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2996914.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz35-40-8-5cm-mns0743-2996913/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2996914.html",
+    "https://shoes.tangma2088.com/productinfoen_2996913.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%208.5cm%20mns0743%20(1)_2996914.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%208.5cm%20mns0743%20(2)_2996913.jpg"
+  ],
+  "source_last_seen": "2026-08-01T06:30:57.298Z",
+  "name": "LV sz35-40 8.5cm mns0743",
+  "english_product_name": "LV sz35-40 8.5cm mns0743",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2996913",
+  "parent_product_id": "2996913",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/lv-sz35-40-8-5cm-mns0743-2996913-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%208.5cm%20mns0743%20(1)_2996914.jpg",
+      "content_hash": "6e9e29b9a3695a35314dd98dd6f68dae65f81193",
+      "alt": "LV sz35-40 8.5cm mns0743"
+    },
+    {
+      "src": "/data/shoes/images/lv-sz35-40-8-5cm-mns0743-2996913-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%208.5cm%20mns0743%20(2)_2996913.jpg",
+      "content_hash": "abed5cb5ddf57d78bbbc5729a01a9b73ecefb2f8",
+      "alt": "LV sz35-40 8.5cm mns0743"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-01T06:30:57.298Z"
+}

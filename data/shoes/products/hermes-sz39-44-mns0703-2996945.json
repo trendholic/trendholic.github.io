@@ -1,0 +1,63 @@
+{
+  "slug": "hermes-sz39-44-mns0703-2996945",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2996946",
+  "source_parent_product_id": "2996945",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2996946.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz39-44-mns0703-2996945/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2996946.html",
+    "https://shoes.tangma2088.com/productinfoen_2996945.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz39-44%20mns0703%20(1)_2996946.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz39-44%20mns0703%20(2)_2996945.jpg"
+  ],
+  "source_last_seen": "2026-08-01T06:30:57.298Z",
+  "name": "Hermes sz39-44 mns0703",
+  "english_product_name": "Hermes sz39-44 mns0703",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2996945",
+  "parent_product_id": "2996945",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/hermes-sz39-44-mns0703-2996945-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz39-44%20mns0703%20(1)_2996946.jpg",
+      "content_hash": "eca4cfb992f3cfa9b68e87da40cc9176cbc93707",
+      "alt": "Hermes sz39-44 mns0703"
+    },
+    {
+      "src": "/data/shoes/images/hermes-sz39-44-mns0703-2996945-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz39-44%20mns0703%20(2)_2996945.jpg",
+      "content_hash": "9bfac8cd9ed92eef6fd67f3527758e1e7deea890",
+      "alt": "Hermes sz39-44 mns0703"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-01T06:30:57.298Z"
+}

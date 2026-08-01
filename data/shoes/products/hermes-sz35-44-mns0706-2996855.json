@@ -1,0 +1,63 @@
+{
+  "slug": "hermes-sz35-44-mns0706-2996855",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2996856",
+  "source_parent_product_id": "2996855",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2996856.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/hermes-sz35-44-mns0706-2996855/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2996856.html",
+    "https://shoes.tangma2088.com/productinfoen_2996855.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-44%20mns0706%20(2)_2996856.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-44%20mns0706%20(3)_2996855.jpg"
+  ],
+  "source_last_seen": "2026-08-01T06:30:57.298Z",
+  "name": "Hermes sz35-44 mns0706",
+  "english_product_name": "Hermes sz35-44 mns0706",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2996855",
+  "parent_product_id": "2996855",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/hermes-sz35-44-mns0706-2996855-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-44%20mns0706%20(2)_2996856.jpg",
+      "content_hash": "cd12715d6ee14e9af54e31473f2f585510eca63d",
+      "alt": "Hermes sz35-44 mns0706"
+    },
+    {
+      "src": "/data/shoes/images/hermes-sz35-44-mns0706-2996855-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/Hermes%20sz35-44%20mns0706%20(3)_2996855.jpg",
+      "content_hash": "00cf7d1976a69db82352b9fc4968bbff20f4fd66",
+      "alt": "Hermes sz35-44 mns0706"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-01T06:30:57.298Z"
+}

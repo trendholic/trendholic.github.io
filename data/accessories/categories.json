@@ -3,11 +3,11 @@
   "source": "accessories",
   "host": "acc.tangma2088.com",
   "count": 35,
-  "updatedAt": "2026-07-31T06:25:24.643Z",
+  "updatedAt": "2026-08-01T06:17:40.378Z",
   "categories": [
     {
-      "name": "New Arrival 0730",
-      "slug": "new-arrival-0730",
+      "name": "New Arrival 0731",
+      "slug": "new-arrival-0731",
       "source_url": "https://acc.tangma2088.com/categoryen_16511.html?path=0_16511",
       "source_path": "0_16511",
       "parent_path": "0"
@@ -216,8 +216,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Gloves 0717",
-      "slug": "gloves-0717",
+      "name": "Gloves 0731",
+      "slug": "gloves-0731",
       "source_url": "https://acc.tangma2088.com/categoryen_305348.html?path=0_305348",
       "source_path": "0_305348",
       "parent_path": "0"

@@ -1899,14 +1899,742 @@
       "parent_product_id": "2995894",
       "firstSeen": "2026-07-31T06:36:29.749Z",
       "lastSeen": "2026-07-31T06:36:29.749Z"
+    },
+    "2996617": {
+      "rawHash": "5357a975ac73865bd89e5318a2890cad9e06c811",
+      "slug": "newrock-sz35-39-39-44-mns0701-2996617",
+      "parent_product_id": "2996617",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996622": {
+      "rawHash": "0be6049ba76c19fdfec472cf16e448c9c22a4853",
+      "slug": "newrock-sz35-45-mns0702-2996622",
+      "parent_product_id": "2996622",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996631": {
+      "rawHash": "531511f6a4d94866897b717b1c40c5e422efd281",
+      "slug": "dior-sz39-44-mns0701-2996631",
+      "parent_product_id": "2996631",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996640": {
+      "rawHash": "1ca88094277e4de907bcd38f91f6c4a97921e8d9",
+      "slug": "boss-sz38-45-mns0702-2996640",
+      "parent_product_id": "2996640",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996644": {
+      "rawHash": "95544c06d643f62af2b7c6154d6ebad2eeafb267",
+      "slug": "cl-sz38-46-mns0712-2996644",
+      "parent_product_id": "2996644",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996653": {
+      "rawHash": "5480a4c5e798dd971383f8c80d68301d8199408f",
+      "slug": "gucci-sz38-45-mns0701-2996653",
+      "parent_product_id": "2996653",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996660": {
+      "rawHash": "a3f4a8c3a306e5a7fb8fbe947bd591a4474f2a17",
+      "slug": "hermes-sz39-44-mns0710-2996660",
+      "parent_product_id": "2996660",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996669": {
+      "rawHash": "de6f72b27fd6b2cb8ffeffc1be7d8230d76731bb",
+      "slug": "lv-sz38-45-mns0704-2996669",
+      "parent_product_id": "2996669",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996676": {
+      "rawHash": "ce9c8f60001ef95633ddb471359f0a6fa5392dd4",
+      "slug": "lv-sz38-45-mns0705-2996676",
+      "parent_product_id": "2996676",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996685": {
+      "rawHash": "af5caca68f2621928cdcaf06f08e2084f91f2653",
+      "slug": "lv-sz38-45-mns0706-2996685",
+      "parent_product_id": "2996685",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996694": {
+      "rawHash": "83d55710c30e787b31b0151332a04355f6abd7d3",
+      "slug": "lv-sz39-44-mns0707-2996694",
+      "parent_product_id": "2996694",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996698": {
+      "rawHash": "7a4118c7807a0842aa2e9218b4fe1a363fec96c0",
+      "slug": "zegna-sz38-45-mns0701-2996698",
+      "parent_product_id": "2996698",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996707": {
+      "rawHash": "45668359f461f0c29bf99cd38fe0fc0945b17221",
+      "slug": "zegna-sz38-46-mns0702-2996707",
+      "parent_product_id": "2996707",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996716": {
+      "rawHash": "110892e2d2a36d7f3dc7df0bd83ffb2e65d369aa",
+      "slug": "hermes-sz35-39-mns0703-2996716",
+      "parent_product_id": "2996716",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996725": {
+      "rawHash": "034c461f26906fea43a570eb5d0104608bef19d1",
+      "slug": "dymonlatry-sz35-41-mns0701-2996725",
+      "parent_product_id": "2996725",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996734": {
+      "rawHash": "37ec9bab5f8e2d18f0e0500be8ffd90921a78eb8",
+      "slug": "chanel-sz35-39-mns0701-2996734",
+      "parent_product_id": "2996734",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996752": {
+      "rawHash": "9bc87fa961884195928a1bdcb4354d008591351c",
+      "slug": "dymonlatry-sz35-39-mns0701-2996752",
+      "parent_product_id": "2996752",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996761": {
+      "rawHash": "7955d1cbd257c62c4c26f6f65dec8132bc240662",
+      "slug": "dymonlatry-sz35-41-mns0702-2996761",
+      "parent_product_id": "2996761",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996770": {
+      "rawHash": "7ed78fde3380fbb5166152d3817fb43e894dede8",
+      "slug": "dymalnotpy-sz35-39-mns0701-2996770",
+      "parent_product_id": "2996770",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996779": {
+      "rawHash": "f92ad3202b6a9a2ad0b71478d368b75c5525d2bd",
+      "slug": "lv-sz35-41-mns0701-2996779",
+      "parent_product_id": "2996779",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996788": {
+      "rawHash": "007b6e6cb7e44942cecf42f1c3466127eaf81b18",
+      "slug": "hermes-sz35-40-mns0702-2996788",
+      "parent_product_id": "2996788",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996797": {
+      "rawHash": "8f0b1826d6587276f5f712a2633c65c98df777ce",
+      "slug": "hermes-sz35-39-mns0711-2996797",
+      "parent_product_id": "2996797",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996799": {
+      "rawHash": "3db583271461421b0110082077c812aade1b7973",
+      "slug": "hermes-sz35-39-mns0710-2996799",
+      "parent_product_id": "2996799",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996801": {
+      "rawHash": "546f5dacda6a6a2880a9c9063d0cbd4e333b5837",
+      "slug": "hermes-sz35-39-mns0709-2996801",
+      "parent_product_id": "2996801",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996803": {
+      "rawHash": "8e4f79b6da3e27eb092119d34a140356df6e702d",
+      "slug": "hermes-sz35-39-mns0708-2996803",
+      "parent_product_id": "2996803",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996805": {
+      "rawHash": "56d7d76a4a036559f27e09a7a089662d3095bad1",
+      "slug": "hermes-sz35-39-mns0707-2996805",
+      "parent_product_id": "2996805",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996807": {
+      "rawHash": "83589a68197e5eebeab93663e56c11c4ee3020ef",
+      "slug": "hermes-sz35-39-mns0706-2996807",
+      "parent_product_id": "2996807",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996809": {
+      "rawHash": "b044996999a8c5c2c06426e061224dff24e39376",
+      "slug": "hermes-sz35-39-mns0705-2996809",
+      "parent_product_id": "2996809",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996811": {
+      "rawHash": "a393e291626f6b16fad64cf528896999fce9be9a",
+      "slug": "hermes-sz35-39-mns0704-2996811",
+      "parent_product_id": "2996811",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996815": {
+      "rawHash": "f366f6da475919964e2119003ce566a1b1c99e66",
+      "slug": "hermes-sz35-39-mns0702-2996815",
+      "parent_product_id": "2996815",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996817": {
+      "rawHash": "cf2d6f8e8de6af628667ac3a05305d8213a9ab40",
+      "slug": "lv-sz34-40-mns0702-2996817",
+      "parent_product_id": "2996817",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996819": {
+      "rawHash": "ea2f8660bc0f0843df878196641115cc61f6c7d5",
+      "slug": "lv-sz34-40-mns0701-2996819",
+      "parent_product_id": "2996819",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996821": {
+      "rawHash": "79dccbf3236409b0efce7bea9405b2d65143a7ca",
+      "slug": "hermes-sz36-46-mns0701-2996821",
+      "parent_product_id": "2996821",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996823": {
+      "rawHash": "7f5d88014664ad9d3cc0026461dae09743e874e3",
+      "slug": "hermes-sz35-46-mns0722-2996823",
+      "parent_product_id": "2996823",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996825": {
+      "rawHash": "8a4cea3211424a4935d074510bebe81b5585178d",
+      "slug": "hermes-sz35-45-mns0721-2996825",
+      "parent_product_id": "2996825",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996827": {
+      "rawHash": "259b4a485fb0746e599b552e4473605dc58d01f9",
+      "slug": "hermes-sz35-45-mns0720-2996827",
+      "parent_product_id": "2996827",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996829": {
+      "rawHash": "d6361cae46c24bfcd4a11962d129c66e78cb9ac4",
+      "slug": "hermes-sz35-45-mns0719-2996829",
+      "parent_product_id": "2996829",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996831": {
+      "rawHash": "5858518228e588396c1e3a665aaa1dd78f873215",
+      "slug": "hermes-sz35-44-mns0718-2996831",
+      "parent_product_id": "2996831",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996833": {
+      "rawHash": "e3f1b42475d453a6c063a445ebd519739c1976f1",
+      "slug": "hermes-sz35-44-mns0717-2996833",
+      "parent_product_id": "2996833",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996835": {
+      "rawHash": "e9bc448560b81de2f87834e61f20db09ea5a2fab",
+      "slug": "hermes-sz35-44-mns0716-2996835",
+      "parent_product_id": "2996835",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996837": {
+      "rawHash": "c84fc42c5ed17740c9a64b6e8d575da0822faafe",
+      "slug": "hermes-sz35-44-mns0715-2996837",
+      "parent_product_id": "2996837",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996839": {
+      "rawHash": "3d52490577b3d06b61fc5b8fbeaceb38bc3e5774",
+      "slug": "hermes-sz35-44-mns0714-2996839",
+      "parent_product_id": "2996839",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996841": {
+      "rawHash": "9fdf7a2efd24b81030b15dcb581619c3f5e179c6",
+      "slug": "hermes-sz35-44-mns0713-2996841",
+      "parent_product_id": "2996841",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996843": {
+      "rawHash": "82cc2ac4d97d36391fd4423ab1fe1b849ff50716",
+      "slug": "hermes-sz35-44-mns0712-2996843",
+      "parent_product_id": "2996843",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996845": {
+      "rawHash": "b3e58d5b5ebad0077998df1a9e8e5fe35d0ef4b9",
+      "slug": "hermes-sz35-44-mns0711-2996845",
+      "parent_product_id": "2996845",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996847": {
+      "rawHash": "dcba4f1da65282b4d1ccfbb2ceb737e0e798b3a3",
+      "slug": "hermes-sz35-44-mns0710-2996847",
+      "parent_product_id": "2996847",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996849": {
+      "rawHash": "6c75ce37f6eea15a775ce41c6776942fe3f6bc77",
+      "slug": "hermes-sz35-44-mns0709-2996849",
+      "parent_product_id": "2996849",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996851": {
+      "rawHash": "e00bb4b03f6c8732c1ae4568032ca27ea39ba464",
+      "slug": "hermes-sz35-44-mns0708-2996851",
+      "parent_product_id": "2996851",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996853": {
+      "rawHash": "28f5aa07c58085d44a75c0854a53bdeb601661d3",
+      "slug": "hermes-sz35-44-mns0707-2996853",
+      "parent_product_id": "2996853",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996855": {
+      "rawHash": "738b5a874fe53fbaeeafef0b7766cc9953fabc72",
+      "slug": "hermes-sz35-44-mns0706-2996855",
+      "parent_product_id": "2996855",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996857": {
+      "rawHash": "049466df2a15b5c811843955b076e407aa7b60fe",
+      "slug": "hermes-sz35-44-mns0705-2996857",
+      "parent_product_id": "2996857",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996859": {
+      "rawHash": "2a5a1f343d9718e0f8bd8edfe52f89b76e4def6c",
+      "slug": "hermes-sz35-44-mns0704-2996859",
+      "parent_product_id": "2996859",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996861": {
+      "rawHash": "ac3be0c2edc93e53b72e99b03560335a47ce5c73",
+      "slug": "hermes-sz35-44-mns0703-2996861",
+      "parent_product_id": "2996861",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996863": {
+      "rawHash": "8707928db937b20eed5987b1f0de107fd5a1a521",
+      "slug": "hermes-sz35-44-mns0702-2996863",
+      "parent_product_id": "2996863",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996865": {
+      "rawHash": "819d29998dcb30e393ba9ecea7d484e9e5f7956c",
+      "slug": "maison-mihara-yasuhiro-sz35-45-mns0706-2996865",
+      "parent_product_id": "2996865",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996867": {
+      "rawHash": "ddeefc957424011f47b3a6a494afe01570d6c534",
+      "slug": "maison-mihara-yasuhiro-sz35-44-mns0705-2996867",
+      "parent_product_id": "2996867",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996869": {
+      "rawHash": "687dd05018812fb84b8efb32fa19fded53e99efc",
+      "slug": "maison-mihara-yasuhiro-sz35-44-mns0704-2996869",
+      "parent_product_id": "2996869",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996871": {
+      "rawHash": "6b3ee188a982f39e5b99b8020a63dd3d6aa6644f",
+      "slug": "maison-mihara-yasuhiro-sz35-39-39-44-mns0703-2996871",
+      "parent_product_id": "2996871",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996875": {
+      "rawHash": "0abd192fb5b7414b394341321f62dc984ef082f2",
+      "slug": "dior-sz35-39-4-5cm-mns0704-2996875",
+      "parent_product_id": "2996875",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996877": {
+      "rawHash": "13b23e9b8c1954ed907297514a77d91ae56421db",
+      "slug": "dior-sz34-43-7-5cm-mns0703-2996877",
+      "parent_product_id": "2996877",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996879": {
+      "rawHash": "b96ab13c0f7f17b4dec4940ad47df266b4ef1dd4",
+      "slug": "hermes-sz35-39-4-5cm-mns0736-2996879",
+      "parent_product_id": "2996879",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996881": {
+      "rawHash": "9ee84687e38ebc234fe8b4d223abcb1a485de81f",
+      "slug": "hermes-sz35-39-8-5cm-mns0737-2996881",
+      "parent_product_id": "2996881",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996883": {
+      "rawHash": "409eaf7142c1b0bac1192f6ba1419ea3062ddd51",
+      "slug": "hermes-sz35-39-mns0731-2996883",
+      "parent_product_id": "2996883",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996885": {
+      "rawHash": "734c38ab2cbd9b51f0f1d3509c740fc737412331",
+      "slug": "hermes-sz35-39-mns0732-2996885",
+      "parent_product_id": "2996885",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996887": {
+      "rawHash": "9c8d89d0d162814dec75c192a15790cdd80f7f40",
+      "slug": "hermes-sz35-39-mns0733-2996887",
+      "parent_product_id": "2996887",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996889": {
+      "rawHash": "a71616f83b76fcedc9014a2bf4365bcac8f97b8a",
+      "slug": "hermes-sz35-39-mns0734-2996889",
+      "parent_product_id": "2996889",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996891": {
+      "rawHash": "eac78c1591b1782e493f128e6f27491fb370966e",
+      "slug": "hermes-sz35-39-mns0735-2996891",
+      "parent_product_id": "2996891",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996893": {
+      "rawHash": "a44b981d4b4c65ad39214cb8ed7f716d01b5a3ba",
+      "slug": "hermes-sz35-39-mns0738-2996893",
+      "parent_product_id": "2996893",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996895": {
+      "rawHash": "ffba13d69f7d4d87021a63a9ec4cf20c41cc1240",
+      "slug": "hermes-sz35-39-mns0739-2996895",
+      "parent_product_id": "2996895",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996897": {
+      "rawHash": "ff21155cb51992296ad29d5542552ee91ea92084",
+      "slug": "lv-sz35-41-5-5cm-mns0732-2996897",
+      "parent_product_id": "2996897",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996899": {
+      "rawHash": "39a5d8e1b57dc5adab4d73b8fb58e30c6cce75a9",
+      "slug": "lv-sz35-41-5-5cm-mns0731-2996899",
+      "parent_product_id": "2996899",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996901": {
+      "rawHash": "ff3d858cc4ba935ebea57c54bc637fd81217c357",
+      "slug": "lv-sz35-41-5-5cm-mns0730-2996901",
+      "parent_product_id": "2996901",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996903": {
+      "rawHash": "a8979229c90c6fd69d891d842b82a7d544961c3c",
+      "slug": "lv-sz35-40-12cm-mns0748-2996903",
+      "parent_product_id": "2996903",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996905": {
+      "rawHash": "7f487a822949ea46712e1199b8b4632abd8af05c",
+      "slug": "lv-sz35-40-10cm-mns0747-2996905",
+      "parent_product_id": "2996905",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996907": {
+      "rawHash": "0d5c490a9c79179ac4fece6147cb73dafc8acd19",
+      "slug": "lv-sz35-40-10cm-mns0746-2996907",
+      "parent_product_id": "2996907",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996909": {
+      "rawHash": "a3daf9eef8da950c7d6683727fa76cbdf4da5501",
+      "slug": "lv-sz35-40-8-5cm-mns0745-2996909",
+      "parent_product_id": "2996909",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996911": {
+      "rawHash": "ee76743b83f577e7cbec7b60341b24c2f2c6fc93",
+      "slug": "lv-sz35-40-8-5cm-mns0744-2996911",
+      "parent_product_id": "2996911",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996913": {
+      "rawHash": "af2be5f2b3f19db694679216f699ecca9d7d5405",
+      "slug": "lv-sz35-40-8-5cm-mns0743-2996913",
+      "parent_product_id": "2996913",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996915": {
+      "rawHash": "75216b4dfc588a7f89615f01702d55d7bd899dae",
+      "slug": "lv-sz35-40-8-5cm-mns0742-2996915",
+      "parent_product_id": "2996915",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996917": {
+      "rawHash": "9b7a61952b08a772fc1fb4b792fffb9f99e0eab0",
+      "slug": "lv-sz35-40-5-5cm-mns0741-2996917",
+      "parent_product_id": "2996917",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996919": {
+      "rawHash": "3dd72ad617b2fbb9aded55d0056bcb74b5d5028a",
+      "slug": "lv-sz35-40-5-5cm-mns0740-2996919",
+      "parent_product_id": "2996919",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996921": {
+      "rawHash": "16fe2614f2b0993545f28dc129d2dd7314cde3d3",
+      "slug": "lv-sz35-40-5-5cm-mns0739-2996921",
+      "parent_product_id": "2996921",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996923": {
+      "rawHash": "952eaa938b0f3d4e11db6a66edd99513e265bb44",
+      "slug": "lv-sz35-40-5-5cm-mns0738-2996923",
+      "parent_product_id": "2996923",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996925": {
+      "rawHash": "c3dd294cbaeddec70144122e4014f4cbe316e481",
+      "slug": "lv-sz35-40-5-5cm-mns0737-2996925",
+      "parent_product_id": "2996925",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996927": {
+      "rawHash": "a55f0d2cd15b2471543de2e080171453f491dfe9",
+      "slug": "lv-sz35-40-3-5cm-mns0736-2996927",
+      "parent_product_id": "2996927",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996929": {
+      "rawHash": "074c5b4c0b970f38a2536707dedb49647d9b8b2b",
+      "slug": "lv-sz35-40-3-5cm-mns0735-2996929",
+      "parent_product_id": "2996929",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996931": {
+      "rawHash": "4ef977ea73fc602b33ff92a4e1923341ec98cb3b",
+      "slug": "lv-sz35-39-7-5cm-mns0734-2996931",
+      "parent_product_id": "2996931",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996933": {
+      "rawHash": "6844f67b045e7ad8d2561057e25d1722e839b1e7",
+      "slug": "lv-sz35-39-7-5cm-9-5cm-mns0733-2996933",
+      "parent_product_id": "2996933",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996935": {
+      "rawHash": "f5225238735d04c786f5e06915a5cc028b08682f",
+      "slug": "hermes-sz35-41-mns0710-2996935",
+      "parent_product_id": "2996935",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996941": {
+      "rawHash": "4cb66e7c4a75e89b612a2ef208db585e6a38d2b9",
+      "slug": "newrock-sz35-39-mns0701-2996941",
+      "parent_product_id": "2996941",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996943": {
+      "rawHash": "2fd0c37827fac01cb51dab6f0e38990d4bb26b0d",
+      "slug": "hermes-sz39-46-mns0701-2996943",
+      "parent_product_id": "2996943",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996945": {
+      "rawHash": "b5c816b162ce1c3f50cc12ad1a04ef6cd93dcc6e",
+      "slug": "hermes-sz39-44-mns0703-2996945",
+      "parent_product_id": "2996945",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996947": {
+      "rawHash": "7bd7dccb5e81abd47f96e4e20d186a2c518da655",
+      "slug": "hermes-sz39-44-mns0702-2996947",
+      "parent_product_id": "2996947",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996951": {
+      "rawHash": "ff8685e14fd2b35c56624725a87a5e413db0b8ea",
+      "slug": "hermes-sz35-44-mns0701-2996951",
+      "parent_product_id": "2996951",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996953": {
+      "rawHash": "fa9efa7530cde33d45ba32f807fd96ad5ecd353b",
+      "slug": "hermes-sz35-46-mns0704-2996953",
+      "parent_product_id": "2996953",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996955": {
+      "rawHash": "2ba7c498f40cb90d191cd4b452a79bffcbbc4f85",
+      "slug": "hermes-sz35-46-mns0703-2996955",
+      "parent_product_id": "2996955",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996957": {
+      "rawHash": "471a328d8f57d2b66f64e98ecb6dadccb1feed6d",
+      "slug": "hermes-sz35-40-39-44-mns0702-2996957",
+      "parent_product_id": "2996957",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996959": {
+      "rawHash": "ab1b972d80e588aa4a8f5e93c04486a702ee08ad",
+      "slug": "newrock-sz35-39-39-44-mns0707-2996959",
+      "parent_product_id": "2996959",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996961": {
+      "rawHash": "78ad2896bdda3f028ea0d4ec2c9fda72ceae727a",
+      "slug": "newrock-sz35-39-39-44-mns0706-2996961",
+      "parent_product_id": "2996961",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996963": {
+      "rawHash": "5a0d4cab08a05852f4ee1c11d9bda4292303a5b3",
+      "slug": "newrock-sz35-39-39-44-mns0705-2996963",
+      "parent_product_id": "2996963",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996966": {
+      "rawHash": "654f3474b8f67c6545f0a89f623b446342974012",
+      "slug": "hermes-sz34-46-mns0702-2996966",
+      "parent_product_id": "2996966",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996967": {
+      "rawHash": "aeed1e7a7b329708c78213014209ee75e33b5f37",
+      "slug": "hermes-sz34-46-mns0701-2996967",
+      "parent_product_id": "2996967",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996971": {
+      "rawHash": "bb277c79d2d908faadecbcdb42fbe8585891081d",
+      "slug": "dymonlatry-sz35-39-39-44-mns0701-2996971",
+      "parent_product_id": "2996971",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
+    },
+    "2996973": {
+      "rawHash": "9c077d3553e08fac74e91d7f2b6ddee99f06536d",
+      "slug": "hermes-sz35-41-mns0703-2996973",
+      "parent_product_id": "2996973",
+      "firstSeen": "2026-08-01T06:30:57.298Z",
+      "lastSeen": "2026-08-01T06:30:57.298Z"
     }
   },
   "categories": [
-    "new-arrival-0730",
+    "new-arrival-0731",
     "factory-b-0730",
     "factory-c0730",
     "kid-shoes-0713",
-    "gucci-2026-0729",
+    "gucci-2026-0731",
     "louis-vittion-2026-0731",
     "amina-muaddi-2026-0730",
     "alexander-mcqueen-2026-0728",
@@ -1922,7 +2650,7 @@
     "balmain-2026-0607",
     "bape-20250715",
     "berluti-2026-0623",
-    "boss-2026-0730",
+    "boss-2026-0731",
     "balenciaga-2026-0715",
     "bottega-veneta-2026-0728",
     "burberry-2026-0728",
@@ -1930,12 +2658,12 @@
     "brunello-cucinelli-2026-0730",
     "billionaire-2026-0607",
     "celine-20260319",
-    "christian-louboutin-2026-0730",
-    "chanel-2026-0729",
+    "christian-louboutin-2026-0731",
+    "chanel-2026-0731",
     "coach-2026-0728",
     "chrome-hearts-2026-0606",
     "dg-2026-0728",
-    "dior-2026-0730",
+    "dior-2026-0731",
     "dsq-2026-0717",
     "diesel-2026-0728",
     "fendi-2026-0725",
@@ -1968,8 +2696,8 @@
     "magnanni-2026-0604",
     "marni-2026-0608",
     "moon-boot-20250412",
-    "maison-mihara-yasuhiro-2026-0721",
-    "newrock-2026-0730",
+    "maison-mihara-yasuhiro-2026-0731",
+    "newrock-2026-0731",
     "nike-2026-0624",
     "numeris-2026-0608",
     "off-white-2026-0725",
@@ -1991,9 +2719,9 @@
     "veja-2026-0617",
     "ysl-2026-0730",
     "y-3-20260204",
-    "zegna-2026-0730",
+    "zegna-2026-0731",
     "zilli-2026-0606",
     "zara-2026-0725"
   ],
-  "updatedAt": "2026-07-31T06:36:29.749Z"
+  "updatedAt": "2026-08-01T06:30:57.298Z"
 }

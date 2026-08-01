@@ -2226,10 +2226,311 @@
       "parent_product_id": "4103146",
       "firstSeen": "2026-07-31T06:27:46.747Z",
       "lastSeen": "2026-07-31T06:27:46.747Z"
+    },
+    "4103879": {
+      "rawHash": "2816e01bee6bf572016a21c247d72283fd323c74",
+      "slug": "moncler-gloves-dx-4103879",
+      "parent_product_id": "4103879",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103893": {
+      "rawHash": "d8f104aafd648e90b58bfd6e3678dbcf64652c6d",
+      "slug": "prada-gloves-dx-4103893",
+      "parent_product_id": "4103893",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103922": {
+      "rawHash": "b4f1d696dc00b94acb686d4cde36b218e3911366",
+      "slug": "vivienne-westwood-gloves-dx-4103922",
+      "parent_product_id": "4103922",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103929": {
+      "rawHash": "8d2e5801a445157ef7859c6d5be0eabcbb7e2c2c",
+      "slug": "burberry-be6020-54-19-145-c-4103929",
+      "parent_product_id": "4103929",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103935": {
+      "rawHash": "90a0c0fde363caefb37aa1531e19640b514ab1c8",
+      "slug": "bvlgari-bv52341u-55-23-145-c-4103935",
+      "parent_product_id": "4103935",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103941": {
+      "rawHash": "12ded621cdcfb5653363c65013a66d158c8d4d1d",
+      "slug": "cartier-ct0571-60-18-143-c-4103941",
+      "parent_product_id": "4103941",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103949": {
+      "rawHash": "3afed3604482a0ab3ab5e26e70becee854a5bc2f",
+      "slug": "cartier-ct0803o-55-16-140-c-4103949",
+      "parent_product_id": "4103949",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103961": {
+      "rawHash": "67c173d2edea48b6b03f7d772b59ba602141dccd",
+      "slug": "celine-cl42106u-52-22-145-c-4103961",
+      "parent_product_id": "4103961",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103969": {
+      "rawHash": "34887443a745107ebcbc386e67924e6f47ef2600",
+      "slug": "chaenl-ch9164b-52-19-145-c-4103969",
+      "parent_product_id": "4103969",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103973": {
+      "rawHash": "a776b719b1dba82f54fd3dc57470464d7d059a37",
+      "slug": "chane-ch4296h-57-19-145-c-4103973",
+      "parent_product_id": "4103973",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103979": {
+      "rawHash": "d45d0334a880e8b009039964a28f6cdee3813a99",
+      "slug": "chanel-ch9164b-52-19-145-c-4103979",
+      "parent_product_id": "4103979",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103987": {
+      "rawHash": "e248b6b4f9ed6d0a34eab3b101e4ba5df666be9d",
+      "slug": "dior-0731-54-18-140-c-4103987",
+      "parent_product_id": "4103987",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103994": {
+      "rawHash": "d4cec7377270e15d0f4e190c5f043dfeb17862b3",
+      "slug": "dita-073101-c-4103994",
+      "parent_product_id": "4103994",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4103999": {
+      "rawHash": "59221bac2133b27bbf297997320a71f6ccee7fc5",
+      "slug": "dita-dts122-52-22-145-c-4103999",
+      "parent_product_id": "4103999",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104004": {
+      "rawHash": "913b5a2720094e3b9fd331c91557c90d6d42693a",
+      "slug": "dita-dts780-52-22-144-c-4104004",
+      "parent_product_id": "4104004",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104017": {
+      "rawHash": "88a336a6a9ff236de772fc82427d3858dcd3b737",
+      "slug": "dita-ts7806-52-22-144-c-4104017",
+      "parent_product_id": "4104017",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104041": {
+      "rawHash": "2770bd30a7db890b9251c7e32d735634a25895e8",
+      "slug": "fred-fg40040u-58-17-145-c-4104041",
+      "parent_product_id": "4104041",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104053": {
+      "rawHash": "385a7a04fbf2352dd1355eb18e9e7cdbc7137b57",
+      "slug": "fred-fg57165u-58-18-145-c-4104053",
+      "parent_product_id": "4104053",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104059": {
+      "rawHash": "ad50faca759dd2ebfb641c567fdd44fecfa29a35",
+      "slug": "fred-g57166u-54-17-145-c-4104059",
+      "parent_product_id": "4104059",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104065": {
+      "rawHash": "15e725e3aa5417d259ee1c980a88ac4b58fcee08",
+      "slug": "gucci-gg2388s-55-17-140-c-4104065",
+      "parent_product_id": "4104065",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104071": {
+      "rawHash": "2f356b5ba6ce55a69b9a3a9a6067dd3c52cf6db0",
+      "slug": "gucci-gg2389s-56-21-130-c-4104071",
+      "parent_product_id": "4104071",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104077": {
+      "rawHash": "866610cced10b64d7bfe34feb6e4e18d291d51d5",
+      "slug": "gucci-gg7200-55-18-141-c-4104077",
+      "parent_product_id": "4104077",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104083": {
+      "rawHash": "cbe34c0ca879fe2d1521e31149a204d9d442f989",
+      "slug": "gucci-gg7232-60-15-145-c-4104083",
+      "parent_product_id": "4104083",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104089": {
+      "rawHash": "ad88ba35b2cc07b8fc17095f1bac555fd1e65773",
+      "slug": "9713-53-23-142-c-4104089",
+      "parent_product_id": "4104089",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104096": {
+      "rawHash": "bab6ac0fb33a6804f9df67e5b5cee8e714cecda5",
+      "slug": "jacques-marie-mag-073101-4104096",
+      "parent_product_id": "4104096",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104102": {
+      "rawHash": "e3b08204dd794e108f3bf086f10bc510e21fb295",
+      "slug": "jacques-marie-mag-hartigan-45-24-c-4104102",
+      "parent_product_id": "4104102",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104115": {
+      "rawHash": "549fa70c9c56889739cb75a1bf297269b3b6632a",
+      "slug": "jacques-marie-mag-jmmrz14p-54-20-145-c-4104115",
+      "parent_product_id": "4104115",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104122": {
+      "rawHash": "c3cfd20ac61c2218e5946f3490ce32a0756b938f",
+      "slug": "jacques-marie-mag-mu04z-50-18-140-c-4104122",
+      "parent_product_id": "4104122",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104142": {
+      "rawHash": "cca85fcb49e348dfbf7455f9f6cc44ccf55a490c",
+      "slug": "jd-c460-51-21-145-c-4104142",
+      "parent_product_id": "4104142",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104147": {
+      "rawHash": "b363a92f09f7aaf0aa778cd68e810fea600c9d16",
+      "slug": "jd-c461-51-21-145-c-4104147",
+      "parent_product_id": "4104147",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104156": {
+      "rawHash": "6f90ad840d9441c761df8afba0950d1d00d48d10",
+      "slug": "kub-raum-maske-50-22-145-c-4104156",
+      "parent_product_id": "4104156",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104162": {
+      "rawHash": "2452f77ac791bcedf9cc31a5da95d0fd1368e5d4",
+      "slug": "miumiu-b53s-144-0-125-c-4104162",
+      "parent_product_id": "4104162",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104170": {
+      "rawHash": "35de2dcc05c6f1fe0ba0a93501e714673bda304e",
+      "slug": "miumiu-lsmu04z-50-18-140-c-4104170",
+      "parent_product_id": "4104170",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104179": {
+      "rawHash": "5d4c7ccf6e7ef0d0be64d943b1782f653710100d",
+      "slug": "miumiu-mu04z-50-18-140-c-4104179",
+      "parent_product_id": "4104179",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104185": {
+      "rawHash": "3431b6ff79e624ca95842e94316abe5d9142fad6",
+      "slug": "off-oer108r-50-20-145-c-4104185",
+      "parent_product_id": "4104185",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104189": {
+      "rawHash": "85d1f3d5d2c877be0c4a90ab6f795da88859ee4a",
+      "slug": "prada-spr06y-53-21-145-c-4104189",
+      "parent_product_id": "4104189",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104197": {
+      "rawHash": "43876afa067ac83de9cbb4e6ed0fa505ad4cb6f4",
+      "slug": "tf-1044-60-12-140-c-4104197",
+      "parent_product_id": "4104197",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104213": {
+      "rawHash": "5d9854b5abd4becc55ce07d70eaae78768dba472",
+      "slug": "tf-ft1208-61-12-140-c-4104213",
+      "parent_product_id": "4104213",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104247": {
+      "rawHash": "0c9254c62098c4da1c1366cc0bb0619afde71326",
+      "slug": "tf-tf1204-63-11-140-c-4104247",
+      "parent_product_id": "4104247",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104255": {
+      "rawHash": "0a20b88e58195eed1ad91fd8cb6a494940952ff1",
+      "slug": "versace-ve6787-54-20-148-c-4104255",
+      "parent_product_id": "4104255",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104261": {
+      "rawHash": "8b187b32d1997d7a7a12636d685135d92120b34e",
+      "slug": "versace-ve44780u-52-19-148-c-4104261",
+      "parent_product_id": "4104261",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104267": {
+      "rawHash": "af088a9e2ef0558ea60efbd932d81dffce5f744e",
+      "slug": "ysl-545-58-16-145-c-4104267",
+      "parent_product_id": "4104267",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
+    },
+    "4104275": {
+      "rawHash": "f5d366326fc46fd417d829e17c11febe5e529d21",
+      "slug": "ysl-2165-54-20-145-c-4104275",
+      "parent_product_id": "4104275",
+      "firstSeen": "2026-08-01T06:20:11.504Z",
+      "lastSeen": "2026-08-01T06:20:11.504Z"
     }
   },
   "categories": [
-    "new-arrival-0730",
+    "new-arrival-0731",
     "jewelry-0707",
     "glasses-0629",
     "plain-glasses-0728",
@@ -2259,11 +2560,11 @@
     "electronis-0322",
     "toy-0411",
     "mobile-phone-shell-0717",
-    "gloves-0717",
+    "gloves-0731",
     "tie-0606",
     "silk-sock-0307",
     "underware-sleepware-0307",
     "sunglasses-a"
   ],
-  "updatedAt": "2026-07-31T06:27:46.747Z"
+  "updatedAt": "2026-08-01T06:20:11.504Z"
 }

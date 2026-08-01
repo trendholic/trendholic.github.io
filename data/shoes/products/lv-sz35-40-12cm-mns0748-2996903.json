@@ -1,0 +1,63 @@
+{
+  "slug": "lv-sz35-40-12cm-mns0748-2996903",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2996904",
+  "source_parent_product_id": "2996903",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2996904.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz35-40-12cm-mns0748-2996903/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2996904.html",
+    "https://shoes.tangma2088.com/productinfoen_2996903.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%2012cm%20mns0748%20(1)_2996904.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%2012cm%20mns0748%20(2)_2996903.jpg"
+  ],
+  "source_last_seen": "2026-08-01T06:30:57.298Z",
+  "name": "LV sz35-40 12cm mns0748",
+  "english_product_name": "LV sz35-40 12cm mns0748",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2996903",
+  "parent_product_id": "2996903",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/lv-sz35-40-12cm-mns0748-2996903-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%2012cm%20mns0748%20(1)_2996904.jpg",
+      "content_hash": "f45897414b1b3f16521908a8b973d3f46ab517c5",
+      "alt": "LV sz35-40 12cm mns0748"
+    },
+    {
+      "src": "/data/shoes/images/lv-sz35-40-12cm-mns0748-2996903-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202607/LV%20sz35-40%2012cm%20mns0748%20(2)_2996903.jpg",
+      "content_hash": "355c594992f7618da3c122d79593433fe525d633",
+      "alt": "LV sz35-40 12cm mns0748"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-01T06:30:57.298Z"
+}

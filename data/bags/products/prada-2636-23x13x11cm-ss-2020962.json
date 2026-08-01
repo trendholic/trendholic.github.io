@@ -1,0 +1,63 @@
+{
+  "slug": "prada-2636-23x13x11cm-ss-2020962",
+  "top_category": "Bags",
+  "source_site": "bags",
+  "source_domain": "bags.tangma2088.com",
+  "source_top_category": "Bags",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2020963",
+  "source_parent_product_id": "2020962",
+  "source_product_url": "https://bags.tangma2088.com/productinfoen_2020963.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/prada-2636-23x13x11cm-ss-2020962/",
+  "source_product_urls": [
+    "https://bags.tangma2088.com/productinfoen_2020963.html",
+    "https://bags.tangma2088.com/productinfoen_2020962.html"
+  ],
+  "source_image_urls": [
+    "https://bags.tangma2088.com/upfile/product/202607/Prada%202636%2023x13x11cm%20ss1_2020962.jpg",
+    "https://bags.tangma2088.com/upfile/product/202607/Prada%202636%2023x13x11cm%20ss11_2020963.jpg"
+  ],
+  "source_last_seen": "2026-08-01T06:28:04.308Z",
+  "name": "Prada 2636 23x13x11cm ss",
+  "english_product_name": "Prada 2636 23x13x11cm ss",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2020962",
+  "parent_product_id": "2020962",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/bags/images/prada-2636-23x13x11cm-ss-2020962-1.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%202636%2023x13x11cm%20ss1_2020962.jpg",
+      "content_hash": "4ffa84b7457983dbb7fd31115ea105166af60639",
+      "alt": "Prada 2636 23x13x11cm ss"
+    },
+    {
+      "src": "/data/bags/images/prada-2636-23x13x11cm-ss-2020962-2.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202607/Prada%202636%2023x13x11cm%20ss11_2020963.jpg",
+      "content_hash": "7d6401fb823e09f21536bd9b4efdff68fff80464",
+      "alt": "Prada 2636 23x13x11cm ss"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-01T06:28:04.308Z"
+}
