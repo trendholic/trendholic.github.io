@@ -3,18 +3,18 @@
   "source": "shoes",
   "host": "shoes.tangma2088.com",
   "count": 93,
-  "updatedAt": "2026-08-02T06:25:12.014Z",
+  "updatedAt": "2026-08-03T06:52:30.925Z",
   "categories": [
     {
-      "name": "NEW ARRIVAL 0731",
-      "slug": "new-arrival-0731",
+      "name": "NEW ARRIVAL 0802",
+      "slug": "new-arrival-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_355.html?path=0_355",
       "source_path": "0_355",
       "parent_path": "0"
     },
     {
-      "name": "Factory B 0801",
-      "slug": "factory-b-0801",
+      "name": "Factory B 0802",
+      "slug": "factory-b-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_367.html?path=0_367",
       "source_path": "0_367",
       "parent_path": "0"
@@ -41,17 +41,10 @@
       "parent_path": "0"
     },
     {
-      "name": "Louis Vittion 2026 0802",
-      "slug": "louis-vittion-2026-0802",
+      "name": "Louis Vittion 2026 0803",
+      "slug": "louis-vittion-2026-0803",
       "source_url": "https://shoes.tangma2088.com/categoryen_327.html?path=0_327",
       "source_path": "0_327",
-      "parent_path": "0"
-    },
-    {
-      "name": "Amina muaddi 2026 0730",
-      "slug": "amina-muaddi-2026-0730",
-      "source_url": "https://shoes.tangma2088.com/categoryen_181821.html?path=0_181821",
-      "source_path": "0_181821",
       "parent_path": "0"
     },
     {
@@ -87,6 +80,13 @@
       "slug": "alo-2026-0621",
       "source_url": "https://shoes.tangma2088.com/categoryen_178384.html?path=0_178384",
       "source_path": "0_178384",
+      "parent_path": "0"
+    },
+    {
+      "name": "Amina muaddi 2026 0730",
+      "slug": "amina-muaddi-2026-0730",
+      "source_url": "https://shoes.tangma2088.com/categoryen_181821.html?path=0_181821",
+      "source_path": "0_181821",
       "parent_path": "0"
     },
     {
@@ -153,8 +153,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Balenciaga 2026 0715",
-      "slug": "balenciaga-2026-0715",
+      "name": "Balenciaga 2026 0802",
+      "slug": "balenciaga-2026-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_304.html?path=0_304",
       "source_path": "0_304",
       "parent_path": "0"
@@ -202,8 +202,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Christian Louboutin 2026 0802",
-      "slug": "christian-louboutin-2026-0802",
+      "name": "Christian Louboutin 2026 0803",
+      "slug": "christian-louboutin-2026-0803",
       "source_url": "https://shoes.tangma2088.com/categoryen_140.html?path=0_140",
       "source_path": "0_140",
       "parent_path": "0"
@@ -258,15 +258,15 @@
       "parent_path": "0"
     },
     {
-      "name": "Dymonlatry 2026 0731",
-      "slug": "dymonlatry-2026-0731",
+      "name": "Dymonlatry 2026 0802",
+      "slug": "dymonlatry-2026-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_182049.html?path=0_182049",
       "source_path": "0_182049",
       "parent_path": "0"
     },
     {
-      "name": "Fendi 2026 0725",
-      "slug": "fendi-2026-0725",
+      "name": "Fendi 2026 0802",
+      "slug": "fendi-2026-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_161.html?path=0_161",
       "source_path": "0_161",
       "parent_path": "0"
@@ -328,8 +328,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Hermes 2026 0731",
-      "slug": "hermes-2026-0731",
+      "name": "Hermes 2026 0802",
+      "slug": "hermes-2026-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_104.html?path=0_104",
       "source_path": "0_104",
       "parent_path": "0"
@@ -412,8 +412,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Loro Piana 2026 0730",
-      "slug": "loro-piana-2026-0730",
+      "name": "Loro Piana 2026 0802",
+      "slug": "loro-piana-2026-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_154701.html?path=0_154701",
       "source_path": "0_154701",
       "parent_path": "0"
@@ -545,8 +545,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Santoni 2026 0623",
-      "slug": "santoni-2026-0623",
+      "name": "Santoni 2026 0802",
+      "slug": "santoni-2026-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_178408.html?path=0_178408",
       "source_path": "0_178408",
       "parent_path": "0"
@@ -587,8 +587,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Tory Burch 20250513",
-      "slug": "tory-burch-20250513",
+      "name": "Tory Burch 2026 0802",
+      "slug": "tory-burch-2026-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_156346.html?path=0_156346",
       "source_path": "0_156346",
       "parent_path": "0"
@@ -608,8 +608,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Versace 2026 0729",
-      "slug": "versace-2026-0729",
+      "name": "Versace 2026 0802",
+      "slug": "versace-2026-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_72.html?path=0_72",
       "source_path": "0_72",
       "parent_path": "0"
@@ -636,8 +636,8 @@
       "parent_path": "0"
     },
     {
-      "name": "ZEGNA 2026 0731",
-      "slug": "zegna-2026-0731",
+      "name": "ZEGNA 2026 0802",
+      "slug": "zegna-2026-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_139955.html?path=0_139955",
       "source_path": "0_139955",
       "parent_path": "0"

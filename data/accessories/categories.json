@@ -3,7 +3,7 @@
   "source": "accessories",
   "host": "acc.tangma2088.com",
   "count": 35,
-  "updatedAt": "2026-08-02T06:17:31.869Z",
+  "updatedAt": "2026-08-03T06:39:46.266Z",
   "categories": [
     {
       "name": "New Arrival 0731",
@@ -55,29 +55,29 @@
       "parent_path": "0"
     },
     {
-      "name": "Caps 0730",
-      "slug": "caps-0730",
+      "name": "Caps 0803",
+      "slug": "caps-0803",
       "source_url": "https://acc.tangma2088.com/categoryen_385.html?path=0_385",
       "source_path": "0_385",
       "parent_path": "0"
     },
     {
-      "name": "Bucket Hat 0730",
-      "slug": "bucket-hat-0730",
+      "name": "Bucket Hat 0803",
+      "slug": "bucket-hat-0803",
       "source_url": "https://acc.tangma2088.com/categoryen_384.html?path=0_384",
       "source_path": "0_384",
       "parent_path": "0"
     },
     {
-      "name": "26 Hat 0730",
-      "slug": "26-hat-0730",
+      "name": "26 Hat 0803",
+      "slug": "26-hat-0803",
       "source_url": "https://acc.tangma2088.com/categoryen_168165.html?path=0_168165",
       "source_path": "0_168165",
       "parent_path": "0"
     },
     {
-      "name": "More Caps Hats 0730",
-      "slug": "more-caps-hats-0730",
+      "name": "More Caps Hats 0803",
+      "slug": "more-caps-hats-0803",
       "source_url": "https://acc.tangma2088.com/categoryen_386.html?path=0_386",
       "source_path": "0_386",
       "parent_path": "0"

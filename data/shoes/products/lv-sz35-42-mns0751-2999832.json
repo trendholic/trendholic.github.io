@@ -1,0 +1,84 @@
+{
+  "slug": "lv-sz35-42-mns0751-2999832",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2999836",
+  "source_parent_product_id": "2999832",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_2999836.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz35-42-mns0751-2999832/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_2999836.html",
+    "https://shoes.tangma2088.com/productinfoen_2999835.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz35-42%20mns0751%20(1)_2999836.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz35-42%20mns0751%20(2)_2999835.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz35-42%20mns0751%20(3)_2999834.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz35-42%20mns0751%20(4)_2999833.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz35-42%20mns0751%20(5)_2999832.jpg"
+  ],
+  "source_last_seen": "2026-08-03T06:54:51.296Z",
+  "name": "LV sz35-42 mns0751",
+  "english_product_name": "LV sz35-42 mns0751",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2999832",
+  "parent_product_id": "2999832",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/lv-sz35-42-mns0751-2999832-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz35-42%20mns0751%20(1)_2999836.jpg",
+      "content_hash": "ee24f9f4bd7896f3cf40e9298ef9becd51d7d566",
+      "alt": "LV sz35-42 mns0751"
+    },
+    {
+      "src": "/data/shoes/images/lv-sz35-42-mns0751-2999832-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz35-42%20mns0751%20(2)_2999835.jpg",
+      "content_hash": "bebe6a4255685923ecfb32ed4f00e9e702d358bc",
+      "alt": "LV sz35-42 mns0751"
+    },
+    {
+      "src": "/data/shoes/images/lv-sz35-42-mns0751-2999832-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz35-42%20mns0751%20(3)_2999834.jpg",
+      "content_hash": "03c89374e0b46043e9210418edd3e4c4316454e9",
+      "alt": "LV sz35-42 mns0751"
+    },
+    {
+      "src": "/data/shoes/images/lv-sz35-42-mns0751-2999832-4.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz35-42%20mns0751%20(4)_2999833.jpg",
+      "content_hash": "451b7bcb5a9873a310bf02fd5e1fb71b138ac6c9",
+      "alt": "LV sz35-42 mns0751"
+    },
+    {
+      "src": "/data/shoes/images/lv-sz35-42-mns0751-2999832-5.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz35-42%20mns0751%20(5)_2999832.jpg",
+      "content_hash": "1090cfa9deaba3a7be9f41422d06d7377c356593",
+      "alt": "LV sz35-42 mns0751"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-03T06:54:51.296Z"
+}

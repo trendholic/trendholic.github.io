@@ -2858,21 +2858,287 @@
       "parent_product_id": "2997582",
       "firstSeen": "2026-08-02T06:27:44.594Z",
       "lastSeen": "2026-08-02T06:27:44.594Z"
+    },
+    "2999832": {
+      "rawHash": "9e5297f7913eec649219c1b82a5897068a477fd4",
+      "slug": "lv-sz35-42-mns0751-2999832",
+      "parent_product_id": "2999832",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999837": {
+      "rawHash": "1aea7722b83080b52c043046689a728fd0b25246",
+      "slug": "lv-sz35-42-mns0752-2999837",
+      "parent_product_id": "2999837",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999845": {
+      "rawHash": "9333d905f71ba260ee211f923d2eff9e552caf68",
+      "slug": "lv-sz35-42-mns0753-2999845",
+      "parent_product_id": "2999845",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999853": {
+      "rawHash": "f05f56ea88f571253be6fe9729c0fa2bb67bfad3",
+      "slug": "lv-sz35-42-mns0754-2999853",
+      "parent_product_id": "2999853",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999861": {
+      "rawHash": "82571f7612702eb5064a67dee5301e3ba1480d72",
+      "slug": "lv-sz35-42-mns0755-2999861",
+      "parent_product_id": "2999861",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999869": {
+      "rawHash": "ad50f181dba64709f604e44c8479d22585f91d3d",
+      "slug": "lv-sz35-42-mns0756-2999869",
+      "parent_product_id": "2999869",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999878": {
+      "rawHash": "8f07d447d018b02944f8bad5ead8e6871281b1e4",
+      "slug": "lv-sz35-42-mns0757-2999878",
+      "parent_product_id": "2999878",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999884": {
+      "rawHash": "d600ba3df6ba8321e10128707240a485d708e5bf",
+      "slug": "lv-sz35-42-mns0758-2999884",
+      "parent_product_id": "2999884",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999892": {
+      "rawHash": "5868dec99769e944ddc77456e172226c80318b4a",
+      "slug": "lv-sz35-42-mns0759-2999892",
+      "parent_product_id": "2999892",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999901": {
+      "rawHash": "7324aeaa9ff711a3fefdf5ead8b0e7f633636661",
+      "slug": "lv-sz35-42-mns0760-2999901",
+      "parent_product_id": "2999901",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999909": {
+      "rawHash": "6705b10cb55d8af203f3ea9f4c413e4f480f2ebe",
+      "slug": "lv-sz35-45-mns0702-2999909",
+      "parent_product_id": "2999909",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999954": {
+      "rawHash": "05740bd38edde619177b6d39473bc53a152a5e01",
+      "slug": "lv-sz35-42-mns0702-2999954",
+      "parent_product_id": "2999954",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999963": {
+      "rawHash": "990d60ad396e01c39fc6533627c0cb778df5afb1",
+      "slug": "lv-sz35-42-mns0703-2999963",
+      "parent_product_id": "2999963",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999972": {
+      "rawHash": "adf9f65da7b307a95fe63f7949cc12213f800ce3",
+      "slug": "lv-sz35-42-mns0704-2999972",
+      "parent_product_id": "2999972",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999980": {
+      "rawHash": "ccafef9b77926cf0a2dcb5cdf4bc5b3e563dc1f0",
+      "slug": "lv-sz35-42-mns0705-2999980",
+      "parent_product_id": "2999980",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999989": {
+      "rawHash": "58ae6b50ae743ed541ef3e2cf783d4842be17de9",
+      "slug": "lv-sz35-42-mns0706-2999989",
+      "parent_product_id": "2999989",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "2999997": {
+      "rawHash": "4ce7ca85eeb5c00f5a9a28c5b4e0a7c195d35cab",
+      "slug": "lv-sz35-42-mns0707-2999997",
+      "parent_product_id": "2999997",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000005": {
+      "rawHash": "66c9ebf0386e6b8b2fac40733c8fd1e86d26eff8",
+      "slug": "lv-sz35-42-mns0708-3000005",
+      "parent_product_id": "3000005",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000014": {
+      "rawHash": "5703cf78aacc34b5c31b645ce2c4c4a0d7194dcf",
+      "slug": "lv-sz35-42-mns0709-3000014",
+      "parent_product_id": "3000014",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000023": {
+      "rawHash": "8d79c3a68568e80487ab3b23d76a50dabc072720",
+      "slug": "lv-sz35-42-mns0710-3000023",
+      "parent_product_id": "3000023",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000031": {
+      "rawHash": "1ce029e0244c61ebfe38a1c8e40e7814303c99d2",
+      "slug": "lv-sz35-42-mns0711-3000031",
+      "parent_product_id": "3000031",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000039": {
+      "rawHash": "98a11ad0f26a0fd526420c7d7b8443f30c214dc2",
+      "slug": "lv-sz35-42-mns0712-3000039",
+      "parent_product_id": "3000039",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000048": {
+      "rawHash": "e07c38f6e3e97010d200f99dbe7b35b5e567b79a",
+      "slug": "lv-sz35-42-mns0713-3000048",
+      "parent_product_id": "3000048",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000056": {
+      "rawHash": "443e8c0b295234d20a0ac8a3a8ef0fba334fcc9d",
+      "slug": "lv-sz35-42-mns0714-3000056",
+      "parent_product_id": "3000056",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000063": {
+      "rawHash": "0db947677be6db50cb7a83110d18641a9c983bc0",
+      "slug": "lv-sz35-42-mns0715-3000063",
+      "parent_product_id": "3000063",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000071": {
+      "rawHash": "6e40d1fde437de8e71c8444e1f59b9eff85498dc",
+      "slug": "lv-sz35-42-mns0716-3000071",
+      "parent_product_id": "3000071",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000078": {
+      "rawHash": "3f19a807ba5020b0d77eee4aabfa4a140b37a92c",
+      "slug": "lv-sz35-42-mns0717-3000078",
+      "parent_product_id": "3000078",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000085": {
+      "rawHash": "54db487f7ae9b33d3668f7c5c7dfc983fc556021",
+      "slug": "lv-sz35-42-mns0718-3000085",
+      "parent_product_id": "3000085",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000099": {
+      "rawHash": "ff7112cb35212217fc58984c0285460ded68e66a",
+      "slug": "lv-sz35-42-mns0719-3000099",
+      "parent_product_id": "3000099",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000106": {
+      "rawHash": "cc17e6b739223ae3643797b4ddea0e37f8c8429c",
+      "slug": "lv-sz35-42-mns0720-3000106",
+      "parent_product_id": "3000106",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000113": {
+      "rawHash": "bd983488d0a33bd5185e40f438fcaf3721f85ea8",
+      "slug": "lv-sz35-42-mns0721-3000113",
+      "parent_product_id": "3000113",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000121": {
+      "rawHash": "b57edee0edab5bd6fb130dd168bd21536916194e",
+      "slug": "lv-sz35-42-mns0722-3000121",
+      "parent_product_id": "3000121",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000128": {
+      "rawHash": "8fb89520d6732ce1da32b22277a5fd67339d2c78",
+      "slug": "lv-sz35-42-mns0723-3000128",
+      "parent_product_id": "3000128",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000136": {
+      "rawHash": "4a7a8bc25e1087649f8d0b22fe209b25816732e3",
+      "slug": "lv-sz35-42-mns0724-3000136",
+      "parent_product_id": "3000136",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000144": {
+      "rawHash": "ad90e6376552e66feb4c9799b90924d7fc52b44d",
+      "slug": "lv-sz35-42-mns0725-3000144",
+      "parent_product_id": "3000144",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000152": {
+      "rawHash": "6ae4f7e2fd4897017ce274cc883d3f0bc659eaae",
+      "slug": "lv-sz35-42-mns0726-3000152",
+      "parent_product_id": "3000152",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000160": {
+      "rawHash": "097d95dced0780fb798086810bfcf241ac910e9e",
+      "slug": "lv-sz35-45-mns0701-3000160",
+      "parent_product_id": "3000160",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3000200": {
+      "rawHash": "a35cf3872d2f4cc194be6c6bee0a6422f7520418",
+      "slug": "cl-sz35-43-sm0715-3000200",
+      "parent_product_id": "3000200",
+      "firstSeen": "2026-08-03T06:54:51.296Z",
+      "lastSeen": "2026-08-03T06:54:51.296Z"
     }
   },
   "categories": [
-    "new-arrival-0731",
-    "factory-b-0801",
+    "new-arrival-0802",
+    "factory-b-0802",
     "factory-c0730",
     "kid-shoes-0713",
     "gucci-2026-0802",
-    "louis-vittion-2026-0802",
-    "amina-muaddi-2026-0730",
+    "louis-vittion-2026-0803",
     "alexander-mcqueen-2026-0728",
     "armani-2026-0730",
     "amiri-2026-0725",
     "acne-2026-0602",
     "alo-2026-0621",
+    "amina-muaddi-2026-0730",
     "adidas-2026-0613",
     "adizero-2026-0609",
     "altra-2026-0617",
@@ -2882,14 +3148,14 @@
     "bape-20250715",
     "berluti-2026-0623",
     "boss-2026-0731",
-    "balenciaga-2026-0715",
+    "balenciaga-2026-0802",
     "bottega-veneta-2026-0728",
     "burberry-2026-0728",
     "bally-2026-0802",
     "brunello-cucinelli-2026-0730",
     "billionaire-2026-0607",
     "celine-20260319",
-    "christian-louboutin-2026-0802",
+    "christian-louboutin-2026-0803",
     "chanel-2026-0802",
     "coach-2026-0728",
     "chrome-hearts-2026-0606",
@@ -2897,8 +3163,8 @@
     "dior-2026-0802",
     "dsq-2026-0717",
     "diesel-2026-0728",
-    "dymonlatry-2026-0731",
-    "fendi-2026-0725",
+    "dymonlatry-2026-0802",
+    "fendi-2026-0802",
     "ferragamo-2026-0622",
     "fog-2026-0602",
     "ggdb-2026-0608",
@@ -2907,7 +3173,7 @@
     "richard-2026-0530",
     "rickowens-2026-0606",
     "roger-vivier-2026-0725",
-    "hermes-2026-0731",
+    "hermes-2026-0802",
     "hogan-2026-0615",
     "jimmy-choo-20250628",
     "jil-sander-2026-0608",
@@ -2919,7 +3185,7 @@
     "kolon-sport-2026-0617",
     "le-silla-2026-0728",
     "lanvin-20260126",
-    "loro-piana-2026-0730",
+    "loro-piana-2026-0802",
     "loewe-2026-0729",
     "miumiu-2026-0721",
     "moncler-2026-0612",
@@ -2938,22 +3204,22 @@
     "philipp-plein-2026-0623",
     "prada-2026-0802",
     "stefano-ricci-2026-0617",
-    "santoni-2026-0623",
+    "santoni-2026-0802",
     "salomon-2026-0617",
     "smilerepublic-2026-0728",
     "thom-browne-2026-0624",
     "tom-ford-2026-0608",
     "tod-s-2026-0624",
-    "tory-burch-20250513",
+    "tory-burch-2026-0802",
     "ugg-20260204",
     "valentino-2026-0730",
-    "versace-2026-0729",
+    "versace-2026-0802",
     "veja-2026-0617",
     "ysl-2026-0730",
     "y-3-20260204",
-    "zegna-2026-0731",
+    "zegna-2026-0802",
     "zilli-2026-0606",
     "zara-2026-0725"
   ],
-  "updatedAt": "2026-08-02T06:27:44.594Z"
+  "updatedAt": "2026-08-03T06:54:51.296Z"
 }
