@@ -3124,14 +3124,141 @@
       "parent_product_id": "3000200",
       "firstSeen": "2026-08-03T06:54:51.296Z",
       "lastSeen": "2026-08-03T06:54:51.296Z"
+    },
+    "3001960": {
+      "rawHash": "532af1dfa8d0ce071abb96c4818b2375a51b9046",
+      "slug": "ferragamo-sz38-45-wm-3001960",
+      "parent_product_id": "3001960",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3001972": {
+      "rawHash": "94113a8658c73acc080eb7158bc5e341f105b4bc",
+      "slug": "ferragamo-sz38-45-wm0807-3001972",
+      "parent_product_id": "3001972",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002007": {
+      "rawHash": "02f4dc4b5b05bfe102576ce59f3bb675d11473fd",
+      "slug": "gucci-sz38-45-wm0803-3002007",
+      "parent_product_id": "3002007",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002034": {
+      "rawHash": "c6c6c8543eee43b703935793e1df0a5d0a67a882",
+      "slug": "gucci-sz38-45-wm-3002034",
+      "parent_product_id": "3002034",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002043": {
+      "rawHash": "4ef3924417cd0547b5d0c195d5edda43ea5affb7",
+      "slug": "lv-sz35-46-wm-3002043",
+      "parent_product_id": "3002043",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002128": {
+      "rawHash": "04ca2ef29000e4403045a4533ed33ffe2b59937e",
+      "slug": "lv-sz38-45-wm0808-3002128",
+      "parent_product_id": "3002128",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002148": {
+      "rawHash": "1645287f1e9435dd213f86cc2d903ceea4845161",
+      "slug": "lv-sz38-45-wm-3002148",
+      "parent_product_id": "3002148",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002167": {
+      "rawHash": "67e7680701786578a88c5247a469ff4f223ec772",
+      "slug": "dior-sz39-46-wm0801-3002167",
+      "parent_product_id": "3002167",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002187": {
+      "rawHash": "63a78b4ce47c4180658def9535756a4d7bf48c9a",
+      "slug": "gucci-sz38-46-wm0801-3002187",
+      "parent_product_id": "3002187",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002208": {
+      "rawHash": "4c0dc024da5382cfd97e902489d7106bf6af9ba9",
+      "slug": "lv-sz38-45-wm0803-3002208",
+      "parent_product_id": "3002208",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002227": {
+      "rawHash": "7aa77aab5487b26fe1c8af34ea2fa49d60394eba",
+      "slug": "prada-sz35-41-mns0701-3002227",
+      "parent_product_id": "3002227",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002247": {
+      "rawHash": "c3d9ab7b444840ec893e33afaf36b71422ed163d",
+      "slug": "prada-sz35-41-mns0702-3002247",
+      "parent_product_id": "3002247",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002267": {
+      "rawHash": "0bab4d09962d1384622e528070f03ad164e2310e",
+      "slug": "prada-sz35-41-mns0703-3002267",
+      "parent_product_id": "3002267",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002277": {
+      "rawHash": "2230c67bdf8120f4eef6327f8131ba6ac599fb57",
+      "slug": "prada-sz35-41-mns0706-3002277",
+      "parent_product_id": "3002277",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002282": {
+      "rawHash": "ea29f2dcb288fe31b2921ab820fe2365a03727ee",
+      "slug": "prada-sz35-41-mns0705-3002282",
+      "parent_product_id": "3002282",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002307": {
+      "rawHash": "74702a5d3a69bc846e36109c23a45e41d4cf9ae9",
+      "slug": "prada-sz35-41-mns0704-3002307",
+      "parent_product_id": "3002307",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002327": {
+      "rawHash": "436ee0cd499bdc9e9a6a027f245e6219fbc0c3bd",
+      "slug": "prada-sz35-42-mns0707-3002327",
+      "parent_product_id": "3002327",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3002347": {
+      "rawHash": "245feaa3c07f25cbd94946310b9d5dbb5e072b87",
+      "slug": "prada-sz35-42-mns0708-3002347",
+      "parent_product_id": "3002347",
+      "firstSeen": "2026-08-04T06:15:08.118Z",
+      "lastSeen": "2026-08-04T06:15:08.118Z"
     }
   },
   "categories": [
-    "new-arrival-0802",
+    "dymsolatey-2026-0803",
+    "new-arrival-0803",
     "factory-b-0802",
-    "factory-c0730",
+    "factory-c0803",
     "kid-shoes-0713",
-    "gucci-2026-0802",
+    "gucci-2026-0803",
     "louis-vittion-2026-0803",
     "alexander-mcqueen-2026-0728",
     "armani-2026-0730",
@@ -3156,14 +3283,15 @@
     "billionaire-2026-0607",
     "celine-20260319",
     "christian-louboutin-2026-0803",
-    "chanel-2026-0802",
+    "casablanca-2026-0802",
+    "chanel-2026-0803",
     "coach-2026-0728",
     "chrome-hearts-2026-0606",
     "dg-2026-0802",
-    "dior-2026-0802",
+    "dior-2026-0803",
     "dsq-2026-0717",
     "diesel-2026-0728",
-    "dymonlatry-2026-0802",
+    "dymonlatry-2026-0803",
     "fendi-2026-0802",
     "ferragamo-2026-0622",
     "fog-2026-0602",
@@ -3173,7 +3301,7 @@
     "richard-2026-0530",
     "rickowens-2026-0606",
     "roger-vivier-2026-0725",
-    "hermes-2026-0802",
+    "hermes-2026-0803",
     "hogan-2026-0615",
     "jimmy-choo-20250628",
     "jil-sander-2026-0608",
@@ -3202,7 +3330,8 @@
     "on-2026-0722",
     "onitsuka-tiger-2026-0608",
     "philipp-plein-2026-0623",
-    "prada-2026-0802",
+    "prada-2026-0804",
+    "toga-2026-0802",
     "stefano-ricci-2026-0617",
     "santoni-2026-0802",
     "salomon-2026-0617",
@@ -3221,5 +3350,5 @@
     "zilli-2026-0606",
     "zara-2026-0725"
   ],
-  "updatedAt": "2026-08-03T06:54:51.296Z"
+  "updatedAt": "2026-08-04T06:15:08.118Z"
 }

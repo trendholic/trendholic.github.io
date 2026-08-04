@@ -1,0 +1,79 @@
+{
+  "slug": "fendi-gloves-dx-4106424",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4106529",
+  "source_parent_product_id": "4106424",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4106529.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-gloves-dx-4106424/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4106529.html",
+    "https://acc.tangma2088.com/productinfoen_4106528.html",
+    "https://acc.tangma2088.com/productinfoen_4106425.html",
+    "https://acc.tangma2088.com/productinfoen_4106424.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Fendi%20gloves%20dx%20(207)_4106528.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Fendi%20gloves%20dx%20(207)_4106424.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Fendi%20gloves%20dx%20(208)_4106529.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Fendi%20gloves%20dx%20(208)_4106425.jpg"
+  ],
+  "source_last_seen": "2026-08-04T06:05:13.776Z",
+  "name": "Fendi gloves dx",
+  "english_product_name": "Fendi gloves dx",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4106424",
+  "parent_product_id": "4106424",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/fendi-gloves-dx-4106424-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Fendi%20gloves%20dx%20(207)_4106528.jpg",
+      "content_hash": "76c907f732e03724f037b5134b6cd92f09843757",
+      "alt": "Fendi gloves dx"
+    },
+    {
+      "src": "/data/accessories/images/fendi-gloves-dx-4106424-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Fendi%20gloves%20dx%20(207)_4106424.jpg",
+      "content_hash": "76c907f732e03724f037b5134b6cd92f09843757",
+      "alt": "Fendi gloves dx"
+    },
+    {
+      "src": "/data/accessories/images/fendi-gloves-dx-4106424-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Fendi%20gloves%20dx%20(208)_4106529.jpg",
+      "content_hash": "92046a97c88f7c0b7d4328fab4c7d2c81fcb47f8",
+      "alt": "Fendi gloves dx"
+    },
+    {
+      "src": "/data/accessories/images/fendi-gloves-dx-4106424-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Fendi%20gloves%20dx%20(208)_4106425.jpg",
+      "content_hash": "92046a97c88f7c0b7d4328fab4c7d2c81fcb47f8",
+      "alt": "Fendi gloves dx"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-04T06:05:13.776Z"
+}
