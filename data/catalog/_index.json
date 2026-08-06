@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-08-06T05:16:50.620Z",
+  "updatedAt": "2026-08-06T06:20:39.949Z",
   "topCategories": [
     {
       "name": "Apparel",
       "slug": "apparel",
-      "productCount": 529,
+      "productCount": 558,
       "subcategoriesDiscovered": 56
     },
     {
       "name": "Accessories",
       "slug": "accessories",
-      "productCount": 385,
+      "productCount": 406,
       "subcategoriesDiscovered": 35
     },
     {
       "name": "Bags",
       "slug": "bags",
-      "productCount": 122,
+      "productCount": 133,
       "subcategoriesDiscovered": 54
     },
     {
       "name": "Shoes",
       "slug": "shoes",
-      "productCount": 454,
+      "productCount": 472,
       "subcategoriesDiscovered": 96
     },
     {
@@ -34,7 +34,7 @@
   ],
   "totals": {
     "topCategories": 5,
-    "products": 1985,
+    "products": 2064,
     "subcategoriesDiscovered": 241
   }
 }

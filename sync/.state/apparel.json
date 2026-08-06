@@ -3859,6 +3859,209 @@
       "parent_product_id": "5811220",
       "firstSeen": "2026-08-04T05:57:25.621Z",
       "lastSeen": "2026-08-04T05:57:25.621Z"
+    },
+    "5826140": {
+      "rawHash": "6b2ec804ee2118ef1f4d466b412ff6fde1eb637e",
+      "slug": "lv-sz28-31-xetr140-5826140",
+      "parent_product_id": "5826140",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826150": {
+      "rawHash": "1110f409cac3217c91ad30ee4c8171feaf5ca975",
+      "slug": "lv-sz28-31-xetr141-5826150",
+      "parent_product_id": "5826150",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826161": {
+      "rawHash": "3ca9fe925d5e5a873e2f3ff4d8fcd3f69929f1a2",
+      "slug": "lv-sz28-31-xetr142-5826161",
+      "parent_product_id": "5826161",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826170": {
+      "rawHash": "bfc3a7a0787b013a52c0ffc0647a4228998ed0cc",
+      "slug": "lv-sz28-31-xetr143-5826170",
+      "parent_product_id": "5826170",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826179": {
+      "rawHash": "97c71d9c90cae89d10a2ec2ba4e6916de2d6b5a8",
+      "slug": "lv-sz28-31-xetr144-5826179",
+      "parent_product_id": "5826179",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826189": {
+      "rawHash": "1cc9af4599999adc5a87eef5cd9ab316291eb10b",
+      "slug": "lv-sz28-31-xetr145-5826189",
+      "parent_product_id": "5826189",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826198": {
+      "rawHash": "613b175271f96b68662d0b7b795d8e2b1d334d7a",
+      "slug": "lv-sz28-31-xetr146-5826198",
+      "parent_product_id": "5826198",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826207": {
+      "rawHash": "b4e5e0c72a8b4a49fac16401f367c50d7e0381ff",
+      "slug": "lv-sz28-31-xetr147-5826207",
+      "parent_product_id": "5826207",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826217": {
+      "rawHash": "18e5ce2368b21f3e937b359353721a762b0fdca4",
+      "slug": "lv-sz28-31-xetr148-5826217",
+      "parent_product_id": "5826217",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826227": {
+      "rawHash": "ef5ac7a3e277ba626a821fa8833633f1d732bce7",
+      "slug": "lv-sz28-31-xetr149-5826227",
+      "parent_product_id": "5826227",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826236": {
+      "rawHash": "ee7d728928b8444e5c98aac9936ab2b3aeebda76",
+      "slug": "lv-sz28-31-xetr150-5826236",
+      "parent_product_id": "5826236",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826245": {
+      "rawHash": "8c423f32926969f46915d8e716a5a327737610cd",
+      "slug": "lv-sz28-31-xetr151-5826245",
+      "parent_product_id": "5826245",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826254": {
+      "rawHash": "9f321bcadcd42bd5cc2684a19848d3ad59c05cc3",
+      "slug": "lv-sz28-31-xetr152-5826254",
+      "parent_product_id": "5826254",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826264": {
+      "rawHash": "e1abdce29f62ab54f6280b2046b26a4d246238ed",
+      "slug": "lv-sz28-31-xetr153-5826264",
+      "parent_product_id": "5826264",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826274": {
+      "rawHash": "6298ebcd9fd5d4c0fe041991480d65f1005f2a01",
+      "slug": "lv-sz28-31-xetr154-5826274",
+      "parent_product_id": "5826274",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826287": {
+      "rawHash": "188ba73b07e4f4affeaf31f2f4e3653237b0bf57",
+      "slug": "miumiu-sz28-31-xetr02-5826287",
+      "parent_product_id": "5826287",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826295": {
+      "rawHash": "f93fe087b4613f462e6e04075effc84334b7aa08",
+      "slug": "carhartt-s-xl-xetr01-5826295",
+      "parent_product_id": "5826295",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826330": {
+      "rawHash": "7b28dbec2dffb16e399608d23437041dc863409c",
+      "slug": "arcteryx-s-3xl-xetr222-5826330",
+      "parent_product_id": "5826330",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826345": {
+      "rawHash": "261df1e92970440a8e8121f578c11f30aab2769b",
+      "slug": "arcteryx-s-3xl-xetr223-5826345",
+      "parent_product_id": "5826345",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826361": {
+      "rawHash": "b074cda2da2b716bb0d30096de11181899e5d3d7",
+      "slug": "arcteryx-s-2xl-xetr224-5826361",
+      "parent_product_id": "5826361",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826374": {
+      "rawHash": "b99b705848e07d61dff37a9ad546066214409da5",
+      "slug": "arcteryx-s-2xl-xetr225-5826374",
+      "parent_product_id": "5826374",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826406": {
+      "rawHash": "c7d2fd8f1198009ff5c01618dbff565628c05b5f",
+      "slug": "arcteryx-s-2xl-xetr226-5826406",
+      "parent_product_id": "5826406",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826427": {
+      "rawHash": "86de91aa889e2818865358c58cdb1f2730ffcb6e",
+      "slug": "arcteryx-s-3xl-xetr227-5826427",
+      "parent_product_id": "5826427",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826439": {
+      "rawHash": "07d8ff37a27dd77faa1489697cd2bf5af0b42bab",
+      "slug": "arcteryx-s-3xl-xetr228-5826439",
+      "parent_product_id": "5826439",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826456": {
+      "rawHash": "0f6e020fe95f2790d15fe7332fea0dc9725ec16b",
+      "slug": "arcteryx-s-3xl-xetr229-5826456",
+      "parent_product_id": "5826456",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826476": {
+      "rawHash": "e9b41c761efbbbafbba960619ef5296919b23936",
+      "slug": "arcteryx-s-2xl-xetr230-5826476",
+      "parent_product_id": "5826476",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826498": {
+      "rawHash": "a5e1d37110df3a0d34fa40680d24c6ba8812e2b3",
+      "slug": "arcteryx-s-3xl-xetr231-5826498",
+      "parent_product_id": "5826498",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826516": {
+      "rawHash": "c6da18442c81a3f027e57a894096d074496087aa",
+      "slug": "prada-s-l-xetr87-5826516",
+      "parent_product_id": "5826516",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5826530": {
+      "rawHash": "afc72e8a42b2ea2a5b0b2c0c3c2568f5597121da",
+      "slug": "prada-s-l-xetr88-5826530",
+      "parent_product_id": "5826530",
+      "firstSeen": "2026-08-06T05:58:39.300Z",
+      "lastSeen": "2026-08-06T05:58:39.300Z"
     }
   },
   "categories": [
@@ -3868,11 +4071,11 @@
     "ralph-lauren",
     "lacoste",
     "high-quality-0801",
-    "by-style-0804",
-    "t-shirt-0804",
-    "high-quality-0803",
-    "polo-short-0728",
-    "jacket-0729",
+    "by-style-0806",
+    "t-shirt-0805",
+    "high-quality-0805",
+    "polo-short-0805",
+    "jacket-0806",
     "down-jacket-0720",
     "bikini-0729",
     "spring-summer-kid-clothes-0721",
@@ -3919,5 +4122,5 @@
     "kenzo",
     "hotsale-updating"
   ],
-  "updatedAt": "2026-08-04T05:57:25.621Z"
+  "updatedAt": "2026-08-06T05:58:39.300Z"
 }

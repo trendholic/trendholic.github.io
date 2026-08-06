@@ -3,32 +3,25 @@
   "source": "shoes",
   "host": "shoes.tangma2088.com",
   "count": 96,
-  "updatedAt": "2026-08-04T06:12:36.313Z",
+  "updatedAt": "2026-08-06T06:13:28.926Z",
   "categories": [
     {
-      "name": "Dymsolatey 2026 0803",
-      "slug": "dymsolatey-2026-0803",
-      "source_url": "https://shoes.tangma2088.com/categoryen_182394.html?path=0_182394",
-      "source_path": "0_182394",
-      "parent_path": "0"
-    },
-    {
-      "name": "NEW ARRIVAL 0803",
-      "slug": "new-arrival-0803",
+      "name": "NEW ARRIVAL 0804",
+      "slug": "new-arrival-0804",
       "source_url": "https://shoes.tangma2088.com/categoryen_355.html?path=0_355",
       "source_path": "0_355",
       "parent_path": "0"
     },
     {
-      "name": "Factory B 0802",
-      "slug": "factory-b-0802",
+      "name": "Factory B 0804",
+      "slug": "factory-b-0804",
       "source_url": "https://shoes.tangma2088.com/categoryen_367.html?path=0_367",
       "source_path": "0_367",
       "parent_path": "0"
     },
     {
-      "name": "Factory C0803",
-      "slug": "factory-c0803",
+      "name": "Factory C0805",
+      "slug": "factory-c0805",
       "source_url": "https://shoes.tangma2088.com/categoryen_65136.html?path=0_65136",
       "source_path": "0_65136",
       "parent_path": "0"
@@ -48,8 +41,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Louis Vittion 2026 0803",
-      "slug": "louis-vittion-2026-0803",
+      "name": "Louis Vittion 2026 0804",
+      "slug": "louis-vittion-2026-0804",
       "source_url": "https://shoes.tangma2088.com/categoryen_327.html?path=0_327",
       "source_path": "0_327",
       "parent_path": "0"
@@ -244,6 +237,13 @@
       "parent_path": "0"
     },
     {
+      "name": "Dymsolatey 2026 0803",
+      "slug": "dymsolatey-2026-0803",
+      "source_url": "https://shoes.tangma2088.com/categoryen_182394.html?path=0_182394",
+      "source_path": "0_182394",
+      "parent_path": "0"
+    },
+    {
       "name": "DG 2026 0802",
       "slug": "dg-2026-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_145.html?path=0_145",
@@ -342,8 +342,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Hermes 2026 0803",
-      "slug": "hermes-2026-0803",
+      "name": "Hermes 2026 0804",
+      "slug": "hermes-2026-0804",
       "source_url": "https://shoes.tangma2088.com/categoryen_104.html?path=0_104",
       "source_path": "0_104",
       "parent_path": "0"
@@ -622,8 +622,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Valentino 2026 0730",
-      "slug": "valentino-2026-0730",
+      "name": "Valentino 2026 0804",
+      "slug": "valentino-2026-0804",
       "source_url": "https://shoes.tangma2088.com/categoryen_56.html?path=0_56",
       "source_path": "0_56",
       "parent_path": "0"

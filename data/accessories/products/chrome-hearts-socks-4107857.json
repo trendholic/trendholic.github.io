@@ -1,0 +1,71 @@
+{
+  "slug": "chrome-hearts-socks-4107857",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4107859",
+  "source_parent_product_id": "4107857",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4107859.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/chrome-hearts-socks-4107857/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4107859.html",
+    "https://acc.tangma2088.com/productinfoen_4107858.html",
+    "https://acc.tangma2088.com/productinfoen_4107857.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Chrome%20Hearts%20Socks%20(1)_4107858.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Chrome%20Hearts%20Socks%20(2)_4107859.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Chrome%20Hearts%20Socks_4107857.jpg"
+  ],
+  "source_last_seen": "2026-08-06T06:06:00.185Z",
+  "name": "Chrome Hearts Socks",
+  "english_product_name": "Chrome Hearts Socks",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4107857",
+  "parent_product_id": "4107857",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/chrome-hearts-socks-4107857-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Chrome%20Hearts%20Socks%20(1)_4107858.jpg",
+      "content_hash": "fe38f7dbf81cfc4758a308b13f2ed9539306e034",
+      "alt": "Chrome Hearts Socks"
+    },
+    {
+      "src": "/data/accessories/images/chrome-hearts-socks-4107857-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Chrome%20Hearts%20Socks%20(2)_4107859.jpg",
+      "content_hash": "19e09c4083e79688771a8ef87f4c7764b35a2b82",
+      "alt": "Chrome Hearts Socks"
+    },
+    {
+      "src": "/data/accessories/images/chrome-hearts-socks-4107857-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Chrome%20Hearts%20Socks_4107857.jpg",
+      "content_hash": "27717d1be94c4f69e127a3c15006dccae114d93d",
+      "alt": "Chrome Hearts Socks"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T06:06:00.185Z"
+}

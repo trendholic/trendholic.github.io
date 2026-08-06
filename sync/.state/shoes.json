@@ -3250,16 +3250,141 @@
       "parent_product_id": "3002347",
       "firstSeen": "2026-08-04T06:15:08.118Z",
       "lastSeen": "2026-08-04T06:15:08.118Z"
+    },
+    "3004924": {
+      "rawHash": "18f2bae47dfcc67641cd2f5cbbd2a0a7f69b5007",
+      "slug": "gucci-sz35-45-hx-3004924",
+      "parent_product_id": "3004924",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3004929": {
+      "rawHash": "0081e6bd47d7ed1cf5777718581afa3d7bf4fe27",
+      "slug": "loro-piana-sz35-45-ly0802-3004929",
+      "parent_product_id": "3004929",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3004953": {
+      "rawHash": "32c10036a817bb31a2c7a1e33d621db9d80d4be0",
+      "slug": "miumiu-sz35-40-ly0801-3004953",
+      "parent_product_id": "3004953",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3004965": {
+      "rawHash": "6cd00cba83cfca90c6b913f8846261050defca36",
+      "slug": "moncler-sz39-45-wm0801-3004965",
+      "parent_product_id": "3004965",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005028": {
+      "rawHash": "b18413aff4e604e1dc8f300b02320415067e8adf",
+      "slug": "prada-sz38-45-wm-3005028",
+      "parent_product_id": "3005028",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005054": {
+      "rawHash": "f15205e487137885a81cbc57ee23c8140f5cf07b",
+      "slug": "celine-sz35-40-ly-3005054",
+      "parent_product_id": "3005054",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005074": {
+      "rawHash": "8a6528f9b04d9cc19c66b863d3a4fff84edcd2c6",
+      "slug": "chloe-sz35-40-jm0801-3005074",
+      "parent_product_id": "3005074",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005093": {
+      "rawHash": "185aa9542a9fa1610341036d2671d2aef801e50b",
+      "slug": "dg-sz35-40-ly0822-3005093",
+      "parent_product_id": "3005093",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005103": {
+      "rawHash": "237eea968fa1e909973ff7334ec7efddcd4058d3",
+      "slug": "dg-sz35-40-ly0801-3005103",
+      "parent_product_id": "3005103",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005113": {
+      "rawHash": "60ca2ce0f63f55dd966bb88a42a43107497817ed",
+      "slug": "dior-sz35-40-ly-3005113",
+      "parent_product_id": "3005113",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005130": {
+      "rawHash": "8246d2cd7e9bc4136b07a79a79efab3c09b17e06",
+      "slug": "dior-sz35-40-ly0803-3005130",
+      "parent_product_id": "3005130",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005173": {
+      "rawHash": "463240ba1a039122c959014cb4e70d41a2cfed54",
+      "slug": "loewe-sz35-40ly-3005173",
+      "parent_product_id": "3005173",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005195": {
+      "rawHash": "306753ab042e9d931b703f36aefae18e49ec0dc2",
+      "slug": "dg-sz35-40-ly0802-3005195",
+      "parent_product_id": "3005195",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005211": {
+      "rawHash": "fedc07b69509f14bec0976e9feedc1e85628728c",
+      "slug": "prada-sz35-40-ly-3005211",
+      "parent_product_id": "3005211",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005221": {
+      "rawHash": "a27840819fae66390ec8d1f90aff0e4b44d0c61c",
+      "slug": "celine-sz35-40-ly0801-3005221",
+      "parent_product_id": "3005221",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005232": {
+      "rawHash": "4cbc68989f24463eb20f9fb1242564529b48612a",
+      "slug": "gucci-sz35-40-hx-3005232",
+      "parent_product_id": "3005232",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005257": {
+      "rawHash": "e8bb24d12a68e81587467cd53ffc42ba35d7a137",
+      "slug": "hermes-sz38-45-ly0801-3005257",
+      "parent_product_id": "3005257",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005313": {
+      "rawHash": "ab0342bc0fe143067ca59701ff6078b1b6fb6c38",
+      "slug": "prada-sz39-45-ly0801-3005313",
+      "parent_product_id": "3005313",
+      "firstSeen": "2026-08-06T06:16:10.356Z",
+      "lastSeen": "2026-08-06T06:16:10.356Z"
     }
   },
   "categories": [
-    "dymsolatey-2026-0803",
-    "new-arrival-0803",
-    "factory-b-0802",
-    "factory-c0803",
+    "new-arrival-0804",
+    "factory-b-0804",
+    "factory-c0805",
     "kid-shoes-0713",
     "gucci-2026-0803",
-    "louis-vittion-2026-0803",
+    "louis-vittion-2026-0804",
     "alexander-mcqueen-2026-0728",
     "armani-2026-0730",
     "amiri-2026-0725",
@@ -3287,6 +3412,7 @@
     "chanel-2026-0803",
     "coach-2026-0728",
     "chrome-hearts-2026-0606",
+    "dymsolatey-2026-0803",
     "dg-2026-0802",
     "dior-2026-0803",
     "dsq-2026-0717",
@@ -3301,7 +3427,7 @@
     "richard-2026-0530",
     "rickowens-2026-0606",
     "roger-vivier-2026-0725",
-    "hermes-2026-0803",
+    "hermes-2026-0804",
     "hogan-2026-0615",
     "jimmy-choo-20250628",
     "jil-sander-2026-0608",
@@ -3341,7 +3467,7 @@
     "tod-s-2026-0624",
     "tory-burch-2026-0802",
     "ugg-20260204",
-    "valentino-2026-0730",
+    "valentino-2026-0804",
     "versace-2026-0802",
     "veja-2026-0617",
     "ysl-2026-0730",
@@ -3350,5 +3476,5 @@
     "zilli-2026-0606",
     "zara-2026-0725"
   ],
-  "updatedAt": "2026-08-04T06:15:08.118Z"
+  "updatedAt": "2026-08-06T06:16:10.356Z"
 }

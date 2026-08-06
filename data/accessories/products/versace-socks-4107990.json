@@ -1,0 +1,72 @@
+{
+  "slug": "versace-socks-4107990",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4107993",
+  "source_parent_product_id": "4107990",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4107993.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/versace-socks-4107990/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4107993.html",
+    "https://acc.tangma2088.com/productinfoen_4107992.html",
+    "https://acc.tangma2088.com/productinfoen_4107991.html",
+    "https://acc.tangma2088.com/productinfoen_4107990.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Versace%20Socks%20(1)_4107991.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Versace%20Socks%20(2)_4107992.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Versace%20Socks_4107990.jpg"
+  ],
+  "source_last_seen": "2026-08-06T06:06:00.185Z",
+  "name": "Versace Socks",
+  "english_product_name": "Versace Socks",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4107990",
+  "parent_product_id": "4107990",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/versace-socks-4107990-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Versace%20Socks%20(1)_4107991.jpg",
+      "content_hash": "8c7725569b3d0921b2aeb4216bf14d861cd483d8",
+      "alt": "Versace Socks"
+    },
+    {
+      "src": "/data/accessories/images/versace-socks-4107990-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Versace%20Socks%20(2)_4107992.jpg",
+      "content_hash": "b8256957ffc3bad03e7fdc0340f93234ba9c363f",
+      "alt": "Versace Socks"
+    },
+    {
+      "src": "/data/accessories/images/versace-socks-4107990-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Versace%20Socks_4107990.jpg",
+      "content_hash": "a72fe8bd2e0f8e2b4015e9c81895d660b751c1c9",
+      "alt": "Versace Socks"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T06:06:00.185Z"
+}

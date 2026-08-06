@@ -3,7 +3,7 @@
   "source": "apparel",
   "host": "tangma2088.com",
   "count": 56,
-  "updatedAt": "2026-08-04T05:55:15.930Z",
+  "updatedAt": "2026-08-06T05:56:27.595Z",
   "categories": [
     {
       "name": "2025 New",
@@ -48,36 +48,36 @@
       "parent_path": null
     },
     {
-      "name": "By Style 0804",
-      "slug": "by-style-0804",
+      "name": "By Style 0806",
+      "slug": "by-style-0806",
       "source_url": "https://tangma2088.com/categoryen_1580.html?path=0_1580",
       "source_path": "0_1580",
       "parent_path": "0"
     },
     {
-      "name": "T Shirt 0804",
-      "slug": "t-shirt-0804",
+      "name": "T Shirt 0805",
+      "slug": "t-shirt-0805",
       "source_url": "https://tangma2088.com/categoryen_11.html?path=0_11",
       "source_path": "0_11",
       "parent_path": "0"
     },
     {
-      "name": "High Quality 0803",
-      "slug": "high-quality-0803",
+      "name": "High Quality 0805",
+      "slug": "high-quality-0805",
       "source_url": "https://tangma2088.com/categoryen_139496.html?path=0_139496",
       "source_path": "0_139496",
       "parent_path": "0"
     },
     {
-      "name": "Polo Short 0728",
-      "slug": "polo-short-0728",
+      "name": "Polo Short 0805",
+      "slug": "polo-short-0805",
       "source_url": "https://tangma2088.com/categoryen_10.html?path=0_10",
       "source_path": "0_10",
       "parent_path": "0"
     },
     {
-      "name": "Jacket 0729",
-      "slug": "jacket-0729",
+      "name": "Jacket 0806",
+      "slug": "jacket-0806",
       "source_url": "https://tangma2088.com/categoryen_394.html?path=0_394",
       "source_path": "0_394",
       "parent_path": "0"

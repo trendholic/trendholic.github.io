@@ -1,0 +1,71 @@
+{
+  "slug": "fendi-socks-4107876",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4107878",
+  "source_parent_product_id": "4107876",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4107878.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-socks-4107876/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4107878.html",
+    "https://acc.tangma2088.com/productinfoen_4107877.html",
+    "https://acc.tangma2088.com/productinfoen_4107876.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Fendi%20Socks%20(2)_4107877.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Fendi%20Socks%20(3)_4107878.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Fendi%20Socks_4107876.jpg"
+  ],
+  "source_last_seen": "2026-08-06T06:06:00.185Z",
+  "name": "Fendi Socks",
+  "english_product_name": "Fendi Socks",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4107876",
+  "parent_product_id": "4107876",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/fendi-socks-4107876-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Fendi%20Socks%20(2)_4107877.jpg",
+      "content_hash": "482eae76d9dd650292dc02989e6acd789ad35ba9",
+      "alt": "Fendi Socks"
+    },
+    {
+      "src": "/data/accessories/images/fendi-socks-4107876-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Fendi%20Socks%20(3)_4107878.jpg",
+      "content_hash": "355881c30121a571694408eb5715f2a164ee2006",
+      "alt": "Fendi Socks"
+    },
+    {
+      "src": "/data/accessories/images/fendi-socks-4107876-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Fendi%20Socks_4107876.jpg",
+      "content_hash": "a516da41ceb5552714deee273f18bb5f91a7cdd6",
+      "alt": "Fendi Socks"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T06:06:00.185Z"
+}

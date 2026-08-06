@@ -1,0 +1,63 @@
+{
+  "slug": "puma-socks-4107988",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4107989",
+  "source_parent_product_id": "4107988",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4107989.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/puma-socks-4107988/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4107989.html",
+    "https://acc.tangma2088.com/productinfoen_4107988.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Puma%20Socks%20(2)_4107989.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Puma%20Socks_4107988.jpg"
+  ],
+  "source_last_seen": "2026-08-06T06:06:00.185Z",
+  "name": "Puma Socks",
+  "english_product_name": "Puma Socks",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4107988",
+  "parent_product_id": "4107988",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/puma-socks-4107988-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Puma%20Socks%20(2)_4107989.jpg",
+      "content_hash": "a31f13fce9148fc4097f76ce134506fdbe1ac9b3",
+      "alt": "Puma Socks"
+    },
+    {
+      "src": "/data/accessories/images/puma-socks-4107988-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Puma%20Socks_4107988.jpg",
+      "content_hash": "2401b9f323c7489e1843d70a2d14ceeccc59883d",
+      "alt": "Puma Socks"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T06:06:00.185Z"
+}

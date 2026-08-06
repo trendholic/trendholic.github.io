@@ -1,0 +1,64 @@
+{
+  "slug": "lululemon-socks-4107903",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4107904",
+  "source_parent_product_id": "4107903",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4107904.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lululemon-socks-4107903/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4107904.html",
+    "https://acc.tangma2088.com/productinfoen_4107903.html",
+    "https://acc.tangma2088.com/productinfoen_4107902.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Lululemon%20Socks%20(2)_4107904.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Lululemon%20Socks_4107903.jpg"
+  ],
+  "source_last_seen": "2026-08-06T06:06:00.185Z",
+  "name": "Lululemon Socks",
+  "english_product_name": "Lululemon Socks",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4107903",
+  "parent_product_id": "4107903",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/lululemon-socks-4107903-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Lululemon%20Socks%20(2)_4107904.jpg",
+      "content_hash": "3aae82df702ec81f47506fb612f652a4028cafcf",
+      "alt": "Lululemon Socks"
+    },
+    {
+      "src": "/data/accessories/images/lululemon-socks-4107903-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Lululemon%20Socks_4107903.jpg",
+      "content_hash": "a7e3c86ef93ffd8bc437ed3d614846956717695b",
+      "alt": "Lululemon Socks"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T06:06:00.185Z"
+}

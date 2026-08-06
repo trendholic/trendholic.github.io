@@ -1,0 +1,64 @@
+{
+  "slug": "burberry-socks-4107810",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4107811",
+  "source_parent_product_id": "4107810",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4107811.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/burberry-socks-4107810/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4107811.html",
+    "https://acc.tangma2088.com/productinfoen_4107810.html",
+    "https://acc.tangma2088.com/productinfoen_4107809.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Burberry%20Socks%20(1)_4107810.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Burberry%20Socks%20(2)_4107811.jpg"
+  ],
+  "source_last_seen": "2026-08-06T06:06:00.185Z",
+  "name": "Burberry Socks",
+  "english_product_name": "Burberry Socks",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4107810",
+  "parent_product_id": "4107810",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/burberry-socks-4107810-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Burberry%20Socks%20(1)_4107810.jpg",
+      "content_hash": "c34c33d9d9e1f97d9617e5b90ac6c26b0fcb3e0d",
+      "alt": "Burberry Socks"
+    },
+    {
+      "src": "/data/accessories/images/burberry-socks-4107810-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Burberry%20Socks%20(2)_4107811.jpg",
+      "content_hash": "eacdeff4ef84a15c7d9410d345345023266bad0a",
+      "alt": "Burberry Socks"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T06:06:00.185Z"
+}
