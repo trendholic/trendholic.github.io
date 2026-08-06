@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T06:18:05.183Z",
+  "updatedAt": "2026-08-06T05:16:50.620Z",
   "topCategories": [
     {
       "name": "Apparel",
@@ -24,11 +24,17 @@
       "slug": "shoes",
       "productCount": 454,
       "subcategoriesDiscovered": 96
+    },
+    {
+      "name": "Arabic Perfumes",
+      "slug": "perfumes",
+      "productCount": 495,
+      "subcategoriesDiscovered": 0
     }
   ],
   "totals": {
-    "topCategories": 4,
-    "products": 1490,
+    "topCategories": 5,
+    "products": 1985,
     "subcategoriesDiscovered": 241
   }
 }

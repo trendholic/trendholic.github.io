@@ -1,0 +1,94 @@
+{
+  "slug": "armaf-club-de-nuit-bling-eau-de-parfum-75-ml-2-5-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8297597862071",
+  "source_parent_product_id": "8297597862071",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-club-de-nuit-bling-eau-de-parfum-75-ml-2-5-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-club-de-nuit-bling-eau-de-parfum-75-ml-2-5-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-club-de-nuit-bling-eau-de-parfum-75-ml-2-5-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ClubdeNuitBling2.avif?v=1764259558",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ClubdeNuitBling4.jpg?v=1764259558",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ClubdeNuitBling3.jpg?v=1764259558",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ClubdeNuitBling.jpg?v=1764259558"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club de Nuit Bling Eau de Parfum 75 ml (2.5 oz)",
+  "english_product_name": "Armaf Club de Nuit Bling Eau de Parfum 75 ml (2.5 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8297597862071",
+  "parent_product_id": "8297597862071",
+  "description": "Club de Nuit Bling by Armaf delivers a bold, radiant scent with a modern, luxurious character. It opens bright with fresh citrus top notes, giving a sparkling, energetic first impression. The heart introduces a “flower prism” and airy stardust-like freshness — clean, luminous, and slightly floral. The dry-down settles into smooth velvet woods and a hint of vanilla, wrapping the wearer in a warm, refined woody-vanilla base that balances freshness and sophistication. Bling is crafted for those who want a confident, attention-grabbing scent with both freshness and sensual depth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "54.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "54.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-bling-eau-de-parfum-75-ml-2-5-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ClubdeNuitBling2.avif?v=1764259558",
+      "content_hash": "efc4609287e4168b06bbcc13a5043da3f0aaf063",
+      "alt": "Armaf Club de Nuit Bling Eau de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-bling-eau-de-parfum-75-ml-2-5-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ClubdeNuitBling4.jpg?v=1764259558",
+      "content_hash": "35434494348834922f3dded88fb4e41b454abae3",
+      "alt": "Armaf Club de Nuit Bling Eau de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-bling-eau-de-parfum-75-ml-2-5-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ClubdeNuitBling3.jpg?v=1764259558",
+      "content_hash": "85ccf4eb5ab1f663eec86e1793e4cf1980c15d08",
+      "alt": "Armaf Club de Nuit Bling Eau de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-bling-eau-de-parfum-75-ml-2-5-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ClubdeNuitBling.jpg?v=1764259558",
+      "content_hash": "1755de516738533986a17cc4d2ede14142698b17",
+      "alt": "Armaf Club de Nuit Bling Eau de Parfum 75 ml (2.5 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "tharwah-gold",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8241897767095",
+  "source_parent_product_id": "8241897767095",
+  "source_product_url": "https://habibiperfumes.store/products/tharwah-gold",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/tharwah-gold/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/tharwah-gold"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Tharwah_Gold_1.webp?v=1778158420",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Tharwah_Gold_2.webp?v=1778158420",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/tharwah_gold_3.webp?v=1778158420",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/tharwah_gold_4.webp?v=1778158493",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/tharwah_gold_5.jpg?v=1778158494"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Tharwah Gold Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Tharwah Gold Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241897767095",
+  "parent_product_id": "8241897767095",
+  "description": "Tharwah Gold is an elegant and radiant fragrance that blends fresh fruits, soft florals, and creamy musky warmth into a refined feminine scent. The fragrance feels luxurious, smooth, and versatile with a clean modern character balanced by subtle sweetness. The opening introduces lavender and bergamot, creating a fresh aromatic brightness with a soft citrus touch that feels uplifting and elegant. The heart develops into orange blossom and Egyptian jasmine, adding a creamy floral richness with graceful feminine depth. The base settles into vanilla, amber, and vetiver, leaving a warm, smooth, and long-lasting trail that feels clean, sophisticated, and comforting. Tharwah Gold is perfect for women who enjoy floral musk fragrances with soft sweetness and an elegant modern dry-down.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "33.99",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "33.99",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/tharwah-gold-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Tharwah_Gold_1.webp?v=1778158420",
+      "content_hash": "a1d46fac3fea4061d6a80c260fa754bdb24c76a1",
+      "alt": "Lattafa Tharwah Gold Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/tharwah-gold-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Tharwah_Gold_2.webp?v=1778158420",
+      "content_hash": "0913ba39b1702e37b2fe0c4a595c2aab69a5b496",
+      "alt": "Lattafa Tharwah Gold Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/tharwah-gold-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/tharwah_gold_3.webp?v=1778158420",
+      "content_hash": "b2c5935808c63402607719e32cc0d0fb619448d0",
+      "alt": "Lattafa Tharwah Gold Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/tharwah-gold-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/tharwah_gold_4.webp?v=1778158493",
+      "content_hash": "2576cd5619f12ae509a32476a5cbb72b34bfffbd",
+      "alt": "Lattafa Tharwah Gold Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/tharwah-gold-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/tharwah_gold_5.jpg?v=1778158494",
+      "content_hash": "5311699f80edaae29b9e7ee2b87afca5be445b7e",
+      "alt": "Lattafa Tharwah Gold Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

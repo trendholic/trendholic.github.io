@@ -1,0 +1,122 @@
+{
+  "slug": "lattafa-khamrah",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241902256311",
+  "source_parent_product_id": "8241902256311",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-khamrah",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-khamrah/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-khamrah"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61lIaaNDDqL.jpg?v=1782921157",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71lRdO1_9-L._SL1500.jpg?v=1782921168",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa-Khamrah-EDP-Spray-3-4-Oz-For-Men-8541b45d8d2e6c7ad08717151ce6c67b_large_30da02d7-9627-4564-ab52-1c51d1eda0b0.webp?v=1764095840",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khamrah-3_955c3269-4a1d-4c5a-ac88-b2be98b8fc55.png?v=1782921193",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.75805.jpg?v=1764095840",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khamrabottle3.png?v=1782921242",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign-2024-04-25T113227.436.webp?v=1764095840",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa-khamrah-perfume-bottle-closeup-sprayer-detail.jpg?v=1782921216"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Khamrah Unisex Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Khamrah Unisex Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241902256311",
+  "parent_product_id": "8241902256311",
+  "description": "Khamrah by Lattafa is a luxurious oriental-spicy perfume that blends warm spices, woods, and sweet gourmand notes. It opens with cinnamon, nutmeg, and bergamot; its heart features dates, praline, tuberose, and mahonial; and the base lingers with vanilla, tonka bean, amberwood, myrrh, benzoin, and akigalawood. Deep, cozy, and rich — great for nights or when you want to make a statement.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-collection-bundle-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61lIaaNDDqL.jpg?v=1782921157",
+      "content_hash": "c99e9ff4ac4a87ef460e09a76d289906bb376988",
+      "alt": "Lattafa Khamrah Unisex Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71lRdO1_9-L._SL1500.jpg?v=1782921168",
+      "content_hash": "e74afb4d9995543536e664ce5cabefaf3e21f76f",
+      "alt": "Lattafa Khamrah Unisex Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa-Khamrah-EDP-Spray-3-4-Oz-For-Men-8541b45d8d2e6c7ad08717151ce6c67b_large_30da02d7-9627-4564-ab52-1c51d1eda0b0.webp?v=1764095840",
+      "content_hash": "713b4dd52ee1d6e4b13441cd9077c8a2012be34e",
+      "alt": "Lattafa Khamrah Unisex Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khamrah-3_955c3269-4a1d-4c5a-ac88-b2be98b8fc55.png?v=1782921193",
+      "content_hash": "839ff2890611791b8a55e572a29ad39e1f81268c",
+      "alt": "Lattafa Khamrah Unisex Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.75805.jpg?v=1764095840",
+      "content_hash": "66ac5da3c05959240655eeee0c51e5119709b2bb",
+      "alt": "Lattafa Khamrah Unisex Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khamrabottle3.png?v=1782921242",
+      "content_hash": "0c7082e18b05524fc4dc30dbadae415ee88d7cbd",
+      "alt": "Lattafa Khamrah Unisex Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-7.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign-2024-04-25T113227.436.webp?v=1764095840",
+      "content_hash": "1d3e1409dd1c44ecc5a429c3e4f6aaa7dbc1900f",
+      "alt": "Lattafa Khamrah Unisex Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-8.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa-khamrah-perfume-bottle-closeup-sprayer-detail.jpg?v=1782921216",
+      "content_hash": "fc525fa41b545f9b27a7ad32b5958c3bbf20ec70",
+      "alt": "Lattafa Khamrah Unisex Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

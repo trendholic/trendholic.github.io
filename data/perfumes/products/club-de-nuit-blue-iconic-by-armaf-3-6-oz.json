@@ -1,0 +1,87 @@
+{
+  "slug": "club-de-nuit-blue-iconic-by-armaf-3-6-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8216652710071",
+  "source_parent_product_id": "8216652710071",
+  "source_product_url": "https://habibiperfumes.store/products/club-de-nuit-blue-iconic-by-armaf-3-6-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/club-de-nuit-blue-iconic-by-armaf-3-6-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/club-de-nuit-blue-iconic-by-armaf-3-6-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rjrtjstjjyjyj.jpg?v=1781894268",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.78475.2x.avif?v=1755805408",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping.webp?v=1755805408"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club de Nuit Blue Iconic Eau de Parfum 3.6 oz Men’s",
+  "english_product_name": "Armaf Club de Nuit Blue Iconic Eau de Parfum 3.6 oz Men’s",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "6294015164152",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216652710071",
+  "parent_product_id": "8216652710071",
+  "description": "Club de Nuit Blue Iconic by Armaf is a bold, woody-spicy fragrance for men launched in 2022. It opens with fresh top notes of grapefruit, lemon, mint, pink pepper, and coriander. The heart blends spicy and sweet tones of ginger, nutmeg, melon, and jasmine. It dries down to a rich base composed of incense, amber, cedar, sandalwood, patchouli, and labdanum. This scent delivers strong freshness with a refined woody warmth — great for both daytime and more formal evenings.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": null,
+      "sku": "6294015164152",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/club-de-nuit-blue-iconic-by-armaf-3-6-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rjrtjstjjyjyj.jpg?v=1781894268",
+      "content_hash": "72b4bdbb62c1d8277aaadf1fe01b699790d05da4",
+      "alt": "Armaf Club de Nuit Blue Iconic Eau de Parfum 3.6 oz Men’s"
+    },
+    {
+      "src": "/data/perfumes/images/club-de-nuit-blue-iconic-by-armaf-3-6-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.78475.2x.avif?v=1755805408",
+      "content_hash": "f9b9fd98e51448b1bb2b464fb27c73795f9b5153",
+      "alt": "Armaf Club de Nuit Blue Iconic Eau de Parfum 3.6 oz Men’s"
+    },
+    {
+      "src": "/data/perfumes/images/club-de-nuit-blue-iconic-by-armaf-3-6-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping.webp?v=1755805408",
+      "content_hash": "7a6e8302c39735447facceac9ccad96d2d49b031",
+      "alt": "Armaf Club de Nuit Blue Iconic Eau de Parfum 3.6 oz Men’s"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

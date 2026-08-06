@@ -1,0 +1,101 @@
+{
+  "slug": "armaf-spartacus-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8540554920119",
+  "source_parent_product_id": "8540554920119",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-spartacus-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-spartacus-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-spartacus-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafSpartacus.jpg?v=1776381153",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafSpartacus2.webp?v=1776381153",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafSpartacus4.jpg?v=1776380766",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafSpartacus5.webp?v=1776380766",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Armaf_Spartacus_6.jpg?v=1776380947"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Spartacus Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Spartacus Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8540554920119",
+  "parent_product_id": "8540554920119",
+  "description": "Spartacus is a bold and addictive fragrance that blends sweet gourmand notes with warm spices and deep woody amber. The scent feels powerful and modern, combining richness with a smooth, luxurious finish. The opening introduces bergamot, cardamom, cinnamon, and plum, creating a fruity-spicy sweetness that immediately stands out. The heart develops into orange blossom, lavender, davana, and creamy vanilla, adding depth and smooth aromatic warmth. The base settles into praline, tonka bean, amber, patchouli, musk, and woods, leaving a rich, sweet, and long-lasting trail that feels warm, masculine, and indulgent. Spartacus is perfect for men who enjoy sweet, bold fragrances with strong projection and a gourmand-woody character.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "54.99",
+      "compare_at_price": "59.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "54.99",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-spartacus-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafSpartacus.jpg?v=1776381153",
+      "content_hash": "88303001eececaa4c40cbc01f74893db09ac78c8",
+      "alt": "Armaf Spartacus Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-spartacus-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafSpartacus2.webp?v=1776381153",
+      "content_hash": "0192e9c0d83751667d158086ba3be63521aab7c2",
+      "alt": "Armaf Spartacus Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-spartacus-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafSpartacus4.jpg?v=1776380766",
+      "content_hash": "dc83315446681e8f76a8cc6cd20ebac98777915e",
+      "alt": "Armaf Spartacus Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-spartacus-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafSpartacus5.webp?v=1776380766",
+      "content_hash": "d6e17115a1acc3a92bbfca69cf5c4b364df6f66b",
+      "alt": "Armaf Spartacus Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-spartacus-eau-de-parfum-100-ml-3-4-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Armaf_Spartacus_6.jpg?v=1776380947",
+      "content_hash": "1997f3315cc8b4636c80f9a4e1ed319e16d0dabd",
+      "alt": "Armaf Spartacus Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

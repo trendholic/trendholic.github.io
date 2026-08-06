@@ -1,0 +1,80 @@
+{
+  "slug": "bourbon",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241906450615",
+  "source_parent_product_id": "8241906450615",
+  "source_product_url": "https://habibiperfumes.store/products/bourbon",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/bourbon/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/bourbon"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.101124.jpg?v=1763129975",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Asad-Bourbon-2.webp?v=1763129975"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Asad Bourbon Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Asad Bourbon Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241906450615",
+  "parent_product_id": "8241906450615",
+  "description": "Asad Bourbon by Lattafa is a warm, woody-spicy fragrance that captures richness, power, and sophistication. It opens with bold black pepper, tobacco, and bergamot , creating a smoky yet elegant first impression. The heart reveals coffee, patchouli, and dry woods , adding warmth, smoothness, and masculine depth. The base settles into vanilla, amber, benzoin, and tonka bean , giving a creamy, sweet finish that perfectly balances its smoky character. Asad Bourbon is a deeper, richer version of the original Asad — ideal for cooler seasons and evening wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/bourbon-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.101124.jpg?v=1763129975",
+      "content_hash": "c15f4f8574d749e64f96e7640e63545f3ae74ae9",
+      "alt": "Lattafa Asad Bourbon Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/bourbon-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Asad-Bourbon-2.webp?v=1763129975",
+      "content_hash": "6c30aaeaa27adda5eec6c82fa481143391106a18",
+      "alt": "Lattafa Asad Bourbon Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

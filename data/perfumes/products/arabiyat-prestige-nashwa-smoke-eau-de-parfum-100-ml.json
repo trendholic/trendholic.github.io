@@ -1,0 +1,94 @@
+{
+  "slug": "arabiyat-prestige-nashwa-smoke-eau-de-parfum-100-ml",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8565880324279",
+  "source_parent_product_id": "8565880324279",
+  "source_product_url": "https://habibiperfumes.store/products/arabiyat-prestige-nashwa-smoke-eau-de-parfum-100-ml",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/arabiyat-prestige-nashwa-smoke-eau-de-parfum-100-ml/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/arabiyat-prestige-nashwa-smoke-eau-de-parfum-100-ml"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/nashwa_smoke.jpg?v=1778267450",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/nashwa_smokebx.jpg?v=1778267451",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/nashwa_smokebox.jpg?v=1778267450",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NashwaSmoke05.jpg?v=1778267451"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige Nashwa Smoke Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Arabiyat Prestige Nashwa Smoke Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8565880324279",
+  "parent_product_id": "8565880324279",
+  "description": "Arabiyat Prestige Nashwa Smoke is a smoky oud-amber unisex Eau de Parfum in a 100 ml / 3.4 oz bottle. Verified notes include bergamot and pink peppercorn on top; cedarwood and oud wood in the heart; and leathery notes, patchouli, amber, and oud in the base.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-nashwa-smoke-eau-de-parfum-100-ml-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/nashwa_smoke.jpg?v=1778267450",
+      "content_hash": "8dde08427b15409317f721780250b4ebcc048fea",
+      "alt": "Arabiyat Prestige Nashwa Smoke Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-nashwa-smoke-eau-de-parfum-100-ml-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/nashwa_smokebx.jpg?v=1778267451",
+      "content_hash": "5ac1ee32f22c9d92b6b88fb87aea0e453d3e7a4a",
+      "alt": "Arabiyat Prestige Nashwa Smoke Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-nashwa-smoke-eau-de-parfum-100-ml-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/nashwa_smokebox.jpg?v=1778267450",
+      "content_hash": "f0cedf4f6a3e53d7d4338f70537bc97588d4a372",
+      "alt": "Arabiyat Prestige Nashwa Smoke Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-nashwa-smoke-eau-de-parfum-100-ml-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NashwaSmoke05.jpg?v=1778267451",
+      "content_hash": "73e23c6d989b28723ba88bf4c8b03869a746d617",
+      "alt": "Arabiyat Prestige Nashwa Smoke Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

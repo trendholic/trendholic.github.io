@@ -1,0 +1,101 @@
+{
+  "slug": "midday-swim-by-emper",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8689011065015",
+  "source_parent_product_id": "8689011065015",
+  "source_product_url": "https://habibiperfumes.store/products/midday-swim-by-emper",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/midday-swim-by-emper/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/midday-swim-by-emper"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/emper-unisex-midday-swim-edp-spray-34-oz-fragrances-6291108529096.jpg?v=1785689576",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eau-de-parfum-midway-swim-100ml-homme-emper_326d4776-7fa4-427a-b436-98a26167b623.jpg?v=1785689577",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eau-de-parfum-midway-swim-100ml-homme-emper_75b4cc27-f65f-40cc-ba2e-d438ff9f623b.jpg?v=1785689577",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eau-de-parfum-midway-swim-100ml-homme-emper.jpg?v=1785689577",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eau-de-parfum-midway-swim-100ml-homme-emper_401e524c-662f-4377-a28a-b3f94da7e7bb.jpg?v=1785689577"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Midday Swim by Emper Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Midday Swim by Emper Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Emper",
+  "sku": "6291108529096",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8689011065015",
+  "parent_product_id": "8689011065015",
+  "description": "Midday Swim by Emper Eau de Parfum is a fresh aquatic-citrus fragrance with a bright, clean profile. It opens with lively citrus notes including orange, bergamot and mandarin, then moves into fresh aromatic and aquatic facets with a smooth ginger touch. Ambergris, woods and musk create a clean, long-lasting base. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.50",
+      "compare_at_price": "29.99",
+      "sku": "6291108529096",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.50",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/midday-swim-by-emper-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/emper-unisex-midday-swim-edp-spray-34-oz-fragrances-6291108529096.jpg?v=1785689576",
+      "content_hash": "bb734cfab409becaf89b103a6749364996781450",
+      "alt": "Midday Swim by Emper Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/midday-swim-by-emper-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eau-de-parfum-midway-swim-100ml-homme-emper_326d4776-7fa4-427a-b436-98a26167b623.jpg?v=1785689577",
+      "content_hash": "c13e121af7c3c8396c23a7f398ef5f988f8b9043",
+      "alt": "Midday Swim by Emper Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/midday-swim-by-emper-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eau-de-parfum-midway-swim-100ml-homme-emper_75b4cc27-f65f-40cc-ba2e-d438ff9f623b.jpg?v=1785689577",
+      "content_hash": "1a7406d1b3543d3213f8882e2f6423e0cda641ca",
+      "alt": "Midday Swim by Emper Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/midday-swim-by-emper-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eau-de-parfum-midway-swim-100ml-homme-emper.jpg?v=1785689577",
+      "content_hash": "8d31dac162dbd49618e0a7f5ab7db0c228120daa",
+      "alt": "Midday Swim by Emper Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/midday-swim-by-emper-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eau-de-parfum-midway-swim-100ml-homme-emper_401e524c-662f-4377-a28a-b3f94da7e7bb.jpg?v=1785689577",
+      "content_hash": "d913faf33fbe572139a5453b85ae42389836490e",
+      "alt": "Midday Swim by Emper Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

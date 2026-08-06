@@ -1,0 +1,101 @@
+{
+  "slug": "ocean-breeze-by-emper",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8216942379191",
+  "source_parent_product_id": "8216942379191",
+  "source_product_url": "https://habibiperfumes.store/products/ocean-breeze-by-emper",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/ocean-breeze-by-emper/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/ocean-breeze-by-emper"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/emper-unisex-ocean-breeze-edp-spray-34-oz-fragrances-6294021901437.jpg?v=1785377224",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OceanBreeze2.png?v=1785377243",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/6C7929F9-D06E-4087-9A6A-4C2D6D49CAA8.jpg?v=1785377234",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_77b3047f-0d8f-470f-adc6-54ba815459c2.jpg?v=1785377277",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l400.jpg?v=1785377262"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Ocean Breeze by Emper Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Ocean Breeze by Emper Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Emper",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216942379191",
+  "parent_product_id": "8216942379191",
+  "description": "Ocean Breeze by Emper is a fresh aquatic fragrance that evokes the feeling of cool sea air. It opens with crisp citrus and marine notes for a refreshing start. The heart carries aromatic herbs and light spices, adding depth and masculinity. The base finishes with warm woods, musk, and amber, leaving a clean yet powerful trail. A perfect fragrance for men who enjoy freshness with character.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.50",
+      "compare_at_price": "29.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.50",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/ocean-breeze-by-emper-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/emper-unisex-ocean-breeze-edp-spray-34-oz-fragrances-6294021901437.jpg?v=1785377224",
+      "content_hash": "684e4b5518e4306aaf982c86df9b0ebbf2d667a8",
+      "alt": "Ocean Breeze by Emper Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/ocean-breeze-by-emper-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OceanBreeze2.png?v=1785377243",
+      "content_hash": "403e7743563ed7102465427c86875907f7399e65",
+      "alt": "Ocean Breeze by Emper Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/ocean-breeze-by-emper-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/6C7929F9-D06E-4087-9A6A-4C2D6D49CAA8.jpg?v=1785377234",
+      "content_hash": "9ff494e5eb6fdf6304930b8fdcfa947819924315",
+      "alt": "Ocean Breeze by Emper Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/ocean-breeze-by-emper-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_77b3047f-0d8f-470f-adc6-54ba815459c2.jpg?v=1785377277",
+      "content_hash": "ae7549b0d604091c72c123225a736176dc7ee099",
+      "alt": "Ocean Breeze by Emper Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/ocean-breeze-by-emper-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l400.jpg?v=1785377262",
+      "content_hash": "07a6db7eccd9ddd01e44d72ffd1c52489e7edb20",
+      "alt": "Ocean Breeze by Emper Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

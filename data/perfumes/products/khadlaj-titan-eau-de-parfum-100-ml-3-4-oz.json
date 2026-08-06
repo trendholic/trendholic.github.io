@@ -1,0 +1,94 @@
+{
+  "slug": "khadlaj-titan-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8297600712887",
+  "source_parent_product_id": "8297600712887",
+  "source_product_url": "https://habibiperfumes.store/products/khadlaj-titan-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/khadlaj-titan-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/khadlaj-titan-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KhadlajTitan.jpg?v=1764261409",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KhadlajTitan2.jpg?v=1764261409",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KhadlajTitan4.webp?v=1764261409",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KhadlajTitan5.jpg?v=1764261409"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Khadlaj Titan Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Khadlaj Titan Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Khadlaj Perfumes",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8297600712887",
+  "parent_product_id": "8297600712887",
+  "description": "Titan by Khadlaj is a bold, structured, and powerful fragrance crafted for those who enjoy strong modern masculines with a warm amber-woody foundation. It opens with fresh spices and citrus energy, giving a confident first spray that grabs attention instantly. The heart introduces clean woods, resinous warmth, and a refined aromatic touch that keeps it smooth instead of sharp. The base dries into rich amber, dark woods, and long-lasting musk—delivering excellent endurance and masculine presence on skin and clothes. This scent fits customers who want a strong, warm, slightly spiced, clean-woody signature that performs all day and stands strong at night.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.95",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.95",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/khadlaj-titan-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KhadlajTitan.jpg?v=1764261409",
+      "content_hash": "9a210e28294d596b081bc0091c8aa4f664b314fc",
+      "alt": "Khadlaj Titan Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-titan-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KhadlajTitan2.jpg?v=1764261409",
+      "content_hash": "c26a1a5b4b69be05042871cb6aebf7f797490067",
+      "alt": "Khadlaj Titan Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-titan-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KhadlajTitan4.webp?v=1764261409",
+      "content_hash": "b0db833657953e6902928f45552bba3f961b0f8a",
+      "alt": "Khadlaj Titan Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-titan-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KhadlajTitan5.jpg?v=1764261409",
+      "content_hash": "271e89048891ba71eb7f75d759668da18fe449be",
+      "alt": "Khadlaj Titan Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

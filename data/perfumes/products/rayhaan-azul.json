@@ -1,0 +1,108 @@
+{
+  "slug": "rayhaan-azul",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8621409108151",
+  "source_parent_product_id": "8621409108151",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-azul",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-azul/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-azul"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Azul1.jpg?v=1782232152",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2Azul.png?v=1782229524",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Azul_Box.png?v=1782230208",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3Azul.jpg?v=1782229960",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Azul_4.jpg?v=1782229937",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Azul_6.png?v=1782230549"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Azul Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Azul Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": "6297001571415",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8621409108151",
+  "parent_product_id": "8621409108151",
+  "description": "Rayhaan Azul Eau de Parfum for men is a fresh, energetic summer fragrance. It opens with juicy lemon and sweet melon, develops into candied watermelon and creamy coconut, and settles over crisp marine notes, smooth amberwood and a subtle cacao accent. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.50",
+      "compare_at_price": "49.99",
+      "sku": "6297001571415",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-azul-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Azul1.jpg?v=1782232152",
+      "content_hash": "d09cc5570a70f019e90d3439dd2a6e994ecd0814",
+      "alt": "Rayhaan Azul Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-azul-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2Azul.png?v=1782229524",
+      "content_hash": "33c3a1c3e1144f7864c7d438d5a6fe41726fa364",
+      "alt": "Rayhaan Azul Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-azul-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Azul_Box.png?v=1782230208",
+      "content_hash": "a1687e5bdcab128a0e776c7b5af06cea4b07a2f3",
+      "alt": "Rayhaan Azul Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-azul-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3Azul.jpg?v=1782229960",
+      "content_hash": "a2a482613e22a7a2227fe9c51d72f6b2dae4bc77",
+      "alt": "Rayhaan Azul Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-azul-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Azul_4.jpg?v=1782229937",
+      "content_hash": "7bbeb8253b8b174eb2941f7d5becd4824adc15cc",
+      "alt": "Rayhaan Azul Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-azul-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Azul_6.png?v=1782230549",
+      "content_hash": "33abdf54f25d2ce12ae55a5783ce813b461d2c11",
+      "alt": "Rayhaan Azul Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

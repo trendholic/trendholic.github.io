@@ -1,0 +1,80 @@
+{
+  "slug": "6290360597126",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241901568183",
+  "source_parent_product_id": "8241901568183",
+  "source_product_url": "https://habibiperfumes.store/products/6290360597126",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6290360597126/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6290360597126"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.98028.jpg?v=1757973702",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/A36B9E2D-1988-4AC2-B6E6-3BD875092B45.webp?v=1757973702"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Exclusive Prive Rouge Unisex Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Exclusive Prive Rouge Unisex Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": "6290360597126",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241901568183",
+  "parent_product_id": "8241901568183",
+  "description": "Exclusive Prive Rouge by Riiffs is a warm, spicy-oriental floral fragrance. It opens with aromatic saffron and spicy jasmine, followed by a rich heart of tuberose, jasmine, and benzoin. The base is deep and luxurious with amberwood, amber, and warm woods. The scent blends creamy florals with spicy warmth and a soft resinous finish, ideal when you want to feel bold and elegant.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": "6290360597126",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6290360597126-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.98028.jpg?v=1757973702",
+      "content_hash": "0756cca0697189672e1dbb7ca551b894615ed989",
+      "alt": "Exclusive Prive Rouge Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360597126-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/A36B9E2D-1988-4AC2-B6E6-3BD875092B45.webp?v=1757973702",
+      "content_hash": "79f6fdfb06c77c2cb48ff2f49d61749179620c48",
+      "alt": "Exclusive Prive Rouge Unisex Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

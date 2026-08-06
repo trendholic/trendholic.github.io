@@ -1,0 +1,94 @@
+{
+  "slug": "armaf-the-lions-club-feroce-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8575501795511",
+  "source_parent_product_id": "8575501795511",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-the-lions-club-feroce-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-the-lions-club-feroce-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-the-lions-club-feroce-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GUEST_2e5cb55f-f439-4614-9b5b-5dfb8498755a.jpg?v=1779201319",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GUEST_4d096a26-578a-4dc2-9acf-e913e98a2f43.jpg?v=1779201320",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GUEST_ee95bf4e-4175-4ca8-9522-ea572effb6c0.jpg?v=1779201319",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/70.png?v=1779201320"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf The Lion's Club Feroce Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf The Lion's Club Feroce Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "ARMAF-LIONS-CLUB-FEROCE-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8575501795511",
+  "parent_product_id": "8575501795511",
+  "description": "Armaf The Lion's Club Feroce is a 100 ml / 3.4 oz Eau de Parfum for men. Verified references list clary sage, bergamot, and lavender; saffron and praline; then cedarwood, agarwood, vetiver, and oud.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.50",
+      "compare_at_price": "49.99",
+      "sku": "ARMAF-LIONS-CLUB-FEROCE-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-the-lions-club-feroce-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GUEST_2e5cb55f-f439-4614-9b5b-5dfb8498755a.jpg?v=1779201319",
+      "content_hash": "2ec5a540195136d4602f25b057d70cb3bc52f9ab",
+      "alt": "Armaf The Lion's Club Feroce Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-the-lions-club-feroce-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GUEST_4d096a26-578a-4dc2-9acf-e913e98a2f43.jpg?v=1779201320",
+      "content_hash": "b559e51c2a20a6cbb434a45eec496b150fb52ffe",
+      "alt": "Armaf The Lion's Club Feroce Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-the-lions-club-feroce-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GUEST_ee95bf4e-4175-4ca8-9522-ea572effb6c0.jpg?v=1779201319",
+      "content_hash": "3fd23a9f1d5b70baa9209d9fedf3cb1b381d0a8f",
+      "alt": "Armaf The Lion's Club Feroce Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-the-lions-club-feroce-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/70.png?v=1779201320",
+      "content_hash": "adf99ef19af1570ca112525595ad3e9aa7200aba",
+      "alt": "Armaf The Lion's Club Feroce Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

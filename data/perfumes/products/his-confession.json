@@ -1,0 +1,87 @@
+{
+  "slug": "his-confession",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241905041591",
+  "source_parent_product_id": "8241905041591",
+  "source_product_url": "https://habibiperfumes.store/products/his-confession",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/his-confession/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/his-confession"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51ACigFYKRL._UF1000_1000_QL80.jpg?v=1760363782",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa_his_confession_eau_de_parfum_100_ml_2.webp?v=1760363782",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71a1OFYEciL._UF350_350_QL80.jpg?v=1760363782"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "His Confession by Lattafa Men’s Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "His Confession by Lattafa Men’s Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241905041591",
+  "parent_product_id": "8241905041591",
+  "description": "His Confession is a bold, aromatic fragrance with a warm and powdery edge. It opens with a spicy and fresh blend of cinnamon, lavender, and mandarin , transitions into a heart of iris, cypress, benzoin, and mahonial , and finally settles into a rich base of vanilla, tonka, incense, cedarwood, amber, and patchouli .",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/his-confession-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51ACigFYKRL._UF1000_1000_QL80.jpg?v=1760363782",
+      "content_hash": "aad416379ab5851d26b1fb59d58c0f6cc77bbda3",
+      "alt": "His Confession by Lattafa Men’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/his-confession-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa_his_confession_eau_de_parfum_100_ml_2.webp?v=1760363782",
+      "content_hash": "0e6d757d3bd7a0d735662ae0e2bc5211bb707431",
+      "alt": "His Confession by Lattafa Men’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/his-confession-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71a1OFYEciL._UF350_350_QL80.jpg?v=1760363782",
+      "content_hash": "484f045dba820ba855e306c1f25c86e3edfe6f56",
+      "alt": "His Confession by Lattafa Men’s Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

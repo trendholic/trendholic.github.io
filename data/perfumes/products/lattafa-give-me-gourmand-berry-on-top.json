@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-give-me-gourmand-berry-on-top",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8573484236983",
+  "source_parent_product_id": "8573484236983",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-give-me-gourmand-berry-on-top",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-give-me-gourmand-berry-on-top/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-give-me-gourmand-berry-on-top"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/14.png?v=1778861449",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1_78bd61db-e256-40a9-aabe-198eaad677f5.png?v=1778861450",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2_c5d1827d-aa9e-4660-856f-812cbfed1fe7.png?v=1778861449"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Give Me Gourmand Berry On Top Eau de Parfum 75 ml (2.5 oz)",
+  "english_product_name": "Lattafa Give Me Gourmand Berry On Top Eau de Parfum 75 ml (2.5 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6290362349693",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8573484236983",
+  "parent_product_id": "8573484236983",
+  "description": "Lattafa Give Me Gourmand Berry On Top is a 75 ml / 2.5 oz Eau de Parfum with a bright strawberry gourmand profile. Verified official notes include strawberry and Chantilly cream on top, cooked sugar, strawberry jam, and white flowers in the heart, and musk and vanilla in the base.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.5 oz / 75 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "49.99",
+      "sku": "6290362349693",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-give-me-gourmand-berry-on-top-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/14.png?v=1778861449",
+      "content_hash": "073162afe348575be9ee2a73430c4d8bd10594ae",
+      "alt": "Lattafa Give Me Gourmand Berry On Top Eau de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-give-me-gourmand-berry-on-top-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1_78bd61db-e256-40a9-aabe-198eaad677f5.png?v=1778861450",
+      "content_hash": "af75f4c679d5aa9178b8f5f92abcddb8c1fc1cc9",
+      "alt": "Lattafa Give Me Gourmand Berry On Top Eau de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-give-me-gourmand-berry-on-top-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2_c5d1827d-aa9e-4660-856f-812cbfed1fe7.png?v=1778861449",
+      "content_hash": "cfce93493167bb92dc984c2360f21b5b90bfa026",
+      "alt": "Lattafa Give Me Gourmand Berry On Top Eau de Parfum 75 ml (2.5 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

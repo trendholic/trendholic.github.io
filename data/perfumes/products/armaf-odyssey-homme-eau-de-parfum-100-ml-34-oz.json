@@ -1,0 +1,101 @@
+{
+  "slug": "armaf-odyssey-homme-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8575501533367",
+  "source_parent_product_id": "8575501533367",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-odyssey-homme-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-odyssey-homme-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-odyssey-homme-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/TCB_5006.jpg?v=1779201308",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/TCB_4870_1.jpg?v=1779201307",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/TCB_5010.jpg?v=1779201307",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/TCB_4996.jpg?v=1779201308",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/TCB_5003.jpg?v=1779201308"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Homme Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Odyssey Homme Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "ARMAF-ODYSSEY-HOMME-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8575501533367",
+  "parent_product_id": "8575501533367",
+  "description": "Armaf Odyssey Homme is a 100 ml / 3.4 oz Eau de Parfum for men. Verified references list vanilla and amber; oriental notes, spices, and iris; then vanilla, leather, and jasmine.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "34.99",
+      "sku": "ARMAF-ODYSSEY-HOMME-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "34.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-homme-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/TCB_5006.jpg?v=1779201308",
+      "content_hash": "ce40dc965bc8a07603768abc34dacfa5f1c1e8aa",
+      "alt": "Armaf Odyssey Homme Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-homme-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/TCB_4870_1.jpg?v=1779201307",
+      "content_hash": "654e36c9fb4e8ecb075abbe30f2189c249b9f526",
+      "alt": "Armaf Odyssey Homme Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-homme-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/TCB_5010.jpg?v=1779201307",
+      "content_hash": "7f6f150bede77b3f1836df375df33db075bc1602",
+      "alt": "Armaf Odyssey Homme Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-homme-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/TCB_4996.jpg?v=1779201308",
+      "content_hash": "e5f15ecc58c1e1edece425747c8027fc677939b3",
+      "alt": "Armaf Odyssey Homme Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-homme-eau-de-parfum-100-ml-34-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/TCB_5003.jpg?v=1779201308",
+      "content_hash": "640cefb880ce91f2f9d467a1d34dff364427b033",
+      "alt": "Armaf Odyssey Homme Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

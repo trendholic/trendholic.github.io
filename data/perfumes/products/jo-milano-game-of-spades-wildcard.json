@@ -1,0 +1,87 @@
+{
+  "slug": "jo-milano-game-of-spades-wildcard",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8270521565367",
+  "source_parent_product_id": "8270521565367",
+  "source_product_url": "https://habibiperfumes.store/products/jo-milano-game-of-spades-wildcard",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/jo-milano-game-of-spades-wildcard/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/jo-milano-game-of-spades-wildcard"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/game_of_spades_wildcard_boittle.webp?v=1784238388",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51qcAsu9z0L._AC_UF1000_1000_QL80.jpg?v=1761523394",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/en-p_c_103910.jpg?v=1761523394"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Jo Milano Game of Spades Wildcard Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Jo Milano Game of Spades Wildcard Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Jo Milano",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270521565367",
+  "parent_product_id": "8270521565367",
+  "description": "Game of Spades Wildcard opens with fresh and bright notes of bergamot, flowers, and coriander. The heart reveals apple, ambroxan, and vanilla, giving a modern fruity-woody sweetness. In the base, tonka bean, ambergris, and woody notes ground the scent with an elegant, slightly smoky finish. This fragrance delivers a balanced blend of fresh citrus, fruity sweetness, and warm woods—versatile for both daytime and evening wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "62.50",
+      "compare_at_price": "79.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "62.50",
+  "compare_at_price": "79.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-wildcard-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/game_of_spades_wildcard_boittle.webp?v=1784238388",
+      "content_hash": "0251234ded9bbe609f0f281624d7866fa0e9dba3",
+      "alt": "Jo Milano Game of Spades Wildcard Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-wildcard-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51qcAsu9z0L._AC_UF1000_1000_QL80.jpg?v=1761523394",
+      "content_hash": "495fe7d62a499465a58948ed5c1c98ced8b647c0",
+      "alt": "Jo Milano Game of Spades Wildcard Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-wildcard-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/en-p_c_103910.jpg?v=1761523394",
+      "content_hash": "68699aac3cd9af2cb555b5f89996f8b5d6847e45",
+      "alt": "Jo Milano Game of Spades Wildcard Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

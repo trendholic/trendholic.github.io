@@ -1,0 +1,73 @@
+{
+  "slug": "smell-rich-bestsellers-bundle-italia-amber-saffron-al-noor",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8322488434871",
+  "source_parent_product_id": "8322488434871",
+  "source_product_url": "https://habibiperfumes.store/products/smell-rich-bestsellers-bundle-italia-amber-saffron-al-noor",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/smell-rich-bestsellers-bundle-italia-amber-saffron-al-noor/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/smell-rich-bestsellers-bundle-italia-amber-saffron-al-noor"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Smell_Rich_Bestseller_s_Bundle.jpg?v=1766540434"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Smell Rich Bestsellers Bundle - Italia, Amber Saffron, Al Noor",
+  "english_product_name": "Smell Rich Bestsellers Bundle - Italia, Amber Saffron, Al Noor",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes Miami",
+  "sku": "69c1f0a872adb",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8322488434871",
+  "parent_product_id": "8322488434871",
+  "description": "The Smell Rich Bestsellers Bundle is a polished, high-impact fragrance trio designed for customers who want to smell expensive, clean, confident, and put-together — without overpowering sweetness. This bundle delivers three luxury scent styles that dominate compliments: Italia for crisp, Italian-style fresh elegance Amber Saffron for refined warmth and upscale presence Al Noor for smooth, glowing amber-musky richness Together, they create a full luxury rotation that works for the office, events, dates, and everyday confidence — the kind of scents people associate with money, success, and taste. Perfect for someone who wants to smell rich without trying too hard .",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "139.95",
+      "compare_at_price": "189.99",
+      "sku": "69c1f0a872adb",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "139.95",
+  "compare_at_price": "189.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/smell-rich-bestsellers-bundle-italia-amber-saffron-al-noor-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Smell_Rich_Bestseller_s_Bundle.jpg?v=1766540434",
+      "content_hash": "025e41e715c07274be9becd0cb9284f5404a077b",
+      "alt": "Smell Rich Bestsellers Bundle - Italia, Amber Saffron, Al Noor"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

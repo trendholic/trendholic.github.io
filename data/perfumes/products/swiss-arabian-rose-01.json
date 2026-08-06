@@ -1,0 +1,108 @@
+{
+  "slug": "swiss-arabian-rose-01",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8485250629815",
+  "source_parent_product_id": "8485250629815",
+  "source_product_url": "https://habibiperfumes.store/products/swiss-arabian-rose-01",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/swiss-arabian-rose-01/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/swiss-arabian-rose-01"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rose01_Swiss_Arabian.webp?v=1782746827",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ROSE-01.webp?v=1781330853",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/20220416_150052-scaled_ef77fef1-41bb-446f-bc92-6bc8fa4465c1.webp?v=1781330925",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61glNjpMxsL.jpg?v=1781330853",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DiscoverRose01_nowreimaginedinanExtraitdeParfumformat.Aradiantcompositionofsun-ki.webp?v=1781330853",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_4_99be060e-e622-4015-b6bf-b5e94fe7c208.jpg?v=1781330853"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Swiss Arabian Rose 01 Extrait de Parfum",
+  "english_product_name": "Swiss Arabian Rose 01 Extrait de Parfum",
+  "original_product_name": null,
+  "brand": "Swiss Arabian",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8485250629815",
+  "parent_product_id": "8485250629815",
+  "description": "Swiss Arabian Rose 01 is a vibrant floral fragrance built around luxurious rose layered with juicy fruits and soft musk. The scent blends romantic florals with a bright fruity sparkle, creating an elegant and modern rose perfume. The opening introduces lychee, bergamot, and pink pepper, delivering a fruity-fresh brightness with a subtle spicy edge. The heart reveals Bulgarian rose and peony, forming a rich floral bouquet with soft romantic depth. The base settles into vanilla, musk, and cashmeran, leaving a smooth, slightly creamy trail with warm woody softness. Rose 01 is perfect for those who enjoy elegant rose fragrances with fruity freshness and a soft musky finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "1.7 oz / 50 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "38.50",
+      "compare_at_price": "69.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "38.50",
+  "compare_at_price": "69.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/swiss-arabian-rose-01-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rose01_Swiss_Arabian.webp?v=1782746827",
+      "content_hash": "c326d8b745d172124f6a8202bcdff35f3230244d",
+      "alt": "Swiss Arabian Rose 01 Extrait de Parfum"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-rose-01-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ROSE-01.webp?v=1781330853",
+      "content_hash": "9ab1aaf2df2a6d939fc0374ee2541600f102bb3f",
+      "alt": "Swiss Arabian Rose 01 Extrait de Parfum"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-rose-01-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/20220416_150052-scaled_ef77fef1-41bb-446f-bc92-6bc8fa4465c1.webp?v=1781330925",
+      "content_hash": "b7a08b41a12d1437c330931a1ead97bedd405ca0",
+      "alt": "Swiss Arabian Rose 01 Extrait de Parfum"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-rose-01-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61glNjpMxsL.jpg?v=1781330853",
+      "content_hash": "cd6bc5d084f4f08d3065cfddeedb68b7b9b4c99b",
+      "alt": "Swiss Arabian Rose 01 Extrait de Parfum"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-rose-01-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DiscoverRose01_nowreimaginedinanExtraitdeParfumformat.Aradiantcompositionofsun-ki.webp?v=1781330853",
+      "content_hash": "2003887408a8e5b6efc78845e67a498a70da046a",
+      "alt": "Swiss Arabian Rose 01 Extrait de Parfum"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-rose-01-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_4_99be060e-e622-4015-b6bf-b5e94fe7c208.jpg?v=1781330853",
+      "content_hash": "07374f83bf7d54bd6f8b1a922cb3198c2bad7c0d",
+      "alt": "Swiss Arabian Rose 01 Extrait de Parfum"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

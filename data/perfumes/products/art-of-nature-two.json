@@ -1,0 +1,78 @@
+{
+  "slug": "art-of-nature-two",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": null,
+  "source_category_original": null,
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "8241902747831",
+  "source_parent_product_id": "8241902747831",
+  "source_product_url": "https://habibiperfumes.store/products/art-of-nature-two",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/art-of-nature-two/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/art-of-nature-two"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Art_of_Nature_II.png?v=1782845021",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rn-image_picker_lib_temp_212802e8-80c0-4cc9-b3e9-53157342c6f2.png?v=1761621330",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rn-image_picker_lib_temp_b405ed54-d09f-4374-9927-32e17c43922d.jpg?v=1761621330"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Pride Art of Nature II for Unisex Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Lattafa Pride Art of Nature II for Unisex Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241902747831",
+  "parent_product_id": "8241902747831",
+  "description": "Lattafa Pride Art of Nature II is a refined unisex fragrance that harmoniously blends vibrant and sophisticated elements. It opens with a refreshing burst of bergamot, olibanum, mandarin, and apple, creating a bright and fruity introduction. The heart reveals a luxurious combination of orange blossom, rose, and cardamom, adding a floral and spicy richness. The fragrance settles into a warm and enduring base of vanilla, ambroxan, guaiac wood, cedarwood, and musk, providing a deep and sensual finish. This elegant scent offers a perfect balance of citrus, floral, and woody notes, making it an exceptional choice for any occasion.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/art-of-nature-two-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Art_of_Nature_II.png?v=1782845021",
+      "content_hash": "380f96def3cade9039074d6d30524d2456d0fd86",
+      "alt": "Lattafa Pride Art of Nature II for Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/art-of-nature-two-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rn-image_picker_lib_temp_212802e8-80c0-4cc9-b3e9-53157342c6f2.png?v=1761621330",
+      "content_hash": "dffc2ce2e9bbb99a8d28a29933bd644fd631a70e",
+      "alt": "Lattafa Pride Art of Nature II for Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/art-of-nature-two-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rn-image_picker_lib_temp_b405ed54-d09f-4374-9927-32e17c43922d.jpg?v=1761621330",
+      "content_hash": "533500a90a4281882cdf708103798666e9ccefa6",
+      "alt": "Lattafa Pride Art of Nature II for Unisex Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "lattafa-the-kingdom-for-men",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241898356919",
+  "source_parent_product_id": "8241898356919",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-the-kingdom-for-men",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-the-kingdom-for-men/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-the-kingdom-for-men"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_The_Kingdom.webp?v=1782397092",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_The_Kingdom_Box.webp?v=1782397031",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG-1723.webp?v=1782397143",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa-mens-the-kingdom-edp-spray-34-oz-fragrances-6290360598345_3.jpg?v=1782397257",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81OrGpK1gEL._AC_UF1000_1000_QL80.jpg?v=1782397031"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa The Kingdom For Men Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa The Kingdom For Men Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6290360598352",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241898356919",
+  "parent_product_id": "8241898356919",
+  "description": "The Kingdom For Men by Lattafa opens with fresh top notes of sage, lavender and mint. At the heart you’ll find tobacco, vanilla and orange flower — adding warmth and richness. The base is anchored by tonka bean, benzoin and labdanum for a deep, resinous finish that lingers with confidence and depth. This fragrance balances aromatic freshness with sweet-woody warmth — designed for a modern man who wants a strong, memorable signature.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": "39.99",
+      "sku": "6290360598352",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-the-kingdom-for-men-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_The_Kingdom.webp?v=1782397092",
+      "content_hash": "87ebf1807c0064da393821ac6bf90c88042f1f0d",
+      "alt": "Lattafa The Kingdom For Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-the-kingdom-for-men-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_The_Kingdom_Box.webp?v=1782397031",
+      "content_hash": "466b9d603d9989bf8a1454f73af1b4e50f87c55e",
+      "alt": "Lattafa The Kingdom For Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-the-kingdom-for-men-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG-1723.webp?v=1782397143",
+      "content_hash": "e38027310d8d50fb182bca03cb04671f010c8cb6",
+      "alt": "Lattafa The Kingdom For Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-the-kingdom-for-men-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa-mens-the-kingdom-edp-spray-34-oz-fragrances-6290360598345_3.jpg?v=1782397257",
+      "content_hash": "80b25bcd3f09b3bceb2dd2ae8294228c453b8dbe",
+      "alt": "Lattafa The Kingdom For Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-the-kingdom-for-men-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81OrGpK1gEL._AC_UF1000_1000_QL80.jpg?v=1782397031",
+      "content_hash": "7e36a22f71ba49c4faa722f5b99ecd5aff0e4415",
+      "alt": "Lattafa The Kingdom For Men Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

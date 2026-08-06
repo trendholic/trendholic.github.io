@@ -1,0 +1,87 @@
+{
+  "slug": "armaf-island-breeze-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8475943731383",
+  "source_parent_product_id": "8475943731383",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-island-breeze-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-island-breeze-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-island-breeze-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafIslandBreeze2.webp?v=1772388702",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafIslandBreeze3.webp?v=1772388702",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafIslandBreeze.webp?v=1772388702"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Island Breeze Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Island Breeze Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8475943731383",
+  "parent_product_id": "8475943731383",
+  "description": "Armaf Island Breeze is a refreshing aquatic-fresh fragrance that captures the feeling of a cool ocean wind on a warm tropical day. It blends crisp citrus, marine freshness, and smooth woods to create a scent that feels clean, energizing, and effortlessly attractive. The opening delivers a bright splash of citrus and fresh marine notes that feel crisp, airy, and invigorating. The heart transitions into aromatic accords and soft florals, adding balance and modern sophistication. The base settles into clean musk and smooth woods, leaving a refreshing, masculine trail that feels calm, confident, and long-lasting. Island Breeze is perfect for those who want a clean, ocean-fresh signature scent that works easily for everyday wear and warm weather.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "49.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "49.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-island-breeze-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafIslandBreeze2.webp?v=1772388702",
+      "content_hash": "d75c66d74b952778beb8fa94e2ce452cc641a375",
+      "alt": "Armaf Island Breeze Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-island-breeze-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafIslandBreeze3.webp?v=1772388702",
+      "content_hash": "58b15e10a08e1a187402014b3c69b40fad8db899",
+      "alt": "Armaf Island Breeze Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-island-breeze-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafIslandBreeze.webp?v=1772388702",
+      "content_hash": "ac17bf591351ce0b9b921af6cb710912e9c17ec0",
+      "alt": "Armaf Island Breeze Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "black-for-woman-2-0oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": null,
+  "source_category_original": null,
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "8084626604215",
+  "source_parent_product_id": "8084626604215",
+  "source_product_url": "https://habibiperfumes.store/products/black-for-woman-2-0oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/black-for-woman-2-0oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/black-for-woman-2-0oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG_0593_1e83993f-fbea-49f6-9d10-f77ce9237b92.jpg?v=1745611723"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "BLACK inspired by YSL BLACK OPIUM",
+  "english_product_name": "BLACK inspired by YSL BLACK OPIUM",
+  "original_product_name": null,
+  "brand": "Daspar",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8084626604215",
+  "parent_product_id": "8084626604215",
+  "description": "Black for Woman 2.0oz",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "9.99",
+      "compare_at_price": "19.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "9.99",
+  "compare_at_price": "19.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/black-for-woman-2-0oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG_0593_1e83993f-fbea-49f6-9d10-f77ce9237b92.jpg?v=1745611723",
+      "content_hash": "1ea1d5a3dec6d08da6bf0d1c545daabad6f9bb22",
+      "alt": "BLACK inspired by YSL BLACK OPIUM"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

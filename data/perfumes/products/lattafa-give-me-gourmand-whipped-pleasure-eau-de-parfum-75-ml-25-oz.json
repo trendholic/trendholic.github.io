@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-give-me-gourmand-whipped-pleasure-eau-de-parfum-75-ml-25-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8573484204215",
+  "source_parent_product_id": "8573484204215",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-give-me-gourmand-whipped-pleasure-eau-de-parfum-75-ml-25-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-give-me-gourmand-whipped-pleasure-eau-de-parfum-75-ml-25-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-give-me-gourmand-whipped-pleasure-eau-de-parfum-75-ml-25-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4_123eed08-6e96-4ef5-a5b1-3d4970772d9e.png?v=1778861448",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/5_b9fef1dd-583c-4e66-8741-e9355fff423e.png?v=1778861448",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/18.png?v=1778861448"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Give Me Gourmand Whipped Pleasure Eau de Parfum 75 ml (2.5 oz)",
+  "english_product_name": "Lattafa Give Me Gourmand Whipped Pleasure Eau de Parfum 75 ml (2.5 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6290362349648",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8573484204215",
+  "parent_product_id": "8573484204215",
+  "description": "Lattafa Give Me Gourmand Whipped Pleasure is a 75 ml / 2.5 oz Eau de Parfum with a creamy caramel gourmand profile. Verified official notes include caramel popcorn and salted caramel on top, jasmine and milk in the heart, and tonka, benzoin, musk, and Ambrofix in the base.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.5 oz / 75 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "49.99",
+      "sku": "6290362349648",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-give-me-gourmand-whipped-pleasure-eau-de-parfum-75-ml-25-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4_123eed08-6e96-4ef5-a5b1-3d4970772d9e.png?v=1778861448",
+      "content_hash": "85ac4aa3644362efd878f2b6bf229181c3b91e56",
+      "alt": "Lattafa Give Me Gourmand Whipped Pleasure Eau de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-give-me-gourmand-whipped-pleasure-eau-de-parfum-75-ml-25-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/5_b9fef1dd-583c-4e66-8741-e9355fff423e.png?v=1778861448",
+      "content_hash": "aca3beed950744718529bd8162e43f1118964a5c",
+      "alt": "Lattafa Give Me Gourmand Whipped Pleasure Eau de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-give-me-gourmand-whipped-pleasure-eau-de-parfum-75-ml-25-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/18.png?v=1778861448",
+      "content_hash": "4e0a2f3c02771138566579115b9f8f7be7389cb3",
+      "alt": "Lattafa Give Me Gourmand Whipped Pleasure Eau de Parfum 75 ml (2.5 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

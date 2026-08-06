@@ -1,0 +1,101 @@
+{
+  "slug": "lattafa-layaan-eau-de-parfum-75-ml-2-53-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8537838551223",
+  "source_parent_product_id": "8537838551223",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-layaan-eau-de-parfum-75-ml-2-53-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-layaan-eau-de-parfum-75-ml-2-53-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-layaan-eau-de-parfum-75-ml-2-53-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaLayaan4.webp?v=1776208833",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaLayaan3.avif?v=1776208833",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaLayaan2.jpg?v=1776208833",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaLayaan.jpg?v=1776208833",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaLayaan5.jpg?v=1776208862"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Layaan Eau de Parfum 75 ml (2.53 oz)",
+  "english_product_name": "Lattafa Layaan Eau de Parfum 75 ml (2.53 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8537838551223",
+  "parent_product_id": "8537838551223",
+  "description": "Layaan is a smooth and radiant fragrance that blends juicy fruits with soft florals and warm sweetness. The scent feels modern and inviting, offering a balanced mix of brightness and creamy depth. The opening introduces fresh fruity notes that create a lively and uplifting first impression. The heart develops into delicate florals that add elegance and a soft touch. The base settles into musk, vanilla, and light woods, leaving a warm and long-lasting trail that feels smooth, clean, and comforting. Layaan is perfect for those who enjoy sweet fruity-floral fragrances with a soft creamy finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.53 oz / 75 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-layaan-eau-de-parfum-75-ml-2-53-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaLayaan4.webp?v=1776208833",
+      "content_hash": "33632f41a95dc4cf7e30cf0100ecd3838d600da4",
+      "alt": "Lattafa Layaan Eau de Parfum 75 ml (2.53 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-layaan-eau-de-parfum-75-ml-2-53-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaLayaan3.avif?v=1776208833",
+      "content_hash": "6f1843fd8ce051d3e4872eeec87844e48eee9c68",
+      "alt": "Lattafa Layaan Eau de Parfum 75 ml (2.53 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-layaan-eau-de-parfum-75-ml-2-53-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaLayaan2.jpg?v=1776208833",
+      "content_hash": "bfd3170791e8f3aa82a20ff32d34a68891862382",
+      "alt": "Lattafa Layaan Eau de Parfum 75 ml (2.53 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-layaan-eau-de-parfum-75-ml-2-53-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaLayaan.jpg?v=1776208833",
+      "content_hash": "181195fa967a65ffa61d6fc995f965811adb0f41",
+      "alt": "Lattafa Layaan Eau de Parfum 75 ml (2.53 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-layaan-eau-de-parfum-75-ml-2-53-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaLayaan5.jpg?v=1776208862",
+      "content_hash": "b92cf04a3d214a11429837f5e318b0a19ba91a52",
+      "alt": "Lattafa Layaan Eau de Parfum 75 ml (2.53 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

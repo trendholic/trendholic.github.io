@@ -1,0 +1,94 @@
+{
+  "slug": "armaf-odyssey-ba-ha-mas-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8575501500599",
+  "source_parent_product_id": "8575501500599",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-odyssey-ba-ha-mas-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-odyssey-ba-ha-mas-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-odyssey-ba-ha-mas-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/39_165dbaa5-23d1-4c86-8a36-8e269a0846b9.png?v=1779201306",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41_01417a10-ca32-436e-8576-ee7d465ca896.png?v=1779201306",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/40_d95864d7-71ff-43d9-a8bd-9eb242d05252.png?v=1779201306",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2_f33a74dc-cd12-4d2e-8767-2ad1176e463e.png?v=1779201306"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Ba Ha Mas Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Odyssey Ba Ha Mas Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "ARMAF-ODYSSEY-BA-HA-MAS-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8575501500599",
+  "parent_product_id": "8575501500599",
+  "description": "Armaf Odyssey Ba Ha Mas is a 100 ml / 3.4 oz Eau de Parfum from the tropical Odyssey collection, verified through official Armaf references as a bright tropical fragrance for men and women.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "49.99",
+      "sku": "ARMAF-ODYSSEY-BA-HA-MAS-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-ba-ha-mas-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/39_165dbaa5-23d1-4c86-8a36-8e269a0846b9.png?v=1779201306",
+      "content_hash": "ff210b400697735e1dfd87c13f6e350d5e78a272",
+      "alt": "Armaf Odyssey Ba Ha Mas Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-ba-ha-mas-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41_01417a10-ca32-436e-8576-ee7d465ca896.png?v=1779201306",
+      "content_hash": "2343949755e193e62ab5cd4a3cc52e65de0058fe",
+      "alt": "Armaf Odyssey Ba Ha Mas Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-ba-ha-mas-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/40_d95864d7-71ff-43d9-a8bd-9eb242d05252.png?v=1779201306",
+      "content_hash": "57e8caf4b706df0dd6a2543227bc4bb4befd5474",
+      "alt": "Armaf Odyssey Ba Ha Mas Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-ba-ha-mas-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2_f33a74dc-cd12-4d2e-8767-2ad1176e463e.png?v=1779201306",
+      "content_hash": "e449c750abb53f725ba4dad4f31ca8afc359a8af",
+      "alt": "Armaf Odyssey Ba Ha Mas Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

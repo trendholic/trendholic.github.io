@@ -1,0 +1,94 @@
+{
+  "slug": "arabiyat-prestige-nashwa-noir-eau-de-parfum-100-ml",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8565880258743",
+  "source_parent_product_id": "8565880258743",
+  "source_product_url": "https://habibiperfumes.store/products/arabiyat-prestige-nashwa-noir-eau-de-parfum-100-ml",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/arabiyat-prestige-nashwa-noir-eau-de-parfum-100-ml/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/arabiyat-prestige-nashwa-noir-eau-de-parfum-100-ml"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/nashwa_noir.jpg?v=1781890187",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/nashwa_noirbox.jpg?v=1778267448",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/nashwa_noirbx.jpg?v=1778267448",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NASHWANOIR-05.jpg?v=1778267448"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige Nashwa Noir Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Arabiyat Prestige Nashwa Noir Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8565880258743",
+  "parent_product_id": "8565880258743",
+  "description": "Arabiyat Prestige Nashwa Noir is a deep woody-musky unisex Eau de Parfum in a 100 ml / 3.4 oz bottle. Verified notes include bergamot, nutmeg, and cinnamon bark on top; nagarmotha and geranium in the heart; and leathery notes, patchouli, black musk, and saffron in the base.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-nashwa-noir-eau-de-parfum-100-ml-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/nashwa_noir.jpg?v=1781890187",
+      "content_hash": "c58cce00379fb4e5714c26acc25336383702a836",
+      "alt": "Arabiyat Prestige Nashwa Noir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-nashwa-noir-eau-de-parfum-100-ml-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/nashwa_noirbox.jpg?v=1778267448",
+      "content_hash": "a5c1560b897914e566a2bd26b1c7607e8cfdd622",
+      "alt": "Arabiyat Prestige Nashwa Noir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-nashwa-noir-eau-de-parfum-100-ml-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/nashwa_noirbx.jpg?v=1778267448",
+      "content_hash": "5ccfee87b8075639cc240d89c34b75ad6ddb3b70",
+      "alt": "Arabiyat Prestige Nashwa Noir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-nashwa-noir-eau-de-parfum-100-ml-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NASHWANOIR-05.jpg?v=1778267448",
+      "content_hash": "14065f692a1580ad0c80442e47f8e7ee9e28252d",
+      "alt": "Arabiyat Prestige Nashwa Noir Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

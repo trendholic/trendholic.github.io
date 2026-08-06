@@ -1,0 +1,87 @@
+{
+  "slug": "french-avenue-liquid-brun-limited-edition-extrait-de-parfum-150-ml",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8485100716215",
+  "source_parent_product_id": "8485100716215",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-liquid-brun-limited-edition-extrait-de-parfum-150-ml",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-liquid-brun-limited-edition-extrait-de-parfum-150-ml/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-liquid-brun-limited-edition-extrait-de-parfum-150-ml"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueLiquidBrunLimitedEdition2.webp?v=1772668368",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueLiquidBrunLimitedEdition4.jpg?v=1772668330",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueLiquidBrunLimitedEdition.jpg?v=1772668330"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Liquid Brun Limited Edition Extrait de Parfum 150 ml",
+  "english_product_name": "French Avenue Liquid Brun Limited Edition Extrait de Parfum 150 ml",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8485100716215",
+  "parent_product_id": "8485100716215",
+  "description": "French Avenue Liquid Brun Limited Edition is a rich, warm vanilla-amber fragrance designed for bold presence and luxurious depth. This limited edition intensifies the signature Liquid Brun DNA with smoother sweetness, deeper woods, and powerful extrait concentration. The opening delivers a warm aromatic blend of lavender, citrus, and cardamom, creating a spicy freshness that feels refined and attention-grabbing. The heart develops into orange blossom, guaiac wood, and soft rose, adding floral elegance with woody warmth. The base settles into creamy vanilla, amber, tonka bean, and oakmoss, producing a smooth, sweet, and long-lasting trail that feels warm, addictive, and sophisticated. Liquid Brun Limited Edition is ideal for cooler weather, evening wear, and anyone who enjoys powerful gourmand-amber fragrances with a luxurious, modern character.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "150ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "59.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "59.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-liquid-brun-limited-edition-extrait-de-parfum-150-ml-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueLiquidBrunLimitedEdition2.webp?v=1772668368",
+      "content_hash": "34e301394df1795466e66574d64e8cace2a4a1cd",
+      "alt": "French Avenue Liquid Brun Limited Edition Extrait de Parfum 150 ml"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-liquid-brun-limited-edition-extrait-de-parfum-150-ml-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueLiquidBrunLimitedEdition4.jpg?v=1772668330",
+      "content_hash": "4c95cd3e0e1d8cf88d34cbd60026841f0f1790e2",
+      "alt": "French Avenue Liquid Brun Limited Edition Extrait de Parfum 150 ml"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-liquid-brun-limited-edition-extrait-de-parfum-150-ml-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueLiquidBrunLimitedEdition.jpg?v=1772668330",
+      "content_hash": "5f7c5d19f56da7c66252723bf013ee899e7cc1fc",
+      "alt": "French Avenue Liquid Brun Limited Edition Extrait de Parfum 150 ml"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

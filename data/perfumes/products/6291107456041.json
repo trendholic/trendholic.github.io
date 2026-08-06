@@ -1,0 +1,80 @@
+{
+  "slug": "6291107456041",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8241897865399",
+  "source_parent_product_id": "8241897865399",
+  "source_product_url": "https://habibiperfumes.store/products/6291107456041",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6291107456041/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6291107456041"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.70466.jpg?v=1757963280",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51nzg54sl9L._UF1000_1000_QL80.jpg?v=1757963280"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Fakhar Rose Women’s Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Fakhar Rose Women’s Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6291107456041",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241897865399",
+  "parent_product_id": "8241897865399",
+  "description": "Fakhar Rose by Lattafa is a lush, white floral fragrance with a fruity opening. It starts with vibrant top notes of fruits, pomegranate, lily, and aldehydes. The heart blooms into a rich bouquet of tuberose, jasmine, rose, gardenia, ylang-ylang, honeysuckle, and peony. The base is warm and creamy with vanilla, white musk, ambroxan, and sandalwood. A perfume that balances bold femininity with soft elegance.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": "6291107456041",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6291107456041-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.70466.jpg?v=1757963280",
+      "content_hash": "5343c873491949ee2ae98e2326e434499a5d4d0b",
+      "alt": "Lattafa Fakhar Rose Women’s Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107456041-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51nzg54sl9L._UF1000_1000_QL80.jpg?v=1757963280",
+      "content_hash": "c01077c9279a877a994ebaa4629f482a085c701d",
+      "alt": "Lattafa Fakhar Rose Women’s Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

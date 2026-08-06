@@ -1,0 +1,87 @@
+{
+  "slug": "nusuk-raheeq-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8490371940535",
+  "source_parent_product_id": "8490371940535",
+  "source_product_url": "https://habibiperfumes.store/products/nusuk-raheeq-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/nusuk-raheeq-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/nusuk-raheeq-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukRaheeq.jpg?v=1772990565",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukRaheeq1.jpg?v=1772990565",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukRaheeq2.webp?v=1772990565"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Nusuk Raheeq Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Nusuk Raheeq Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Nusuk",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490371940535",
+  "parent_product_id": "8490371940535",
+  "description": "Raheeq is a smooth and elegant fragrance that blends soft florals, warm amber, and gentle sweetness into a refined oriental composition. The scent feels luxurious and comforting, offering a balanced profile that combines floral brightness with warm depth. The opening introduces light floral and sweet notes that create a soft and inviting first impression. The heart develops into richer floral accords and smooth amber warmth, adding elegance and body to the fragrance. The base settles into musk and soft woody notes, leaving a warm and long-lasting trail that feels smooth and sophisticated. Raheeq is ideal for those who enjoy soft floral fragrances with warm amber sweetness and a smooth musky finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/nusuk-raheeq-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukRaheeq.jpg?v=1772990565",
+      "content_hash": "a27975c5d4bd411a81077853c9656312f37e58ad",
+      "alt": "Nusuk Raheeq Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/nusuk-raheeq-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukRaheeq1.jpg?v=1772990565",
+      "content_hash": "bea3770ab13edd8e0619b5e82ff05064688fca1a",
+      "alt": "Nusuk Raheeq Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/nusuk-raheeq-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukRaheeq2.webp?v=1772990565",
+      "content_hash": "14b52526679f3279f1b1e156aab9b729abbc9d9d",
+      "alt": "Nusuk Raheeq Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

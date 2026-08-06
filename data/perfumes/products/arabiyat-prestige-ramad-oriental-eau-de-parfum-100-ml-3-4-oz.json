@@ -1,0 +1,87 @@
+{
+  "slug": "arabiyat-prestige-ramad-oriental-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8490354933943",
+  "source_parent_product_id": "8490354933943",
+  "source_product_url": "https://habibiperfumes.store/products/arabiyat-prestige-ramad-oriental-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/arabiyat-prestige-ramad-oriental-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/arabiyat-prestige-ramad-oriental-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeRamadOriental1.jpg?v=1772986930",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeRamadOriental2.webp?v=1772986930",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeRamadOriental3.webp?v=1772986930"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige Ramad Oriental Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Arabiyat Prestige Ramad Oriental Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490354933943",
+  "parent_product_id": "8490354933943",
+  "description": "Ramad Oriental is a rich oriental fragrance that blends warm spices, smoky resins, and smooth amber sweetness. The scent delivers a bold Middle Eastern character with deep warmth and luxurious depth. The opening introduces aromatic spices and warm smoky accords that create an intense and captivating first impression. The heart develops into rich amber and resinous notes, adding warmth and oriental elegance. The base settles into woods, musk, and soft sweetness, leaving a deep, long-lasting trail that feels powerful and refined. Ramad Oriental is ideal for lovers of traditional oriental fragrances with smoky warmth and rich amber depth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-ramad-oriental-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeRamadOriental1.jpg?v=1772986930",
+      "content_hash": "99fa53e7c7a7136f67fbaef7ac7bb0d59b37c065",
+      "alt": "Arabiyat Prestige Ramad Oriental Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-ramad-oriental-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeRamadOriental2.webp?v=1772986930",
+      "content_hash": "f0a6ea979094bad06d4f53a417a301ba8624e35d",
+      "alt": "Arabiyat Prestige Ramad Oriental Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-ramad-oriental-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeRamadOriental3.webp?v=1772986930",
+      "content_hash": "c84e9bd8bef1b69dbfe77cf9ef1210d9be20c7f1",
+      "alt": "Arabiyat Prestige Ramad Oriental Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

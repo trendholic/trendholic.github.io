@@ -1,0 +1,73 @@
+{
+  "slug": "sweet-gourmand-bundle-eclaire-tiramisu-caramel-sh-mallow-fluff",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8322493120695",
+  "source_parent_product_id": "8322493120695",
+  "source_product_url": "https://habibiperfumes.store/products/sweet-gourmand-bundle-eclaire-tiramisu-caramel-sh-mallow-fluff",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/sweet-gourmand-bundle-eclaire-tiramisu-caramel-sh-mallow-fluff/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/sweet-gourmand-bundle-eclaire-tiramisu-caramel-sh-mallow-fluff"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Sweet_GourmandBundle.jpg?v=1766541181"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Sweet & Gourmand Bundle - Éclaire, Tiramisu Caramel, Sh’Mallow Fluff",
+  "english_product_name": "Sweet & Gourmand Bundle - Éclaire, Tiramisu Caramel, Sh’Mallow Fluff",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes Miami",
+  "sku": "69c1f0a9dd775",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8322493120695",
+  "parent_product_id": "8322493120695",
+  "description": "The Sweet & Gourmand Bundle is designed for lovers of cozy, edible, dessert-inspired fragrances that feel comforting, addictive, and delicious. This bundle brings together three indulgent gourmand styles: Éclaire delivers creamy vanilla sweetness with a soft, cozy glow Tiramisu Caramel adds rich coffee, caramel drizzle, and bakery warmth Sh’Mallow Fluff finishes with fluffy marshmallow sweetness and playful softness Together, these scents create a dessert-lover’s dream rotation — perfect for cuddly evenings, date nights, and holiday gifting. Sweet without being childish, warm without being heavy. Ideal for customers who want to smell edible, cozy, and irresistible .",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "96.99",
+      "compare_at_price": "129.99",
+      "sku": "69c1f0a9dd775",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "96.99",
+  "compare_at_price": "129.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/sweet-gourmand-bundle-eclaire-tiramisu-caramel-sh-mallow-fluff-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Sweet_GourmandBundle.jpg?v=1766541181",
+      "content_hash": "133d5bc1d4615b67eacd09b7a81c870b5006c142",
+      "alt": "Sweet & Gourmand Bundle - Éclaire, Tiramisu Caramel, Sh’Mallow Fluff"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

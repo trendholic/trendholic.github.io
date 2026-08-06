@@ -1,0 +1,87 @@
+{
+  "slug": "al-noor",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241899339959",
+  "source_parent_product_id": "8241899339959",
+  "source_product_url": "https://habibiperfumes.store/products/al-noor",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/al-noor/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/al-noor"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Araybiyat_Presige_Al_Noor.jpg?v=1785524186",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_21_72cb380e-4cf1-4c75-b30c-f58efbaf89e9.jpg?v=1762969950",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/STONE_4_1100x_7b6f62f2-d880-46a7-b79f-03498718f760.webp?v=1762969950"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige Al Noor Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Arabiyat Prestige Al Noor Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241899339959",
+  "parent_product_id": "8241899339959",
+  "description": "Al Noor by Arabiyat Prestige is a luxurious oriental-amber fragrance that radiates warmth and sophistication. It opens with bright bergamot, saffron, and pink pepper , giving a vibrant and spicy introduction. The heart reveals a rich blend of rose, patchouli, and amber , creating depth and an elegant floral warmth. The base settles into musk, vanilla, oud, and tonka bean , forming a smooth, creamy, and long-lasting finish. Al Noor is the perfect balance of floral richness, soft sweetness, and smoky depth — an ideal scent for those who love refined, long-lasting perfumes with Arabian character.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.50",
+      "compare_at_price": "59.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.50",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/al-noor-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Araybiyat_Presige_Al_Noor.jpg?v=1785524186",
+      "content_hash": "23692481b8f26251f909adb607477ead42c06590",
+      "alt": "Arabiyat Prestige Al Noor Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/al-noor-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_21_72cb380e-4cf1-4c75-b30c-f58efbaf89e9.jpg?v=1762969950",
+      "content_hash": "944c52cf1fab3f7bb6a72ebca006323d3178dcad",
+      "alt": "Arabiyat Prestige Al Noor Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/al-noor-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/STONE_4_1100x_7b6f62f2-d880-46a7-b79f-03498718f760.webp?v=1762969950",
+      "content_hash": "e929526a95f2951ff372cc7c7f0a3720ec3b31de",
+      "alt": "Arabiyat Prestige Al Noor Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

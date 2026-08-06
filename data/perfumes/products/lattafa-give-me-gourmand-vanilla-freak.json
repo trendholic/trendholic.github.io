@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-give-me-gourmand-vanilla-freak",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8573484302519",
+  "source_parent_product_id": "8573484302519",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-give-me-gourmand-vanilla-freak",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-give-me-gourmand-vanilla-freak/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-give-me-gourmand-vanilla-freak"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/6_247f697e-77a4-45a8-92e3-0578b46b2c70.png?v=1778861453",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/17.png?v=1778861453",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/10.png?v=1778861453"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Give Me Gourmand Vanilla Freak Eau de Parfum 75 ml (2.5 oz)",
+  "english_product_name": "Lattafa Give Me Gourmand Vanilla Freak Eau de Parfum 75 ml (2.5 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6290362349655",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8573484302519",
+  "parent_product_id": "8573484302519",
+  "description": "Lattafa Give Me Gourmand Vanilla Freak is a 75 ml / 2.5 oz Eau de Parfum with a rich vanilla bakery gourmand profile. Verified official notes include cupcake accord on top, cinnamon, almond, and sugar frosting in the heart, and vanilla, musk, and butter cream in the base.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.5 oz / 75 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "49.99",
+      "sku": "6290362349655",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-give-me-gourmand-vanilla-freak-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/6_247f697e-77a4-45a8-92e3-0578b46b2c70.png?v=1778861453",
+      "content_hash": "ab5c072b3d399b6e10ba47ec87af9aff0c03eaf0",
+      "alt": "Lattafa Give Me Gourmand Vanilla Freak Eau de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-give-me-gourmand-vanilla-freak-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/17.png?v=1778861453",
+      "content_hash": "7deeeeb294f08e3ba21e449ccd4cbc4b5dc2d341",
+      "alt": "Lattafa Give Me Gourmand Vanilla Freak Eau de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-give-me-gourmand-vanilla-freak-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/10.png?v=1778861453",
+      "content_hash": "d97e3de854cac263653dcd3495caaa70e5b6d424",
+      "alt": "Lattafa Give Me Gourmand Vanilla Freak Eau de Parfum 75 ml (2.5 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

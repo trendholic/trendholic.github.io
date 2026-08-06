@@ -1,0 +1,94 @@
+{
+  "slug": "armaf-odyssey-marshmallow-gourmand-edition-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8575501664439",
+  "source_parent_product_id": "8575501664439",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-odyssey-marshmallow-gourmand-edition-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-odyssey-marshmallow-gourmand-edition-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-odyssey-marshmallow-gourmand-edition-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Marshmallow--Gourmand-Edition-100-ml-edp-bottle.jpg?v=1779201314",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Marshmallow--Gourmand-Edition-100-ml-group.jpg?v=1779201314",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Marshmallow--Gourmand-Edition-100-ml-edp-box-front.jpg?v=1779201314",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Marshmallow--Gourmand-Edition-100-ml-edp-box-side.jpg?v=1779201314"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Marshmallow Gourmand Edition Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Odyssey Marshmallow Gourmand Edition Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "ARMAF-ODYSSEY-MARSHMALLOW-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8575501664439",
+  "parent_product_id": "8575501664439",
+  "description": "Armaf Odyssey Marshmallow Gourmand Edition is a 100 ml / 3.4 oz Eau de Parfum. Verified Armaf references identify it as a gourmand Odyssey release with a sweet marshmallow-inspired profile.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "39.99",
+      "sku": "ARMAF-ODYSSEY-MARSHMALLOW-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-marshmallow-gourmand-edition-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Marshmallow--Gourmand-Edition-100-ml-edp-bottle.jpg?v=1779201314",
+      "content_hash": "47e645f37c473dcdf6d4af1042ee6d52d65f8460",
+      "alt": "Armaf Odyssey Marshmallow Gourmand Edition Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-marshmallow-gourmand-edition-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Marshmallow--Gourmand-Edition-100-ml-group.jpg?v=1779201314",
+      "content_hash": "65ff7841fa3249e06b88dbe64c74e6f30867f463",
+      "alt": "Armaf Odyssey Marshmallow Gourmand Edition Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-marshmallow-gourmand-edition-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Marshmallow--Gourmand-Edition-100-ml-edp-box-front.jpg?v=1779201314",
+      "content_hash": "718dc439cfb6bc86cb31e585a6100f61d4cf9675",
+      "alt": "Armaf Odyssey Marshmallow Gourmand Edition Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-marshmallow-gourmand-edition-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Marshmallow--Gourmand-Edition-100-ml-edp-box-side.jpg?v=1779201314",
+      "content_hash": "9abccf24075a81ac5f47e77f9def12736ab45933",
+      "alt": "Armaf Odyssey Marshmallow Gourmand Edition Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "rasasi-hawas-tropical-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8291023847607",
+  "source_parent_product_id": "8291023847607",
+  "source_product_url": "https://habibiperfumes.store/products/rasasi-hawas-tropical-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rasasi-hawas-tropical-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rasasi-hawas-tropical-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/75227970-DE3D-48D5-8AE2-CDAC8D4F0FD3.webp?v=1763587727",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasTropicalEauDeParfumSprayforMen_3.4100ml_1.webp?v=1763587727",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81h8gHtEXnL._AC_UF1000_1000_QL80.jpg?v=1763587727",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/34C8D211-E81B-48F2-9A82-56994C20B838_590x767_f8556940-3d28-4e61-b663-25db33c36942.webp?v=1763587727"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rasasi Hawas Tropical Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rasasi Hawas Tropical Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rasasi",
+  "sku": "6a3083adb8fb3",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8291023847607",
+  "parent_product_id": "8291023847607",
+  "description": "Hawas Tropical by Rasasi is a vibrant, refreshing take on the Hawas line—built for warm weather, beach days, and resort-style freshness. It opens with a juicy splash of pineapple, mango, and bright citrus, creating an immediate tropical-fruit burst. The heart adds aromatic touches of lavender and cardamom with breezy oceanic notes, giving the scent a clean, airy feel. The base settles into soft woods, musk, and a creamy tropical amber, offering a smooth, long-lasting finish that stays fresh while adding warmth and depth. An ideal choice for customers who want a playful but mature tropical scent that feels both exotic and clean.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.99",
+      "compare_at_price": "54.99",
+      "sku": "6a3083adb8fb3",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.99",
+  "compare_at_price": "54.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-tropical-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/75227970-DE3D-48D5-8AE2-CDAC8D4F0FD3.webp?v=1763587727",
+      "content_hash": "8398bc511b62566db7f66f83a6b435d3b7a984ad",
+      "alt": "Rasasi Hawas Tropical Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-tropical-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasTropicalEauDeParfumSprayforMen_3.4100ml_1.webp?v=1763587727",
+      "content_hash": "d7e5530022abbcad826d6e51e58877e11abf7894",
+      "alt": "Rasasi Hawas Tropical Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-tropical-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81h8gHtEXnL._AC_UF1000_1000_QL80.jpg?v=1763587727",
+      "content_hash": "f01307b90b5c6ca608f751ae3369377f64db9bd8",
+      "alt": "Rasasi Hawas Tropical Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-tropical-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/34C8D211-E81B-48F2-9A82-56994C20B838_590x767_f8556940-3d28-4e61-b663-25db33c36942.webp?v=1763587727",
+      "content_hash": "fde79017ab0c7ec6cfa2f928e8f1fa1486edf0ee",
+      "alt": "Rasasi Hawas Tropical Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

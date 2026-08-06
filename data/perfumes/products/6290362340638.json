@@ -1,0 +1,108 @@
+{
+  "slug": "6290362340638",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8241905893559",
+  "source_parent_product_id": "8241905893559",
+  "source_product_url": "https://habibiperfumes.store/products/6290362340638",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6290362340638/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6290362340638"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eclaire_3.jpg?v=1778159051",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eclaire_2.jpg?v=1778159051",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eclaire_7.webp?v=1778159124",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eclaire_4.jpg?v=1778159051",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eclaire_5.jpg?v=1778159051",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eclaire_6.webp?v=1778159051"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Eclaire Women’s Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Eclaire Women’s Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6290362340638",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241905893559",
+  "parent_product_id": "8241905893559",
+  "description": "Eclaire is a rich and indulgent gourmand fragrance that blends creamy caramel sweetness with milk, vanilla, and soft musky warmth. The scent feels cozy, feminine, and dessert-like while maintaining a smooth luxurious finish. The opening introduces caramel, milk, and sugar, creating a creamy and delicious first impression that feels warm, sweet, and comforting. The heart develops into white flowers and honey, adding soft floral elegance balanced by smooth golden sweetness. The base settles into vanilla, praline, and musk, leaving a creamy, warm, and long-lasting trail that feels addictive, cozy, and luxurious. Eclaire is perfect for those who enjoy sweet gourmand fragrances with creamy caramel richness and a soft feminine warmth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "39.99",
+      "sku": "6290362340638",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6290362340638-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eclaire_3.jpg?v=1778159051",
+      "content_hash": "b93899e37f0381051d38ee97b504e3cfb362e2e2",
+      "alt": "Lattafa Eclaire Women’s Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290362340638-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eclaire_2.jpg?v=1778159051",
+      "content_hash": "abe33be4c3f478e04c1dddbb310ceaf66aa0fd01",
+      "alt": "Lattafa Eclaire Women’s Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290362340638-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eclaire_7.webp?v=1778159124",
+      "content_hash": "2696c63529f437411b0b29859f47491d87743535",
+      "alt": "Lattafa Eclaire Women’s Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290362340638-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eclaire_4.jpg?v=1778159051",
+      "content_hash": "9af2fda1c5f2c98426e12750e204c6b578b0456c",
+      "alt": "Lattafa Eclaire Women’s Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290362340638-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eclaire_5.jpg?v=1778159051",
+      "content_hash": "2bb872c978b148c613ff691c0cbc242b09a5fa60",
+      "alt": "Lattafa Eclaire Women’s Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290362340638-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/eclaire_6.webp?v=1778159051",
+      "content_hash": "b492f290926720e9cbb99df2e40d810df7c07b55",
+      "alt": "Lattafa Eclaire Women’s Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

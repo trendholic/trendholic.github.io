@@ -1,0 +1,94 @@
+{
+  "slug": "dumont-nitro-gold-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8548061970615",
+  "source_parent_product_id": "8548061970615",
+  "source_product_url": "https://habibiperfumes.store/products/dumont-nitro-gold-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dumont-nitro-gold-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/dumont-nitro-gold-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DumontNitroGold2.jpg?v=1776880747",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DumontNitroGold.jpg?v=1776880747",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DumontNitroGold4.jpg?v=1776880769",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DumontNitroGold3.webp?v=1776880747"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Dumont Nitro Gold Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Dumont Nitro Gold Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Dumont",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8548061970615",
+  "parent_product_id": "8548061970615",
+  "description": "Nitro Gold is a bold and addictive fragrance that blends juicy fruits with sweet gourmand warmth and smooth amber depth. The scent feels vibrant, modern, and attention-grabbing, offering a rich sweetness balanced with masculine warmth. The opening introduces bright fruity notes with a burst of freshness that feels lively and energetic. The heart develops into sweet gourmand accords and soft spices, adding depth and smooth richness. The base settles into amber, musk, and warm woods, leaving a long-lasting trail that feels sweet, warm, and confident. Nitro Gold is perfect for men who enjoy sweet, fruity fragrances with strong projection and a modern amber finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/dumont-nitro-gold-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DumontNitroGold2.jpg?v=1776880747",
+      "content_hash": "89c100bc70e3f56dc23fcac3937b60ecac130217",
+      "alt": "Dumont Nitro Gold Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-gold-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DumontNitroGold.jpg?v=1776880747",
+      "content_hash": "c05735d14a7b0531026aa765c97ef8d4aaf50866",
+      "alt": "Dumont Nitro Gold Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-gold-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DumontNitroGold4.jpg?v=1776880769",
+      "content_hash": "c893ccead7c88fd7a1ddd0883f7db01f725c8eab",
+      "alt": "Dumont Nitro Gold Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-gold-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DumontNitroGold3.webp?v=1776880747",
+      "content_hash": "0f8b6f9a7a4517711d8a472e46a90a3c2829a054",
+      "alt": "Dumont Nitro Gold Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

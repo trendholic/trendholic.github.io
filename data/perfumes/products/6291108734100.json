@@ -1,0 +1,80 @@
+{
+  "slug": "6291108734100",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8241904844983",
+  "source_parent_product_id": "8241904844983",
+  "source_product_url": "https://habibiperfumes.store/products/6291108734100",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6291108734100/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6291108734100"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Riffs-Melissa-Poudree-EDP-for-Women-Bottle.webp?v=1757976629",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51uCw3SQiVL._UF1000_1000_QL80.jpg?v=1757976629"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Melissa Poudree by Riiffs Women’s Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Melissa Poudree by Riiffs Women’s Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": "6291108734100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241904844983",
+  "parent_product_id": "8241904844983",
+  "description": "Melissa Poudree is a soft, elegant floral fragrance with powdery touches, designed to evoke timeless femininity. Top notes of bergamot and mandarin give a fresh opening, leading into a floral heart of jasmine and rose . The dry-down settles into a warm base of musk and patchouli , adding delicate depth and softness. It’s graceful, understated, and ideal when you want a scent that’s gentle but memorable.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": null,
+      "sku": "6291108734100",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6291108734100-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Riffs-Melissa-Poudree-EDP-for-Women-Bottle.webp?v=1757976629",
+      "content_hash": "bbb6c7e05f48cbf23db8b592879a31af0a3ebe9f",
+      "alt": "Melissa Poudree by Riiffs Women’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108734100-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51uCw3SQiVL._UF1000_1000_QL80.jpg?v=1757976629",
+      "content_hash": "e52f8aafe42de1259c35c9e0ffe23fa0bbf5a86c",
+      "alt": "Melissa Poudree by Riiffs Women’s Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

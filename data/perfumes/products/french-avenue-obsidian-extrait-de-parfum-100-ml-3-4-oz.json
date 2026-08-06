@@ -1,0 +1,87 @@
+{
+  "slug": "french-avenue-obsidian-extrait-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8484860592311",
+  "source_parent_product_id": "8484860592311",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-obsidian-extrait-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-obsidian-extrait-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-obsidian-extrait-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueObsidian2.jpg?v=1772666628",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueObsidianExtrait.jpg?v=1772666591",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueObsidian.webp?v=1772666591"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Obsidian Extrait de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Obsidian Extrait de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8484860592311",
+  "parent_product_id": "8484860592311",
+  "description": "French Avenue Obsidian is a rich amber-woody extrait designed for modern elegance and powerful presence. Released in 2025, the fragrance blends bright citrus freshness with warm gourmand spices and deep woody sweetness. The opening bursts with grapefruit, bergamot, and aldehydes, delivering a sparkling citrus freshness with a crisp modern edge. The heart evolves into warm cognac, cinnamon, and caramel, adding indulgent sweetness and spicy richness. The base settles into tonka bean, amber, sandalwood, and myrrh, leaving a smooth, creamy, long-lasting trail with elegant woody depth. Obsidian is perfect for those who enjoy luxurious sweet-amber fragrances with strong character and sophisticated warmth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "64.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "64.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-obsidian-extrait-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueObsidian2.jpg?v=1772666628",
+      "content_hash": "4d54f52d884cc7c2cc52d2f4c3f9cfc3d0c208db",
+      "alt": "French Avenue Obsidian Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-obsidian-extrait-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueObsidianExtrait.jpg?v=1772666591",
+      "content_hash": "febd7d32839eaca6f8d20dd75036cc91fb4ef0fb",
+      "alt": "French Avenue Obsidian Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-obsidian-extrait-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueObsidian.webp?v=1772666591",
+      "content_hash": "3ab10523e5da16845455fcd9ee6808cc0e7d5e6e",
+      "alt": "French Avenue Obsidian Extrait de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

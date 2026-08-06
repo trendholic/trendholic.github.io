@@ -1,0 +1,101 @@
+{
+  "slug": "riiffs-golden-elixir-reserve",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8580865589431",
+  "source_parent_product_id": "8580865589431",
+  "source_product_url": "https://habibiperfumes.store/products/riiffs-golden-elixir-reserve",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/riiffs-golden-elixir-reserve/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/riiffs-golden-elixir-reserve"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/golden_elexir1.png?v=1779821600",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3_2f15bd7d-3ec7-4345-948d-dea8c19cfc26.png?v=1779821600",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/golden.webp?v=1779821600",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/golden_elexir2.png?v=1779821600",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/golden_elexir3.png?v=1779821600"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Riiffs Golden Elixir Reserve Extrait de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Riiffs Golden Elixir Reserve Extrait de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": "RIIFFS-GOLDEN-ELIXIR-RESERVE-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8580865589431",
+  "parent_product_id": "8580865589431",
+  "description": "Riiffs Golden Elixir Reserve is a 100 ml / 3.4 oz Extrait de Parfum. Official Riiffs references describe a rich, warm blend of spice, sweetness, and oud.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "39.99",
+      "sku": "RIIFFS-GOLDEN-ELIXIR-RESERVE-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-reserve-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/golden_elexir1.png?v=1779821600",
+      "content_hash": "78fada336367516c40f893c95cd872c1581f472c",
+      "alt": "Riiffs Golden Elixir Reserve Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-reserve-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3_2f15bd7d-3ec7-4345-948d-dea8c19cfc26.png?v=1779821600",
+      "content_hash": "d10a6cd491f048bd587464fda337f2b0c76485a5",
+      "alt": "Riiffs Golden Elixir Reserve Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-reserve-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/golden.webp?v=1779821600",
+      "content_hash": "5df3f0a8412e44dc26dd775bfbaaa8a7fe3ed681",
+      "alt": "Riiffs Golden Elixir Reserve Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-reserve-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/golden_elexir2.png?v=1779821600",
+      "content_hash": "83941c1581619d824cc1cd7d2946eee5886270d7",
+      "alt": "Riiffs Golden Elixir Reserve Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-reserve-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/golden_elexir3.png?v=1779821600",
+      "content_hash": "2f6a3e0c6f6d6b115e4890c3ad32453bca9291c0",
+      "alt": "Riiffs Golden Elixir Reserve Extrait de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

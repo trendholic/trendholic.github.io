@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-teriaq-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8505685475511",
+  "source_parent_product_id": "8505685475511",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-teriaq-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-teriaq-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-teriaq-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Teriaq3.webp?v=1773715555",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Teriaq2.jpg?v=1773715554",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Teriaq.webp?v=1773715554"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Teriaq Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Teriaq Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8505685475511",
+  "parent_product_id": "8505685475511",
+  "description": "Teriaq is a rich and addictive fragrance that blends golden honey sweetness with warm amber and smooth tobacco depth. The scent is bold, luxurious, and slightly smoky, delivering a deep gourmand character with an elegant Middle Eastern signature. The opening introduces sweet honey and caramelized notes, creating a warm, syrupy, and inviting first impression. The heart develops into tobacco and soft spicy accords, adding depth, richness, and a slightly smoky sophistication. The base settles into amber, vanilla, and woody notes, leaving a long-lasting, warm, and resinous trail. Teriaq is perfect for those who enjoy sweet tobacco fragrances with honeyed warmth and a deep amber finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-teriaq-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Teriaq3.webp?v=1773715555",
+      "content_hash": "9bd37786f69c45c394c61148c432952fb78fa8a2",
+      "alt": "Lattafa Teriaq Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-teriaq-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Teriaq2.jpg?v=1773715554",
+      "content_hash": "100aa73c2166564ade730194d4e50d207d16312e",
+      "alt": "Lattafa Teriaq Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-teriaq-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Teriaq.webp?v=1773715554",
+      "content_hash": "3708ac808fb24eb3f3236a78549775bf6ba1a6b5",
+      "alt": "Lattafa Teriaq Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

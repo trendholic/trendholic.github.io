@@ -1,0 +1,94 @@
+{
+  "slug": "rayhaan-divine-eau-de-parfum-100-ml-3-4-oz-1",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8297597468855",
+  "source_parent_product_id": "8297597468855",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-divine-eau-de-parfum-100-ml-3-4-oz-1",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-divine-eau-de-parfum-100-ml-3-4-oz-1/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-divine-eau-de-parfum-100-ml-3-4-oz-1"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanDivine5.webp?v=1764259120",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanDivine4.jpg?v=1764259120",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanDivine.webp?v=1764259120",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanDivine3.webp?v=1764259120"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Divine Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Divine Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8297597468855",
+  "parent_product_id": "8297597468855",
+  "description": "Divine by Rayhaan is a warm, elegant fragrance built around sweet amber, creamy vanilla, and smooth musks. It opens with soft citrus and subtle aromatic sweetness that draws attention gently, not sharply. The heart carries a floral-amber warmth with silky wood texture that feels refined and modern. The base settles into sweet amber, vanilla, clean musk, and soft woody tones — long lasting, comforting, and premium-feeling. A versatile signature scent for anyone who loves warm-sweet elegance with strong staying power.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.99",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.99",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-divine-eau-de-parfum-100-ml-3-4-oz-1-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanDivine5.webp?v=1764259120",
+      "content_hash": "c1cad881a3543c5210719b668d00b3a84040f7b9",
+      "alt": "Rayhaan Divine Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-divine-eau-de-parfum-100-ml-3-4-oz-1-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanDivine4.jpg?v=1764259120",
+      "content_hash": "bf14f2745fc9188ade209d820e2d402f23e80263",
+      "alt": "Rayhaan Divine Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-divine-eau-de-parfum-100-ml-3-4-oz-1-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanDivine.webp?v=1764259120",
+      "content_hash": "287263c4ac20a47d869be01c21fe7d9a0bde5444",
+      "alt": "Rayhaan Divine Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-divine-eau-de-parfum-100-ml-3-4-oz-1-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanDivine3.webp?v=1764259120",
+      "content_hash": "6f4357983ab97a11ee73f680fb9e3987ad303427",
+      "alt": "Rayhaan Divine Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

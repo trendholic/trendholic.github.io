@@ -1,0 +1,87 @@
+{
+  "slug": "armaf-odyssey-lichi-lush",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8540558885047",
+  "source_parent_product_id": "8540558885047",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-odyssey-lichi-lush",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-odyssey-lichi-lush/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-odyssey-lichi-lush"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyLi_chiLush.webp?v=1776381736",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyLi_chiLush2.webp?v=1776381736",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyLi_chiLush3.webp?v=1776381736"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Li'chi Lush Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Odyssey Li'chi Lush Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8540558885047",
+  "parent_product_id": "8540558885047",
+  "description": "Odyssey Li'chi Lush is a vibrant and juicy fragrance that blends bright lychee with soft florals and smooth sweetness. The scent feels playful, modern, and slightly creamy, offering a fresh yet indulgent fruity profile. The opening introduces juicy lychee and fruity notes that create a sweet and refreshing first impression. The heart develops into delicate florals that add elegance and a soft, airy character. The base settles into musk, vanilla, and light woods, leaving a smooth and long-lasting trail that feels clean, sweet, and comforting. Li'chi Lush is perfect for those who enjoy fruity-floral fragrances with a creamy, modern twist.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.50",
+      "compare_at_price": "54.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.50",
+  "compare_at_price": "54.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-lichi-lush-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyLi_chiLush.webp?v=1776381736",
+      "content_hash": "68ab98c18f7d1b35d8f4074ef8f32445600dd48a",
+      "alt": "Armaf Odyssey Li'chi Lush Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-lichi-lush-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyLi_chiLush2.webp?v=1776381736",
+      "content_hash": "0a7e79a467f6a371eb6fccd2f5ef0f68a59d289a",
+      "alt": "Armaf Odyssey Li'chi Lush Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-lichi-lush-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyLi_chiLush3.webp?v=1776381736",
+      "content_hash": "440b9f0f27ea33616449b3b5998345626fbcd14a",
+      "alt": "Armaf Odyssey Li'chi Lush Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

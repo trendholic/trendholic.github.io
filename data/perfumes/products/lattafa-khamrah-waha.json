@@ -1,0 +1,125 @@
+{
+  "slug": "lattafa-khamrah-waha",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8607931400375",
+  "source_parent_product_id": "8607931400375",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-khamrah-waha",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-khamrah-waha/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-khamrah-waha"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/sss.png?v=1782922578",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1600_1_c38a7e56-486a-4d83-b651-95cbb331e3e0.webp?v=1782922092",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1600_2_5271e8ca-26d5-495c-bb5b-37fbc409563e.webp?v=1782922092",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khamrah_Waha.webp?v=1781492076",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khamrah-Waha-Perfume-100ml-EDP-Lattafa-190703543.webp?v=1782922092",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa-unisex-khamrah-waha-edp-spray-3-4-oz-fragrances-6290362349730.jpg?v=1782922092",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitled_design_2.jpg?v=1781492076",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitled_design_3.webp?v=1782922092",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa-khamrah-waha-aquatic-citrus-vanilla-perfume.webp?v=1782922160",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa-khamrah-waha-aquatic-fresh-lifestyle.webp?v=1782922092",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Khamrah_Waha_Cinematic_Charge_Your_Oasis.jpg?v=1782922218"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Khamrah Waha Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Khamrah Waha Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6290362349730",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8607931400375",
+  "parent_product_id": "8607931400375",
+  "description": "Lattafa Khamrah Waha Eau de Parfum is a unisex aromatic aquatic fragrance balancing desert warmth with cool freshness. It opens with bergamot, juniper, yuzu and ginger, followed by iris, cucumber, sage and sea salt accord. The base combines Akigalawood, tonka bean, vanilla, musk and Ambrofix for a smooth modern finish. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.50",
+      "compare_at_price": "59.99",
+      "sku": "6290362349730",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.50",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-collection-bundle-8.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/sss.png?v=1782922578",
+      "content_hash": "599c351e059f6c9b6c4ae9dfb6a8c28368430663",
+      "alt": "Lattafa Khamrah Waha Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-waha-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1600_1_c38a7e56-486a-4d83-b651-95cbb331e3e0.webp?v=1782922092",
+      "content_hash": "6ffbf62e4f8d0529bc51804c0b698233b7469aee",
+      "alt": "Lattafa Khamrah Waha Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-waha-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1600_2_5271e8ca-26d5-495c-bb5b-37fbc409563e.webp?v=1782922092",
+      "content_hash": "e2d5fed13ee55dfd2fe490f524042cae353a8b06",
+      "alt": "Lattafa Khamrah Waha Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-waha-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khamrah_Waha.webp?v=1781492076",
+      "content_hash": "8aaa6d384a8305507995baf0b2f5c4ca5c72d584",
+      "alt": "Lattafa Khamrah Waha Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-waha-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khamrah-Waha-Perfume-100ml-EDP-Lattafa-190703543.webp?v=1782922092",
+      "content_hash": "4d0c51584191f1beb859c66c90cb07c8ad0b820e",
+      "alt": "Lattafa Khamrah Waha Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-waha-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa-unisex-khamrah-waha-edp-spray-3-4-oz-fragrances-6290362349730.jpg?v=1782922092",
+      "content_hash": "205e4dd6120d943016d4a2f724d74e093d8c13a9",
+      "alt": "Lattafa Khamrah Waha Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-waha-7.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitled_design_2.jpg?v=1781492076",
+      "content_hash": "7cab9d6bbd66b076f3d0a7e132672011f53474a2",
+      "alt": "Lattafa Khamrah Waha Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-waha-8.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitled_design_3.webp?v=1782922092",
+      "content_hash": "4c5a942bfb123fbe71e419cfaccf6c5962625315",
+      "alt": "Lattafa Khamrah Waha Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

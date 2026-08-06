@@ -1,0 +1,101 @@
+{
+  "slug": "6291107450193",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241890361527",
+  "source_parent_product_id": "8241890361527",
+  "source_product_url": "https://habibiperfumes.store/products/6291107450193",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6291107450193/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6291107450193"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafahayaati6.webp?v=1778162592",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafahayaati4.jpg?v=1778162592",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafahayaati2.jpg?v=1778162592",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafahayaati1.jpg?v=1778162592",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafahayaati3.jpg?v=1778162592"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Hayaati Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Hayaati Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6291107450193",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241890361527",
+  "parent_product_id": "8241890361527",
+  "description": "Hayaati is a bold and energetic fragrance that blends fresh fruits, warm spices, and smooth woody amber accords into a modern masculine scent. The fragrance feels youthful, versatile, and slightly sweet while maintaining a strong fresh-spicy character throughout the wear. The opening introduces apple and bergamot, creating a crisp fruity freshness with a bright uplifting character. The heart develops into cinnamon and woody notes, adding warmth, spice, and smooth masculine depth to the composition. The base settles into musk and vanilla, leaving a warm, creamy, and long-lasting trail that feels clean, modern, and addictive. Hayaati is perfect for men who enjoy fresh spicy fragrances with fruity sweetness and smooth woody warmth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "22.99",
+      "compare_at_price": "29.99",
+      "sku": "6291107450193",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "22.99",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6291107450193-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafahayaati6.webp?v=1778162592",
+      "content_hash": "515a9976c2c558df6136f0bb1290866359bf26d6",
+      "alt": "Lattafa Hayaati Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107450193-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafahayaati4.jpg?v=1778162592",
+      "content_hash": "d5759e4f9bb06160a0fd9be61acbf46155493ce2",
+      "alt": "Lattafa Hayaati Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107450193-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafahayaati2.jpg?v=1778162592",
+      "content_hash": "6f9747edebd7ad4534bdbf27eec1d7b3bb23cbf9",
+      "alt": "Lattafa Hayaati Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107450193-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafahayaati1.jpg?v=1778162592",
+      "content_hash": "d3e067897be8defb887afe6f05c9170b27035292",
+      "alt": "Lattafa Hayaati Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107450193-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafahayaati3.jpg?v=1778162592",
+      "content_hash": "23af77de5095b06315faf7b7850da35d0a81f331",
+      "alt": "Lattafa Hayaati Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

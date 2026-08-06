@@ -1,0 +1,94 @@
+{
+  "slug": "casablanca",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241900748983",
+  "source_parent_product_id": "8241900748983",
+  "source_product_url": "https://habibiperfumes.store/products/casablanca",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/casablanca/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/casablanca"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Sin-titulo-2_553de51a-0aad-42a6-a64a-b0f317f45a54.webp?v=1762721139",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_19_974bccde-f537-4fb8-b1f8-71055a7ed730.jpg?v=1762721139",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/this_deda2d6d-ab1f-4646-ac6e-b95ed6410ae2.webp?v=1762721139",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81b0Cs1UUUL.jpg_BO30_255_255_255_UF900_850_SR1910_1000_0_C_QL100_d2b5f79b-1b83-4d63-ade4-69e92b499f6a.jpg?v=1762721139"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Swiss Arabian Casablanca Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Swiss Arabian Casablanca Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Swiss Arabian",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241900748983",
+  "parent_product_id": "8241900748983",
+  "description": "Casablanca by Swiss Arabian opens with a delicious blend of apple, grapes, and fresh green notes , creating a juicy, sweet, and inviting introduction. The heart adds caramel and patchouli , giving the fragrance a rich, smooth, and slightly resinous sweetness. The base settles into warm musk, suede, amber, and woody notes , delivering a creamy, long-lasting dry-down that feels luxurious and addictive. This is a sweet, fruity-gourmand fragrance with elegant depth — loved for its projection, longevity, and caramelized warmth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "35.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "35.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/casablanca-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Sin-titulo-2_553de51a-0aad-42a6-a64a-b0f317f45a54.webp?v=1762721139",
+      "content_hash": "a14a071fd0b986ebaac55fe2baed43c68ca80749",
+      "alt": "Swiss Arabian Casablanca Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/casablanca-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_19_974bccde-f537-4fb8-b1f8-71055a7ed730.jpg?v=1762721139",
+      "content_hash": "8e7ab60ab46eb2b84ed70112344b9d21c25a8b13",
+      "alt": "Swiss Arabian Casablanca Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/casablanca-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/this_deda2d6d-ab1f-4646-ac6e-b95ed6410ae2.webp?v=1762721139",
+      "content_hash": "a3e930f31e4f9066d68bc3ed249ac0c39d8f231c",
+      "alt": "Swiss Arabian Casablanca Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/casablanca-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81b0Cs1UUUL.jpg_BO30_255_255_255_UF900_850_SR1910_1000_0_C_QL100_d2b5f79b-1b83-4d63-ade4-69e92b499f6a.jpg?v=1762721139",
+      "content_hash": "37aa6c20fce519583319be936c14c9b9940435a0",
+      "alt": "Swiss Arabian Casablanca Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

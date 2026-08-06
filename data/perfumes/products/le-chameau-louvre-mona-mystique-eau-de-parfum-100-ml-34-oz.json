@@ -1,0 +1,94 @@
+{
+  "slug": "le-chameau-louvre-mona-mystique-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8689018175671",
+  "source_parent_product_id": "8689018175671",
+  "source_product_url": "https://habibiperfumes.store/products/le-chameau-louvre-mona-mystique-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/le-chameau-louvre-mona-mystique-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/le-chameau-louvre-mona-mystique-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/c113ef392acbbccd059bbe35036aab66_c923ad3b-013b-4cfe-a798-8646fb1c91b0.webp?v=1785691331",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/c113ef392acbbccd059bbe35036aab66_2c024e5c-8de5-4f20-bf47-1994131952d5.webp?v=1785691331",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/c113ef392acbbccd059bbe35036aab66_b7fd9b64-587f-46e7-bd28-569c98c1524e.webp?v=1785691331",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/c113ef392acbbccd059bbe35036aab66.webp?v=1785691331"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Le Chameau Louvre Mona Mystique Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Le Chameau Louvre Mona Mystique Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Le Chameau",
+  "sku": "6294021902120",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8689018175671",
+  "parent_product_id": "8689018175671",
+  "description": "Le Chameau Louvre Mona Mystique Eau de Parfum is a women's fragrance with a sweet gourmand character centered around caramel, vanilla and honey facets. The profile is warm, elegant and smooth, designed as a long-lasting everyday scent. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.50",
+      "compare_at_price": "29.99",
+      "sku": "6294021902120",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.50",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/le-chameau-louvre-mona-mystique-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/c113ef392acbbccd059bbe35036aab66_c923ad3b-013b-4cfe-a798-8646fb1c91b0.webp?v=1785691331",
+      "content_hash": "7ef2cf52bf4e5d308d8cf27a8295e2d37e12b628",
+      "alt": "Le Chameau Louvre Mona Mystique Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/le-chameau-louvre-mona-mystique-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/c113ef392acbbccd059bbe35036aab66_2c024e5c-8de5-4f20-bf47-1994131952d5.webp?v=1785691331",
+      "content_hash": "7ef2cf52bf4e5d308d8cf27a8295e2d37e12b628",
+      "alt": "Le Chameau Louvre Mona Mystique Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/le-chameau-louvre-mona-mystique-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/c113ef392acbbccd059bbe35036aab66_b7fd9b64-587f-46e7-bd28-569c98c1524e.webp?v=1785691331",
+      "content_hash": "7ef2cf52bf4e5d308d8cf27a8295e2d37e12b628",
+      "alt": "Le Chameau Louvre Mona Mystique Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/le-chameau-louvre-mona-mystique-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/c113ef392acbbccd059bbe35036aab66.webp?v=1785691331",
+      "content_hash": "7ef2cf52bf4e5d308d8cf27a8295e2d37e12b628",
+      "alt": "Le Chameau Louvre Mona Mystique Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

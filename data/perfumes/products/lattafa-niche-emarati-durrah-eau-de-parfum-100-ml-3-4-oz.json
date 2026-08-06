@@ -1,0 +1,108 @@
+{
+  "slug": "lattafa-niche-emarati-durrah-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8558635122871",
+  "source_parent_product_id": "8558635122871",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-niche-emarati-durrah-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-niche-emarati-durrah-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-niche-emarati-durrah-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDurah5.avif?v=1777655867",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDurah4.avif?v=1777655867",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDurah2.avif?v=1777655867",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDurah1.avif?v=1777655867",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDurah3.jpg?v=1777655867",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDurah.jpg?v=1777655867"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Niche Emarati Durrah Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Niche Emarati Durrah Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8558635122871",
+  "parent_product_id": "8558635122871",
+  "description": "Durrah is a bright and elegant fragrance that blends juicy fruits with soft florals and a creamy sweet base. The scent feels feminine, smooth, and slightly playful while maintaining a refined and modern character. The opening introduces a fresh mix of bergamot and fruity notes, creating a light, juicy, and uplifting first impression. The heart develops into jasmine and rose, adding a soft floral layer that feels clean, feminine, and balanced. The base settles into vanilla, musk, and sandalwood, leaving a warm, creamy, and long-lasting trail that feels smooth, slightly sweet, and comforting. Durrah is perfect for women who enjoy fruity-floral fragrances with a soft gourmand warmth and a clean musky finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-niche-emarati-durrah-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDurah5.avif?v=1777655867",
+      "content_hash": "ceae8f142abb63e62e008425e59aac470e2148d0",
+      "alt": "Lattafa Niche Emarati Durrah Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-niche-emarati-durrah-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDurah4.avif?v=1777655867",
+      "content_hash": "d84fb3ca319f1056f429d9fbce3fd5de16fa6f5d",
+      "alt": "Lattafa Niche Emarati Durrah Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-niche-emarati-durrah-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDurah2.avif?v=1777655867",
+      "content_hash": "630af51170dbac4c31a1c5acf7730c774087f324",
+      "alt": "Lattafa Niche Emarati Durrah Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-niche-emarati-durrah-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDurah1.avif?v=1777655867",
+      "content_hash": "cba8bc17c3fbf5e34e48c8cb42618ef887ee0cb0",
+      "alt": "Lattafa Niche Emarati Durrah Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-niche-emarati-durrah-eau-de-parfum-100-ml-3-4-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDurah3.jpg?v=1777655867",
+      "content_hash": "4a5c06d048131e2eaa729abbf84ac11aaf75e520",
+      "alt": "Lattafa Niche Emarati Durrah Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-niche-emarati-durrah-eau-de-parfum-100-ml-3-4-oz-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDurah.jpg?v=1777655867",
+      "content_hash": "20f30a14ae5e5f40c348fd7e987f38c324bb4c67",
+      "alt": "Lattafa Niche Emarati Durrah Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

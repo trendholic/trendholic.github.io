@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-masa-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8504340578487",
+  "source_parent_product_id": "8504340578487",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-masa-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-masa-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-masa-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Masa.png?v=1773705782",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Masa2.jpg?v=1773705782",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Masa3.jpg?v=1773705782"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Masa Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Masa Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8504340578487",
+  "parent_product_id": "8504340578487",
+  "description": "Masa is a vibrant and elegant fragrance that blends bright fruits with delicate florals and warm amber depth. The scent feels luminous and refined, balancing sweetness with smooth woody warmth. The opening introduces juicy fruity notes and citrus brightness that create a lively and refreshing first impression. The heart develops into soft floral accords that add elegance and smooth sophistication to the fragrance. The base settles into amber, musk, and warm woods, leaving a long-lasting trail that feels radiant, warm, and luxurious. Masa is perfect for those who enjoy fruity-floral fragrances with a smooth amber and woody finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "20.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "20.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-masa-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Masa.png?v=1773705782",
+      "content_hash": "8dcef54463eb4a39d3cf40f2d6525aade198f8c9",
+      "alt": "Lattafa Masa Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-masa-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Masa2.jpg?v=1773705782",
+      "content_hash": "db14a338aeb6ccdc2af2ccb980313a1029afd61c",
+      "alt": "Lattafa Masa Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-masa-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Masa3.jpg?v=1773705782",
+      "content_hash": "9fc88519e4099c8c6959bdaa2bba06b84b3c2b0f",
+      "alt": "Lattafa Masa Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

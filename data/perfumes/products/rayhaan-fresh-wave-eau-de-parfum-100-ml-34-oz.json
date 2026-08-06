@@ -1,0 +1,101 @@
+{
+  "slug": "rayhaan-fresh-wave-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8574169514167",
+  "source_parent_product_id": "8574169514167",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-fresh-wave-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-fresh-wave-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-fresh-wave-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fresh-wave-rayhaan-perfumes-2.jpg?v=1778988916",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fresh-wave-rayhaan-perfumes-1.jpg?v=1778988915",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fresh-wave-rayhaan-perfumes-3.png?v=1778988915",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fresh-wave-rayhaan-perfumes-4.jpg?v=1778988915",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fresh-wave-rayhaan-perfumes-5.jpg?v=1778988915"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Fresh Wave Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Fresh Wave Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": "6298044138559",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8574169514167",
+  "parent_product_id": "8574169514167",
+  "description": "Rayhaan Fresh Wave is a 100 ml / 3.4 oz Eau de Parfum for men. Official Rayhaan notes list mint, lavender, coriander, and rosemary on top; geranium, neroli, jasmine, and sandalwood in the heart; and cedarwood, musk, amber, and tobacco in the base.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "39.99",
+      "sku": "6298044138559",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-fresh-wave-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fresh-wave-rayhaan-perfumes-2.jpg?v=1778988916",
+      "content_hash": "053707ef8f39fc5137bffeab08b57f8c947445c3",
+      "alt": "Rayhaan Fresh Wave Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-fresh-wave-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fresh-wave-rayhaan-perfumes-1.jpg?v=1778988915",
+      "content_hash": "3cec72757e24ee6aa1b3a5fb536244b8c874e0e5",
+      "alt": "Rayhaan Fresh Wave Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-fresh-wave-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fresh-wave-rayhaan-perfumes-3.png?v=1778988915",
+      "content_hash": "610747671faeb865f38907d328216accc3349122",
+      "alt": "Rayhaan Fresh Wave Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-fresh-wave-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fresh-wave-rayhaan-perfumes-4.jpg?v=1778988915",
+      "content_hash": "de44c1c3cf5595615374a0ca99286ae48c876481",
+      "alt": "Rayhaan Fresh Wave Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-fresh-wave-eau-de-parfum-100-ml-34-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fresh-wave-rayhaan-perfumes-5.jpg?v=1778988915",
+      "content_hash": "cb2ef67f86b69986c4d33793d78a2b20f8c076a6",
+      "alt": "Rayhaan Fresh Wave Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

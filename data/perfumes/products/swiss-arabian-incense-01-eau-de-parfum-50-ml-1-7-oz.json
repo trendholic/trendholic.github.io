@@ -1,0 +1,87 @@
+{
+  "slug": "swiss-arabian-incense-01-eau-de-parfum-50-ml-1-7-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8485248860343",
+  "source_parent_product_id": "8485248860343",
+  "source_product_url": "https://habibiperfumes.store/products/swiss-arabian-incense-01-eau-de-parfum-50-ml-1-7-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/swiss-arabian-incense-01-eau-de-parfum-50-ml-1-7-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/swiss-arabian-incense-01-eau-de-parfum-50-ml-1-7-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/SwissArabianIncense013.webp?v=1772670805",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Swissarabianincense012.jpg?v=1772670805",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/SwissArabianIncense01.jpg?v=1772670805"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Swiss Arabian Incense 01 Eau de Parfum 50 ml (1.7 oz)",
+  "english_product_name": "Swiss Arabian Incense 01 Eau de Parfum 50 ml (1.7 oz)",
+  "original_product_name": null,
+  "brand": "Swiss Arabian",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8485248860343",
+  "parent_product_id": "8485248860343",
+  "description": "Swiss Arabian Incense 01 is a deep oriental fragrance centered around rich incense, smoky woods, and warm amber accords. The scent captures the mysterious character of traditional incense while keeping a smooth, modern wearability. The opening introduces aromatic spices and smoky incense that immediately create a bold, mystical atmosphere. The heart develops with warm resins and woody notes, adding depth and richness to the composition. The base settles into amber, musk, and soft woods, leaving a warm, smoky trail that feels luxurious and long-lasting. Incense 01 is perfect for lovers of rich oriental fragrances with smoky incense character and elegant woody warmth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "1.7 oz / 50 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "59.99",
+      "compare_at_price": "59.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "59.99",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/swiss-arabian-incense-01-eau-de-parfum-50-ml-1-7-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/SwissArabianIncense013.webp?v=1772670805",
+      "content_hash": "671e0b1ebbfad10302f439e1c7fb4a6c02a53591",
+      "alt": "Swiss Arabian Incense 01 Eau de Parfum 50 ml (1.7 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-incense-01-eau-de-parfum-50-ml-1-7-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Swissarabianincense012.jpg?v=1772670805",
+      "content_hash": "ce2281ebd3d49eca0f3a632805b1bd1a10799a10",
+      "alt": "Swiss Arabian Incense 01 Eau de Parfum 50 ml (1.7 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-incense-01-eau-de-parfum-50-ml-1-7-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/SwissArabianIncense01.jpg?v=1772670805",
+      "content_hash": "1e03ebe2f6f4330b252e1ae62addb75c05f9d2f5",
+      "alt": "Swiss Arabian Incense 01 Eau de Parfum 50 ml (1.7 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

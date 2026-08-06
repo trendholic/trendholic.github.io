@@ -1,0 +1,94 @@
+{
+  "slug": "lattafa-dynasty-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8285164535991",
+  "source_parent_product_id": "8285164535991",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-dynasty-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-dynasty-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-dynasty-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61dWz0M5gqL._AC_UF350_350_QL80.jpg?v=1763578091",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81My8x8X_gL._AC_UF1000_1000_QL80.jpg?v=1763578091",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_38.jpg?v=1763578091",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/5_c0a69278-7948-4288-b26c-5382a70aeed5.webp?v=1763578091"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Dynasty Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Dynasty Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8285164535991",
+  "parent_product_id": "8285164535991",
+  "description": "Dynasty by Lattafa opens with a fresh and juicy blend of orange, bergamot, green notes, and apple , giving a bright and uplifting start. The heart reveals a delicate mix of rose, jasmine, violet, and floral notes , creating a feminine and elegant core. The base settles into smooth musk, vanilla, amber, and light woods , giving the scent a warm, soft, and long-lasting finish. Dynasty is a clean, fruity-floral fragrance with a creamy musky dry-down — perfect for daily wear and year-round use.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-dynasty-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61dWz0M5gqL._AC_UF350_350_QL80.jpg?v=1763578091",
+      "content_hash": "b214022a0c0d9bf8a25b1edff57834172b3eefae",
+      "alt": "Lattafa Dynasty Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-dynasty-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81My8x8X_gL._AC_UF1000_1000_QL80.jpg?v=1763578091",
+      "content_hash": "68dc2e23d92b3ecb953b64ffaf9427c21bf2c486",
+      "alt": "Lattafa Dynasty Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-dynasty-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_38.jpg?v=1763578091",
+      "content_hash": "396e67f84b288a2239baf7492a854eb9b51b7fd2",
+      "alt": "Lattafa Dynasty Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-dynasty-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/5_c0a69278-7948-4288-b26c-5382a70aeed5.webp?v=1763578091",
+      "content_hash": "ae21301728c28f7a00727c593b8af741ebfd754c",
+      "alt": "Lattafa Dynasty Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

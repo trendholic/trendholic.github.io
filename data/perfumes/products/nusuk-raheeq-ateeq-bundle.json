@@ -1,0 +1,73 @@
+{
+  "slug": "nusuk-raheeq-ateeq-bundle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8517622661303",
+  "source_parent_product_id": "8517622661303",
+  "source_product_url": "https://habibiperfumes.store/products/nusuk-raheeq-ateeq-bundle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/nusuk-raheeq-ateeq-bundle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/nusuk-raheeq-ateeq-bundle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_21.png?v=1774493271"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Nusuk Raheeq & Ateeq Bundle",
+  "english_product_name": "Nusuk Raheeq & Ateeq Bundle",
+  "original_product_name": null,
+  "brand": "Nusuk",
+  "sku": "69c6c66865ce0",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8517622661303",
+  "parent_product_id": "8517622661303",
+  "description": "The Nusuk Raheeq & Ateeq Bundle combines two rich and expressive fragrances that highlight sweetness, warmth, and depth in a balanced and versatile pairing. Raheeq offers a smooth and slightly sweet profile with a soft, inviting warmth that feels elegant and easy to wear. Ateeq brings a deeper and more traditional character, blending warm notes with subtle richness and a refined oriental touch. Together, this bundle delivers a well-rounded fragrance experience that transitions from soft sweetness to deeper warmth, making it perfect for both daily wear and more elevated occasions. Ideal for fragrance lovers who enjoy sweet, warm, and slightly oriental profiles with a modern edge.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "59.50",
+      "compare_at_price": "89.99",
+      "sku": "69c6c66865ce0",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "59.50",
+  "compare_at_price": "89.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/nusuk-raheeq-ateeq-bundle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_21.png?v=1774493271",
+      "content_hash": "e702302041ca37ba1ca34c6dcb6b1da4e9ec1b9e",
+      "alt": "Nusuk Raheeq & Ateeq Bundle"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

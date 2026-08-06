@@ -1,0 +1,87 @@
+{
+  "slug": "french-avenue-royal-blend-sequoia-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8301836206263",
+  "source_parent_product_id": "8301836206263",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-royal-blend-sequoia-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-royal-blend-sequoia-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-royal-blend-sequoia-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FARoyalBlendSequoia3.webp?v=1764687895",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FARoyalBlendSequoia2.webp?v=1764687895",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FARoyalBlendSequoia.jpg?v=1764687895"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Royal Blend Sequoia Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Royal Blend Sequoia Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8301836206263",
+  "parent_product_id": "8301836206263",
+  "description": "Royal Blend Sequoia by French Avenue is a deep woody–amber–resin fragrance inspired by towering redwoods, dry spices, and rich smoky warmth. It opens with fresh aromatic woods, crisp spices, and light citrus brightness, giving an energetic and masculine start. The heart develops into dark resins, smoky woods, herbal spices, and dry incense, creating a rugged yet elegant character. The base settles into sequoia wood, amber, earthy musk, patchouli, and warm balsamic notes, delivering a long-lasting, rich, forest-inspired trail. Perfect for customers who enjoy woody, earthy, resin-heavy, nature-inspired fragrances with strong depth and performance.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "49.99",
+      "compare_at_price": "54.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "49.99",
+  "compare_at_price": "54.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-royal-blend-sequoia-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FARoyalBlendSequoia3.webp?v=1764687895",
+      "content_hash": "715cf5fb241ea88274afe389553f303f90db866e",
+      "alt": "French Avenue Royal Blend Sequoia Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-royal-blend-sequoia-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FARoyalBlendSequoia2.webp?v=1764687895",
+      "content_hash": "25c95aa48b44318933f166c9e75d0bb7df29877d",
+      "alt": "French Avenue Royal Blend Sequoia Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-royal-blend-sequoia-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FARoyalBlendSequoia.jpg?v=1764687895",
+      "content_hash": "a53966e34591bded3f64e1d4f581cf8c1a2416de",
+      "alt": "French Avenue Royal Blend Sequoia Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

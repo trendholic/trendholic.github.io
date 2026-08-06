@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-qimmah-for-men",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8505690521783",
+  "source_parent_product_id": "8505690521783",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-qimmah-for-men",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-qimmah-for-men/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-qimmah-for-men"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Qimmah_for_men.webp?v=1782845802",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Qimmah2.webp?v=1773716745",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Qimmah3.jpg?v=1773716745"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Qimmah for Men Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Qimmah for Men Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8505690521783",
+  "parent_product_id": "8505690521783",
+  "description": "Qimmah for Men is a smooth and confident fragrance that blends fresh aromatics with warm spices and rich woody depth. The scent feels modern, clean, and masculine, offering a balanced mix of freshness and warmth. The opening introduces fresh citrus and aromatic notes, creating a bright and slightly spicy first impression. The heart develops into lavender and herbal accords, adding a clean, refined, and masculine character. The base settles into cedarwood, vetiver, and amber, leaving a warm, woody, and long-lasting trail. Qimmah for Men is perfect for those who enjoy versatile woody-aromatic fragrances with a fresh opening and a smooth masculine finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "18.75",
+      "compare_at_price": "29.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "18.75",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-qimmah-for-men-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Qimmah_for_men.webp?v=1782845802",
+      "content_hash": "6541c340bceb8a3f408b4314ac7e353e2c97f12c",
+      "alt": "Lattafa Qimmah for Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-qimmah-for-men-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Qimmah2.webp?v=1773716745",
+      "content_hash": "0eacbaddbd2a0ca492fbcbf9281145bd8b232a64",
+      "alt": "Lattafa Qimmah for Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-qimmah-for-men-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Qimmah3.jpg?v=1773716745",
+      "content_hash": "3f7968b07f73c2a91706dcb8ad07a72fdc0fbea9",
+      "alt": "Lattafa Qimmah for Men Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

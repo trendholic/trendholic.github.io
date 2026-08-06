@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-asad-elixir-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8289625309367",
+  "source_parent_product_id": "8289625309367",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-asad-elixir-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-asad-elixir-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-asad-elixir-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/asad-elixir-by-lattafa-eau-de-parfum.webp?v=1763328093",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ASADELIXIRBOTTLE_2.webp?v=1763328093",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/en-p_c_117616.jpg?v=1763328093"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Asad Elixir Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Asad Elixir Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8289625309367",
+  "parent_product_id": "8289625309367",
+  "description": "Asad Elixir by Lattafa is a bold, warm, and resinous fragrance that expands on the richness of the original Asad. It opens with smoky incense, saffron, and spicy citrus , creating a powerful and commanding introduction. The heart develops into amber, resins, and warm woods , giving deep intensity and a luxurious oriental character. The base settles into vanilla, leather, patchouli, and dark woods , delivering a smooth, smoky-sweet finish with excellent longevity. Asad Elixir is the darkest, warmest, and richest flanker in the Asad line — perfect for evening wear and cooler weather.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-asad-elixir-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/asad-elixir-by-lattafa-eau-de-parfum.webp?v=1763328093",
+      "content_hash": "e6ee9b5ed9ae01b34171429cd9accda2c1c1089f",
+      "alt": "Lattafa Asad Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-asad-elixir-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ASADELIXIRBOTTLE_2.webp?v=1763328093",
+      "content_hash": "3d5e6e8a7d900d9e8672b83cb0bc0b72ec2a961d",
+      "alt": "Lattafa Asad Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-asad-elixir-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/en-p_c_117616.jpg?v=1763328093",
+      "content_hash": "7957ddf83372c9dd097f5aa043e53da0041fb354",
+      "alt": "Lattafa Asad Elixir Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

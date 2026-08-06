@@ -1,0 +1,80 @@
+{
+  "slug": "victoria",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8241898782903",
+  "source_parent_product_id": "8241898782903",
+  "source_product_url": "https://habibiperfumes.store/products/victoria",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/victoria/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/victoria"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.102906.jpg?v=1762652193",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Victoria-2_c5224101-1b70-4643-a8c9-4ab84b3891e2.webp?v=1762652192"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Victoria Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Victoria Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241898782903",
+  "parent_product_id": "8241898782903",
+  "description": "Victoria by Lattafa is a soft, sweet, and elegant fruity-floral fragrance with a creamy base. It opens with bright red fruits, pear, and soft citrus , giving a juicy and feminine start. The heart unfolds into rose, jasmine, white florals, and light sweetness , creating a romantic and delicate floral core. The base settles into smooth vanilla, musk, and soft woods , leaving a warm, gentle, long-lasting trail. Victoria is classy, modern, and perfect for daily wear — a beautiful signature scent with soft sweetness and floral elegance.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/victoria-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.102906.jpg?v=1762652193",
+      "content_hash": "869b10051e26a0e1da7a1ce702084e638d27c59c",
+      "alt": "Lattafa Victoria Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/victoria-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Victoria-2_c5224101-1b70-4643-a8c9-4ab84b3891e2.webp?v=1762652192",
+      "content_hash": "8a9b75b8922cbdd2f70554091ea72fe99d74a99b",
+      "alt": "Lattafa Victoria Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

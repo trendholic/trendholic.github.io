@@ -1,0 +1,94 @@
+{
+  "slug": "arabiyat-prestige-lady-way-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8580865687735",
+  "source_parent_product_id": "8580865687735",
+  "source_product_url": "https://habibiperfumes.store/products/arabiyat-prestige-lady-way-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/arabiyat-prestige-lady-way-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/arabiyat-prestige-lady-way-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-WAY-_WHITE-BG.jpg?v=1779821608",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-WAY-_graphics.jpg?v=1779821608",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-WAY-_model.jpg?v=1779821608",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-WAY-_WHITE-BG_c66cc405-4af1-438b-b52e-692e82489f2c.jpg?v=1779821608"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige Lady Way Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Arabiyat Prestige Lady Way Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": "ARABIYAT-PRESTIGE-LADY-WAY-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8580865687735",
+  "parent_product_id": "8580865687735",
+  "description": "Arabiyat Prestige Lady Way is a 100 ml / 3.4 oz Eau de Parfum for women. Official notes list fruity notes, hazelnut, mandarin, orange, and spice; jasmine, lily of the valley, and rose; then amber, salty caramel, musk, sandalwood, and sweet notes.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": "49.99",
+      "sku": "ARABIYAT-PRESTIGE-LADY-WAY-100",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lady-way-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-WAY-_WHITE-BG.jpg?v=1779821608",
+      "content_hash": "8a040f78b2df40f14762ff0e403ea286f01c1c67",
+      "alt": "Arabiyat Prestige Lady Way Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lady-way-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-WAY-_graphics.jpg?v=1779821608",
+      "content_hash": "81be7bb091f29704e9a10e69759792ee60636d22",
+      "alt": "Arabiyat Prestige Lady Way Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lady-way-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-WAY-_model.jpg?v=1779821608",
+      "content_hash": "fc16ae6923591f3527cad897abce8465daab77cf",
+      "alt": "Arabiyat Prestige Lady Way Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lady-way-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-WAY-_WHITE-BG_c66cc405-4af1-438b-b52e-692e82489f2c.jpg?v=1779821608",
+      "content_hash": "8a040f78b2df40f14762ff0e403ea286f01c1c67",
+      "alt": "Arabiyat Prestige Lady Way Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

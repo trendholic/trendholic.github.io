@@ -1,0 +1,101 @@
+{
+  "slug": "armaf-club-de-nuit-sillage",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8216650252471",
+  "source_parent_product_id": "8216650252471",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-club-de-nuit-sillage",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-club-de-nuit-sillage/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-club-de-nuit-sillage"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/0470izd80g.png?v=1784163063",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/cluubb.jpg?v=1784163017",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.88212.jpg?v=1784163045",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_aab22ab4-a153-4338-8940-deecc218afb2.jpg?v=1784163032",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71gbYgcQcdL.jpg?v=1784162988"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club de Nuit Sillage Unisex Eau de Parfum 3.6 oz",
+  "english_product_name": "Armaf Club de Nuit Sillage Unisex Eau de Parfum 3.6 oz",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216650252471",
+  "parent_product_id": "8216650252471",
+  "description": "Club de Nuit Sillage by Armaf is a vibrant floral-woody-musk fragrance released in 2020. It opens with citrus top notes of bergamot, lemon, lime, black currant, violet leaf, and ginger. The heart carries elegant floral tones of rose, iris, and jasmine. In the dry down, warm woods like sandalwood and cedar blend with musk and ambroxan, leaving a clean, airy trail. Excellent for those wanting a fresh scent with excellent sillage and long wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-sillage-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/0470izd80g.png?v=1784163063",
+      "content_hash": "ff316da8a5ae89a9bf69f601082ce0fccb0d1af7",
+      "alt": "Armaf Club de Nuit Sillage Unisex Eau de Parfum 3.6 oz"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-sillage-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/cluubb.jpg?v=1784163017",
+      "content_hash": "433d50946ce427a746b299c20bd09e086d09057a",
+      "alt": "Armaf Club de Nuit Sillage Unisex Eau de Parfum 3.6 oz"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-sillage-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.88212.jpg?v=1784163045",
+      "content_hash": "dfae662f3fa9f1f696d7ff7a3a1f6ad728c9337a",
+      "alt": "Armaf Club de Nuit Sillage Unisex Eau de Parfum 3.6 oz"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-sillage-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_aab22ab4-a153-4338-8940-deecc218afb2.jpg?v=1784163032",
+      "content_hash": "96bee3f3ccedf0a62a3a9ddf226622a035bc4e7b",
+      "alt": "Armaf Club de Nuit Sillage Unisex Eau de Parfum 3.6 oz"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-sillage-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71gbYgcQcdL.jpg?v=1784162988",
+      "content_hash": "0ae5238ce62c1ebbc5baee71a98353173b25b2f2",
+      "alt": "Armaf Club de Nuit Sillage Unisex Eau de Parfum 3.6 oz"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

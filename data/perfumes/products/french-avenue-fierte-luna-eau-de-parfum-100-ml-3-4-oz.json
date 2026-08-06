@@ -1,0 +1,101 @@
+{
+  "slug": "french-avenue-fierte-luna-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8532969750711",
+  "source_parent_product_id": "8532969750711",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-fierte-luna-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-fierte-luna-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-fierte-luna-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fierteluna3.webp?v=1775831264",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fierte_luna_6.webp?v=1775831324",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fierteluna4.webp?v=1775831264",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fierte_luna_7.jpg?v=1775831410",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fierteluna5.jpg?v=1775831264"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Fierte Luna Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Fierte Luna Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8532969750711",
+  "parent_product_id": "8532969750711",
+  "description": "Fierte Luna is a radiant and feminine fragrance that blends creamy sweetness with soft florals and warm amber depth. The scent feels elegant and slightly gourmand, creating a smooth and captivating profile. The opening introduces sweet creamy notes with a touch of freshness, delivering a soft and inviting first impression. The heart develops into delicate florals that add elegance and a romantic character. The base settles into vanilla, amber, and soft musk, leaving a warm, smooth trail that feels comforting and long-lasting. Fierte Luna is perfect for women who enjoy sweet floral fragrances with a creamy, elegant finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "69.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "69.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-fierte-luna-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fierteluna3.webp?v=1775831264",
+      "content_hash": "fe766ca5f4bf0f576f0c9780be1a972330c71a80",
+      "alt": "French Avenue Fierte Luna Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-fierte-luna-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fierte_luna_6.webp?v=1775831324",
+      "content_hash": "4d8d932f1dc89ec11cb80e31df12e426ae499607",
+      "alt": "French Avenue Fierte Luna Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-fierte-luna-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fierteluna4.webp?v=1775831264",
+      "content_hash": "7ba608a62372d5d08c06cf9978cf1d4c8e5c9869",
+      "alt": "French Avenue Fierte Luna Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-fierte-luna-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fierte_luna_7.jpg?v=1775831410",
+      "content_hash": "24a35c2990f7d955b847d6ae946b34dbe098b37b",
+      "alt": "French Avenue Fierte Luna Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-fierte-luna-eau-de-parfum-100-ml-3-4-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fierteluna5.jpg?v=1775831264",
+      "content_hash": "d8fe3e3c0dd7c9466daf4c74d14a3ec2de864bc6",
+      "alt": "French Avenue Fierte Luna Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

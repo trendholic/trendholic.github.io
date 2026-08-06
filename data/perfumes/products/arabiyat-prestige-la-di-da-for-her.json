@@ -1,0 +1,101 @@
+{
+  "slug": "arabiyat-prestige-la-di-da-for-her",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8216081137847",
+  "source_parent_product_id": "8216081137847",
+  "source_product_url": "https://habibiperfumes.store/products/arabiyat-prestige-la-di-da-for-her",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/arabiyat-prestige-la-di-da-for-her/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/arabiyat-prestige-la-di-da-for-her"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/gfipsmvrmm1i3xqpp5wg40xh.webp?v=1782746194",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ladidaforherprestige.webp?v=1772988399",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/kuifwaotb9xijqa4rnq8.webp?v=1782746194",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/614nGxhE-UL.jpg?v=1782746194",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/La_Di_Da_for_her.jpg?v=1772988399"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige La Di Da For Her Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Arabiyat Prestige La Di Da For Her Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216081137847",
+  "parent_product_id": "8216081137847",
+  "description": "La Di Da For Her by Arabiyat Prestige is a playful yet elegant fragrance crafted for women who love to stand out. It opens with a burst of fresh fruits and sparkling citrus, followed by a floral heart of jasmine, rose, and delicate white blossoms. The base warms into creamy vanilla, amber, and musk, giving it a soft yet confident finish. Feminine, radiant, and long-lasting — perfect for everyday glam.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.50",
+      "compare_at_price": "59.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.50",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-la-di-da-for-her-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/gfipsmvrmm1i3xqpp5wg40xh.webp?v=1782746194",
+      "content_hash": "732870b9f003048324bc20af108c7b00cd805b3c",
+      "alt": "Arabiyat Prestige La Di Da For Her Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-la-di-da-for-her-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ladidaforherprestige.webp?v=1772988399",
+      "content_hash": "a1f532b9ee6dff9a97e3061f34a8968dc63cb784",
+      "alt": "Arabiyat Prestige La Di Da For Her Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-la-di-da-for-her-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/kuifwaotb9xijqa4rnq8.webp?v=1782746194",
+      "content_hash": "4438b7c31ca14fb7dc54fe490529c9ce48b9be1a",
+      "alt": "Arabiyat Prestige La Di Da For Her Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-la-di-da-for-her-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/614nGxhE-UL.jpg?v=1782746194",
+      "content_hash": "ab1d3c534c8161effa58c20e3cfc899895eb7cdb",
+      "alt": "Arabiyat Prestige La Di Da For Her Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-la-di-da-for-her-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/La_Di_Da_for_her.jpg?v=1772988399",
+      "content_hash": "b2f3419a2138b50598b41427a740b42dedefc4e5",
+      "alt": "Arabiyat Prestige La Di Da For Her Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

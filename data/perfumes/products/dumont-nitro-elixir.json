@@ -1,0 +1,101 @@
+{
+  "slug": "dumont-nitro-elixir",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8574169317559",
+  "source_parent_product_id": "8574169317559",
+  "source_product_url": "https://habibiperfumes.store/products/dumont-nitro-elixir",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dumont-nitro-elixir/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/dumont-nitro-elixir"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NitroElixirDumontMiperfumeTVX45.jpg?v=1778988907",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Nitro-Elixir-Pour-Homme-100ml-Extrait-De-Parfum-Dumont-184332182.jpg?v=1778988907",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/6455F2DA-B2F1-4EB9-BB90-8917AA159F4F.png?v=1778988907",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Nitro-Elixir-Pour-Homme-100ml-Extrait-De-Parfum-Dumont-184341915.jpg?v=1778988907",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1EEF70B8-2B1C-4381-8E04-8DA163F8278C.jpg?v=1778988906"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Dumont Nitro Elixir Men Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Dumont Nitro Elixir Men Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Dumont",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8574169317559",
+  "parent_product_id": "8574169317559",
+  "description": "Dumont Nitro Elixir Men is a 100 ml / 3.4 oz Eau de Parfum for men with an elegant, bold profile. Verified product references list it as Nitro Elixir for men by Dumont, with a rich aromatic character suited for confident daily and evening wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "43.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "43.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/dumont-nitro-elixir-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NitroElixirDumontMiperfumeTVX45.jpg?v=1778988907",
+      "content_hash": "9574419f99e51cf038a8202cb5f53b53b8c1ed81",
+      "alt": "Dumont Nitro Elixir Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-elixir-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Nitro-Elixir-Pour-Homme-100ml-Extrait-De-Parfum-Dumont-184332182.jpg?v=1778988907",
+      "content_hash": "65bc69dfde04ff7994afc60b686e0f49eb3dce9c",
+      "alt": "Dumont Nitro Elixir Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-elixir-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/6455F2DA-B2F1-4EB9-BB90-8917AA159F4F.png?v=1778988907",
+      "content_hash": "0bb15595da3738eff9e0969935f60e7d089c76bd",
+      "alt": "Dumont Nitro Elixir Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-elixir-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Nitro-Elixir-Pour-Homme-100ml-Extrait-De-Parfum-Dumont-184341915.jpg?v=1778988907",
+      "content_hash": "68dd78f91d1205efd5efc3082aae462f8bf09bd8",
+      "alt": "Dumont Nitro Elixir Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-elixir-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1EEF70B8-2B1C-4381-8E04-8DA163F8278C.jpg?v=1778988906",
+      "content_hash": "319ee88ff244715987e42aac667be096dac388b3",
+      "alt": "Dumont Nitro Elixir Men Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

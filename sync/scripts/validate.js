@@ -3,6 +3,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import CONFIG from "../config.js";
+import { slugify } from "../src/util.js";
 
 let errors = 0, warns = 0;
 const fail = (m) => { console.error("FAIL:", m); errors++; };
@@ -24,7 +25,7 @@ function main() {
   let totalProducts = 0, totalImages = 0, sourcesWithProducts = 0;
 
   for (const src of CONFIG.sources) {
-    const topSlug = src.top.toLowerCase();
+    const topSlug = src.slug || slugify(src.top);
     const prodDir = path.join(CONFIG.out.dataDir, topSlug, "products");
     if (!fs.existsSync(prodDir)) { warn(`${src.top}: no products dir (source may have been BLOCKED/FAILED)`); continue; }
     const files = fs.readdirSync(prodDir).filter((f) => f.endsWith(".json"));
@@ -36,8 +37,8 @@ function main() {
       if (!p.slug) fail(`${f}: no slug`);
       if (slugs.has(p.slug)) fail(`duplicate physical-product slug: ${p.slug}`); else slugs.add(p.slug);
       if (!p.parent_product_id && !p.source_parent_product_id) warn(`${p.slug}: no parent/product id`);
-      // correct top category
-      if ((p.top_category || "").toLowerCase() !== topSlug) fail(`${p.slug}: top_category '${p.top_category}' != '${src.top}'`);
+      // correct top category (compare against the source display name)
+      if ((p.top_category || "").toLowerCase() !== src.top.toLowerCase()) fail(`${p.slug}: top_category '${p.top_category}' != '${src.top}'`);
       // provenance
       for (const k of ["source_site", "source_domain", "source_product_url", "source_top_category"])
         if (!p[k]) fail(`${p.slug}: missing provenance ${k}`);
@@ -57,7 +58,7 @@ function main() {
       if (p.parent_product_id) { if (parentByTop.has(key)) fail(`duplicate physical product (same parent id) ${key}`); else parentByTop.set(key, p.slug); }
     }
   }
-  ok(`${totalProducts} physical products, ${totalImages} local images, ${sourcesWithProducts}/4 sources with products`);
+  ok(`${totalProducts} physical products, ${totalImages} local images, ${sourcesWithProducts}/${CONFIG.sources.length} sources with products`);
   if (totalProducts === 0) fail("catalog has zero products — refusing to deploy an empty catalog");
 
   // search index
@@ -73,7 +74,7 @@ function main() {
   if (fs.existsSync(smPath)) {
     const xml = fs.readFileSync(smPath, "utf8");
     if (!/<urlset[\s\S]*<\/urlset>/.test(xml)) fail("sitemap.xml malformed");
-    else if (/tangma2088\.com/.test(xml)) fail("sitemap exposes supplier URLs");
+    else if (/tangma2088\.com|habibiperfumes\.store|cdn\.shopify\.com/.test(xml)) fail("sitemap exposes supplier URLs");
     else ok("sitemap.xml valid (TrendHolic canonical URLs)");
   } else fail("sitemap.xml missing");
 

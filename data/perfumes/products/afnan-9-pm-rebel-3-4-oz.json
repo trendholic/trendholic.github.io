@@ -1,0 +1,80 @@
+{
+  "slug": "afnan-9-pm-rebel-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8216587174071",
+  "source_parent_product_id": "8216587174071",
+  "source_product_url": "https://habibiperfumes.store/products/afnan-9-pm-rebel-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/afnan-9-pm-rebel-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/afnan-9-pm-rebel-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71lKVKAkXoL._SX679.jpg?v=1755799995",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51efMQ0_-QL._SX679.jpg?v=1755799995"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Afnan 9PM Rebel Unisex Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Afnan 9PM Rebel Unisex Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Afnan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216587174071",
+  "parent_product_id": "8216587174071",
+  "description": "9PM Rebel by Afnan is a daring twist in the 9 Series collection, crafted for both men and women. It opens with vibrant citrus and spicy notes that deliver energy and boldness. The heart blends fruity accords with soft florals, adding balance and intrigue. The base is deep and long-lasting with amber, musk, and woods, giving it a rebellious edge. A fragrance for those who love to stand out and redefine the night.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/afnan-9-pm-rebel-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71lKVKAkXoL._SX679.jpg?v=1755799995",
+      "content_hash": "af7b5a2fd8127caa557fbe2dd07480e879633641",
+      "alt": "Afnan 9PM Rebel Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/afnan-9-pm-rebel-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51efMQ0_-QL._SX679.jpg?v=1755799995",
+      "content_hash": "5a380be44fdb3566a3bd5b2b9f20a49cb146990a",
+      "alt": "Afnan 9PM Rebel Unisex Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

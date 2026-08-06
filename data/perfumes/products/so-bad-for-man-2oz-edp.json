@@ -1,0 +1,64 @@
+{
+  "slug": "so-bad-for-man-2oz-edp",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": null,
+  "source_category_original": null,
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "8091939307703",
+  "source_parent_product_id": "8091939307703",
+  "source_product_url": "https://habibiperfumes.store/products/so-bad-for-man-2oz-edp",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/so-bad-for-man-2oz-edp/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/so-bad-for-man-2oz-edp"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG_0651.jpg?v=1745872298"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "SO BAD inspired by CAROLINA HERRERA BAD",
+  "english_product_name": "SO BAD inspired by CAROLINA HERRERA BAD",
+  "original_product_name": null,
+  "brand": "Daspar",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8091939307703",
+  "parent_product_id": "8091939307703",
+  "description": "So Bad for Man 2oz edp",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "9.99",
+      "compare_at_price": "19.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "9.99",
+  "compare_at_price": "19.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/so-bad-for-man-2oz-edp-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG_0651.jpg?v=1745872298",
+      "content_hash": "058c203996f967a049083afd356eae8340774d33",
+      "alt": "SO BAD inspired by CAROLINA HERRERA BAD"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

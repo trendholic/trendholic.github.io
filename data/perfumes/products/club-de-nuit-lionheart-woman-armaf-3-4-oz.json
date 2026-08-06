@@ -1,0 +1,73 @@
+{
+  "slug": "club-de-nuit-lionheart-woman-armaf-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8216644092087",
+  "source_parent_product_id": "8216644092087",
+  "source_product_url": "https://habibiperfumes.store/products/club-de-nuit-lionheart-woman-armaf-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/club-de-nuit-lionheart-woman-armaf-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/club-de-nuit-lionheart-woman-armaf-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.102027.2x.avif?v=1755803025"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club de Nuit Lionheart Woman Eau de Parfum 3.4 oz",
+  "english_product_name": "Armaf Club de Nuit Lionheart Woman Eau de Parfum 3.4 oz",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216644092087",
+  "parent_product_id": "8216644092087",
+  "description": "Lionheart Woman by Armaf is a bold, oriental-vanilla fragrance for women. It opens with the soothing floral aromatics of lavender and sweet vanilla, leading into a rich heart of cacao and spicy ginger. The scent fades into a deep, enduring base of vanilla absolute, creating a warm, sensual trail. Perfect for evening wear or when you want a fragrance that’s both elegant and fiercely memorable.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/club-de-nuit-lionheart-woman-armaf-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.102027.2x.avif?v=1755803025",
+      "content_hash": "c16608a62fd151c5c79d127c6c8e507706f6a390",
+      "alt": "Armaf Club de Nuit Lionheart Woman Eau de Parfum 3.4 oz"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

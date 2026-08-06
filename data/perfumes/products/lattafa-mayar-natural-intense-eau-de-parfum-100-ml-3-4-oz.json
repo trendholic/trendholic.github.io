@@ -1,0 +1,94 @@
+{
+  "slug": "lattafa-mayar-natural-intense-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8297620111543",
+  "source_parent_product_id": "8297620111543",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-mayar-natural-intense-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-mayar-natural-intense-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-mayar-natural-intense-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarNaturalIntense4.jpg?v=1764272065",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarNaturalIntense3.jpg?v=1764272065",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarNaturalIntense2.jpg?v=1764272065",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarNaturalIntense.jpg?v=1764272065"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Mayar Natural Intense Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Mayar Natural Intense Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8297620111543",
+  "parent_product_id": "8297620111543",
+  "description": "Mayar Natural Intense by Lattafa is a fresh, vibrant fragrance built around clean green accords and bright fruity energy. The opening brings juicy fig, watermelon-fresh sweetness, and soft citrus-green sparkle that feels natural and refreshing. The heart keeps it smooth with light florals and a clean, green-fresh aromatic tone — breathable, modern, and not spicy-dark. The base settles into gentle woods, amber, and long-lasting musk that holds the freshness while giving strong endurance on skin and clothes. This scent is ideal for customers who love natural green freshness with a clean fruity edge and modern musk longevity — no heavy oud, no smoky-sweet resins, and no harsh spice.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "22.99",
+      "compare_at_price": "24.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "22.99",
+  "compare_at_price": "24.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-mayar-natural-intense-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarNaturalIntense4.jpg?v=1764272065",
+      "content_hash": "83be1b7f4b587cb574a41784808b07c27e29cf74",
+      "alt": "Lattafa Mayar Natural Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-mayar-natural-intense-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarNaturalIntense3.jpg?v=1764272065",
+      "content_hash": "425d2f49e1e12a515595e19052571592a7afab0f",
+      "alt": "Lattafa Mayar Natural Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-mayar-natural-intense-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarNaturalIntense2.jpg?v=1764272065",
+      "content_hash": "353c4cfbc159cb04ba5345ce5e13a6b361a9648d",
+      "alt": "Lattafa Mayar Natural Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-mayar-natural-intense-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarNaturalIntense.jpg?v=1764272065",
+      "content_hash": "6c162977a1547dfbc539c40c080c0e9ad6a68f2f",
+      "alt": "Lattafa Mayar Natural Intense Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

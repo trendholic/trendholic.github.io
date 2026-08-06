@@ -1,0 +1,73 @@
+{
+  "slug": "pure-gold-by-exelof-2-8-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8216585896119",
+  "source_parent_product_id": "8216585896119",
+  "source_product_url": "https://habibiperfumes.store/products/pure-gold-by-exelof-2-8-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/pure-gold-by-exelof-2-8-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/pure-gold-by-exelof-2-8-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Exelof-Pure-Gold-By-Milestone.webp?v=1755799644"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Puor Gold",
+  "english_product_name": "Puor Gold",
+  "original_product_name": null,
+  "brand": "Exelof",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216585896119",
+  "parent_product_id": "8216585896119",
+  "description": "Pure Gold by Exelof is a luxurious unisex fragrance that blends modern elegance with timeless warmth. It opens with a bright burst of citrus and fruity notes, leading into a heart of floral accords touched by light spices. The base is rich and long-lasting, featuring amber, vanilla, and soft musk, giving it a smooth golden finish. Designed to be versatile, it suits both men and women with a refined taste.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/pure-gold-by-exelof-2-8-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Exelof-Pure-Gold-By-Milestone.webp?v=1755799644",
+      "content_hash": "3acaf2d883c14265ec2f2d684368200a519376bb",
+      "alt": "Puor Gold"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

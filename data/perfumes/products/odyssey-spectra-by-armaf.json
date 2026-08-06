@@ -1,0 +1,80 @@
+{
+  "slug": "odyssey-spectra-by-armaf",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8216951488695",
+  "source_parent_product_id": "8216951488695",
+  "source_product_url": "https://habibiperfumes.store/products/odyssey-spectra-by-armaf",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/odyssey-spectra-by-armaf/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/odyssey-spectra-by-armaf"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_11.webp?v=1755885819",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_10.webp?v=1755885819"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Spectra Rainbow Edition Unisex Eau de Parfum 3.4 oz",
+  "english_product_name": "Armaf Odyssey Spectra Rainbow Edition Unisex Eau de Parfum 3.4 oz",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "6294015188653",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216951488695",
+  "parent_product_id": "8216951488695",
+  "description": "Odyssey Spectra Rainbow Edition by Armaf is a vibrant unisex Eau de Parfum with an amber-spicy character. It opens with fresh apple, bergamot, and cinnamon, followed by floral and aromatic notes like lavender, lily of the valley, and orange blossom. The base blends vanilla, tonka bean, tobacco, amber, and patchouli, giving the fragrance warmth and depth. A long-lasting, bold scent ideal for evenings and special occasions.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": "6294015188653",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/odyssey-spectra-by-armaf-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_11.webp?v=1755885819",
+      "content_hash": "929dea254cc59b3c2c41e1f88609a150ff912ea4",
+      "alt": "Armaf Odyssey Spectra Rainbow Edition Unisex Eau de Parfum 3.4 oz"
+    },
+    {
+      "src": "/data/perfumes/images/odyssey-spectra-by-armaf-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_10.webp?v=1755885819",
+      "content_hash": "825172666e08c90ac41032aeb3b30212e48261f5",
+      "alt": "Armaf Odyssey Spectra Rainbow Edition Unisex Eau de Parfum 3.4 oz"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "afnan-turathi-blue-eau-de-parfum-90-ml-3-0-oz-copy",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8365725417655",
+  "source_parent_product_id": "8365725417655",
+  "source_product_url": "https://habibiperfumes.store/products/afnan-turathi-blue-eau-de-parfum-90-ml-3-0-oz-copy",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/afnan-turathi-blue-eau-de-parfum-90-ml-3-0-oz-copy/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/afnan-turathi-blue-eau-de-parfum-90-ml-3-0-oz-copy"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Turathi-Blue-Product-01.webp?v=1763577932",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/afnan-turathi-homme-blue-9738-1-l.webp?v=1763577932",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/5pmv8rMhRykUYmrk.jpg?v=1763577932"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Afnan Turathi Blue Eau de Parfum 90 ml (3.0 oz)",
+  "english_product_name": "Afnan Turathi Blue Eau de Parfum 90 ml (3.0 oz)",
+  "original_product_name": null,
+  "brand": "Afnan",
+  "sku": "AFN-TURATHI-BLUE-90",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8365725417655",
+  "parent_product_id": "8365725417655",
+  "description": "Turathi Blue by Afnan opens with a burst of citrus — bergamot and mandarin provide a crisp, lively start. The heart develops woody and amber-rich tones, lending warm depth and sophistication. The base settles into musk, patchouli, and subtle spice, delivering a refined, lasting trail that balances fresh and bold. This fragrance is made for the modern man who values clarity and longevity — perfect for both daily wear and evening settings.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "33.99",
+      "compare_at_price": "39.99",
+      "sku": "AFN-TURATHI-BLUE-90",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "33.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/afnan-turathi-blue-eau-de-parfum-90-ml-3-0-oz-copy-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Turathi-Blue-Product-01.webp?v=1763577932",
+      "content_hash": "f3a71db9cdb41ccd948f8ddbb507a38bef38169a",
+      "alt": "Afnan Turathi Blue Eau de Parfum 90 ml (3.0 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/afnan-turathi-blue-eau-de-parfum-90-ml-3-0-oz-copy-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/afnan-turathi-homme-blue-9738-1-l.webp?v=1763577932",
+      "content_hash": "6ac0734c277bac201d004ea968f18ba6c62ae9a8",
+      "alt": "Afnan Turathi Blue Eau de Parfum 90 ml (3.0 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/afnan-turathi-blue-eau-de-parfum-90-ml-3-0-oz-copy-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/5pmv8rMhRykUYmrk.jpg?v=1763577932",
+      "content_hash": "8c2c8d608d88f1da61aa2d5803fa3f6841193b2d",
+      "alt": "Afnan Turathi Blue Eau de Parfum 90 ml (3.0 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

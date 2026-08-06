@@ -1,0 +1,94 @@
+{
+  "slug": "afnan-9-am-dive-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8216589041847",
+  "source_parent_product_id": "8216589041847",
+  "source_product_url": "https://habibiperfumes.store/products/afnan-9-am-dive-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/afnan-9-am-dive-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/afnan-9-am-dive-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41PAsWrsmkL._SX679.jpg?v=1755800547",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51O790EHZXL._SX679.jpg?v=1755800548",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_7e1764c9-c118-4d68-b792-18f24afbdfd6.jpg?v=1785179988",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71Wi16-sQvL.jpg?v=1785179971"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Afnan 9AM Dive Unisex Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Afnan 9AM Dive Unisex Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Afnan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216589041847",
+  "parent_product_id": "8216589041847",
+  "description": "9AM Dive by Afnan is a refreshing aquatic fragrance designed for both men and women. It opens with crisp citrus and marine notes that evoke a cool ocean breeze. The heart blends aromatic herbs and light florals, adding depth and smoothness. The base settles into woody musk and amber, giving it a clean yet long-lasting finish. Fresh, vibrant, and versatile — the perfect scent for warm days and seaside vibes.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/afnan-9-am-dive-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41PAsWrsmkL._SX679.jpg?v=1755800547",
+      "content_hash": "816c751530f9bfbcac147bfb1dc200f42dceb044",
+      "alt": "Afnan 9AM Dive Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/afnan-9-am-dive-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51O790EHZXL._SX679.jpg?v=1755800548",
+      "content_hash": "cb22d3e7b2af7b722d9232b233e3b3c585da7973",
+      "alt": "Afnan 9AM Dive Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/afnan-9-am-dive-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_7e1764c9-c118-4d68-b792-18f24afbdfd6.jpg?v=1785179988",
+      "content_hash": "974d10c8ea7edf92a87c6fba4f6be1d57f64ccd6",
+      "alt": "Afnan 9AM Dive Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/afnan-9-am-dive-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71Wi16-sQvL.jpg?v=1785179971",
+      "content_hash": "89455beb0a057e8be805f2fc76688823633ad5ed",
+      "alt": "Afnan 9AM Dive Unisex Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

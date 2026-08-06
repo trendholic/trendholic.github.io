@@ -1,0 +1,101 @@
+{
+  "slug": "khadlaj-island-dreams",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8270522155191",
+  "source_parent_product_id": "8270522155191",
+  "source_product_url": "https://habibiperfumes.store/products/khadlaj-island-dreams",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/khadlaj-island-dreams/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/khadlaj-island-dreams"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.113593.jpg?v=1761523847",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_19.jpg?v=1761523847",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Island_Dreams-2.webp?v=1761523847",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/il_fullxfull.7174230685_422t.avif?v=1761523847",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/en-p_c_113593.jpg?v=1761523847"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Khadlaj Island Dreams Extrait de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Khadlaj Island Dreams Extrait de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Khadlaj",
+  "sku": "6291107979991",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270522155191",
+  "parent_product_id": "8270522155191",
+  "description": "Khadlaj Island Dreams Extrait de Parfum is a bright tropical-leaning 100 ml fragrance with bergamot, ginger, grapefruit, ambroxan and musk.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.50",
+      "compare_at_price": "44.99",
+      "sku": "6291107979991",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.50",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/khadlaj-island-dreams-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.113593.jpg?v=1761523847",
+      "content_hash": "3b0279792d6ea6ea5ff21be213d1327be00f6f3d",
+      "alt": "Khadlaj Island Dreams Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-island-dreams-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_19.jpg?v=1761523847",
+      "content_hash": "4c9ab9341e68307baf50ef7996fb0dfdc25467e1",
+      "alt": "Khadlaj Island Dreams Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-island-dreams-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Island_Dreams-2.webp?v=1761523847",
+      "content_hash": "d9f2f7730f07776496162ef1a00b6a5b2be43fcf",
+      "alt": "Khadlaj Island Dreams Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-island-dreams-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/il_fullxfull.7174230685_422t.avif?v=1761523847",
+      "content_hash": "6e86c40acd02e6e94381961c534c0149768be1cf",
+      "alt": "Khadlaj Island Dreams Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-island-dreams-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/en-p_c_113593.jpg?v=1761523847",
+      "content_hash": "e9194c9ed0e7cc1241487c2af2e2495b3b3ae0d1",
+      "alt": "Khadlaj Island Dreams Extrait de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

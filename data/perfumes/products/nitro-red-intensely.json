@@ -1,0 +1,80 @@
+{
+  "slug": "nitro-red-intensely",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241903403191",
+  "source_parent_product_id": "8241903403191",
+  "source_product_url": "https://habibiperfumes.store/products/nitro-red-intensely",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/nitro-red-intensely/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/nitro-red-intensely"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DumontNitroRedIntensely.jpg?v=1764271847",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DumontNitroRedIntensely2.jpg?v=1764271847"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Dumont Nitro Red Intensely Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Dumont Nitro Red Intensely Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Dumont",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241903403191",
+  "parent_product_id": "8241903403191",
+  "description": "Nitro Red Intensely by Dumont is a bold, energetic, red-fresh fragrance built for attention-grabbing moments without being heavy or overly sweet. The opening brings a burst of cool mint and juicy watermelon freshness with iced red-fruit sparkle. The heart blends smooth aromatics with a light spicy warmth that keeps it clean and modern. The base settles into amber warmth, soft woods, vanilla essence, and clean musk, delivering strong longevity on skin and clothing. This scent is ideal for customers who love refreshing red fruits mixed with mint, watermelon, and warm amber-woody musk.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "41.99",
+      "compare_at_price": "42.74",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "41.99",
+  "compare_at_price": "42.74",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/nitro-red-intensely-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DumontNitroRedIntensely.jpg?v=1764271847",
+      "content_hash": "847f6fbc91c8d4612bb66dcf893d0e49ebf67f3b",
+      "alt": "Dumont Nitro Red Intensely Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/nitro-red-intensely-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/DumontNitroRedIntensely2.jpg?v=1764271847",
+      "content_hash": "ce5444983b89089e27ff01b1d1acdbf463dd1df8",
+      "alt": "Dumont Nitro Red Intensely Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

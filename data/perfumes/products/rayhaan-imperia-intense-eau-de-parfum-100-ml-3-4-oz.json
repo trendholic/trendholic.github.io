@@ -1,0 +1,87 @@
+{
+  "slug": "rayhaan-imperia-intense-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8368321921207",
+  "source_parent_product_id": "8368321921207",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-imperia-intense-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-imperia-intense-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-imperia-intense-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanImperiaIntense.avif?v=1769368878",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanImperiaIntense.jpg?v=1769368877",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanImperiaIntense.webp?v=1769368878"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Imperia Intense Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Imperia Intense Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8368321921207",
+  "parent_product_id": "8368321921207",
+  "description": "Rayhaan Imperia Intense is a deeper, more powerful evolution of Imperia — designed to project authority, richness, and lasting presence. It amplifies warmth, spice, and woods for a bolder masculine signature. The opening feels darker and more concentrated, introducing warm spices and aromatic depth with immediate confidence. The heart intensifies into rich woody notes and smooth resinous warmth, adding strength and sophistication. In the base, amber, musk, and deep woods create a long-lasting, commanding dry-down that feels bold, luxurious, and unmistakably masculine. Imperia Intense is ideal for men who want stronger projection, deeper warmth, and a more assertive presence than the original Imperia.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-imperia-intense-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanImperiaIntense.avif?v=1769368878",
+      "content_hash": "22e9903d71af4b98a569d63f1a682ab2d23c7721",
+      "alt": "Rayhaan Imperia Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-imperia-intense-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanImperiaIntense.jpg?v=1769368877",
+      "content_hash": "0089573ed7f86f582a409f2ef4c09a8c810fde90",
+      "alt": "Rayhaan Imperia Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-imperia-intense-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanImperiaIntense.webp?v=1769368878",
+      "content_hash": "9be3e5bda05f0f5a7383c7b31afeb027b4edc1b4",
+      "alt": "Rayhaan Imperia Intense Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "armaf-odyssey-mega",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8575501697207",
+  "source_parent_product_id": "8575501697207",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-odyssey-mega",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-odyssey-mega/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-odyssey-mega"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/216.png?v=1779201317",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/PERGWDZ9UWDY7DDZ_1.png?v=1779201316",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Snapinsta.app_415513664_688982506673676_8757313666699765011_n_1080.jpg?v=1779201316",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ARMAF-ODYSSEY-MEGA-312446.jpg?v=1779201316",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/image-2023-05-19T085855.929.jpg?v=1779201316"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Mega Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Odyssey Mega Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "ARMAF-ODYSSEY-MEGA-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8575501697207",
+  "parent_product_id": "8575501697207",
+  "description": "Armaf Odyssey Mega is a 100 ml / 3.4 oz Eau de Parfum for men. Verified references describe it as an aromatic woody fragrance with a fresh, polished masculine profile.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "39.99",
+      "sku": "ARMAF-ODYSSEY-MEGA-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-mega-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/216.png?v=1779201317",
+      "content_hash": "03c32f88b1a43e38f9d3a150579e3e6920684e80",
+      "alt": "Armaf Odyssey Mega Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-mega-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/PERGWDZ9UWDY7DDZ_1.png?v=1779201316",
+      "content_hash": "8e8aa906386a6a33d6abfe31a5827d335355666a",
+      "alt": "Armaf Odyssey Mega Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-mega-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Snapinsta.app_415513664_688982506673676_8757313666699765011_n_1080.jpg?v=1779201316",
+      "content_hash": "1dbf6f6f3fa319edf8d08857314f42c7159765f6",
+      "alt": "Armaf Odyssey Mega Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-mega-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ARMAF-ODYSSEY-MEGA-312446.jpg?v=1779201316",
+      "content_hash": "4929a227a59a6d850a413e1c70921900d6dc330f",
+      "alt": "Armaf Odyssey Mega Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-mega-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/image-2023-05-19T085855.929.jpg?v=1779201316",
+      "content_hash": "a63b8a730462f461b066951adeabbe0cdb7ff39a",
+      "alt": "Armaf Odyssey Mega Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

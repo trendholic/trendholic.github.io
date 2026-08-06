@@ -1,0 +1,80 @@
+{
+  "slug": "rayhaan-imperia",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8368321626295",
+  "source_parent_product_id": "8368321626295",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-imperia",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-imperia/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-imperia"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanImperia.jpg?v=1769368627",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanImperia2.jpg?v=1769368627"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Imperia Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Imperia Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8368321626295",
+  "parent_product_id": "8368321626295",
+  "description": "Rayhaan Imperia is a refined, commanding fragrance designed to project authority, elegance, and confidence. It blends fresh brightness with warm woods and subtle spice for a polished masculine signature. The opening feels clean and assertive, introducing a fresh aromatic brightness that immediately signals confidence. The heart develops into warm spices and smooth woody tones, adding depth and sophistication without heaviness. In the base, amber, musk, and woods settle into a long-lasting dry-down that feels elegant, powerful, and composed. Imperia is ideal for men who want to smell sharp, successful, and put-together, whether in professional settings or upscale evenings.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "22.50",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "22.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-imperia-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanImperia.jpg?v=1769368627",
+      "content_hash": "4f882fbc4ab6536f70f3274cdc0a09217909e7e2",
+      "alt": "Rayhaan Imperia Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-imperia-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanImperia2.jpg?v=1769368627",
+      "content_hash": "61429acd8e509db64eb275b6bffe8a266d8264cb",
+      "alt": "Rayhaan Imperia Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

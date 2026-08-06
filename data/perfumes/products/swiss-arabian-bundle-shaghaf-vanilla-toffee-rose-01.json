@@ -1,0 +1,108 @@
+{
+  "slug": "swiss-arabian-bundle-shaghaf-vanilla-toffee-rose-01",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8536067571895",
+  "source_parent_product_id": "8536067571895",
+  "source_product_url": "https://habibiperfumes.store/products/swiss-arabian-bundle-shaghaf-vanilla-toffee-rose-01",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/swiss-arabian-bundle-shaghaf-vanilla-toffee-rose-01/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/swiss-arabian-bundle-shaghaf-vanilla-toffee-rose-01"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitled_design_31.png?v=1776094943",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Gemini_Generated_Image_oo862too862too86.png?v=1776094747",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/SwissArabianRose01_cfa72a9f-be34-4e26-9f7d-47bb1e34f753.jpg?v=1776094021",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafVanillaToffee2_b71b15c9-2b3b-4370-b29d-16eddbce2ff5.jpg?v=1776093071",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/SwissArabianRose012_588853a3-de1c-4572-98a6-052ae7ca7de2.jpg?v=1776094021",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Shaghaf_Vanilla_Toffee_4.jpg?v=1776094849"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Swiss Arabian Bundle – Shaghaf Vanilla Toffee & Rose 01",
+  "english_product_name": "Swiss Arabian Bundle – Shaghaf Vanilla Toffee & Rose 01",
+  "original_product_name": null,
+  "brand": "Swiss Arabian",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8536067571895",
+  "parent_product_id": "8536067571895",
+  "description": "This Swiss Arabian Shaghaf Bundle pairs indulgent gourmand sweetness with elegant floral freshness, creating a balanced and versatile fragrance combination. Shaghaf Vanilla Toffee (75 ml) delivers a rich dessert-like profile with buttery toffee, creamy vanilla, and warm coffee sweetness for a cozy and addictive scent. Rose 01 (50 ml) brings a bright and romantic contrast with fruity lychee, soft rose, and smooth musk, adding freshness and floral elegance. Together, this duo offers the perfect mix of sweet warmth and airy floral brightness, making it ideal for layering or switching between cozy evenings and fresh daytime wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "79.99",
+      "compare_at_price": "119.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "79.99",
+  "compare_at_price": "119.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/swiss-arabian-bundle-shaghaf-vanilla-toffee-rose-01-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitled_design_31.png?v=1776094943",
+      "content_hash": "4cb51e6c4411202a19dfdfb3ff751adbc66a79e6",
+      "alt": "Swiss Arabian Bundle – Shaghaf Vanilla Toffee & Rose 01"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-bundle-shaghaf-vanilla-toffee-rose-01-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Gemini_Generated_Image_oo862too862too86.png?v=1776094747",
+      "content_hash": "2421444f11909c3c858420856b2495fea80272f5",
+      "alt": "Swiss Arabian Bundle – Shaghaf Vanilla Toffee & Rose 01"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-bundle-shaghaf-vanilla-toffee-rose-01-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/SwissArabianRose01_cfa72a9f-be34-4e26-9f7d-47bb1e34f753.jpg?v=1776094021",
+      "content_hash": "bb3cd056066fa2bdbfd563a021807ab75bd6e2c6",
+      "alt": "Swiss Arabian Bundle – Shaghaf Vanilla Toffee & Rose 01"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-bundle-shaghaf-vanilla-toffee-rose-01-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafVanillaToffee2_b71b15c9-2b3b-4370-b29d-16eddbce2ff5.jpg?v=1776093071",
+      "content_hash": "705eb684d5880912873001b1ad68b7f2a3b36adb",
+      "alt": "Swiss Arabian Bundle – Shaghaf Vanilla Toffee & Rose 01"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-bundle-shaghaf-vanilla-toffee-rose-01-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/SwissArabianRose012_588853a3-de1c-4572-98a6-052ae7ca7de2.jpg?v=1776094021",
+      "content_hash": "c2f6d99d8dc7f4c618f3f7fd68681be1d6dc1836",
+      "alt": "Swiss Arabian Bundle – Shaghaf Vanilla Toffee & Rose 01"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-bundle-shaghaf-vanilla-toffee-rose-01-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Shaghaf_Vanilla_Toffee_4.jpg?v=1776094849",
+      "content_hash": "352d97aa123660859be6df2dc029165fb1831ee7",
+      "alt": "Swiss Arabian Bundle – Shaghaf Vanilla Toffee & Rose 01"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "fariis-afrah-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8303298740407",
+  "source_parent_product_id": "8303298740407",
+  "source_product_url": "https://habibiperfumes.store/products/fariis-afrah-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fariis-afrah-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/fariis-afrah-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FariisAfrah3.jpg?v=1764865027",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FariisAfrah2.jpg?v=1764865027"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Fariis Afrah Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Fariis Afrah Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Fariis",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8303298740407",
+  "parent_product_id": "8303298740407",
+  "description": "Fariis Afrah is a sweet, fruity-floral, musky-amber fragrance with a bright youthful opening and a warm, elegant finish. It opens with juicy red fruits, citrus sparkle, and sweet floral freshness, giving an inviting, uplifting first impression. The heart carries rose, jasmine, and creamy florals, adding softness and sophistication. The base settles into amber, vanilla, soft musk, and smooth woods, creating a long-lasting trail that feels feminine, warm, and gently sensual. Perfect for customers who enjoy sweet fruity florals with a clean musky-amber dry down.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/fariis-afrah-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FariisAfrah3.jpg?v=1764865027",
+      "content_hash": "37f56255147270d41dc54cfa2a5cc380e7917fe5",
+      "alt": "Fariis Afrah Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/fariis-afrah-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FariisAfrah2.jpg?v=1764865027",
+      "content_hash": "a5c3f02eb19409e2584aba54aa02cc076a4f85ee",
+      "alt": "Fariis Afrah Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

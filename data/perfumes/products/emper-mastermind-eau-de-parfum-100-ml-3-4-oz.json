@@ -1,0 +1,73 @@
+{
+  "slug": "emper-mastermind-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8270525006007",
+  "source_parent_product_id": "8270525006007",
+  "source_product_url": "https://habibiperfumes.store/products/emper-mastermind-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/emper-mastermind-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/emper-mastermind-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/E6C0B34C-4DE2-40FD-9224-FC3CC3E85CC5.webp?v=1761524631"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Emper Mastermind Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Emper Mastermind Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Emper",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270525006007",
+  "parent_product_id": "8270525006007",
+  "description": "Mastermind by Emper opens with crisp top notes of apple, lavender and bergamot, creating a fresh and energizing introduction. The heart blends watermelon, cedar and calamus, adding a smooth fruity-woody-green core. In the base you’ll find amber, sandalwood and patchouli delivering a warm, grounded finish with a subtle hint of depth and sophistication. This fragrance balances fresh fruit elements with strong woody amber base — ideal for men who want a versatile daytime to evening scent.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "34.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "34.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/emper-mastermind-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/E6C0B34C-4DE2-40FD-9224-FC3CC3E85CC5.webp?v=1761524631",
+      "content_hash": "ef29700a81fb22fb14d9b9d8c9705b94d69644db",
+      "alt": "Emper Mastermind Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "lattafa-his-hers-bundle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8322953707703",
+  "source_parent_product_id": "8322953707703",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-his-hers-bundle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-his-hers-bundle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-his-hers-bundle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaHisandHerConfession.jpg?v=1766607971"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa His & Hers Bundle",
+  "english_product_name": "Lattafa His & Hers Bundle",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "69c1f0a9c9320",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8322953707703",
+  "parent_product_id": "8322953707703",
+  "description": "The His & Hers Confession Bundle is a refined couples set designed to create harmony, contrast, and connection through scent. Bold masculinity meets soft sensuality — two fragrances that stand strong individually but feel even better together. His Confession delivers confident warmth, smooth spices, and masculine depth — perfect for daily wear and nights out. Her Confession brings elegant sweetness, floral warmth, and soft sensuality — comforting, romantic, and addictive. Together, they form a perfectly balanced couple’s signature , ideal for gifting, anniversaries, holidays, or simply sharing a scent story as a pair.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "69.95",
+      "compare_at_price": "99.99",
+      "sku": "69c1f0a9c9320",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "69.95",
+  "compare_at_price": "99.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-his-hers-bundle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaHisandHerConfession.jpg?v=1766607971",
+      "content_hash": "3c97c6e3f069c2e8bcfac0e6bcee29a926738526",
+      "alt": "Lattafa His & Hers Bundle"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

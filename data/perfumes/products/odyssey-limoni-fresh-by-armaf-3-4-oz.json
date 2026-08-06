@@ -1,0 +1,80 @@
+{
+  "slug": "odyssey-limoni-fresh-by-armaf-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8216952733879",
+  "source_parent_product_id": "8216952733879",
+  "source_product_url": "https://habibiperfumes.store/products/odyssey-limoni-fresh-by-armaf-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/odyssey-limoni-fresh-by-armaf-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/odyssey-limoni-fresh-by-armaf-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_12.webp?v=1755886151",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.98695.2x.avif?v=1755886151"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Limoni Fresh Edition Unisex Eau de Parfum 3.4 oz",
+  "english_product_name": "Armaf Odyssey Limoni Fresh Edition Unisex Eau de Parfum 3.4 oz",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "6294015188639",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216952733879",
+  "parent_product_id": "8216952733879",
+  "description": "Armaf Odyssey Limoni Fresh Edition is a lively citrus–marine fragrance crafted for men and women. It bursts open with lemon, mandarin, orange, and bergamot, blending into heart notes of marine accords, ginger, and orange blossom. A base of tea, amber, and musk gives depth and warmth, balancing freshness with elegance. Ideal for daytime wear and summer seasons.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": "6294015188639",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/odyssey-limoni-fresh-by-armaf-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_12.webp?v=1755886151",
+      "content_hash": "e050f7c9e28d9e43afda529c8b67a7eb9602c972",
+      "alt": "Armaf Odyssey Limoni Fresh Edition Unisex Eau de Parfum 3.4 oz"
+    },
+    {
+      "src": "/data/perfumes/images/odyssey-limoni-fresh-by-armaf-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.98695.2x.avif?v=1755886151",
+      "content_hash": "b538261383156a89e123c2e20c54b66276a67a59",
+      "alt": "Armaf Odyssey Limoni Fresh Edition Unisex Eau de Parfum 3.4 oz"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

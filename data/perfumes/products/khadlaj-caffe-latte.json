@@ -1,0 +1,101 @@
+{
+  "slug": "khadlaj-caffe-latte",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8594261475511",
+  "source_parent_product_id": "8594261475511",
+  "source_product_url": "https://habibiperfumes.store/products/khadlaj-caffe-latte",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/khadlaj-caffe-latte/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/khadlaj-caffe-latte"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Cafe_Latte_03.jpg?v=1781889309",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_3_87d23eb9-1ae3-4491-85b3-0bf12fd0aeba.png?v=1780525084",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/caffe-latte-extract-de-parfum-100ml-by-khadlaj-women-perfume-extrait-de-parfum-100-ml-khadlaj-309044-1156113096.jpg?v=1780525084",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/CafeLatte01.jpg?v=1780525084",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Cafe_Latte_02.jpg?v=1780525084"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Khadlaj Caffe Latte Extrait de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Khadlaj Caffe Latte Extrait de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Khadlaj",
+  "sku": "6291107979311",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8594261475511",
+  "parent_product_id": "8594261475511",
+  "description": "Khadlaj Caffe Latte Extrait de Parfum is a gourmand 100 ml fragrance with sweet almond, coffee and milk over amber, vanilla, ice cream accord, caramel and almond cream.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "44.99",
+      "sku": "6291107979311",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/khadlaj-caffe-latte-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Cafe_Latte_03.jpg?v=1781889309",
+      "content_hash": "21ab5329bbce98fcad375a0bd6704c1a2835df87",
+      "alt": "Khadlaj Caffe Latte Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-caffe-latte-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_3_87d23eb9-1ae3-4491-85b3-0bf12fd0aeba.png?v=1780525084",
+      "content_hash": "7ea62c5357261e8665ee0bb0ec8651d21745813d",
+      "alt": "Khadlaj Caffe Latte Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-caffe-latte-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/caffe-latte-extract-de-parfum-100ml-by-khadlaj-women-perfume-extrait-de-parfum-100-ml-khadlaj-309044-1156113096.jpg?v=1780525084",
+      "content_hash": "cf83c3fe15f0086bec0c8aa9860fd5c9c20b5935",
+      "alt": "Khadlaj Caffe Latte Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-caffe-latte-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/CafeLatte01.jpg?v=1780525084",
+      "content_hash": "973c27cfa7581307f8ef26f8a442805a520c8d96",
+      "alt": "Khadlaj Caffe Latte Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-caffe-latte-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Cafe_Latte_02.jpg?v=1780525084",
+      "content_hash": "3c059e39e35a8add8f366d4d543cbe2e20ac5c55",
+      "alt": "Khadlaj Caffe Latte Extrait de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

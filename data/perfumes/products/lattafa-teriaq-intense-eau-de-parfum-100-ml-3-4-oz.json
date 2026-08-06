@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-teriaq-intense-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8505687769271",
+  "source_parent_product_id": "8505687769271",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-teriaq-intense-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-teriaq-intense-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-teriaq-intense-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Teriaqintense3.jpg?v=1773715843",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Teriaqintense2.jpg?v=1773715843",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Teriaqintense.webp?v=1773715842"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Teriaq Intense Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Teriaq Intense Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8505687769271",
+  "parent_product_id": "8505687769271",
+  "description": "Teriaq Intense is a deeper and more powerful interpretation of the original Teriaq, amplifying its rich honey sweetness with stronger tobacco and warm amber depth. The scent is bold, dense, and long-lasting, delivering a luxurious gourmand experience with a smoky edge. The opening introduces a thick wave of golden honey and caramelized sweetness, creating a rich and syrupy first impression. The heart develops into intensified tobacco and warm spicy accords, adding depth, richness, and a darker, more pronounced character. The base settles into vanilla, amber, and woody notes, leaving a long-lasting, warm, and slightly smoky gourmand trail. Teriaq Intense is perfect for those who enjoy strong honey tobacco fragrances with enhanced sweetness, depth, and projection.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-teriaq-intense-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Teriaqintense3.jpg?v=1773715843",
+      "content_hash": "d15a2525cd27748dcfeef9208864c52aa66ade9f",
+      "alt": "Lattafa Teriaq Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-teriaq-intense-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Teriaqintense2.jpg?v=1773715843",
+      "content_hash": "b6490ccdffaac0fb69d46b1f48841088dfab8be0",
+      "alt": "Lattafa Teriaq Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-teriaq-intense-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Teriaqintense.webp?v=1773715842",
+      "content_hash": "22866ea29fec2148c1ebd9ccb5f338c2ae26b600",
+      "alt": "Lattafa Teriaq Intense Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

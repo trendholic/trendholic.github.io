@@ -1,0 +1,87 @@
+{
+  "slug": "armaf-island-bliss-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8475943108791",
+  "source_parent_product_id": "8475943108791",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-island-bliss-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-island-bliss-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-island-bliss-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafIslandBliss3_ed4061a2-4b5b-4162-acca-93b9d9e34257.webp?v=1772388426",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafIslandBliss2_98b650bd-cf72-4911-911a-ebfb5157c25a.webp?v=1772388426",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafIslandBliss_2f394fd3-0fcf-49a0-bfc5-3e88003dcd94.jpg?v=1772388426"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Island Bliss Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Island Bliss Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8475943108791",
+  "parent_product_id": "8475943108791",
+  "description": "Armaf Island Bliss is a smooth tropical-fresh fragrance that blends creamy sweetness with masculine woods, creating a scent that feels relaxed, confident, and effortlessly attractive. The opening delivers a fresh tropical burst with juicy citrus and creamy coconut, giving it an immediate vacation-ready feel. The heart introduces smooth aromatic and woody notes that add masculine balance and structure. The base settles into warm woods, musk, and soft sweetness, leaving a long-lasting, addictive trail that feels clean, modern, and seductive. Island Bliss is perfect for men or anyone who wants a tropical signature scent that stands out while remaining smooth and wearable.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.50",
+      "compare_at_price": "59.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.50",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-island-bliss-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafIslandBliss3_ed4061a2-4b5b-4162-acca-93b9d9e34257.webp?v=1772388426",
+      "content_hash": "6913a63e8d02d89081027f1fd5d55c2f35f32d07",
+      "alt": "Armaf Island Bliss Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-island-bliss-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafIslandBliss2_98b650bd-cf72-4911-911a-ebfb5157c25a.webp?v=1772388426",
+      "content_hash": "abf941a5bbf4479fcd70328249d08db6d2a7200b",
+      "alt": "Armaf Island Bliss Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-island-bliss-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafIslandBliss_2f394fd3-0fcf-49a0-bfc5-3e88003dcd94.jpg?v=1772388426",
+      "content_hash": "f27c25be7e137c68d1594f4fb424f14eed9acda6",
+      "alt": "Armaf Island Bliss Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

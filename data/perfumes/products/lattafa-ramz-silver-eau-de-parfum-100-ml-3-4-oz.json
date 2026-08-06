@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-ramz-silver-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8314054049975",
+  "source_parent_product_id": "8314054049975",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-ramz-silver-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-ramz-silver-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-ramz-silver-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaRamzSilver3.jpg?v=1765943919",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaRamzSilver2.jpg?v=1765943919",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaRamzSilver.webp?v=1765943919"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Ramz Silver Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Ramz Silver Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8314054049975",
+  "parent_product_id": "8314054049975",
+  "description": "Ramz Silver by Lattafa is a fresh, aromatic, sweet-spicy woody fragrance with a youthful, energetic, and modern masculine character. It opens with crisp apple, bright bergamot, and aromatic lavender, delivering a clean, fresh first impression. The heart introduces warm spices, cardamom, and subtle floral notes, adding smooth depth and balance. The base settles into vanilla, amber, musk, and soft woods, creating a sweet-woody dry-down with good longevity and mass appeal. This fragrance is ideal for customers who enjoy fresh-sweet modern men’s scents with a playful yet confident edge.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-ramz-silver-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaRamzSilver3.jpg?v=1765943919",
+      "content_hash": "e22018383a011deca7c8ab503eb7ce8c20e6c7c3",
+      "alt": "Lattafa Ramz Silver Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-ramz-silver-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaRamzSilver2.jpg?v=1765943919",
+      "content_hash": "943cf71db2a51439d32f5173bad297cd4fa43309",
+      "alt": "Lattafa Ramz Silver Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-ramz-silver-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaRamzSilver.webp?v=1765943919",
+      "content_hash": "15b2bdac2609f2149c40a2ba177001516cd6679f",
+      "alt": "Lattafa Ramz Silver Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

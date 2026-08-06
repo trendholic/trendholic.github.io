@@ -1,0 +1,80 @@
+{
+  "slug": "6290102040149",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8241890459831",
+  "source_parent_product_id": "8241890459831",
+  "source_product_url": "https://habibiperfumes.store/products/6290102040149",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6290102040149/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6290102040149"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.103389.jpg?v=1757963839",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/711UIqrNEzL._UF1000_1000_QL80.jpg?v=1757963840"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige Nyla Eau de Parfum Unisex 80 ml (2.7 oz)",
+  "english_product_name": "Arabiyat Prestige Nyla Eau de Parfum Unisex 80 ml (2.7 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat",
+  "sku": "6290102040149",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241890459831",
+  "parent_product_id": "8241890459831",
+  "description": "Nyla by Arabiyat (2024) is a lush and creamy fruity-floral fragrance. The top notes open with a blend of coconut, bergamot, peach, and mandarin — bright and tropical. The heart blooms with tiare, white flowers, jasmine, and rose. It settles gently into a base of white musk and patchouli, leaving a soft, warm, and seductive trail. Perfect when you want a sweet but elegant scent that feels like summer.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": "6290102040149",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6290102040149-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.103389.jpg?v=1757963839",
+      "content_hash": "4b1c983786ccaf9c6188a975cdf32c71e882c5d2",
+      "alt": "Arabiyat Prestige Nyla Eau de Parfum Unisex 80 ml (2.7 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290102040149-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/711UIqrNEzL._UF1000_1000_QL80.jpg?v=1757963840",
+      "content_hash": "10e4378b3ce399c4c8b0c3583402b32b82e05570",
+      "alt": "Arabiyat Prestige Nyla Eau de Parfum Unisex 80 ml (2.7 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

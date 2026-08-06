@@ -1,0 +1,80 @@
+{
+  "slug": "jo-milano-game-of-spades-full-house-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8270521270455",
+  "source_parent_product_id": "8270521270455",
+  "source_product_url": "https://habibiperfumes.store/products/jo-milano-game-of-spades-full-house-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/jo-milano-game-of-spades-full-house-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/jo-milano-game-of-spades-full-house-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.105095.jpg?v=1761523137",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/full-housebox.webp?v=1761523137"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Jo Milano Game of Spades Full House Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Jo Milano Game of Spades Full House Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Jo Milano",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270521270455",
+  "parent_product_id": "8270521270455",
+  "description": "Game of Spades Full House opens with vibrant citrus top notes of Calabrian bergamot, Sicilian orange, and Sicilian citron. The heart blends Tunisian neroli, ginger, and Ceylon cinnamon for a spicy-floral core. The base settles into amber-smoky richness with ambroxan, Chinese black tea, olibanum, and guaiac wood for a deep, sophisticated finish. This fragrance fuses brightness and depth, making it a confident signature scent that works for day or night wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "69.99",
+      "compare_at_price": "79.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "69.99",
+  "compare_at_price": "79.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-full-house-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.105095.jpg?v=1761523137",
+      "content_hash": "782080c4ac9bcfd9f0ddc964ae13cb7466964ab4",
+      "alt": "Jo Milano Game of Spades Full House Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-full-house-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/full-housebox.webp?v=1761523137",
+      "content_hash": "826d4ed50f5be740758f5e9178f206b5998f927d",
+      "alt": "Jo Milano Game of Spades Full House Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

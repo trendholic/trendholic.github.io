@@ -1,0 +1,122 @@
+{
+  "slug": "riiffs-golden-elixir",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8303301460151",
+  "source_parent_product_id": "8303301460151",
+  "source_product_url": "https://habibiperfumes.store/products/riiffs-golden-elixir",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/riiffs-golden-elixir/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/riiffs-golden-elixir"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/golden-elixir_5411b903-c63e-4140-ad61-ed41ea86d4bf.jpg?v=1779821599",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsGoldenElixir2.jpg?v=1764865712",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsGoldenElixir4.jpg?v=1764865712",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Riiffs_Golden_Elixir.png?v=1764865786",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/golden-elixir.jpg?v=1779821598",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/WhatsApp-Image-2024-11-05-at-6.35.37-PM-2048x1348-1.jpg?v=1779821598",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign-2025-01-07T165639.777.png?v=1779821598",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign-2025-01-07T165455.424.png?v=1779821599"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Riiffs Golden Elixir Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Riiffs Golden Elixir Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": "RIIFFS-GOLDEN-ELIXIR-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8303301460151",
+  "parent_product_id": "8303301460151",
+  "description": "Riiffs Golden Elixir is a 100 ml / 3.4 oz Eau de Parfum. Official Riiffs references describe a rich, opulent fragrance where warm spices meet sweet woods.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "39.99",
+      "sku": "RIIFFS-GOLDEN-ELIXIR-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/golden-elixir_5411b903-c63e-4140-ad61-ed41ea86d4bf.jpg?v=1779821599",
+      "content_hash": "906ba7b19f5c12ce533f1bf00f3a26b5644c5d96",
+      "alt": "Riiffs Golden Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsGoldenElixir2.jpg?v=1764865712",
+      "content_hash": "d40f15e5410235abd42d864f720530f413292c56",
+      "alt": "Riiffs Golden Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsGoldenElixir4.jpg?v=1764865712",
+      "content_hash": "b8fe55a985bb41644ae70b3e11a14dff931a69e9",
+      "alt": "Riiffs Golden Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Riiffs_Golden_Elixir.png?v=1764865786",
+      "content_hash": "b76bb4a4e6f51c6222ae301573b95ec64aea2614",
+      "alt": "Riiffs Golden Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/golden-elixir.jpg?v=1779821598",
+      "content_hash": "906ba7b19f5c12ce533f1bf00f3a26b5644c5d96",
+      "alt": "Riiffs Golden Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/WhatsApp-Image-2024-11-05-at-6.35.37-PM-2048x1348-1.jpg?v=1779821598",
+      "content_hash": "5c390414ab659a13db51de0a963c60695ec56b15",
+      "alt": "Riiffs Golden Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-7.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign-2025-01-07T165639.777.png?v=1779821598",
+      "content_hash": "505293b66855943d405d3e40cad6d8850fb0bedc",
+      "alt": "Riiffs Golden Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-golden-elixir-8.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign-2025-01-07T165455.424.png?v=1779821599",
+      "content_hash": "b63a4574d625439e7144fbf5db36a82b18fed862",
+      "alt": "Riiffs Golden Elixir Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

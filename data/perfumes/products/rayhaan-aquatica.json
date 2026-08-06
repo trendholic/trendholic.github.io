@@ -1,0 +1,122 @@
+{
+  "slug": "rayhaan-aquatica",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8297596092599",
+  "source_parent_product_id": "8297596092599",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-aquatica",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-aquatica/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-aquatica"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanAquatica.png?v=1780525103",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanAquatica2.jpg?v=1764258210",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanAquatica.webp?v=1764258210",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanAquatica4.jpg?v=1764258210",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Aquatica3.png?v=1780525102",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Aquatica1.png?v=1780525104",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01.jpg?v=1780525102",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/02.jpg?v=1780525102"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Aquatica Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Aquatica Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": "6297001571330",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8297596092599",
+  "parent_product_id": "8297596092599",
+  "description": "Rayhaan Aquatica Eau de Parfum is a fresh aquatic unisex fragrance inspired by ocean breezes, bright freshness and an easy summer mood.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.50",
+      "compare_at_price": "49.99",
+      "sku": "6297001571330",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-aquatica-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanAquatica.png?v=1780525103",
+      "content_hash": "244ba1790eb741c2025934e1cd7c7975858c8ce7",
+      "alt": "Rayhaan Aquatica Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-aquatica-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanAquatica2.jpg?v=1764258210",
+      "content_hash": "db594528db19e2c33e64c0b8d2553409d852f627",
+      "alt": "Rayhaan Aquatica Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-aquatica-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanAquatica.webp?v=1764258210",
+      "content_hash": "03bc7275be1c961b9e66e64a1fe7d20f7cfc9289",
+      "alt": "Rayhaan Aquatica Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-aquatica-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanAquatica4.jpg?v=1764258210",
+      "content_hash": "d19a555b82db76cf9052b6c65d5556cadf0b8bcf",
+      "alt": "Rayhaan Aquatica Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-aquatica-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Aquatica3.png?v=1780525102",
+      "content_hash": "d9b8c9b45919e544a7421842eb2dde3388ef5a8c",
+      "alt": "Rayhaan Aquatica Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-aquatica-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Aquatica1.png?v=1780525104",
+      "content_hash": "6c86f71cabce29802940bcde4c6f67cb580c6111",
+      "alt": "Rayhaan Aquatica Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-aquatica-7.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01.jpg?v=1780525102",
+      "content_hash": "ad3e89da181849882dc262b22bb08ca2875703da",
+      "alt": "Rayhaan Aquatica Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-aquatica-8.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/02.jpg?v=1780525102",
+      "content_hash": "8d80e51ee965f5c55b6fd7e410df7e9c10ec18e2",
+      "alt": "Rayhaan Aquatica Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

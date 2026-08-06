@@ -1,0 +1,108 @@
+{
+  "slug": "maison-asrar-coffee-blend-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8562699960503",
+  "source_parent_product_id": "8562699960503",
+  "source_product_url": "https://habibiperfumes.store/products/maison-asrar-coffee-blend-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/maison-asrar-coffee-blend-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/maison-asrar-coffee-blend-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarcoffeeblend.webp?v=1778095739",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarcoffeeblend5.webp?v=1778095739",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarcoffeeblend4.jpg?v=1778095739",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarcoffeeblend3.webp?v=1778095738",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarcoffeeblend2.webp?v=1778095738",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Maison_Asrar_Coffee_Blend6.jpg?v=1778095814"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Maison Asrar Coffee Blend Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Maison Asrar Coffee Blend Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Maison Asrar",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8562699960503",
+  "parent_product_id": "8562699960503",
+  "description": "Coffee Blend is a rich and addictive gourmand fragrance that combines roasted coffee accords with creamy sweetness and warm woody depth. The scent feels cozy, bold, and luxurious, delivering a café-inspired character with smooth modern elegance. The opening introduces freshly roasted coffee with subtle spicy nuances, creating a dark, warm, and energizing first impression. The heart develops into creamy gourmand notes and soft sweetness, adding richness and balance to the bold coffee accord. The base settles into vanilla, amber, musk, and woods, leaving a smooth, warm, and long-lasting trail that feels comforting, slightly smoky, and deeply addictive. Coffee Blend is perfect for those who enjoy coffee-centered gourmand fragrances with creamy warmth and smooth woody depth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/maison-asrar-coffee-blend-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarcoffeeblend.webp?v=1778095739",
+      "content_hash": "a19c351332caa8eb27186fbf1b47eda2dfbe77cf",
+      "alt": "Maison Asrar Coffee Blend Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-coffee-blend-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarcoffeeblend5.webp?v=1778095739",
+      "content_hash": "49c1eea16d10ad85bf8ea9b8856b3e194e594410",
+      "alt": "Maison Asrar Coffee Blend Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-coffee-blend-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarcoffeeblend4.jpg?v=1778095739",
+      "content_hash": "f24850e8f1963013cdefbee20ed1df7457334241",
+      "alt": "Maison Asrar Coffee Blend Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-coffee-blend-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarcoffeeblend3.webp?v=1778095738",
+      "content_hash": "d6d39f8117490ad42f4c952be3c186c820982655",
+      "alt": "Maison Asrar Coffee Blend Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-coffee-blend-eau-de-parfum-100-ml-3-4-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarcoffeeblend2.webp?v=1778095738",
+      "content_hash": "3072d28912561996f43645c69edd0158ffb6dfa0",
+      "alt": "Maison Asrar Coffee Blend Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-coffee-blend-eau-de-parfum-100-ml-3-4-oz-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Maison_Asrar_Coffee_Blend6.jpg?v=1778095814",
+      "content_hash": "d8e0bcb2aa4d0e9c03384d107bcab2becfab5c7a",
+      "alt": "Maison Asrar Coffee Blend Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

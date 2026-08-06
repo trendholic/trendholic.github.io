@@ -1,0 +1,94 @@
+{
+  "slug": "amran-qamarain-for-him-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8304284631223",
+  "source_parent_product_id": "8304284631223",
+  "source_product_url": "https://habibiperfumes.store/products/amran-qamarain-for-him-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/amran-qamarain-for-him-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/amran-qamarain-for-him-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Qamarain_For_Him_0_c8454482-4270-40f8-8fb2-7c3eda020ce0.webp?v=1764957483",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/QamarainForHim.webp?v=1764957483",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/QamarainForHim2.webp?v=1764957483",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/QamarainForHim1.webp?v=1764957483"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Amran Qamarain For Him Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Amran Qamarain For Him Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes Miami",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8304284631223",
+  "parent_product_id": "8304284631223",
+  "description": "Qamarain For Him by Amran is a fresh, aromatic, woody-amber fragrance with a modern masculine style and excellent everyday versatility. It opens with bright citrus, crisp aromatics, and a clean fresh-sweet sparkle , delivering an uplifting and energetic first impression. The heart introduces gentle spices, lavender, and woody undertones , giving it smoothness and a refined, confident character. The base settles into amber, musk, dry woods, and a hint of sweet warmth , creating a long-lasting masculine trail that feels both clean and sophisticated. Perfect for customers who enjoy fresh-clean masculine scents with a warm woody-amber finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.99",
+      "compare_at_price": "69.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.99",
+  "compare_at_price": "69.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/amran-qamarain-for-him-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Qamarain_For_Him_0_c8454482-4270-40f8-8fb2-7c3eda020ce0.webp?v=1764957483",
+      "content_hash": "64c315721d18d68ee4f0a79e015eb69f185b4e47",
+      "alt": "Amran Qamarain For Him Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/amran-qamarain-for-him-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/QamarainForHim.webp?v=1764957483",
+      "content_hash": "a8b29eb23f5dbefcffd23366fb38c1bd3926af4f",
+      "alt": "Amran Qamarain For Him Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/amran-qamarain-for-him-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/QamarainForHim2.webp?v=1764957483",
+      "content_hash": "fd397648a9901c66e082d1fb7140d3e192867e0a",
+      "alt": "Amran Qamarain For Him Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/amran-qamarain-for-him-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/QamarainForHim1.webp?v=1764957483",
+      "content_hash": "3aaa2cad9bf18b90e6784b35d5a37c4dca8021db",
+      "alt": "Amran Qamarain For Him Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

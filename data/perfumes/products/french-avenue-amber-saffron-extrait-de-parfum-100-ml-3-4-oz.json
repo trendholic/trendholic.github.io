@@ -1,0 +1,94 @@
+{
+  "slug": "french-avenue-amber-saffron-extrait-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8270511145143",
+  "source_parent_product_id": "8270511145143",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-amber-saffron-extrait-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-amber-saffron-extrait-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-amber-saffron-extrait-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.99739_1.jpg?v=1763577504",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG-0208_3584x_c7f08488-2b04-44f0-8138-51ce0dba6864.webp?v=1763577504",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fragrance-world-fa-paris-french-avenue-private-blends-australia_41.webp?v=1763577504",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/amber_saffron_creative.jpg?v=1781889066"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Amber Saffron Extrait de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Amber Saffron Extrait de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270511145143",
+  "parent_product_id": "8270511145143",
+  "description": "Amber Saffron by French Avenue is a warm, elegant extrait that weaves together saffron’s spicy brightness with creamy amber and smooth woods. The fragrance opens with luminous saffron and gentle citrus notes, leading into a floral heart of rose and jasmine. Its base unfolds into a rich blend of agarwood (oud), amber, patchouli, tonka bean, and soft musk — creating a luxurious, long-lasting finish that radiates refinement and depth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "59.95",
+      "compare_at_price": "69.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "59.95",
+  "compare_at_price": "69.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-amber-saffron-extrait-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.99739_1.jpg?v=1763577504",
+      "content_hash": "7527b2c1cbbbb75c38c74845e0b56a3148fc4da2",
+      "alt": "French Avenue Amber Saffron Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-amber-saffron-extrait-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG-0208_3584x_c7f08488-2b04-44f0-8138-51ce0dba6864.webp?v=1763577504",
+      "content_hash": "2f88599e4aae96d0486450d80195af25f21947b4",
+      "alt": "French Avenue Amber Saffron Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-amber-saffron-extrait-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fragrance-world-fa-paris-french-avenue-private-blends-australia_41.webp?v=1763577504",
+      "content_hash": "77c3eba5bc9d670370a1e786074ba053cca75f2e",
+      "alt": "French Avenue Amber Saffron Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-amber-saffron-extrait-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/amber_saffron_creative.jpg?v=1781889066",
+      "content_hash": "84f293eaa9e6c13311a2687fcf3eadda75c41688",
+      "alt": "French Avenue Amber Saffron Extrait de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "armaf-beach-party-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8270517436599",
+  "source_parent_product_id": "8270517436599",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-beach-party-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-beach-party-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-beach-party-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.102025.jpg?v=1761517911",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Nuoc-hoa-Armaf-Beach-Party-6.webp?v=1761517911",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/312492-armaf-beach-party.jpg?v=1761517911"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Beach Party Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Beach Party Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270517436599",
+  "parent_product_id": "8270517436599",
+  "description": "Beach Party by Armaf opens with a burst of tropical fruits and bright grapefruit for a fun, sun-soaked vibe. The heart adds a beachy twist with sea-water freshness and ripe guava. A soft base of musks and smooth woods lingers on the skin, keeping the fragrance airy, clean, and playful all day.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "41.99",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "41.99",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-beach-party-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.102025.jpg?v=1761517911",
+      "content_hash": "8508d78febb3551b4948b1fa3c428651e85fea38",
+      "alt": "Armaf Beach Party Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-beach-party-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Nuoc-hoa-Armaf-Beach-Party-6.webp?v=1761517911",
+      "content_hash": "b09aba37f33354dd321668f28e572fcdefe987bb",
+      "alt": "Armaf Beach Party Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-beach-party-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/312492-armaf-beach-party.jpg?v=1761517911",
+      "content_hash": "a74e1bb19a3ac10db9de2470314bf3b8517a52bf",
+      "alt": "Armaf Beach Party Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

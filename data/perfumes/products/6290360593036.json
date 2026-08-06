@@ -1,0 +1,80 @@
+{
+  "slug": "6290360593036",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241905533111",
+  "source_parent_product_id": "8241905533111",
+  "source_product_url": "https://habibiperfumes.store/products/6290360593036",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6290360593036/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6290360593036"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.99140-Copy.jpg?v=1757954033",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61ktAwnUNUL-Copy.jpg?v=1757954033"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Pride Pisa Men’s Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Lattafa Pride Pisa Men’s Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6290360593036",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241905533111",
+  "parent_product_id": "8241905533111",
+  "description": "Pisa by Lattafa Pride is a woody-fruity fragrance that blends fresh citrus and warm woods. It opens with bright mandarin, lemon, and bergamot for an energizing start; cedar forms the heart, adding structure and masculinity; base notes of sandalwood and amber provide a warm, smooth trail. It’s clean, versatile, and works as a signature daily wearer.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": null,
+      "sku": "6290360593036",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6290360593036-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.99140-Copy.jpg?v=1757954033",
+      "content_hash": "efb7f4984b25d75161213fe3c7293b0751de526b",
+      "alt": "Lattafa Pride Pisa Men’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360593036-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61ktAwnUNUL-Copy.jpg?v=1757954033",
+      "content_hash": "e4418381388b3eadec2f450850cf0df0cfd2cb3a",
+      "alt": "Lattafa Pride Pisa Men’s Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

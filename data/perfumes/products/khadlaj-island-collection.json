@@ -1,0 +1,73 @@
+{
+  "slug": "khadlaj-island-collection",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Perfume Bundle",
+  "source_category_original": "Perfume Bundle",
+  "source_categories": [
+    {
+      "name": "Perfume Bundle",
+      "slug": "perfume-bundle",
+      "source_path": "Perfume Bundle",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "perfume-bundle"
+  ],
+  "source_product_id": "8681081700535",
+  "source_parent_product_id": "8681081700535",
+  "source_product_url": "https://habibiperfumes.store/products/khadlaj-island-collection",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/khadlaj-island-collection/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/khadlaj-island-collection"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_fb37918c-1245-4e11-a425-343f23a95579.png?v=1784662344"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Khadlaj Island Collection",
+  "english_product_name": "Khadlaj Island Collection",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8681081700535",
+  "parent_product_id": "8681081700535",
+  "description": "Discover Khadlaj Island Collection, a curated fragrance set from Habibi Perfumes Miami. Bundle includes Khadlaj Island Dreams - 100 ml Khadlaj Island - 100 ml Khadlaj Island Vanilla Dunes - 100 ml Each item is a full-size fragrance. Products are packaged together as one bundle listing.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "104.50",
+      "compare_at_price": "144.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "104.50",
+  "compare_at_price": "144.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/khadlaj-island-collection-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_fb37918c-1245-4e11-a425-343f23a95579.png?v=1784662344",
+      "content_hash": "8b52a6b1af419731c7f0920553752a4e9882d273",
+      "alt": "Khadlaj Island Collection"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

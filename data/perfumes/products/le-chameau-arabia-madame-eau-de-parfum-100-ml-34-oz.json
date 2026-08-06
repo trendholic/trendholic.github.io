@@ -1,0 +1,94 @@
+{
+  "slug": "le-chameau-arabia-madame-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8689009557687",
+  "source_parent_product_id": "8689009557687",
+  "source_product_url": "https://habibiperfumes.store/products/le-chameau-arabia-madame-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/le-chameau-arabia-madame-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/le-chameau-arabia-madame-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/le-chameau-ladies-arabia-madame-edp-34-oz-fragrances-6291108520338_1.jpg?v=1785691317",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Arabia-Madame-by-Le-Chameau-Eau-de-Parfum-for-Women.jpg?v=1785691317",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Emper-Le-Chameau-Arabia-Madame-Eau-de-Parfum-Pour-Femme-100-ml-3-4-fl-oz_8435b672-3557-440c-8ea2-f474399316bb.3e7cdd82530b41f39cd6db06bd740b2c.jpg?v=1785691317",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/6b1fcbe1-51f2-48a6-a99a-ef3846a7a378.d2798b4b61076c6a335137c900ed6bc1.jpg?v=1785691317"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Le Chameau Arabia Madame Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Le Chameau Arabia Madame Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Le Chameau",
+  "sku": "6291108520338",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8689009557687",
+  "parent_product_id": "8689009557687",
+  "description": "Le Chameau Arabia Madame Eau de Parfum is a women's fragrance with a bright citrus opening of lemon, orange and bergamot. Jasmine, rose and patchouli form the floral heart, while vanilla and vetiver create a smooth feminine finish. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.50",
+      "compare_at_price": "39.99",
+      "sku": "6291108520338",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/le-chameau-arabia-madame-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/le-chameau-ladies-arabia-madame-edp-34-oz-fragrances-6291108520338_1.jpg?v=1785691317",
+      "content_hash": "2b42ce119b650f66074dff7898f43e5881f81b2b",
+      "alt": "Le Chameau Arabia Madame Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/le-chameau-arabia-madame-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Arabia-Madame-by-Le-Chameau-Eau-de-Parfum-for-Women.jpg?v=1785691317",
+      "content_hash": "3d4c2db8ed59f20737911a17a91a32e75df7ee94",
+      "alt": "Le Chameau Arabia Madame Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/le-chameau-arabia-madame-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Emper-Le-Chameau-Arabia-Madame-Eau-de-Parfum-Pour-Femme-100-ml-3-4-fl-oz_8435b672-3557-440c-8ea2-f474399316bb.3e7cdd82530b41f39cd6db06bd740b2c.jpg?v=1785691317",
+      "content_hash": "a314fc7e3187db23653b344d727724b8e563de6b",
+      "alt": "Le Chameau Arabia Madame Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/le-chameau-arabia-madame-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/6b1fcbe1-51f2-48a6-a99a-ef3846a7a378.d2798b4b61076c6a335137c900ed6bc1.jpg?v=1785691317",
+      "content_hash": "91b4fb99dde8438a32bf20dc4d5b37242eb9e3ba",
+      "alt": "Le Chameau Arabia Madame Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

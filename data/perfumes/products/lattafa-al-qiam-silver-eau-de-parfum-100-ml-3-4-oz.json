@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-al-qiam-silver-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8504343429303",
+  "source_parent_product_id": "8504343429303",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-al-qiam-silver-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-al-qiam-silver-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-al-qiam-silver-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AlQiamSilver.webp?v=1773706632",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AlQiamSilver2.webp?v=1773706632",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AlQiamSilver3.jpg?v=1773706632"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Al Qiam Silver Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Al Qiam Silver Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8504343429303",
+  "parent_product_id": "8504343429303",
+  "description": "Al Qiam Silver is a fresh and modern fragrance that combines bright citrus with aromatic herbs and smooth woody depth. The scent feels clean, energetic, and refined, making it highly versatile and easy to wear. The opening features a burst of fresh grapefruit and ginger, delivering a zesty and slightly spicy citrus brightness. The heart develops into aromatic notes of ambroxan and soft herbal accords, adding a clean, airy, and contemporary character. The base settles into vetiver and musk, creating a smooth, woody, and slightly earthy finish that lingers elegantly on the skin. Al Qiam Silver is perfect for those who enjoy fresh citrus fragrances with a modern woody and musky backbone.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-al-qiam-silver-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AlQiamSilver.webp?v=1773706632",
+      "content_hash": "787f202ce28f942155295a8591495227837cf043",
+      "alt": "Lattafa Al Qiam Silver Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-al-qiam-silver-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AlQiamSilver2.webp?v=1773706632",
+      "content_hash": "646977cea5a07da9b044eb9edcfca5a35809da9c",
+      "alt": "Lattafa Al Qiam Silver Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-al-qiam-silver-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AlQiamSilver3.jpg?v=1773706632",
+      "content_hash": "1f88a22f5e6fe9f73f61a990449fe0d26db13fb9",
+      "alt": "Lattafa Al Qiam Silver Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

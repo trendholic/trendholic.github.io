@@ -1,0 +1,87 @@
+{
+  "slug": "french-avenue-grow-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8485247287479",
+  "source_parent_product_id": "8485247287479",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-grow-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-grow-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-grow-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueGrow.jpg?v=1772670010",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueGrow.webp?v=1772670010",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueGrow2.webp?v=1772670054"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Grow Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Grow Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8485247287479",
+  "parent_product_id": "8485247287479",
+  "description": "French Avenue Grow is a rich oriental-woody fragrance that blends warm spices, soft florals, and creamy sweetness into a luxurious, modern composition. The scent balances fruity warmth with deep woody notes, creating a bold yet elegant signature that feels both comforting and sophisticated. The opening introduces saffron, davana, pear, and dates, delivering a sweet-spicy fruity warmth that immediately feels exotic and inviting. The heart reveals rose, sandalwood, jasmine, and soft floral accords, adding smooth elegance and creamy depth. The base settles into vanilla, tonka bean, musk, and dry woods, producing a warm, long-lasting trail with amber-woody richness and soft sweetness. Grow is ideal for those who enjoy warm sweet fragrances with oriental character and smooth woody depth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "59.99",
+      "compare_at_price": "69.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "59.99",
+  "compare_at_price": "69.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-grow-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueGrow.jpg?v=1772670010",
+      "content_hash": "ff0531ce008991cd7a0b20a9aba375671f1dccab",
+      "alt": "French Avenue Grow Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-grow-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueGrow.webp?v=1772670010",
+      "content_hash": "204d84da91daa7b3b962f3aea3259b37bbe0af1c",
+      "alt": "French Avenue Grow Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-grow-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueGrow2.webp?v=1772670054",
+      "content_hash": "768658777836f20aa326d081c24f4d47a3ff89b8",
+      "alt": "French Avenue Grow Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

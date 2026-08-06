@@ -1,0 +1,80 @@
+{
+  "slug": "shinning-city-perfume-by-emper",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8216660345015",
+  "source_parent_product_id": "8216660345015",
+  "source_product_url": "https://habibiperfumes.store/products/shinning-city-perfume-by-emper",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/shinning-city-perfume-by-emper/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/shinning-city-perfume-by-emper"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/download.webp?v=1755807876",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/download_1.webp?v=1755807876"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Shinning City by Emper Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Shinning City by Emper Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Emper",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216660345015",
+  "parent_product_id": "8216660345015",
+  "description": "Shinning City by Emper is a radiant floral-fruity fragrance that captures the sparkle of city life. It opens with juicy citrus and red fruits for a lively first impression. The heart is a bouquet of jasmine, rose, and delicate florals, adding elegance and femininity. The base is warm and sensual with vanilla, amber, and musk, leaving a lasting trail that’s both modern and sophisticated.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/shinning-city-perfume-by-emper-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/download.webp?v=1755807876",
+      "content_hash": "48828624801d77eccb7da9750dde2e7889e7afe7",
+      "alt": "Shinning City by Emper Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/shinning-city-perfume-by-emper-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/download_1.webp?v=1755807876",
+      "content_hash": "3a0941d1052c7d07868955e340844e88c60153ef",
+      "alt": "Shinning City by Emper Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

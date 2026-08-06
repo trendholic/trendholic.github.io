@@ -1,0 +1,94 @@
+{
+  "slug": "french-avenue-royal-blend-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8270553678007",
+  "source_parent_product_id": "8270553678007",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-royal-blend-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-royal-blend-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-royal-blend-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1600_3.webp?v=1763578212",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Royal_Blend_by_French_Avenue_4.webp?v=1763578212",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RoyalBlendbyFrenchAvenue3.jpg?v=1763578212",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RoyalBlendbyFrenchAvenue1.jpg?v=1763578212"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Royal Blend Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Royal Blend Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270553678007",
+  "parent_product_id": "8270553678007",
+  "description": "Royal Blend by French Avenue opens with a rich boozy burst of cognac, cinnamon, and plum. The heart reveals elegant iris and myrrh for a warm, refined mid-layer. The base settles into tonka bean, vanilla, and sandalwood — creating a smooth, luxurious dry-down that lingers with finesse. This fragrance combines sweet gourmand and woody accords with boozy undertones — ideal for making a statement at evening events or special occasions",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-royal-blend-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1600_3.webp?v=1763578212",
+      "content_hash": "7b0c3b3226e0f37c851cc4f1e1fc17f24d7afa1c",
+      "alt": "French Avenue Royal Blend Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-royal-blend-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Royal_Blend_by_French_Avenue_4.webp?v=1763578212",
+      "content_hash": "17787f912d66499ced6f683909777f727c4dd72c",
+      "alt": "French Avenue Royal Blend Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-royal-blend-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RoyalBlendbyFrenchAvenue3.jpg?v=1763578212",
+      "content_hash": "b111fab62b8539e2e17a444c2fe08fdc39b478cd",
+      "alt": "French Avenue Royal Blend Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-royal-blend-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RoyalBlendbyFrenchAvenue1.jpg?v=1763578212",
+      "content_hash": "51b6bb423a4774b36bfdba49600bcbd1cfd0b7ac",
+      "alt": "French Avenue Royal Blend Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

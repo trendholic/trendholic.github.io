@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-khamrah-air-freshener-300-ml",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Air Freshener",
+  "source_category_original": "Air Freshener",
+  "source_categories": [
+    {
+      "name": "Air Freshener",
+      "slug": "air-freshener",
+      "source_path": "Air Freshener",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "air-freshener"
+  ],
+  "source_product_id": "8565832482999",
+  "source_parent_product_id": "8565832482999",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-khamrah-air-freshener-300-ml",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-khamrah-air-freshener-300-ml/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-khamrah-air-freshener-300-ml"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khamrah-Air-Freshener-300mL-By-Lattafa-Perfumes-Spray-Home-Arabian-Fragrance-10-14-Ounce-Pack-of-1-Black_1a687b89-154f-4d60-a82a-43a1f6cbcb64.015009fae98d0e59a1a7b466d3efeb5e.jpg?v=1778265663",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/BAE71454-7A82-437E-8B3F-8FAD0CCD52C6.png?v=1778265664",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/image00028.jpg?v=1778265663"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Khamrah Air Freshener 300 ml",
+  "english_product_name": "Lattafa Khamrah Air Freshener 300 ml",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8565832482999",
+  "parent_product_id": "8565832482999",
+  "description": "Lattafa Khamrah Air Freshener is a 300 ml room and fabric spray with the warm gourmand Khamrah scent profile. It opens with cinnamon, nutmeg, and bergamot, followed by dates, praline, tuberose, and mahonial over a base of vanilla, tonka bean, amberwood, myrrh, benzoin, and akigalawood. Suitable for home, car, office, curtains, carpets, and upholstered furniture.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "10.14 oz / 300 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "5.99",
+      "compare_at_price": "9.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "5.99",
+  "compare_at_price": "9.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-air-freshener-300-ml-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khamrah-Air-Freshener-300mL-By-Lattafa-Perfumes-Spray-Home-Arabian-Fragrance-10-14-Ounce-Pack-of-1-Black_1a687b89-154f-4d60-a82a-43a1f6cbcb64.015009fae98d0e59a1a7b466d3efeb5e.jpg?v=1778265663",
+      "content_hash": "d54467b63de48744ded50be1396e7c353b8cd7d7",
+      "alt": "Lattafa Khamrah Air Freshener 300 ml"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-air-freshener-300-ml-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/BAE71454-7A82-437E-8B3F-8FAD0CCD52C6.png?v=1778265664",
+      "content_hash": "f47bee4ebbe9517d31ab6cde1723143bc11c4dbb",
+      "alt": "Lattafa Khamrah Air Freshener 300 ml"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-khamrah-air-freshener-300-ml-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/image00028.jpg?v=1778265663",
+      "content_hash": "8ed261aee2d5a9dfb1d68752a150c4a47ca24ba7",
+      "alt": "Lattafa Khamrah Air Freshener 300 ml"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

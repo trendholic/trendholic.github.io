@@ -1,0 +1,73 @@
+{
+  "slug": "rayhaan-kiss-divine-bundle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8518209175735",
+  "source_parent_product_id": "8518209175735",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-kiss-divine-bundle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-kiss-divine-bundle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-kiss-divine-bundle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_24.png?v=1774560727"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Kiss & Divine Bundle",
+  "english_product_name": "Rayhaan Kiss & Divine Bundle",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": "69c6c66b76a4e",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8518209175735",
+  "parent_product_id": "8518209175735",
+  "description": "The Rayhaan Kiss & Divine Bundle pairs two smooth and expressive fragrances that highlight sweetness, warmth, and modern elegance in a balanced duo. Kiss delivers a soft and inviting sweetness with a warm, slightly creamy profile that feels comforting and easy to wear. Divine adds depth and refinement, blending sweet notes with a richer, more elegant warmth that creates a more elevated presence. Together, this bundle offers a versatile fragrance experience that transitions from relaxed everyday wear to more polished evening settings. Perfect for those who enjoy sweet, warm, and slightly creamy fragrances with a smooth, modern finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "79.99",
+      "compare_at_price": "89.99",
+      "sku": "69c6c66b76a4e",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "79.99",
+  "compare_at_price": "89.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-kiss-divine-bundle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_24.png?v=1774560727",
+      "content_hash": "b483d92b00c3e1e8461ff6eda35f14b6f8f68fd6",
+      "alt": "Rayhaan Kiss & Divine Bundle"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

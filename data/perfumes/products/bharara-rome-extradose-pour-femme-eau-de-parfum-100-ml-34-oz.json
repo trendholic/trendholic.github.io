@@ -1,0 +1,80 @@
+{
+  "slug": "bharara-rome-extradose-pour-femme-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8573492002999",
+  "source_parent_product_id": "8573492002999",
+  "source_product_url": "https://habibiperfumes.store/products/bharara-rome-extradose-pour-femme-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/bharara-rome-extradose-pour-femme-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/bharara-rome-extradose-pour-femme-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81AF7313-5A1F-4976-9502-5E9A187FF1C3.webp?v=1778863473",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/50C70ED3-76C4-46A4-A796-5EC5671667B9.webp?v=1778863472"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Bharara Rome Extradose Pour Femme Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Bharara Rome Extradose Pour Femme Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Bharara",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8573492002999",
+  "parent_product_id": "8573492002999",
+  "description": "Bharara Rome Extradose Pour Femme is a 100 ml / 3.4 oz Eau de Parfum for women. Oriental Aromas describes a bold feminine profile opening with blackcurrant and sweet liquor notes, a heart of jasmine and white florals, and a warm base of intense vanilla, amber, and soft woods.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": "59.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/bharara-rome-extradose-pour-femme-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81AF7313-5A1F-4976-9502-5E9A187FF1C3.webp?v=1778863473",
+      "content_hash": "0baf45068c6f159ca8503f59af067b454e97f5a1",
+      "alt": "Bharara Rome Extradose Pour Femme Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/bharara-rome-extradose-pour-femme-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/50C70ED3-76C4-46A4-A796-5EC5671667B9.webp?v=1778863472",
+      "content_hash": "ef9cdb8fc679a840dce02a6eda9af48a249fb523",
+      "alt": "Bharara Rome Extradose Pour Femme Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

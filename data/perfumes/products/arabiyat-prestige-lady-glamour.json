@@ -1,0 +1,101 @@
+{
+  "slug": "arabiyat-prestige-lady-glamour",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8580865884343",
+  "source_parent_product_id": "8580865884343",
+  "source_product_url": "https://habibiperfumes.store/products/arabiyat-prestige-lady-glamour",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/arabiyat-prestige-lady-glamour/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/arabiyat-prestige-lady-glamour"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Arabiyat_Prestige_Lady_Glamor.jpg?v=1783368718",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-GLAMOUR-_white-bg.jpg?v=1779821615",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-GLAMOUR-_CREATIVE.jpg?v=1779821615",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-GLAMOUR-_model.jpg?v=1779821615",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-GLAMOUR-_white-bg_e919a4f3-7576-45ef-94d8-15dd7fabe9b9.jpg?v=1779821615"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige Lady Glamour Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Arabiyat Prestige Lady Glamour Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": "ARABIYAT-PRESTIGE-LADY-GLAMOUR-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8580865884343",
+  "parent_product_id": "8580865884343",
+  "description": "Arabiyat Prestige Lady Glamour is a 100 ml / 3.4 oz Eau de Parfum for women. Official notes list bergamot; rose and orange; then dry wood, white musk, coconut, vanilla, and gourmand notes.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "49.99",
+      "sku": "ARABIYAT-PRESTIGE-LADY-GLAMOUR-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lady-glamour-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Arabiyat_Prestige_Lady_Glamor.jpg?v=1783368718",
+      "content_hash": "5a7ffc161c7f07a8915456be6d95705c26fb4f96",
+      "alt": "Arabiyat Prestige Lady Glamour Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lady-glamour-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-GLAMOUR-_white-bg.jpg?v=1779821615",
+      "content_hash": "edc8c58a4562a610edd3e161d0b5824183dc307f",
+      "alt": "Arabiyat Prestige Lady Glamour Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lady-glamour-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-GLAMOUR-_CREATIVE.jpg?v=1779821615",
+      "content_hash": "d2911c28f2ebf0171cbca2fc223326b004dad11b",
+      "alt": "Arabiyat Prestige Lady Glamour Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lady-glamour-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-GLAMOUR-_model.jpg?v=1779821615",
+      "content_hash": "20c2016dcabdd7d73200c59d1a5472dfa03260c8",
+      "alt": "Arabiyat Prestige Lady Glamour Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lady-glamour-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LADY-GLAMOUR-_white-bg_e919a4f3-7576-45ef-94d8-15dd7fabe9b9.jpg?v=1779821615",
+      "content_hash": "4223b22aa57d467a2095ff876dee045874603312",
+      "alt": "Arabiyat Prestige Lady Glamour Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

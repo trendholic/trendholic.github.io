@@ -1,0 +1,87 @@
+{
+  "slug": "french-avenue-fierte-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8484606836919",
+  "source_parent_product_id": "8484606836919",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-fierte-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-fierte-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-fierte-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueFierte3.webp?v=1772664974",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/French_Avenue_Fierte_4.webp?v=1772665049",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueFierte.jpg?v=1772664974"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Fierté Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Fierté Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8484606836919",
+  "parent_product_id": "8484606836919",
+  "description": "French Avenue Fierté is a bold smoky-spicy fragrance that blends warm resins, rich tobacco, and creamy vanilla for a powerful yet refined masculine signature. Introduced in 2024, this scent balances dark intensity with smooth sweetness, making it both sophisticated and highly addictive. The opening features incense, tobacco, and saffron, creating a deep, smoky and slightly spicy introduction. The heart reveals spices, elemi, and cedarwood, adding aromatic warmth and woody structure. The base settles into vanilla, benzoin, and tonka bean, leaving a creamy, sweet, and long-lasting amber trail. Fierté is perfect for men who enjoy rich oriental fragrances with smoky depth and smooth gourmand warmth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "59.99",
+      "compare_at_price": "69.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "59.99",
+  "compare_at_price": "69.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-fierte-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueFierte3.webp?v=1772664974",
+      "content_hash": "9c78f71a384c51c5b4d4e35baf741a1c4ee203f1",
+      "alt": "French Avenue Fierté Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-fierte-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/French_Avenue_Fierte_4.webp?v=1772665049",
+      "content_hash": "7289f20f1514ee74bea6759ef378f941fc97df01",
+      "alt": "French Avenue Fierté Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-fierte-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueFierte.jpg?v=1772664974",
+      "content_hash": "0d1e1c532763f76d3cd50dc1e6c7f7e3fbdf91fb",
+      "alt": "French Avenue Fierté Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

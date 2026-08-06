@@ -1,0 +1,87 @@
+{
+  "slug": "khadlaj-shiyaaka-sky",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8689119723703",
+  "source_parent_product_id": "8689119723703",
+  "source_product_url": "https://habibiperfumes.store/products/khadlaj-shiyaaka-sky",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/khadlaj-shiyaaka-sky/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/khadlaj-shiyaaka-sky"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khadlaj_Shiyaaka_Sky_Bottle.png?v=1785266697",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khadlaj_Shiyaaka_Sky_Bottle_and_Box.png?v=1785266711",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khadlaj_Shiyaaka_Sky_Notes.jpg?v=1785266732"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Khadlaj Shiyaaka Sky Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Khadlaj Shiyaaka Sky Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Khadlaj Perfumes",
+  "sku": "6298043072694",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8689119723703",
+  "parent_product_id": "8689119723703",
+  "description": "Khadlaj Shiyaaka Sky Eau de Parfum is a fresh aromatic woody fragrance with a bright, airy and modern profile. It opens with bergamot, mandarin and verbena, then develops into neroli, geranium, orange blossom and green accords. Ambroxan, vetiver, musk and sandalwood create a clean, smooth woody base. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "42.75",
+      "compare_at_price": "49.99",
+      "sku": "6298043072694",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "42.75",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/khadlaj-shiyaaka-sky-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khadlaj_Shiyaaka_Sky_Bottle.png?v=1785266697",
+      "content_hash": "82b81542571d35b457272172128f44d232c651c4",
+      "alt": "Khadlaj Shiyaaka Sky Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-shiyaaka-sky-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khadlaj_Shiyaaka_Sky_Bottle_and_Box.png?v=1785266711",
+      "content_hash": "de9aa722ec77f5e51462e45219fd6a3d3aad143c",
+      "alt": "Khadlaj Shiyaaka Sky Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-shiyaaka-sky-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Khadlaj_Shiyaaka_Sky_Notes.jpg?v=1785266732",
+      "content_hash": "eb96204e7695365950c5072cad4fe22ca8c3980b",
+      "alt": "Khadlaj Shiyaaka Sky Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

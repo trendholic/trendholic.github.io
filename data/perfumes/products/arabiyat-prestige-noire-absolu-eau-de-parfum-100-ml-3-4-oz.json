@@ -1,0 +1,101 @@
+{
+  "slug": "arabiyat-prestige-noire-absolu-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8562619252919",
+  "source_parent_product_id": "8562619252919",
+  "source_product_url": "https://habibiperfumes.store/products/arabiyat-prestige-noire-absolu-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/arabiyat-prestige-noire-absolu-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/arabiyat-prestige-noire-absolu-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeNoireAbsolu1.webp?v=1778081914",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeNoireAbsolu.jpg?v=1778081915",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeNoireAbsolu3.webp?v=1778081914",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeNoireAbsolu2.webp?v=1778081914",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeNoireAbsolu4.jpg?v=1778081961"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige Noire Absolu Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Arabiyat Prestige Noire Absolu Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8562619252919",
+  "parent_product_id": "8562619252919",
+  "description": "Noire Absolu is a bold and refined masculine fragrance that blends fruity freshness with smooth leather and warm woody depth. The scent feels modern, confident, and sophisticated while maintaining a clean luxurious structure throughout the wear. The opening introduces raspberry, bergamot, and clary sage, creating a fruity aromatic freshness with a slightly sweet and herbal edge. The heart develops into cedarwood and amber, adding warmth, structure, and smooth woody richness to the composition. The base settles into leather and vetiver, leaving a smoky, earthy, and masculine trail that feels polished, long-lasting, and seductive. Noire Absolu is perfect for men who enjoy modern leather fragrances with fruity freshness and a refined woody amber dry-down.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "42.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "42.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-noire-absolu-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeNoireAbsolu1.webp?v=1778081914",
+      "content_hash": "370fb65b8b550f25752d5060cf4c22f16c61ed89",
+      "alt": "Arabiyat Prestige Noire Absolu Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-noire-absolu-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeNoireAbsolu.jpg?v=1778081915",
+      "content_hash": "9740f84eaf76262ea5dce030d31c026099557318",
+      "alt": "Arabiyat Prestige Noire Absolu Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-noire-absolu-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeNoireAbsolu3.webp?v=1778081914",
+      "content_hash": "9cbc0382068dd97735831a5fd37333ca4a6be6c4",
+      "alt": "Arabiyat Prestige Noire Absolu Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-noire-absolu-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeNoireAbsolu2.webp?v=1778081914",
+      "content_hash": "e543bbfdf06d4809eb73c241b842023fbc72f099",
+      "alt": "Arabiyat Prestige Noire Absolu Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-noire-absolu-eau-de-parfum-100-ml-3-4-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeNoireAbsolu4.jpg?v=1778081961",
+      "content_hash": "766cb6705a0bf76a145516e1981b4b98fb416818",
+      "alt": "Arabiyat Prestige Noire Absolu Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

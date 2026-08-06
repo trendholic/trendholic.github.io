@@ -1,0 +1,80 @@
+{
+  "slug": "grandeur-ultra-charm-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8303303590071",
+  "source_parent_product_id": "8303303590071",
+  "source_product_url": "https://habibiperfumes.store/products/grandeur-ultra-charm-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/grandeur-ultra-charm-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/grandeur-ultra-charm-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GrandeurUltraCharm2.webp?v=1764866333",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GrandeurUltraCharm.jpg?v=1764866333"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Grandeur Ultra Charm Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Grandeur Ultra Charm Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Grandeur",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8303303590071",
+  "parent_product_id": "8303303590071",
+  "description": "Ultra Charm by Grandeur is a sweet, fruity-floral, musky-amber fragrance made for women who love smooth, playful, feminine scents with strong lasting power. It opens with juicy berries, bright citrus, and soft sweetness, giving an uplifting, youthful first impression. The heart blends rose, jasmine, and creamy florals, adding elegance and charm while keeping a modern feel. The base settles into vanilla, amber, soft woods, and clean musk, creating a warm, radiant trail that lasts throughout the day. Perfect for customers who enjoy sweet fruity florals with a warm amber-vanilla finish—fun, flirty, and elegantly feminine.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/grandeur-ultra-charm-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GrandeurUltraCharm2.webp?v=1764866333",
+      "content_hash": "807bdac971a451d006015414103ce8d18c896d9c",
+      "alt": "Grandeur Ultra Charm Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/grandeur-ultra-charm-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GrandeurUltraCharm.jpg?v=1764866333",
+      "content_hash": "e7e76bc9f632847a810e37daa672555faa973dc0",
+      "alt": "Grandeur Ultra Charm Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

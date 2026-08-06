@@ -1,0 +1,123 @@
+{
+  "slug": "rayhaan-lion",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8270549680311",
+  "source_parent_product_id": "8270549680311",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-lion",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-lion/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-lion"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_12.png?v=1780525119",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_27.jpg?v=1763601102",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_26.jpg?v=1763601102",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_28.jpg?v=1763601102",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanLionAccords.webp?v=1763601102",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_11.png?v=1780525119",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_10.png?v=1780525119",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/0W0A7569.jpg?v=1780525119",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/0W0A7552.jpg?v=1780525119"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Lion Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Lion Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": "6297001571033",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270549680311",
+  "parent_product_id": "8270549680311",
+  "description": "Rayhaan Lion Eau de Parfum for men is a bold modern fragrance with a fresh opening, spicy heart and warm sensual finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "25.50",
+      "compare_at_price": "39.99",
+      "sku": "6297001571033",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "25.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-lion-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_12.png?v=1780525119",
+      "content_hash": "d30969a195c3b863e7f767c3557adfa721a32665",
+      "alt": "Rayhaan Lion Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-lion-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_27.jpg?v=1763601102",
+      "content_hash": "5eb62f0d34b10682e2b4ba8c7412bdc78c263cb2",
+      "alt": "Rayhaan Lion Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-lion-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_26.jpg?v=1763601102",
+      "content_hash": "8ee14f220b6de812eac51ddcf65ff85416b1fd34",
+      "alt": "Rayhaan Lion Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-lion-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_28.jpg?v=1763601102",
+      "content_hash": "589ef7b1974ee9f36e4e44af6749778384e8e14a",
+      "alt": "Rayhaan Lion Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-lion-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanLionAccords.webp?v=1763601102",
+      "content_hash": "14560f4373593b99421f577b62be0fb405142cbf",
+      "alt": "Rayhaan Lion Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-lion-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_11.png?v=1780525119",
+      "content_hash": "1f678326d690edb7009d92b26ae361df839143b8",
+      "alt": "Rayhaan Lion Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-lion-7.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_10.png?v=1780525119",
+      "content_hash": "512d3536e6a67395539550a13b346b8b5d69a572",
+      "alt": "Rayhaan Lion Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-lion-8.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/0W0A7569.jpg?v=1780525119",
+      "content_hash": "cb67b929a37f48fd1e06e62181c36979ee161917",
+      "alt": "Rayhaan Lion Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

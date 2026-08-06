@@ -1,0 +1,73 @@
+{
+  "slug": "rayhaan-terra-corium-and-elixir-bundle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Perfume Bundle",
+  "source_category_original": "Perfume Bundle",
+  "source_categories": [
+    {
+      "name": "Perfume Bundle",
+      "slug": "perfume-bundle",
+      "source_path": "Perfume Bundle",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "perfume-bundle"
+  ],
+  "source_product_id": "8681081209015",
+  "source_parent_product_id": "8681081209015",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-terra-corium-and-elixir-bundle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-terra-corium-and-elixir-bundle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-terra-corium-and-elixir-bundle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_0c0fe07f-335e-4059-8c43-dee20b6cce8a.png?v=1784662299"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Terra, Corium & Elixir Bundle",
+  "english_product_name": "Rayhaan Terra, Corium & Elixir Bundle",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8681081209015",
+  "parent_product_id": "8681081209015",
+  "description": "Discover Rayhaan Terra, Corium & Elixir Bundle, a curated fragrance set from Habibi Perfumes Miami. Bundle includes Rayhaan Terra - 100 ml Rayhaan Corium - 100 ml Rayhaan Elixir - 100 ml Each item is a full-size fragrance. Products are packaged together as one bundle listing.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "84.50",
+      "compare_at_price": "139.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "84.50",
+  "compare_at_price": "139.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-terra-corium-and-elixir-bundle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_0c0fe07f-335e-4059-8c43-dee20b6cce8a.png?v=1784662299",
+      "content_hash": "ec5d1670d17831b0dc7d93db553526ef9f0f89ea",
+      "alt": "Rayhaan Terra, Corium & Elixir Bundle"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

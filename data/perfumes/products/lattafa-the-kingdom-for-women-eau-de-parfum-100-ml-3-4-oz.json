@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-the-kingdom-for-women-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8505675382967",
+  "source_parent_product_id": "8505675382967",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-the-kingdom-for-women-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-the-kingdom-for-women-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-the-kingdom-for-women-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafathekingdomforwoman3.jpg?v=1773714318",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafathekingdomforwoman2.jpg?v=1773714317",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafathekingdomforwoman.jpg?v=1773714317"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa The Kingdom for Women Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa The Kingdom for Women Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8505675382967",
+  "parent_product_id": "8505675382967",
+  "description": "The Kingdom for Women is an elegant and modern fragrance that blends bright fruits with soft florals and a smooth vanilla-musky base. The scent feels feminine, clean, and slightly sweet, offering a balanced mix of freshness and warmth. The opening introduces juicy fruity notes with a soft citrus brightness, creating a fresh and uplifting first impression. The heart develops into delicate white florals that add elegance and a graceful, feminine touch. The base settles into vanilla and musk, leaving a soft, creamy, and long-lasting trail with a clean warmth. The Kingdom for Women is perfect for those who enjoy fruity-floral fragrances with a smooth vanilla and musky finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-the-kingdom-for-women-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafathekingdomforwoman3.jpg?v=1773714318",
+      "content_hash": "976c5b5102bc7c05e764dcd19b59ca1822794a4b",
+      "alt": "Lattafa The Kingdom for Women Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-the-kingdom-for-women-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafathekingdomforwoman2.jpg?v=1773714317",
+      "content_hash": "9845e083ed7b8059a07e29da9c2011c412a8861a",
+      "alt": "Lattafa The Kingdom for Women Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-the-kingdom-for-women-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafathekingdomforwoman.jpg?v=1773714317",
+      "content_hash": "cf3f0a879f6524297f75d3aa07eb74496c55cd33",
+      "alt": "Lattafa The Kingdom for Women Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "michael-malul-sangria-saffron-gift-set",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8490341466295",
+  "source_parent_product_id": "8490341466295",
+  "source_product_url": "https://habibiperfumes.store/products/michael-malul-sangria-saffron-gift-set",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/michael-malul-sangria-saffron-gift-set/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/michael-malul-sangria-saffron-gift-set"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulSangria_SaffronGiftSet1.jpg?v=1772983863",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulSangria_SaffronGiftSet2.jpg?v=1772983863"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Michael Malul Sangria + Saffron Gift Set",
+  "english_product_name": "Michael Malul Sangria + Saffron Gift Set",
+  "original_product_name": null,
+  "brand": "Michael Malul",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490341466295",
+  "parent_product_id": "8490341466295",
+  "description": "The Michael Malul Sangria + Saffron Gift Set delivers a luxurious fruity-spiced fragrance experience inspired by vibrant Mediterranean evenings. This elegant set includes the signature Sangria + Saffron Eau de Parfum along with a travel-size spray, making it perfect for gifting or fragrance lovers who want their scent on the go. The fragrance opens with bright red fruits and sparkling citrus, creating a juicy and uplifting introduction. The heart reveals rich saffron and delicate florals, adding warm spice and smooth elegance. The base settles into amber, woods, and musk, leaving a sensual trail that feels warm, refined, and long-lasting. Sangria + Saffron is perfect for those who enjoy fruity fragrances with a luxurious spicy twist.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "159.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "159.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/michael-malul-sangria-saffron-gift-set-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulSangria_SaffronGiftSet1.jpg?v=1772983863",
+      "content_hash": "aba34418ec10c2e2a85afbc56ac9cbc138a9cb67",
+      "alt": "Michael Malul Sangria + Saffron Gift Set"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-sangria-saffron-gift-set-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulSangria_SaffronGiftSet2.jpg?v=1772983863",
+      "content_hash": "6a6871945f215b5c688adcaa59e91d90cfb2c122",
+      "alt": "Michael Malul Sangria + Saffron Gift Set"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

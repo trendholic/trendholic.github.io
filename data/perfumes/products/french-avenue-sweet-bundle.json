@@ -1,0 +1,73 @@
+{
+  "slug": "french-avenue-sweet-bundle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Perfume Bundle",
+  "source_category_original": "Perfume Bundle",
+  "source_categories": [
+    {
+      "name": "Perfume Bundle",
+      "slug": "perfume-bundle",
+      "source_path": "Perfume Bundle",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "perfume-bundle"
+  ],
+  "source_product_id": "8681081274551",
+  "source_parent_product_id": "8681081274551",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-sweet-bundle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-sweet-bundle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-sweet-bundle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_a2e036f3-76cd-4e62-a123-088d5882d3d2.png?v=1784662306"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Sweet Bundle",
+  "english_product_name": "French Avenue Sweet Bundle",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8681081274551",
+  "parent_product_id": "8681081274551",
+  "description": "Discover French Avenue Sweet Bundle, a curated fragrance set from Habibi Perfumes Miami. Bundle includes French Avenue Luscious - 100 ml French Avenue Sweet Paradise - 100 ml French Avenue Meringue - 100 ml Each item is a full-size fragrance. Products are packaged together as one bundle listing.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "109.50",
+      "compare_at_price": "149.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "109.50",
+  "compare_at_price": "149.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-sweet-bundle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_a2e036f3-76cd-4e62-a123-088d5882d3d2.png?v=1784662306",
+      "content_hash": "bbaa0489f992ae2fd78a8b0f27961931efd1e73f",
+      "alt": "French Avenue Sweet Bundle"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

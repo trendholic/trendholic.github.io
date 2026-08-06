@@ -1,0 +1,80 @@
+{
+  "slug": "fakhar-silver",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241906778295",
+  "source_parent_product_id": "8241906778295",
+  "source_product_url": "https://habibiperfumes.store/products/fakhar-silver",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fakhar-silver/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/fakhar-silver"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71dX-EdLI1L._UF1000_1000_QL80.jpg?v=1757956250",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa-Fakhar-Platin-Eau-De-Parfum-3.4FL.OZ.jpg?v=1757956250"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Fakhar Silver Men Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Fakhar Silver Men Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "LTF-FAKHR-SILVER-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241906778295",
+  "parent_product_id": "8241906778295",
+  "description": "Fakhar Silver is an amber-woody fragrance launched in 2021 by Lattafa. It starts with fresh top notes of apple, ginger, and bergamot. The heart adds aromatic complexity with sage, juniper berries, lavender, and geranium. It settles into a rich base of amberwood, tonka bean, vetiver, and cedar. Bold, clean, and masculine — ideal for everyday wear, casual evenings, or when you want a scent that’s both noticeable and refined.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": "LTF-FAKHR-SILVER-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/fakhar-silver-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71dX-EdLI1L._UF1000_1000_QL80.jpg?v=1757956250",
+      "content_hash": "46b3631a7ffe5daa858fc560fa5b000bd715f142",
+      "alt": "Lattafa Fakhar Silver Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/fakhar-silver-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa-Fakhar-Platin-Eau-De-Parfum-3.4FL.OZ.jpg?v=1757956250",
+      "content_hash": "0c695b506864f711ac2a191881bf58d16ed5e032",
+      "alt": "Lattafa Fakhar Silver Men Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "riiffs-areebah",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8580865917111",
+  "source_parent_product_id": "8580865917111",
+  "source_product_url": "https://habibiperfumes.store/products/riiffs-areebah",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/riiffs-areebah/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/riiffs-areebah"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Areebah1.webp?v=1779821618",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Areebah2.webp?v=1779821618",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Areebah3.webp?v=1779821618",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Areebah4.webp?v=1779821618",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Areebah5.webp?v=1779821618"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Riiffs Areebah Extrait de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Riiffs Areebah Extrait de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": "RIIFFS-AREEBAH-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8580865917111",
+  "parent_product_id": "8580865917111",
+  "description": "Riiffs Areebah is a 100 ml / 3.4 oz Extrait de Parfum. Official Riiffs references describe a vibrant blend of citrus, spice, and woods crafted for elegance, power, and timeless luxury.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "22.50",
+      "compare_at_price": "39.99",
+      "sku": "RIIFFS-AREEBAH-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "22.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/riiffs-areebah-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Areebah1.webp?v=1779821618",
+      "content_hash": "17c3a4e4395d692df15e4d94b9d1dc884bba498f",
+      "alt": "Riiffs Areebah Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-areebah-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Areebah2.webp?v=1779821618",
+      "content_hash": "67a3b7a6286d97d4496400a9a601f1cb05080494",
+      "alt": "Riiffs Areebah Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-areebah-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Areebah3.webp?v=1779821618",
+      "content_hash": "b84792607807ea045f43be1cbd5c990be1798c14",
+      "alt": "Riiffs Areebah Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-areebah-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Areebah4.webp?v=1779821618",
+      "content_hash": "0707510622f189c76f84aaac2f0e11af5677d463",
+      "alt": "Riiffs Areebah Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-areebah-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Areebah5.webp?v=1779821618",
+      "content_hash": "3bd5bfe14fb7283395aaddb0a1da3a153f7d5895",
+      "alt": "Riiffs Areebah Extrait de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

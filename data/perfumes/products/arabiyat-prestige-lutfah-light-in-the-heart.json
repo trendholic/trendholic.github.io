@@ -1,0 +1,94 @@
+{
+  "slug": "arabiyat-prestige-lutfah-light-in-the-heart",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8490357784759",
+  "source_parent_product_id": "8490357784759",
+  "source_product_url": "https://habibiperfumes.store/products/arabiyat-prestige-lutfah-light-in-the-heart",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/arabiyat-prestige-lutfah-light-in-the-heart/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/arabiyat-prestige-lutfah-light-in-the-heart"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/arabiyat-prestige-mens-lutfah-light-in-the-heart-edp-spray-2-7-oz-fragrances-6290361911983.jpg?v=1783979835",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeLutfahLightintheHeart2.jpg?v=1772987636",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeLutfahLightintheHeart3.webp?v=1772987669",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/BFF48AD6-DF65-4E4B-A841-B366323B7F52.jpg?v=1783979844"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige Lutfah – Light in the Heart Eau de Parfum 80 ml (2.7 oz)",
+  "english_product_name": "Arabiyat Prestige Lutfah – Light in the Heart Eau de Parfum 80 ml (2.7 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490357784759",
+  "parent_product_id": "8490357784759",
+  "description": "Lutfah Light in the Heart is a refined masculine fragrance that blends fresh aromatics with smooth woods and warm amber. The scent balances brightness with depth, creating a clean yet sophisticated signature. The opening introduces fresh citrus and aromatic notes that feel crisp and energizing. The heart develops into smooth spices and subtle florals that add structure and masculine elegance. The base settles into amber, musk, and warm woods, leaving a smooth and confident trail that feels modern and long-lasting. Light in the Heart is ideal for men who enjoy fresh fragrances with a warm woody backbone.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.7 oz / 80 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lutfah-light-in-the-heart-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/arabiyat-prestige-mens-lutfah-light-in-the-heart-edp-spray-2-7-oz-fragrances-6290361911983.jpg?v=1783979835",
+      "content_hash": "984d2eb6b0417c44addcb33a9ee2253612308bae",
+      "alt": "Arabiyat Prestige Lutfah – Light in the Heart Eau de Parfum 80 ml (2.7 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lutfah-light-in-the-heart-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeLutfahLightintheHeart2.jpg?v=1772987636",
+      "content_hash": "5e0e343b30afe3592f6ef2f960474a023a898bed",
+      "alt": "Arabiyat Prestige Lutfah – Light in the Heart Eau de Parfum 80 ml (2.7 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lutfah-light-in-the-heart-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeLutfahLightintheHeart3.webp?v=1772987669",
+      "content_hash": "44abaedf62146da567686ba59f86e0b97d340688",
+      "alt": "Arabiyat Prestige Lutfah – Light in the Heart Eau de Parfum 80 ml (2.7 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-lutfah-light-in-the-heart-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/BFF48AD6-DF65-4E4B-A841-B366323B7F52.jpg?v=1783979844",
+      "content_hash": "bd0f8339affc56a37cc52e56ecc346093a579e67",
+      "alt": "Arabiyat Prestige Lutfah – Light in the Heart Eau de Parfum 80 ml (2.7 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "lutfah-the-seventh-heaven",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8304345940151",
+  "source_parent_product_id": "8304345940151",
+  "source_product_url": "https://habibiperfumes.store/products/lutfah-the-seventh-heaven",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lutfah-the-seventh-heaven/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lutfah-the-seventh-heaven"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Arabiyat_Prestige_Lutfah_The_Seventh_Heaven.jpg?v=1782747020",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LutfahTheSeventhHeavenEDP-80ml.webp?v=1764959889",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/m36769978026_1.avif?v=1764959889"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lutfah The Seventh Heaven Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lutfah The Seventh Heaven Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8304345940151",
+  "parent_product_id": "8304345940151",
+  "description": "The Seventh Heaven by Lutfah is a sweet, floral-fruity, musky-amber fragrance that feels dreamy, uplifting, and softly luxurious. It opens with bright fruits, soft citrus, and a touch of floral sweetness , giving a clean and elegant first impression. The heart introduces white florals, rose, jasmine, and airy creamy notes , creating a smooth, heavenly softness. The base settles into warm amber, vanilla, soft musk, and delicate woods , leaving a long-lasting, warm, glowing trail that feels comforting and ethereal — truly “heavenly.” Perfect for customers who love sweet, feminine, airy floral scents with a clean musk-amber finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.7 oz / 80 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "54.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "54.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lutfah-the-seventh-heaven-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Arabiyat_Prestige_Lutfah_The_Seventh_Heaven.jpg?v=1782747020",
+      "content_hash": "4c458e94f65a748393679c3ddb94facf0ac2bda5",
+      "alt": "Lutfah The Seventh Heaven Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lutfah-the-seventh-heaven-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LutfahTheSeventhHeavenEDP-80ml.webp?v=1764959889",
+      "content_hash": "5b101fce5e55950c69ef19f396c44c9fdd9a5110",
+      "alt": "Lutfah The Seventh Heaven Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lutfah-the-seventh-heaven-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/m36769978026_1.avif?v=1764959889",
+      "content_hash": "952f022b8a4b8a5576080da71c2dd19bde35b3f5",
+      "alt": "Lutfah The Seventh Heaven Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

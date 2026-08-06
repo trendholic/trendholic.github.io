@@ -1,0 +1,87 @@
+{
+  "slug": "rasasi-hawas-for-her-diva-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8297598812343",
+  "source_parent_product_id": "8297598812343",
+  "source_product_url": "https://habibiperfumes.store/products/rasasi-hawas-for-her-diva-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rasasi-hawas-for-her-diva-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rasasi-hawas-for-her-diva-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasForHerDiva.webp?v=1764260333",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasForHerDiva4.webp?v=1764260333",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasForHerDiva5.jpg?v=1764260333"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rasasi Hawas for Her Diva Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rasasi Hawas for Her Diva Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rasasi",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8297598812343",
+  "parent_product_id": "8297598812343",
+  "description": "Hawas for Her Diva by Rasasi is a bold yet elegant feminine fragrance that blends fruity sparkle with a soft, warm musky finish. The opening brings sweet berries and light citrus freshness, bright and playful. The heart reveals soft florals that make the scent feel elegant, smooth, and not too sweet. The base settles into musk, light amber, and clean woods for long-lasting wear that feels confident, fashionable, and modern.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "49.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "49.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-for-her-diva-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasForHerDiva.webp?v=1764260333",
+      "content_hash": "e3b07c25bdc3bf396d507b27ae88138c3b94f541",
+      "alt": "Rasasi Hawas for Her Diva Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-for-her-diva-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasForHerDiva4.webp?v=1764260333",
+      "content_hash": "5a7bdcb4418bf023589358837de10dd62bfd760c",
+      "alt": "Rasasi Hawas for Her Diva Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-for-her-diva-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasForHerDiva5.jpg?v=1764260333",
+      "content_hash": "2c808f0a15d6a42ea603a9381465cc15ab1f9405",
+      "alt": "Rasasi Hawas for Her Diva Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

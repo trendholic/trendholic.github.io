@@ -1,0 +1,80 @@
+{
+  "slug": "9pm-pour-femme-by-afnan-women-s-eau-de-parfum-100ml-3-4-oz-purple-edition",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8397366493367",
+  "source_parent_product_id": "8397366493367",
+  "source_product_url": "https://habibiperfumes.store/products/9pm-pour-femme-by-afnan-women-s-eau-de-parfum-100ml-3-4-oz-purple-edition",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/9pm-pour-femme-by-afnan-women-s-eau-de-parfum-100ml-3-4-oz-purple-edition/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/9pm-pour-femme-by-afnan-women-s-eau-de-parfum-100ml-3-4-oz-purple-edition"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51M0XygBkHL._SX679.jpg?v=1755800310",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/416Uzg_lptL._SX679.jpg?v=1755800310"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "9PM Pour Femme by Afnan Women’s Eau de Parfum 100ml (3.4 oz) – Purple Edition",
+  "english_product_name": "9PM Pour Femme by Afnan Women’s Eau de Parfum 100ml (3.4 oz) – Purple Edition",
+  "original_product_name": null,
+  "brand": "Afnan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8397366493367",
+  "parent_product_id": "8397366493367",
+  "description": "9PM Pour Femme (Purple) by Afnan is a sensual and glamorous fragrance crafted for evening wear. It opens with sparkling fruits and citrus for a radiant first impression. The heart reveals a bouquet of jasmine, rose, and soft florals, adding elegance and depth. The base lingers with vanilla, amber, and musk, giving it a warm and seductive finish. Perfect for women who want to stand out at night with confidence and charm.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/9pm-pour-femme-by-afnan-women-s-eau-de-parfum-100ml-3-4-oz-purple-edition-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51M0XygBkHL._SX679.jpg?v=1755800310",
+      "content_hash": "04d89e898184dd5ea2e5d29f65603afe88c31b24",
+      "alt": "9PM Pour Femme by Afnan Women’s Eau de Parfum 100ml (3.4 oz) – Purple Edition"
+    },
+    {
+      "src": "/data/perfumes/images/9pm-pour-femme-by-afnan-women-s-eau-de-parfum-100ml-3-4-oz-purple-edition-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/416Uzg_lptL._SX679.jpg?v=1755800310",
+      "content_hash": "8d41a68ded3f1ebfb66b7affc79ab734a525bf91",
+      "alt": "9PM Pour Femme by Afnan Women’s Eau de Parfum 100ml (3.4 oz) – Purple Edition"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

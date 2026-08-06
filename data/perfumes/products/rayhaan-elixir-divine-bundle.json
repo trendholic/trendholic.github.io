@@ -1,0 +1,73 @@
+{
+  "slug": "rayhaan-elixir-divine-bundle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8400988995767",
+  "source_parent_product_id": "8400988995767",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-elixir-divine-bundle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-elixir-divine-bundle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-elixir-divine-bundle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanBundleElixirandDivine.jpg?v=1770326163"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan His & Hers Bundle - Elixir, Divine",
+  "english_product_name": "Rayhaan His & Hers Bundle - Elixir, Divine",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": "69c1f0a9c70dc",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8400988995767",
+  "parent_product_id": "8400988995767",
+  "description": "The Rayhaan Elixir & Divine Bundle blends two addictive Rayhaan favorites into one warm, sensual fragrance pairing — perfect for those who love sweet depth, smooth warmth, and intimate projection. Elixir delivers rich sweetness with warm amber and soft gourmand undertones, creating a smooth, seductive scent that feels cozy yet confident. Divine adds elegance and allure with creamy sweetness and refined warmth, balancing softness with lasting presence. Together, they form a romantic, comforting, and modern scent duo — ideal for date nights, gifting, or anyone drawn to sweet, luxurious fragrances that linger beautifully.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "74.99",
+      "compare_at_price": "99.99",
+      "sku": "69c1f0a9c70dc",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "74.99",
+  "compare_at_price": "99.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-elixir-divine-bundle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanBundleElixirandDivine.jpg?v=1770326163",
+      "content_hash": "cbed831d1a6a43e9d297d2fa79e8562b1a2dbc7c",
+      "alt": "Rayhaan His & Hers Bundle - Elixir, Divine"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

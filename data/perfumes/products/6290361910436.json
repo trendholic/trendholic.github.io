@@ -1,0 +1,94 @@
+{
+  "slug": "6290361910436",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241905500343",
+  "source_parent_product_id": "8241905500343",
+  "source_product_url": "https://habibiperfumes.store/products/6290361910436",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6290361910436/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6290361910436"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.103367.jpg?v=1757972670",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_3.jpg?v=1757972670",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Hypnotic-Vanilla-100ml-Perfume-Eau-De-Parfum-by-Arabiyat-Prestige-1-1.jpg?v=1757972670",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/hypnotic-vanilla_1100x_7702ebe2-7fc7-4e32-9cae-4189a0a69dc2.webp?v=1757972670"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige Hypnotic Vanilla Unisex Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Arabiyat Prestige Hypnotic Vanilla Unisex Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": "6290361910436",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241905500343",
+  "parent_product_id": "8241905500343",
+  "description": "Hypnotic Vanilla by Arabiyat is a warm, intoxicating fragrance launched in 2024. It opens with a burst of fresh bergamot, subtle pink peppercorn, and creamy milk. The heart blossoms with white floral tones of lily, frangipani, jasmine, and jasmine sambac. The base lingers with resinous benzoin, patchouli, and musk, giving depth and a sensuous dry-down. Perfect when you want sweetness with elegance and a luxurious touch.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.99",
+      "compare_at_price": null,
+      "sku": "6290361910436",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6290361910436-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.103367.jpg?v=1757972670",
+      "content_hash": "e23ea5c120feec48bfe273adde23bb0a7f02b739",
+      "alt": "Arabiyat Prestige Hypnotic Vanilla Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290361910436-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_3.jpg?v=1757972670",
+      "content_hash": "dad51a9ecd182da042e5a690d9deb4258b95387e",
+      "alt": "Arabiyat Prestige Hypnotic Vanilla Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290361910436-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Hypnotic-Vanilla-100ml-Perfume-Eau-De-Parfum-by-Arabiyat-Prestige-1-1.jpg?v=1757972670",
+      "content_hash": "996bb33ff78b3ccc7efd8a5baed9fee2d07bbe38",
+      "alt": "Arabiyat Prestige Hypnotic Vanilla Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290361910436-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/hypnotic-vanilla_1100x_7702ebe2-7fc7-4e32-9cae-4189a0a69dc2.webp?v=1757972670",
+      "content_hash": "b4e6527be4e8521d7ddb84326084027ce99177d2",
+      "alt": "Arabiyat Prestige Hypnotic Vanilla Unisex Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

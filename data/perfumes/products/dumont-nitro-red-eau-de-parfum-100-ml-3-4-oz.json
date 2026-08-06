@@ -1,0 +1,94 @@
+{
+  "slug": "dumont-nitro-red-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8270543454391",
+  "source_parent_product_id": "8270543454391",
+  "source_product_url": "https://habibiperfumes.store/products/dumont-nitro-red-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dumont-nitro-red-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/dumont-nitro-red-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_25.jpg?v=1763577582",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG_0368.webp?v=1763577582",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Dumont-Nitro-Red-Eau-de-Parfum-Fragrance-Mens-3760060761880_56930__47594.jpg?v=1763577582",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_50acf7db-e917-4b81-9b2a-71d123392f22.webp?v=1763577582"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Dumont Nitro Red Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Dumont Nitro Red Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Dumont",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270543454391",
+  "parent_product_id": "8270543454391",
+  "description": "Nitro Red by Dumont opens with crisp lavender, apple and bergamot for a vibrant and fresh introduction. The heart delivers juicy watermelon, cedarwood and calamus for a bold fruity-woody blend. In the base, amber, sandalwood and patchouli provide a rich and lasting finish that combines warmth with strong presence. This fragrance is lively, youthful and designed to make a statement — ideal for nights out or occasions when you want to stand out.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.95",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.95",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/dumont-nitro-red-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_25.jpg?v=1763577582",
+      "content_hash": "3c7af50a3123292c7b8b0dbb870b16af9caa33cc",
+      "alt": "Dumont Nitro Red Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-red-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG_0368.webp?v=1763577582",
+      "content_hash": "b9a228d7b0773b151f4528f8932c794bcf60eb06",
+      "alt": "Dumont Nitro Red Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-red-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Dumont-Nitro-Red-Eau-de-Parfum-Fragrance-Mens-3760060761880_56930__47594.jpg?v=1763577582",
+      "content_hash": "7101d4dbc7725b0c42dba810ff28dad0fb9ebe9a",
+      "alt": "Dumont Nitro Red Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-red-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_50acf7db-e917-4b81-9b2a-71d123392f22.webp?v=1763577582",
+      "content_hash": "796933b95849dd447f9828625536a00510c414e7",
+      "alt": "Dumont Nitro Red Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "risala-for-you-by-le-falcone",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": null,
+  "source_category_original": null,
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "8224100712631",
+  "source_parent_product_id": "8224100712631",
+  "source_product_url": "https://habibiperfumes.store/products/risala-for-you-by-le-falcone",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/risala-for-you-by-le-falcone/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/risala-for-you-by-le-falcone"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_24.webp?v=1756326365",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/EB5CB42C-780B-4E5E-B976-73301B300EB9.webp?v=1756326395"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Risala For You by Le Falconé 3.4 OZ",
+  "english_product_name": "Risala For You by Le Falconé 3.4 OZ",
+  "original_product_name": null,
+  "brand": "Le Falconé",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8224100712631",
+  "parent_product_id": "8224100712631",
+  "description": "Risala For You captures the soul of a message destined for the heart. Its essence weaves together refinement and warmth, creating an unforgettable impression of elegance and intimacy. Top Notes: Orange Blossom, Honeysuckle, Neroli, Pink Pepper, Coriander Middle Notes: Jasmine, Iris, Rose, Marshmallow Base Notes: Sugar, Vanilla, Caramel, Musk, Labdanum",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/risala-for-you-by-le-falcone-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_24.webp?v=1756326365",
+      "content_hash": "0a6859152db992c19c344595c98865c351b0118a",
+      "alt": "Risala For You by Le Falconé 3.4 OZ"
+    },
+    {
+      "src": "/data/perfumes/images/risala-for-you-by-le-falcone-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/EB5CB42C-780B-4E5E-B976-73301B300EB9.webp?v=1756326395",
+      "content_hash": "ad3030537586b521e1df6f8f08034bdd40dd7f3e",
+      "alt": "Risala For You by Le Falconé 3.4 OZ"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

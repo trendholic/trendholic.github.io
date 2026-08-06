@@ -1,0 +1,101 @@
+{
+  "slug": "armaf-odyssey-revolution-ultra-edition-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8575501762743",
+  "source_parent_product_id": "8575501762743",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-odyssey-revolution-ultra-edition-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-odyssey-revolution-ultra-edition-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-odyssey-revolution-ultra-edition-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/revolution2.png?v=1779201318",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/revolution1.png?v=1779201318",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/revolution3.png?v=1779201318",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/revolution4.png?v=1779201318",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/22_64e7105c-57ba-4a38-9e81-438b68ff768e.png?v=1779201318"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Revolution Ultra Edition Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Odyssey Revolution Ultra Edition Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "ARMAF-ODYSSEY-REVOLUTION-ULTRA-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8575501762743",
+  "parent_product_id": "8575501762743",
+  "description": "Armaf Odyssey Revolution Ultra Edition is a 100 ml / 3.4 oz Eau de Parfum. Verified references list pineapple, blackcurrant, blood orange, and sage; praline, vanilla, plum, and cardamom; then tonka bean and patchouli.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "39.99",
+      "sku": "ARMAF-ODYSSEY-REVOLUTION-ULTRA-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-revolution-ultra-edition-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/revolution2.png?v=1779201318",
+      "content_hash": "bef7ba2e128c51b03a0e098be5ca0cfa998d8f55",
+      "alt": "Armaf Odyssey Revolution Ultra Edition Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-revolution-ultra-edition-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/revolution1.png?v=1779201318",
+      "content_hash": "58c6ad40cea50c71c6dc4d13074ff2c66acc6a13",
+      "alt": "Armaf Odyssey Revolution Ultra Edition Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-revolution-ultra-edition-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/revolution3.png?v=1779201318",
+      "content_hash": "87857ea89e0eac1d7e5e86d765b29b2b03e57061",
+      "alt": "Armaf Odyssey Revolution Ultra Edition Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-revolution-ultra-edition-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/revolution4.png?v=1779201318",
+      "content_hash": "c695ef6438f9f6ef85f04215c60612e5b4e32b84",
+      "alt": "Armaf Odyssey Revolution Ultra Edition Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-revolution-ultra-edition-eau-de-parfum-100-ml-34-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/22_64e7105c-57ba-4a38-9e81-438b68ff768e.png?v=1779201318",
+      "content_hash": "843632f4cb432b555aaea258a308c78ab82eb3d3",
+      "alt": "Armaf Odyssey Revolution Ultra Edition Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

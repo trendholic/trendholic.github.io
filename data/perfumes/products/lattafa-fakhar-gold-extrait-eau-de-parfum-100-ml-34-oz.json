@@ -1,0 +1,101 @@
+{
+  "slug": "lattafa-fakhar-gold-extrait-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8563776487607",
+  "source_parent_product_id": "8563776487607",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-fakhar-gold-extrait-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-fakhar-gold-extrait-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-fakhar-gold-extrait-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fakhargold6.webp?v=1778186159",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fakhargold.jpg?v=1778186159",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fakhargold3.webp?v=1778186159",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fakhargold4.webp?v=1778186159",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fakhargold2.avif?v=1778186159"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Fakhar Gold Extrait Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Fakhar Gold Extrait Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "LAT-FAKHAR-EXTRAIT-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8563776487607",
+  "parent_product_id": "8563776487607",
+  "description": "Lattafa Fakhar Gold Extrait is a 100 ml / 3.4 oz Eau de Parfum. Verified references list grapefruit, pink pepper, and cardamom; tuberose, solar notes, and artemisia; then amber, cashmere, labdanum, and leather.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "34.99",
+      "sku": "LAT-FAKHAR-EXTRAIT-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "34.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-fakhar-gold-extrait-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fakhargold6.webp?v=1778186159",
+      "content_hash": "1aea9a49579c5b991d3f7678a1a19ea41375f12f",
+      "alt": "Lattafa Fakhar Gold Extrait Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-fakhar-gold-extrait-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fakhargold.jpg?v=1778186159",
+      "content_hash": "c8a4302cc618814d25210dd5c94795ad60ecef1e",
+      "alt": "Lattafa Fakhar Gold Extrait Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-fakhar-gold-extrait-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fakhargold3.webp?v=1778186159",
+      "content_hash": "c9a02f7bcaac538bb5433a3183d349acfab6d63d",
+      "alt": "Lattafa Fakhar Gold Extrait Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-fakhar-gold-extrait-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fakhargold4.webp?v=1778186159",
+      "content_hash": "b7e22ac9af2c57e97b6544e60f4b9573c7246848",
+      "alt": "Lattafa Fakhar Gold Extrait Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-fakhar-gold-extrait-eau-de-parfum-100-ml-34-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fakhargold2.avif?v=1778186159",
+      "content_hash": "61c204701719612df0df23b4fe10d56cebd02d8e",
+      "alt": "Lattafa Fakhar Gold Extrait Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

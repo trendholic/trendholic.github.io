@@ -1,0 +1,73 @@
+{
+  "slug": "men-s-signature-bundle-titan-marwa-supremacy",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8322851471543",
+  "source_parent_product_id": "8322851471543",
+  "source_product_url": "https://habibiperfumes.store/products/men-s-signature-bundle-titan-marwa-supremacy",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/men-s-signature-bundle-titan-marwa-supremacy/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/men-s-signature-bundle-titan-marwa-supremacy"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MensSignatureBundle.jpg?v=1766590433"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Men’s Signature Bundle - Titan, Marwa, Supremacy",
+  "english_product_name": "Men’s Signature Bundle - Titan, Marwa, Supremacy",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes Miami",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8322851471543",
+  "parent_product_id": "8322851471543",
+  "description": "The Men’s Signature Bundle is built for men who want to project strength, confidence, and refined masculinity in every setting. This is a bold yet versatile trio designed to cover daily authority, elevated presence, and statement moments . Each fragrance plays a defined role: Titan delivers fresh power and modern masculinity with a clean, commanding edge Marwa adds smooth depth, warmth, and polished elegance for confident daily wear Supremacy Collector’s Edition finishes the set with bold projection, woody richness, and unmistakable presence Together, this bundle creates a complete masculine rotation — perfect for work, nights out, and moments where first impressions matter. Ideal for men who want to smell confident, put-together, and expensive without experimenting too much.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "119.99",
+      "compare_at_price": "139.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "119.99",
+  "compare_at_price": "139.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/men-s-signature-bundle-titan-marwa-supremacy-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MensSignatureBundle.jpg?v=1766590433",
+      "content_hash": "27ab921d0774643d73f9ff6203e31bdf51e0c6d7",
+      "alt": "Men’s Signature Bundle - Titan, Marwa, Supremacy"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

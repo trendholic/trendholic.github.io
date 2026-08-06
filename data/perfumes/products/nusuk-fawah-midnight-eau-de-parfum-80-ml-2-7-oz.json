@@ -1,0 +1,87 @@
+{
+  "slug": "nusuk-fawah-midnight-eau-de-parfum-80-ml-2-7-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8490371776695",
+  "source_parent_product_id": "8490371776695",
+  "source_product_url": "https://habibiperfumes.store/products/nusuk-fawah-midnight-eau-de-parfum-80-ml-2-7-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/nusuk-fawah-midnight-eau-de-parfum-80-ml-2-7-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/nusuk-fawah-midnight-eau-de-parfum-80-ml-2-7-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukFawahMidnight2.webp?v=1772990219",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukFawahMidnight1.jpg?v=1772990219",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukFawahMidnight.jpg?v=1772990219"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Nusuk Fawah Midnight Eau de Parfum 80 ml (2.7 oz)",
+  "english_product_name": "Nusuk Fawah Midnight Eau de Parfum 80 ml (2.7 oz)",
+  "original_product_name": null,
+  "brand": "Nusuk",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490371776695",
+  "parent_product_id": "8490371776695",
+  "description": "Fawah Midnight is a deep and mysterious fragrance that blends warm spices, smooth amber, and rich woody accords into a bold evening scent. The fragrance carries a dark, elegant character designed for night wear and special occasions. The opening introduces warm spices and aromatic notes that create an intense and captivating first impression. The heart develops into rich amber and subtle floral warmth that adds depth and sensual elegance. The base settles into woods, musk, and smooth sweetness, leaving a powerful and long-lasting trail that feels warm and luxurious. Fawah Midnight is perfect for those who enjoy bold oriental fragrances with deep amber warmth and woody sophistication.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.7 oz / 80 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/nusuk-fawah-midnight-eau-de-parfum-80-ml-2-7-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukFawahMidnight2.webp?v=1772990219",
+      "content_hash": "8b030767effaeb53d00c8d45412625cb6c4d0975",
+      "alt": "Nusuk Fawah Midnight Eau de Parfum 80 ml (2.7 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/nusuk-fawah-midnight-eau-de-parfum-80-ml-2-7-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukFawahMidnight1.jpg?v=1772990219",
+      "content_hash": "0cd8818114fc133fd81271b1670170bc4afec182",
+      "alt": "Nusuk Fawah Midnight Eau de Parfum 80 ml (2.7 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/nusuk-fawah-midnight-eau-de-parfum-80-ml-2-7-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukFawahMidnight.jpg?v=1772990219",
+      "content_hash": "48beb9f91e52b77936933fd48a5df046fb3cb944",
+      "alt": "Nusuk Fawah Midnight Eau de Parfum 80 ml (2.7 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

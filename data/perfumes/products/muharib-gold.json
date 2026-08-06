@@ -1,0 +1,101 @@
+{
+  "slug": "muharib-gold",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241898586295",
+  "source_parent_product_id": "8241898586295",
+  "source_product_url": "https://habibiperfumes.store/products/muharib-gold",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/muharib-gold/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/muharib-gold"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/muharib_le_falcone_gold_extrait3.jpg?v=1778603105",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/muharib_le_falcone_gold_extrait2.webp?v=1778603105",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41b4XvMot3L._AC_UL600_SR600_600.jpg?v=1762221272",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_17.jpg?v=1762221272",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1600.webp?v=1762221272"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Le Falconé Muharib Gold Extrait de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Le Falconé Muharib Gold Extrait de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Le Falconé",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241898586295",
+  "parent_product_id": "8241898586295",
+  "description": "Muharib Gold opens with a rich opening of saffron, black pepper and bergamot — bold, spicy and fresh. The heart reveals patchouli, sandalwood and gurjan balsam, creating depth and resinous warmth. The base settles into leather, labdanum, oud and cedarwood for a lasting finish that commands attention. This fragrance is a luxurious blend of spicy, woody and oriental accords — ideal for evening wear or special occasions when you want to leave an impression.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/muharib-gold-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/muharib_le_falcone_gold_extrait3.jpg?v=1778603105",
+      "content_hash": "0c0e7d9c1fbb790ba5f972e10c9ebc033f80a18d",
+      "alt": "Le Falconé Muharib Gold Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/muharib-gold-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/muharib_le_falcone_gold_extrait2.webp?v=1778603105",
+      "content_hash": "7ad6980f91c31fd10226d452d4df85cadcbdd86f",
+      "alt": "Le Falconé Muharib Gold Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/muharib-gold-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41b4XvMot3L._AC_UL600_SR600_600.jpg?v=1762221272",
+      "content_hash": "603ccd58e502830a410a1694cf255e719c5087f0",
+      "alt": "Le Falconé Muharib Gold Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/muharib-gold-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_17.jpg?v=1762221272",
+      "content_hash": "a20c7675683b48698977a4930684f0662c256f84",
+      "alt": "Le Falconé Muharib Gold Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/muharib-gold-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1600.webp?v=1762221272",
+      "content_hash": "d1a3b75864220ee5d1f8587eab54373cf8fc09b3",
+      "alt": "Le Falconé Muharib Gold Extrait de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

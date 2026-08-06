@@ -1,0 +1,94 @@
+{
+  "slug": "6290360593135",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241900880055",
+  "source_parent_product_id": "8241900880055",
+  "source_product_url": "https://habibiperfumes.store/products/6290360593135",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6290360593135/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6290360593135"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_15.jpg?v=1760363991",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_7.jpg?v=1760363991",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71luMCs9ruL._UF350_350_QL80.jpg?v=1760363991",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61kN2R_pWqL._UF350_350_QL80.jpg?v=1760363867"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Bade’e Al Oud Honor & Glory by Lattafa Unisex Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Bade’e Al Oud Honor & Glory by Lattafa Unisex Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6290360593135",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241900880055",
+  "parent_product_id": "8241900880055",
+  "description": "Honor & Glory opens with a creamy, decadent pineapple brûlée note that blends fruit with dessert-like sweetness. The heart introduces spicy and warm facets of cinnamon, turmeric, black pepper, and benzoin , while the base softens into rich woods and comforts with vanilla, sandalwood, cashmeran, and moss .",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": null,
+      "sku": "6290360593135",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6290360593135-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_15.jpg?v=1760363991",
+      "content_hash": "ffd756df0bdaeebf61361b176659eaf47834f407",
+      "alt": "Bade’e Al Oud Honor & Glory by Lattafa Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360593135-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_7.jpg?v=1760363991",
+      "content_hash": "83ae00582bf3fccf5b74e65c1b2ab97d45d5a255",
+      "alt": "Bade’e Al Oud Honor & Glory by Lattafa Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360593135-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71luMCs9ruL._UF350_350_QL80.jpg?v=1760363991",
+      "content_hash": "f460c19837a51f1a920bf41ac2495afec4770fa4",
+      "alt": "Bade’e Al Oud Honor & Glory by Lattafa Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360593135-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61kN2R_pWqL._UF350_350_QL80.jpg?v=1760363867",
+      "content_hash": "6c22fc4a7879c5b7bc2d192f1c486b82efd14a37",
+      "alt": "Bade’e Al Oud Honor & Glory by Lattafa Unisex Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

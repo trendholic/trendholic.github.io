@@ -1,0 +1,73 @@
+{
+  "slug": "winter-nights-signature-bundle-classic-stone-royal-blend-arabesque",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8322494693559",
+  "source_parent_product_id": "8322494693559",
+  "source_product_url": "https://habibiperfumes.store/products/winter-nights-signature-bundle-classic-stone-royal-blend-arabesque",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/winter-nights-signature-bundle-classic-stone-royal-blend-arabesque/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/winter-nights-signature-bundle-classic-stone-royal-blend-arabesque"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/WinterNightsSignatureBundle.jpg?v=1766541748"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Winter Nights Signature Bundle - Classic Stone, Royal Blend, Arabesque",
+  "english_product_name": "Winter Nights Signature Bundle - Classic Stone, Royal Blend, Arabesque",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes Miami",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8322494693559",
+  "parent_product_id": "8322494693559",
+  "description": "The Winter Nights Signature Bundle is built for those who want a distinctive, refined presence during cold evenings and formal moments. This is not sweet, playful, or casual — it’s elegant, confident, and composed . This trio delivers three layers of winter sophistication: Classic Stone provides a smooth, mineral-woody backbone with niche character Royal Blend adds warm spice, richness, and regal depth Arabesque completes the set with refined amber, woods, and a polished Middle Eastern touch Together, these fragrances create a signature winter rotation — perfect for nights out, upscale settings, and moments when presence matters more than loud projection. Ideal for customers who want to smell mature, elegant, and expensive .",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "134.99",
+      "compare_at_price": "159.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "134.99",
+  "compare_at_price": "159.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/winter-nights-signature-bundle-classic-stone-royal-blend-arabesque-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/WinterNightsSignatureBundle.jpg?v=1766541748",
+      "content_hash": "e60f4abc5f6ed9dcea21151730612159d2ad5e50",
+      "alt": "Winter Nights Signature Bundle - Classic Stone, Royal Blend, Arabesque"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

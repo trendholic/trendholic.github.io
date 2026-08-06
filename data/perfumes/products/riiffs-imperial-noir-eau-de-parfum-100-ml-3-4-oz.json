@@ -1,0 +1,80 @@
+{
+  "slug": "riiffs-imperial-noir-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8303307489463",
+  "source_parent_product_id": "8303307489463",
+  "source_product_url": "https://habibiperfumes.store/products/riiffs-imperial-noir-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/riiffs-imperial-noir-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/riiffs-imperial-noir-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsImperialNoir.jpg?v=1764867058",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsImperialNoir2.jpg?v=1764867058"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Riiffs Imperial Noir Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Riiffs Imperial Noir Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8303307489463",
+  "parent_product_id": "8303307489463",
+  "description": "Imperial Noir by Riiffs is a dark, woody-amber, spicy masculine fragrance with a smooth sophistication and nighttime appeal. It opens with fresh citrus and aromatic spice, creating an energetic, confident first impression. The heart introduces warm spices, herbs, and dry woods, giving the fragrance a refined, smoky masculine feel. The base settles into amber, musk, patchouli, and deep woods, creating a long-lasting, sensual trail ideal for evening wear. Perfect for customers who enjoy dark, elegant woody-amber scents with a modern, refined masculine character.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/riiffs-imperial-noir-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsImperialNoir.jpg?v=1764867058",
+      "content_hash": "aae51792251039af2edecf136eef8cb2d6b0e87d",
+      "alt": "Riiffs Imperial Noir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-imperial-noir-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsImperialNoir2.jpg?v=1764867058",
+      "content_hash": "36b89c654a021656e5a20f64fcb582f726171d75",
+      "alt": "Riiffs Imperial Noir Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

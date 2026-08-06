@@ -1,0 +1,87 @@
+{
+  "slug": "bharara-rome-yum-yum-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8573492068535",
+  "source_parent_product_id": "8573492068535",
+  "source_product_url": "https://habibiperfumes.store/products/bharara-rome-yum-yum-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/bharara-rome-yum-yum-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/bharara-rome-yum-yum-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4D8321A0-5231-4F67-ADC3-9048F6ECFB38.webp?v=1778863476",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/27B425DF-9CE1-4E42-A091-6C03535CB9A3.webp?v=1778863476",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/A5C49384-8820-4E98-9EA8-469F47890477.webp?v=1778863476"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Bharara Rome Yum Yum Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Bharara Rome Yum Yum Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Bharara",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8573492068535",
+  "parent_product_id": "8573492068535",
+  "description": "Bharara Rome Yum Yum is a 100 ml / 3.4 oz Eau de Parfum for women. Oriental Aromas describes a playful sweet profile with juicy red fruits and sparkling citrus on top, delicate floral accords in the heart, and a warm sweet base with woods and musk.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": "59.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/bharara-rome-yum-yum-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4D8321A0-5231-4F67-ADC3-9048F6ECFB38.webp?v=1778863476",
+      "content_hash": "64118ce6a5aa457d4bd3dc4b3c70d0c2df6a59f1",
+      "alt": "Bharara Rome Yum Yum Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/bharara-rome-yum-yum-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/27B425DF-9CE1-4E42-A091-6C03535CB9A3.webp?v=1778863476",
+      "content_hash": "bd70416eb1f71a22d1ae67cb714fe44363c5fef5",
+      "alt": "Bharara Rome Yum Yum Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/bharara-rome-yum-yum-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/A5C49384-8820-4E98-9EA8-469F47890477.webp?v=1778863476",
+      "content_hash": "e33faa8ea64cada6bb457b5752898ee964843da9",
+      "alt": "Bharara Rome Yum Yum Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

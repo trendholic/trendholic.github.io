@@ -1,0 +1,73 @@
+{
+  "slug": "french-avenue-fierte-fierte-luna-bundle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8517609750711",
+  "source_parent_product_id": "8517609750711",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-fierte-fierte-luna-bundle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-fierte-fierte-luna-bundle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-fierte-fierte-luna-bundle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Gemini_Generated_Image_bkg5lubkg5lubkg5.png?v=1774490473"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Fierté & Fierté Luna Bundle",
+  "english_product_name": "French Avenue Fierté & Fierté Luna Bundle",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": "69c69cfd66ed2",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8517609750711",
+  "parent_product_id": "8517609750711",
+  "description": "The French Avenue Fierté & Fierté Luna Bundle combines two refined and modern fragrances that balance freshness, softness, and subtle sweetness with a luxurious touch. Fierté delivers a smooth and elegant composition with a clean yet slightly warm character, making it versatile and easy to wear. Fierté Luna introduces a softer and more delicate profile, blending light sweetness with airy freshness for a more relaxed and comforting feel. Together, this bundle offers a balanced fragrance experience that transitions effortlessly from day to night, making it perfect for those who prefer clean, refined scents with a gentle sweetness. Ideal for daily wear, layering, or building a versatile fragrance rotation.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "99.99",
+      "compare_at_price": "129.99",
+      "sku": "69c69cfd66ed2",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "99.99",
+  "compare_at_price": "129.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-fierte-fierte-luna-bundle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Gemini_Generated_Image_bkg5lubkg5lubkg5.png?v=1774490473",
+      "content_hash": "5eef0c3f1ad07734415b2645a8387742cb61abb1",
+      "alt": "French Avenue Fierté & Fierté Luna Bundle"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "french-avenue-vulcan-baie",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8285489987767",
+  "source_parent_product_id": "8285489987767",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-vulcan-baie",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-vulcan-baie/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-vulcan-baie"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Vulcan-Bai-by-French-Ave.jpg?v=1763578045",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/vulcan-baie-parfum-french-avenue.jpg?v=1763578045",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Screenshot_2025-11-19_134636.png?v=1763578045",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/C0262EBC-3839-440B-930F-B85DF5EA843F.webp?v=1763578045",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/boite-vulcan-baie-parfum-french-avenue.jpg?v=1763578045"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Vulcan Baie Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Vulcan Baie Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8285489987767",
+  "parent_product_id": "8285489987767",
+  "description": "Vulcan Baie by French Avenue opens with a striking blend of spices, citrus, and aromatic freshness , giving a bold and energetic introduction. The heart reveals woody notes, herbs, and warm resins , adding depth and smoky richness. The base settles into amber, vanilla, musk, and dark woods , creating a warm, powerful, and long-lasting dry-down. This is a strong, confident fragrance with a warm-spicy character and a modern woody finish — perfect for those who want presence and projection.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "54.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "54.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-vulcan-baie-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Vulcan-Bai-by-French-Ave.jpg?v=1763578045",
+      "content_hash": "5d70eaee448778c802753fa90c97994249919127",
+      "alt": "French Avenue Vulcan Baie Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-vulcan-baie-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/vulcan-baie-parfum-french-avenue.jpg?v=1763578045",
+      "content_hash": "cb221b1259d9df7841e90ac8c8ce03e8265adf96",
+      "alt": "French Avenue Vulcan Baie Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-vulcan-baie-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Screenshot_2025-11-19_134636.png?v=1763578045",
+      "content_hash": "fa3ef7d6056d81f4fb13b79cda1e264a82139053",
+      "alt": "French Avenue Vulcan Baie Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-vulcan-baie-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/C0262EBC-3839-440B-930F-B85DF5EA843F.webp?v=1763578045",
+      "content_hash": "eb7a9da80a0a6377c98248da949d01f4923fbaa3",
+      "alt": "French Avenue Vulcan Baie Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-vulcan-baie-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/boite-vulcan-baie-parfum-french-avenue.jpg?v=1763578045",
+      "content_hash": "49686918fa247016bbd884df3d48d651451cc878",
+      "alt": "French Avenue Vulcan Baie Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

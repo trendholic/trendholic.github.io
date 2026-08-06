@@ -1,0 +1,87 @@
+{
+  "slug": "riiffs-fluerie-emerald-green-extrait-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8490369155255",
+  "source_parent_product_id": "8490369155255",
+  "source_product_url": "https://habibiperfumes.store/products/riiffs-fluerie-emerald-green-extrait-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/riiffs-fluerie-emerald-green-extrait-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/riiffs-fluerie-emerald-green-extrait-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsFLUERIEEMERALDGREEN100MLEXTRAITDEPARFUM1.webp?v=1772989080",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsFLUERIEEMERALDGREEN100MLEXTRAITDEPARFUM3.webp?v=1772989081",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsFLUERIEEMERALDGREEN100MLEXTRAITDEPARFUM.jpg?v=1772989081"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Riiffs Fluerie Emerald Green Extrait de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Riiffs Fluerie Emerald Green Extrait de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490369155255",
+  "parent_product_id": "8490369155255",
+  "description": "Fluerie Emerald Green is a refined floral-woody fragrance that blends fresh greenery with soft florals and smooth musky woods. The scent feels elegant, clean, and sophisticated, creating a luminous fragrance profile with modern depth. The opening introduces fresh green and citrus nuances that deliver a crisp and vibrant first impression. The heart develops into delicate floral accords that add softness and refined elegance to the composition. The base settles into musk and smooth woody notes, leaving a clean and long-lasting trail that feels fresh, airy, and polished. Fluerie Emerald Green is perfect for those who enjoy fresh floral fragrances with a soft woody musk finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/riiffs-fluerie-emerald-green-extrait-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsFLUERIEEMERALDGREEN100MLEXTRAITDEPARFUM1.webp?v=1772989080",
+      "content_hash": "ac321f68b81de87860410a34f3b7d62ca840330d",
+      "alt": "Riiffs Fluerie Emerald Green Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-fluerie-emerald-green-extrait-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsFLUERIEEMERALDGREEN100MLEXTRAITDEPARFUM3.webp?v=1772989081",
+      "content_hash": "37c05d71e11948bf85c755bb467e5d34d18f3caf",
+      "alt": "Riiffs Fluerie Emerald Green Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-fluerie-emerald-green-extrait-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsFLUERIEEMERALDGREEN100MLEXTRAITDEPARFUM.jpg?v=1772989081",
+      "content_hash": "da5a968d9297adea11aac6a03b1fec49a32a6304",
+      "alt": "Riiffs Fluerie Emerald Green Extrait de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "jo-milano-game-of-spades-emerald-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8270518026423",
+  "source_parent_product_id": "8270518026423",
+  "source_product_url": "https://habibiperfumes.store/products/jo-milano-game-of-spades-emerald-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/jo-milano-game-of-spades-emerald-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/jo-milano-game-of-spades-emerald-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Emerald.webp?v=1761521372",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71viHlyLsPL._AC_UF1000_1000_QL80.jpg?v=1761521372",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/m22602291714_1.avif?v=1761521372"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Jo Milano Game of Spades Emerald Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Jo Milano Game of Spades Emerald Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Jo Milano",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270518026423",
+  "parent_product_id": "8270518026423",
+  "description": "Game of Spades Emerald opens with sparkling bergamot, zesty grapefruit and fresh ginger for an effervescent, vibrant start. The heart reveals radiant orange blossom, delicate neroli and amplified ginger essence, creating a luminous floral-spicy core. In the dry-down, clean skin-like musk and warm velvety ambrette (from hibiscus seeds) settle in, delivering a smooth and sophisticated base. This fragrance blends bright freshness and modern elegance, making it versatile for day or night wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "74.99",
+      "compare_at_price": "79.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "74.99",
+  "compare_at_price": "79.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-emerald-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Emerald.webp?v=1761521372",
+      "content_hash": "712dd74e93fa10c3913847594d152bd3ac617d6a",
+      "alt": "Jo Milano Game of Spades Emerald Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-emerald-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71viHlyLsPL._AC_UF1000_1000_QL80.jpg?v=1761521372",
+      "content_hash": "066df9decc83fd4f1fa27a7c4067444f09e652da",
+      "alt": "Jo Milano Game of Spades Emerald Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-emerald-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/m22602291714_1.avif?v=1761521372",
+      "content_hash": "fd7109dad01eb82e45aea649d931803082d351e2",
+      "alt": "Jo Milano Game of Spades Emerald Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

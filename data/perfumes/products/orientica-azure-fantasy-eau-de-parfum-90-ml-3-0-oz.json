@@ -1,0 +1,94 @@
+{
+  "slug": "orientica-azure-fantasy-eau-de-parfum-90-ml-3-0-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8297601401015",
+  "source_parent_product_id": "8297601401015",
+  "source_product_url": "https://habibiperfumes.store/products/orientica-azure-fantasy-eau-de-parfum-90-ml-3-0-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/orientica-azure-fantasy-eau-de-parfum-90-ml-3-0-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/orientica-azure-fantasy-eau-de-parfum-90-ml-3-0-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAzureFantasy.jpg?v=1764261697",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAzureFantasy5.webp?v=1764261697",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAzureFantasy3.jpg?v=1764261697",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAzureFantasy6.jpg?v=1764261697"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Orientica Azure Fantasy Eau de Parfum 90 ml (3.0 oz)",
+  "english_product_name": "Orientica Azure Fantasy Eau de Parfum 90 ml (3.0 oz)",
+  "original_product_name": null,
+  "brand": "Orientica",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8297601401015",
+  "parent_product_id": "8297601401015",
+  "description": "Azure Fantasy by Orientica is a clean, modern blue-fresh fragrance that blends citrus brightness and smooth woods for an elevated everyday signature. The opening brings a crisp citrus sparkle — lemon, grapefruit, and bergamot vibes that feel refreshing and energetic. The heart carries soft aquatics and light aromatics that keep it breathable, balanced and clean. The base settles into gentle woods, musk, and a light amber-fresh finish, giving it good longevity without becoming sweet or heavy. This scent fits customers who want a polished, light, blue-fresh, citrus-woody EDP with a fashionable, easy-to-wear aura.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "69.99",
+      "compare_at_price": "99.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "69.99",
+  "compare_at_price": "99.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/orientica-azure-fantasy-eau-de-parfum-90-ml-3-0-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAzureFantasy.jpg?v=1764261697",
+      "content_hash": "486396053bd393c2b1da53851b498b7c0cbbc84e",
+      "alt": "Orientica Azure Fantasy Eau de Parfum 90 ml (3.0 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/orientica-azure-fantasy-eau-de-parfum-90-ml-3-0-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAzureFantasy5.webp?v=1764261697",
+      "content_hash": "e4c199bdd114c0425d9bf28bf29345f1d1d2693b",
+      "alt": "Orientica Azure Fantasy Eau de Parfum 90 ml (3.0 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/orientica-azure-fantasy-eau-de-parfum-90-ml-3-0-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAzureFantasy3.jpg?v=1764261697",
+      "content_hash": "2d86bdfd036cefda06928f01db58c93ab891c7a6",
+      "alt": "Orientica Azure Fantasy Eau de Parfum 90 ml (3.0 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/orientica-azure-fantasy-eau-de-parfum-90-ml-3-0-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAzureFantasy6.jpg?v=1764261697",
+      "content_hash": "2be88193949649eb459dae06f85831e7acf0b353",
+      "alt": "Orientica Azure Fantasy Eau de Parfum 90 ml (3.0 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

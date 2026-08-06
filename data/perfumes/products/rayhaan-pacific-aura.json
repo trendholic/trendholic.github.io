@@ -1,0 +1,101 @@
+{
+  "slug": "rayhaan-pacific-aura",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8270553284791",
+  "source_parent_product_id": "8270553284791",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-pacific-aura",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-pacific-aura/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-pacific-aura"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.109709.jpg?v=1779423547",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Pacific_Aura_2.png?v=1776439716",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Pacific-Aura-2.jpg?v=1785180135",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Pacific_Aura_3.webp?v=1776439716",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Pacific_Aura_4.webp?v=1776439716"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Pacific Aura Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Pacific Aura Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": "6297001571170-1",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270553284791",
+  "parent_product_id": "8270553284791",
+  "description": "Rayhaan Pacific Aura Eau de Parfum for men is a fresh green fragrance with mint, citrus, herbal notes, fig and green accords.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.50",
+      "compare_at_price": "44.99",
+      "sku": "6297001571170-1",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.50",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-aura-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.109709.jpg?v=1779423547",
+      "content_hash": "2bd24b494e4723949cc8ed8e4842b56626647b33",
+      "alt": "Rayhaan Pacific Aura Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-aura-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Pacific_Aura_2.png?v=1776439716",
+      "content_hash": "0b39798dd73a3e60a39cc16723478e6bd174c2c5",
+      "alt": "Rayhaan Pacific Aura Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-aura-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Pacific-Aura-2.jpg?v=1785180135",
+      "content_hash": "27e5caead96b89db31d7e0aed565b8f4c68c54d1",
+      "alt": "Rayhaan Pacific Aura Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-aura-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Pacific_Aura_3.webp?v=1776439716",
+      "content_hash": "90034a9a9b1b41985ddff8a6a9bc45077bb1cb4c",
+      "alt": "Rayhaan Pacific Aura Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-aura-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Pacific_Aura_4.webp?v=1776439716",
+      "content_hash": "d78419da52d950162729ac1a3534451c24b7c02d",
+      "alt": "Rayhaan Pacific Aura Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

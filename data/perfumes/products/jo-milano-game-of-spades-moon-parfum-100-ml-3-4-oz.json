@@ -1,0 +1,87 @@
+{
+  "slug": "jo-milano-game-of-spades-moon-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8295877574839",
+  "source_parent_product_id": "8295877574839",
+  "source_product_url": "https://habibiperfumes.store/products/jo-milano-game-of-spades-moon-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/jo-milano-game-of-spades-moon-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/jo-milano-game-of-spades-moon-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Moon.png?v=1764095555",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/moon.webp?v=1764095555",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_24.jpg?v=1764095555"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Jo Milano Game of Spades Moon Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Jo Milano Game of Spades Moon Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Jo Milano",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8295877574839",
+  "parent_product_id": "8295877574839",
+  "description": "Game of Spades Moon by Jo Milano is a smooth, elegant unisex parfum built around warm amber, creamy woods, and refined sweetness. It opens with a soft blend of citrus and aromatic notes, giving a gentle, luxurious first impression. The heart develops into warm florals and silky woods, adding depth without becoming heavy. The base is rich and comforting with amber, vanilla, musk, and smooth woody tones — long-lasting, slightly sweet, and highly addictive. This edition is perfect for customers who want a warm, modern, and everyday-luxury signature scent from the Game of Spades line.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "69.99",
+      "compare_at_price": "79.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "69.99",
+  "compare_at_price": "79.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-moon-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Moon.png?v=1764095555",
+      "content_hash": "c3ae607e7391ac75e3dc3b9bdc1447de720f999c",
+      "alt": "Jo Milano Game of Spades Moon Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-moon-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/moon.webp?v=1764095555",
+      "content_hash": "0e33aa89159836a65ddf6943d1fc5b46bd0a164f",
+      "alt": "Jo Milano Game of Spades Moon Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-moon-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_24.jpg?v=1764095555",
+      "content_hash": "64f7744626f5d5929e365f4678aee45111ff0497",
+      "alt": "Jo Milano Game of Spades Moon Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

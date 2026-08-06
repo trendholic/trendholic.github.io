@@ -1,0 +1,94 @@
+{
+  "slug": "dream-of-haze",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241905959095",
+  "source_parent_product_id": "8241905959095",
+  "source_product_url": "https://habibiperfumes.store/products/dream-of-haze",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dream-of-haze/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/dream-of-haze"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.113173.jpg?v=1773705629",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_2.jpg?v=1773705629",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4_8b8a8063-4263-4dda-81be-4e858c92573e.webp?v=1773705629",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Dream_of_Haze.webp?v=1773705629"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Dream of Haze Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Dream of Haze Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241905959095",
+  "parent_product_id": "8241905959095",
+  "description": "Dream of Haze is a rich gourmand fragrance that blends creamy sweetness with warm amber and soft woods. The scent feels comforting and indulgent, creating a smooth dessert-like character balanced with elegant depth. The opening introduces sweet creamy notes with subtle warmth that create an inviting and indulgent first impression. The heart develops into smooth caramelized sweetness and soft amber warmth, adding richness and depth to the fragrance. The base settles into vanilla, musk, and soft woody accords, leaving a warm and long-lasting trail that feels cozy and luxurious. Dream of Haze is ideal for those who enjoy sweet gourmand fragrances with warm amber and smooth vanilla depth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/dream-of-haze-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.113173.jpg?v=1773705629",
+      "content_hash": "eec6113f600d9d6900f75dd0f723695532d6a3e0",
+      "alt": "Lattafa Dream of Haze Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dream-of-haze-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_2.jpg?v=1773705629",
+      "content_hash": "31900fb32d1ded6e34efb174173daa381241fb0f",
+      "alt": "Lattafa Dream of Haze Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dream-of-haze-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4_8b8a8063-4263-4dda-81be-4e858c92573e.webp?v=1773705629",
+      "content_hash": "a920acac72df417b93e931da49c7b92f8be4a88f",
+      "alt": "Lattafa Dream of Haze Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dream-of-haze-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Dream_of_Haze.webp?v=1773705629",
+      "content_hash": "b89e6d38de878a33676ee7f9e8835bce115474e3",
+      "alt": "Lattafa Dream of Haze Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

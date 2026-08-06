@@ -1,0 +1,87 @@
+{
+  "slug": "rayhaan-crimson-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8314053427383",
+  "source_parent_product_id": "8314053427383",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-crimson-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-crimson-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-crimson-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanCrimson.jpg?v=1781893839",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanCrimson2.jpg?v=1765943618",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanCrimson4.webp?v=1765943618"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Crimson Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Crimson Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8314053427383",
+  "parent_product_id": "8314053427383",
+  "description": "Rayhaan Crimson is a warm, spicy-amber, woody masculine fragrance built for confidence, depth, and strong presence. It opens with rich spices and subtle sweetness, creating a bold and inviting first impression. The heart develops into amber, smooth woods, and aromatic warmth, giving the scent a refined yet powerful character. The base settles into deep woods, musk, and resinous notes, delivering a long-lasting, masculine trail ideal for evening wear. This fragrance is perfect for customers who enjoy spicy amber scents, bold masculine profiles, and strong performance at an excellent value.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-crimson-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanCrimson.jpg?v=1781893839",
+      "content_hash": "96c3de35b3f1630e8affcecaeae95f5d862289d0",
+      "alt": "Rayhaan Crimson Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-crimson-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanCrimson2.jpg?v=1765943618",
+      "content_hash": "bce116e5f6cead135f60c33838a9e85b632a8b64",
+      "alt": "Rayhaan Crimson Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-crimson-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanCrimson4.webp?v=1765943618",
+      "content_hash": "b5188b57493560875711b6c0b8913743675c9215",
+      "alt": "Rayhaan Crimson Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

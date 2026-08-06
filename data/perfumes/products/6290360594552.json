@@ -1,0 +1,87 @@
+{
+  "slug": "6290360594552",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8241906679991",
+  "source_parent_product_id": "8241906679991",
+  "source_product_url": "https://habibiperfumes.store/products/6290360594552",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6290360594552/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6290360594552"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61b7bA5V3qL._UF350_350_QL80.jpg?v=1758308965",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/419XLx0HzHL._UF1000_1000_QL80.jpg?v=1758308965",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/589A143D-A887-4084-8EC0-C0EECDB574E9.webp?v=1758308965"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Yara Tous Women’s Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Lattafa Yara Tous Women’s Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6290360594552",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241906679991",
+  "parent_product_id": "8241906679991",
+  "description": "Yara Tous by Lattafa (launched 2023) opens with tropical and juicy top notes of mango, coconut, and passionfruit . The heart blooms with jasmine, heliotrope, and orange blossom , followed by a sweet, creamy, and musky base featuring vanilla, musk, and cashmeran . It’s a dessert-like tropical floral scent with warmth and sweetness.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": null,
+      "sku": "6290360594552",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6290360594552-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61b7bA5V3qL._UF350_350_QL80.jpg?v=1758308965",
+      "content_hash": "ff7d964312703ea17e0e4182fc317b667870d47a",
+      "alt": "Lattafa Yara Tous Women’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360594552-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/419XLx0HzHL._UF1000_1000_QL80.jpg?v=1758308965",
+      "content_hash": "f13f874f1eaf72034df0cce9976e68467ec3f73d",
+      "alt": "Lattafa Yara Tous Women’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360594552-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/589A143D-A887-4084-8EC0-C0EECDB574E9.webp?v=1758308965",
+      "content_hash": "bce55f9a19a39ff008507e135c803147f547f79b",
+      "alt": "Lattafa Yara Tous Women’s Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

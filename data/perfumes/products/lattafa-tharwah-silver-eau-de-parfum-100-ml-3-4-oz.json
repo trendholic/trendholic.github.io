@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-tharwah-silver-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8505673089207",
+  "source_parent_product_id": "8505673089207",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-tharwah-silver-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-tharwah-silver-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-tharwah-silver-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/tharwahsilver.jpg?v=1781894012",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/tharwahsilver2.webp?v=1773713809",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/tharwahsilver3.jpg?v=1773713809"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Tharwah Silver Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Tharwah Silver Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8505673089207",
+  "parent_product_id": "8505673089207",
+  "description": "Tharwah Silver is a smooth and modern fragrance that blends aromatic lavender with fresh mint and warm woody depth. The scent feels clean, refined, and slightly creamy, offering a balanced mix of freshness and warmth with a masculine edge. The opening introduces a refreshing burst of mint and bergamot, delivering a cool and slightly citrusy freshness. The heart develops into aromatic lavender and clary sage, adding a clean, herbal sophistication with a soft spicy touch. The base settles into vanilla, tonka bean, and cedarwood, leaving a warm, smooth, and slightly creamy woody trail. Tharwah Silver is perfect for those who enjoy fresh aromatic fragrances with a soft vanilla warmth and a clean, modern character.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-tharwah-silver-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/tharwahsilver.jpg?v=1781894012",
+      "content_hash": "55b60c550284f13348099ce0ddc4879e63c8702b",
+      "alt": "Lattafa Tharwah Silver Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-tharwah-silver-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/tharwahsilver2.webp?v=1773713809",
+      "content_hash": "1efa29a4462e941832fc60390128994cb7a6c5b3",
+      "alt": "Lattafa Tharwah Silver Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-tharwah-silver-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/tharwahsilver3.jpg?v=1773713809",
+      "content_hash": "3b9ec231cf5053a6029d62fc8f7ac1ae8543096f",
+      "alt": "Lattafa Tharwah Silver Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

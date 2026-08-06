@@ -1,0 +1,80 @@
+{
+  "slug": "armaf-club-de-nuit-untold-unisex-eau-de-parfum",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8243127255223",
+  "source_parent_product_id": "8243127255223",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-club-de-nuit-untold-unisex-eau-de-parfum",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-club-de-nuit-untold-unisex-eau-de-parfum/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-club-de-nuit-untold-unisex-eau-de-parfum"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/armaf-unisex-club-de-nuit-untold-edp-spray-36-oz-105-ml-6294015164176_2.jpg?v=1757881255",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/club_de_nuit_untold_36.webp?v=1757881254"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club de Nuit Untold Unisex Eau de Parfum",
+  "english_product_name": "Armaf Club de Nuit Untold Unisex Eau de Parfum",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8243127255223",
+  "parent_product_id": "8243127255223",
+  "description": "Armaf Club de Nuit Untold is a rich, sweet woody-amber fragrance with luxurious depth. It opens with spicy saffron and delicate jasmine, transitions into a heart of amberwood and ambergris, and finishes on a warm base of fir resin and cedar. Available only as a 105 ml bottle. Ideal for evenings or special occasions, offering great projection and a lingering warm trail.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "105 ml / 3.6 oz",
+  "variants": [
+    {
+      "title": "105 ml / 3.6 Oz",
+      "price": "39.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-untold-unisex-eau-de-parfum-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/armaf-unisex-club-de-nuit-untold-edp-spray-36-oz-105-ml-6294015164176_2.jpg?v=1757881255",
+      "content_hash": "bc08da26c80b9d07e0308c3ee5a8b857005d7c77",
+      "alt": "Armaf Club de Nuit Untold Unisex Eau de Parfum"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-untold-unisex-eau-de-parfum-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/club_de_nuit_untold_36.webp?v=1757881254",
+      "content_hash": "9b480b11f91918e0b9eb92057bf204ec412f546d",
+      "alt": "Armaf Club de Nuit Untold Unisex Eau de Parfum"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

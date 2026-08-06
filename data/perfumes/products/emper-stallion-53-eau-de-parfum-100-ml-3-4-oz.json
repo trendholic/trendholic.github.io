@@ -1,0 +1,87 @@
+{
+  "slug": "emper-stallion-53-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8270531821751",
+  "source_parent_product_id": "8270531821751",
+  "source_product_url": "https://habibiperfumes.store/products/emper-stallion-53-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/emper-stallion-53-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/emper-stallion-53-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Stallion53byEmper4.jpg?v=1761525406",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Stallion53byEmper1.jpg?v=1761525405",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Stallion53byEmper3.jpg?v=1761525406"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Emper Stallion 53 Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Emper Stallion 53 Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Emper",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270531821751",
+  "parent_product_id": "8270531821751",
+  "description": "Stallion 53 by Emper opens with violet and cardamom for a fresh, aromatic introduction. The heart features iris and amber, adding a soft yet warm floral-woody impression. Its base settles into rich sandalwood, cedar, leather, and papyrus for a bold, lasting finish that blends strength with sophistication. A versatile unisex fragrance that works beautifully for both daytime and evening wear, offering elegance, confidence, and long-lasting depth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/emper-stallion-53-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Stallion53byEmper4.jpg?v=1761525406",
+      "content_hash": "60a58901cc6564d0819ceac2ae497d3c2562e269",
+      "alt": "Emper Stallion 53 Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/emper-stallion-53-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Stallion53byEmper1.jpg?v=1761525405",
+      "content_hash": "92249a20b7f6c01007748d1738ddd7c1e2fbc166",
+      "alt": "Emper Stallion 53 Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/emper-stallion-53-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Stallion53byEmper3.jpg?v=1761525406",
+      "content_hash": "56f501a493d714ba978434ff0d286675f9a84883",
+      "alt": "Emper Stallion 53 Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

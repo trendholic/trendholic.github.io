@@ -1,0 +1,87 @@
+{
+  "slug": "michael-malul-sangria-saffron-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8490354639031",
+  "source_parent_product_id": "8490354639031",
+  "source_product_url": "https://habibiperfumes.store/products/michael-malul-sangria-saffron-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/michael-malul-sangria-saffron-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/michael-malul-sangria-saffron-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulSangria_Saffron3.webp?v=1772986616",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulSangria_Saffron2.jpg?v=1772986617",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulSangria_Saffron1.jpg?v=1772986616"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Michael Malul Sangria + Saffron Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Michael Malul Sangria + Saffron Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Michael Malul",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490354639031",
+  "parent_product_id": "8490354639031",
+  "description": "Sangria + Saffron is a vibrant and luxurious fragrance that blends juicy fruits with warm spices and smooth amber woods. The scent captures the energy of a lively evening with rich fruity sweetness balanced by elegant spice. The opening introduces bright red fruits and citrus that create a juicy and uplifting freshness. The heart reveals warm saffron and delicate florals, adding a smooth spicy elegance to the composition. The base settles into amber, woods, and musk, leaving a warm, sensual trail that feels refined and long-lasting. This fragrance is perfect for those who enjoy fruity fragrances with a sophisticated spicy twist.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "129.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "129.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/michael-malul-sangria-saffron-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulSangria_Saffron3.webp?v=1772986616",
+      "content_hash": "0f07bffa47e0be5c4a97bfafb2205d84d87ae82b",
+      "alt": "Michael Malul Sangria + Saffron Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-sangria-saffron-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulSangria_Saffron2.jpg?v=1772986617",
+      "content_hash": "2c5bf44df0195cb72831478fe2d8adfb6b22a673",
+      "alt": "Michael Malul Sangria + Saffron Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-sangria-saffron-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulSangria_Saffron1.jpg?v=1772986616",
+      "content_hash": "34d9f3624973cfb65cd28551a5ed999cc36ad835",
+      "alt": "Michael Malul Sangria + Saffron Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

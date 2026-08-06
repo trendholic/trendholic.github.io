@@ -1,0 +1,73 @@
+{
+  "slug": "arabiyat-prestige-bundle-marwa-safa",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8400995647671",
+  "source_parent_product_id": "8400995647671",
+  "source_product_url": "https://habibiperfumes.store/products/arabiyat-prestige-bundle-marwa-safa",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/arabiyat-prestige-bundle-marwa-safa/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/arabiyat-prestige-bundle-marwa-safa"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeBundleMarwaandSafa_e4b1d213-e3d4-4169-be66-d5b662cc7587.jpg?v=1770326558"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige His & Hers Bundle - Marwa, Safa",
+  "english_product_name": "Arabiyat Prestige His & Hers Bundle - Marwa, Safa",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": "69c1f0a9a6a31",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8400995647671",
+  "parent_product_id": "8400995647671",
+  "description": "The Arabiyat Prestige Marwa & Safa Bundle brings together two refined fragrances designed for elegance, confidence, and daily luxury. Marwa delivers a smooth, masculine-leaning profile with warm spices, woods, and amber — polished, modern, and versatile. Safa balances sweetness and softness with floral, musky, and lightly gourmand tones, creating an elegant and feminine presence. Together, this bundle creates a harmonious contrast — strength and softness, depth and brightness — making it ideal for couples or anyone who enjoys rotating between refined scent moods.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "89.99",
+      "compare_at_price": "109.99",
+      "sku": "69c1f0a9a6a31",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "89.99",
+  "compare_at_price": "109.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-bundle-marwa-safa-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeBundleMarwaandSafa_e4b1d213-e3d4-4169-be66-d5b662cc7587.jpg?v=1770326558",
+      "content_hash": "75050e5185f08bacab92154ee37ff8c4e21b4773",
+      "alt": "Arabiyat Prestige His & Hers Bundle - Marwa, Safa"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

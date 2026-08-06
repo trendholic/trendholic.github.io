@@ -1,0 +1,101 @@
+{
+  "slug": "rayhaan-pharaoh",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8516699226295",
+  "source_parent_product_id": "8516699226295",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-pharaoh",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-pharaoh/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-pharaoh"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/03aujwcadi.webp?v=1781448123",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Pharaoh1.webp?v=1774386940",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/04dnfpeupc.webp?v=1781448123",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Pharaoh_3.webp?v=1774387148",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/02aklvvdeo.webp?v=1781448123"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Pharaoh Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Pharaoh Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8516699226295",
+  "parent_product_id": "8516699226295",
+  "description": "Pharaoh is a bold and regal fragrance that blends warm spices, rich woods, and smooth amber into a powerful masculine composition. The scent feels commanding and luxurious, inspired by strength and timeless authority. The opening introduces warm spices and subtle freshness that create a strong and captivating first impression. The heart develops into smooth woody notes and aromatic warmth, adding depth and masculine structure. The base settles into amber, musk, and rich woods, leaving a long-lasting trail that feels powerful, refined, and confident. Pharaoh is perfect for men who enjoy bold fragrances with warm spice, woody depth, and a commanding presence.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-pharaoh-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/03aujwcadi.webp?v=1781448123",
+      "content_hash": "d8619dedb230293cd291104978fed7e2b8e08be6",
+      "alt": "Rayhaan Pharaoh Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pharaoh-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Pharaoh1.webp?v=1774386940",
+      "content_hash": "6f460c248519beb44e2247dd81037eae8fd30a2f",
+      "alt": "Rayhaan Pharaoh Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pharaoh-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/04dnfpeupc.webp?v=1781448123",
+      "content_hash": "34a9c6f64856de10867ba880587479a5c0d7ab49",
+      "alt": "Rayhaan Pharaoh Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pharaoh-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Pharaoh_3.webp?v=1774387148",
+      "content_hash": "9e53391c875754b2edf0227a1e38b1200ce8a464",
+      "alt": "Rayhaan Pharaoh Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pharaoh-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/02aklvvdeo.webp?v=1781448123",
+      "content_hash": "8256d6665739c4e79f9571142c8d5ae292ef7a75",
+      "alt": "Rayhaan Pharaoh Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

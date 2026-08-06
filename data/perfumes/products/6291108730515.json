@@ -1,0 +1,115 @@
+{
+  "slug": "6291108730515",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8241905336503",
+  "source_parent_product_id": "8241905336503",
+  "source_product_url": "https://habibiperfumes.store/products/6291108730515",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6291108730515/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6291108730515"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/yara.webp?v=1778165829",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Yara-parfum_768x_b0a323c3-d816-4e9c-8695-4b9649454fcd.webp?v=1757972431",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/yara4.webp?v=1778166032",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/yara2.webp?v=1778166032",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/yara3.webp?v=1778166032",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41LruIHspoL._UF1000_1000_QL80.jpg?v=1757972432",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa-Perfumes-Yara-Eau-de-Parfum-for-Women-100ml-3-4oz_ae281192-52d2-48d9-a444-d73da8054d5f.73d3f3ed2fcbe8c395688ccd366386cf.avif?v=1757972431"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Yara Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Yara Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6291108730515",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241905336503",
+  "parent_product_id": "8241905336503",
+  "description": "Yara is a soft and addictive gourmand fragrance that blends creamy tropical fruits with vanilla sweetness and smooth musky warmth. The scent feels feminine, playful, and comforting while maintaining a clean elegant softness throughout the wear. The opening introduces heliotrope, orchid, and tangerine, creating a creamy fruity-floral freshness with a soft tropical touch. The heart develops into tropical fruits and gourmand accords, adding juicy sweetness and a smooth creamy character that feels warm and inviting. The base settles into vanilla, musk, and sandalwood, leaving a soft, creamy, and long-lasting trail that feels cozy, feminine, and addictive. Yara is perfect for women who enjoy sweet creamy fragrances with tropical fruity warmth and a smooth musky finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.99",
+      "compare_at_price": "29.99",
+      "sku": "6291108730515",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.99",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6291108730515-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/yara.webp?v=1778165829",
+      "content_hash": "3b990d64fb6e6a0f3497d5923bb0e9a6a33c00b6",
+      "alt": "Lattafa Yara Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108730515-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Yara-parfum_768x_b0a323c3-d816-4e9c-8695-4b9649454fcd.webp?v=1757972431",
+      "content_hash": "049b0e23c2c022c559cc006ea81346eea9ac9dcd",
+      "alt": "Lattafa Yara Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108730515-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/yara4.webp?v=1778166032",
+      "content_hash": "2b10f1c8dbdeb56878da2183b342bc9832862ec4",
+      "alt": "Lattafa Yara Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108730515-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/yara2.webp?v=1778166032",
+      "content_hash": "a690f8b6f91d3f517d1207a8facdadfc2c2d2161",
+      "alt": "Lattafa Yara Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-yara-moi-eau-de-parfum-100-ml-3-4-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/yara3.webp?v=1778166032",
+      "content_hash": "26bf62187859da6f45fbb9a261e45ab230271370",
+      "alt": "Lattafa Yara Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108730515-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41LruIHspoL._UF1000_1000_QL80.jpg?v=1757972432",
+      "content_hash": "61237e6b689505d95b68e2cd1e3bf6e77f59e347",
+      "alt": "Lattafa Yara Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108730515-7.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa-Perfumes-Yara-Eau-de-Parfum-for-Women-100ml-3-4oz_ae281192-52d2-48d9-a444-d73da8054d5f.73d3f3ed2fcbe8c395688ccd366386cf.avif?v=1757972431",
+      "content_hash": "5f459f4145a049e1da56b6a5b845cecb3fac93b4",
+      "alt": "Lattafa Yara Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

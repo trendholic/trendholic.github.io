@@ -1,0 +1,80 @@
+{
+  "slug": "afnan-9-pm-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8216589566135",
+  "source_parent_product_id": "8216589566135",
+  "source_product_url": "https://habibiperfumes.store/products/afnan-9-pm-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/afnan-9-pm-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/afnan-9-pm-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41ZQdV659VL._SX679.jpg?v=1755800814",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61SSzn5bKSL._SX679.jpg?v=1755800814"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "9PM by Afnan Eau de Parfum 100ml (3.4 oz) – Black Edition",
+  "english_product_name": "9PM by Afnan Eau de Parfum 100ml (3.4 oz) – Black Edition",
+  "original_product_name": null,
+  "brand": "Afnan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216589566135",
+  "parent_product_id": "8216589566135",
+  "description": "9PM (Black) by Afnan is a bold and seductive evening fragrance for men. It opens with fresh apple, cinnamon, wild lavender, and bergamot, giving a vibrant spicy-fruity start. The heart carries orange blossom and lily-of-the-valley for a smooth floral balance. The base is rich and long-lasting with vanilla, tonka bean, amber, and patchouli, leaving a sweet yet masculine trail. A perfect night-out scent with powerful projection and longevity.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/afnan-9-pm-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41ZQdV659VL._SX679.jpg?v=1755800814",
+      "content_hash": "823a5a5d481ecab7ef4057aca5737fd72246e536",
+      "alt": "9PM by Afnan Eau de Parfum 100ml (3.4 oz) – Black Edition"
+    },
+    {
+      "src": "/data/perfumes/images/afnan-9-pm-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61SSzn5bKSL._SX679.jpg?v=1755800814",
+      "content_hash": "ec185c6d00087617b6daefce34f9a9927e880dc4",
+      "alt": "9PM by Afnan Eau de Parfum 100ml (3.4 oz) – Black Edition"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

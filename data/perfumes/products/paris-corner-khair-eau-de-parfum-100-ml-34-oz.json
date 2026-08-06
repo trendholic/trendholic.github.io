@@ -1,0 +1,94 @@
+{
+  "slug": "paris-corner-khair-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8689026826423",
+  "source_parent_product_id": "8689026826423",
+  "source_product_url": "https://habibiperfumes.store/products/paris-corner-khair-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/paris-corner-khair-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/paris-corner-khair-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/paris-corner-unisex-khair-edp-spray-3-38-oz-fragrances-6291419205559.jpg?v=1785691309",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/khair-men-edp-100ml-paris-corner-308172-55375118303563_1200x1200_2d78c83b-fe30-409a-bac2-e040dbeae8ae.jpg?v=1785691309",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/khair-men-edp-100ml-paris-corner-308172-55375118401867_2048x_1200x1200_99942f7f-f3ff-4d15-839b-101414f21b11.jpg?v=1785691309",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/khair-men-edp-100ml-paris-corner-308172-55375118303563_2048x_65a4553c-b320-4bdd-a0d9-1be97f26cd1c.jpg?v=1785691310"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Paris Corner Khair Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Paris Corner Khair Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Paris Corner",
+  "sku": "801619359",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8689026826423",
+  "parent_product_id": "8689026826423",
+  "description": "Paris Corner Khair Eau de Parfum is a unisex amber-woody fragrance with bergamot, pink pepper and davana in the opening. Oud, amber and rosemary build depth in the heart, while leather, vetiver and musk give it a warm, lasting base. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.50",
+      "compare_at_price": "34.99",
+      "sku": "801619359",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.50",
+  "compare_at_price": "34.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/paris-corner-khair-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/paris-corner-unisex-khair-edp-spray-3-38-oz-fragrances-6291419205559.jpg?v=1785691309",
+      "content_hash": "678713efdb70ba7997c10fee7560df871db4782f",
+      "alt": "Paris Corner Khair Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/paris-corner-khair-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/khair-men-edp-100ml-paris-corner-308172-55375118303563_1200x1200_2d78c83b-fe30-409a-bac2-e040dbeae8ae.jpg?v=1785691309",
+      "content_hash": "ba3cb8619055e710aa8cfe18a50ba867c6ec7df3",
+      "alt": "Paris Corner Khair Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/paris-corner-khair-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/khair-men-edp-100ml-paris-corner-308172-55375118401867_2048x_1200x1200_99942f7f-f3ff-4d15-839b-101414f21b11.jpg?v=1785691309",
+      "content_hash": "99817d97d6b346544664bedddd9b1e7949f3fcf9",
+      "alt": "Paris Corner Khair Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/paris-corner-khair-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/khair-men-edp-100ml-paris-corner-308172-55375118303563_2048x_65a4553c-b320-4bdd-a0d9-1be97f26cd1c.jpg?v=1785691310",
+      "content_hash": "e23d8370d88d48aea407b9165bae6498d6842777",
+      "alt": "Paris Corner Khair Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

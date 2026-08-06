@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-niche-emarati-mughal-fort",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8504312430775",
+  "source_parent_product_id": "8504312430775",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-niche-emarati-mughal-fort",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-niche-emarati-mughal-fort/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-niche-emarati-mughal-fort"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MughalFort.jpg?v=1773701303",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MughalFort2.jpg?v=1773701303",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MughalFort3.webp?v=1773701303"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Niche Emarati Mughal Fort Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Niche Emarati Mughal Fort Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8504312430775",
+  "parent_product_id": "8504312430775",
+  "description": "Niche Emarati Mughal Fort is a rich oriental fragrance that blends warm spices, smooth amber, and deep woody notes into a luxurious composition inspired by royal heritage and timeless elegance. The scent feels bold, refined, and deeply sophisticated. The opening introduces aromatic spices and warm accords that create an intense and captivating first impression. The heart develops into rich amber and subtle floral nuances, adding smooth depth and oriental richness. The base settles into woods, musk, and soft sweetness, leaving a powerful and long-lasting trail that feels elegant and luxurious. Mughal Fort is ideal for those who enjoy deep amber fragrances with spicy warmth and a strong woody foundation.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "22.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "22.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-niche-emarati-mughal-fort-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MughalFort.jpg?v=1773701303",
+      "content_hash": "41125d5fbc16150c6c1d4f4db0daf311d01f9b4f",
+      "alt": "Lattafa Niche Emarati Mughal Fort Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-niche-emarati-mughal-fort-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MughalFort2.jpg?v=1773701303",
+      "content_hash": "961f4625a7a8daca058cc0d0f25a8d2aba397a64",
+      "alt": "Lattafa Niche Emarati Mughal Fort Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-niche-emarati-mughal-fort-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MughalFort3.webp?v=1773701303",
+      "content_hash": "961a8736611d6c13bd8aa9d1b842e8b3a18c9c07",
+      "alt": "Lattafa Niche Emarati Mughal Fort Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

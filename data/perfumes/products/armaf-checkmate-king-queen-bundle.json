@@ -1,0 +1,73 @@
+{
+  "slug": "armaf-checkmate-king-queen-bundle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8517613322423",
+  "source_parent_product_id": "8517613322423",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-checkmate-king-queen-bundle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-checkmate-king-queen-bundle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-checkmate-king-queen-bundle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_19.png?v=1774491411"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Checkmate King & Queen Bundle",
+  "english_product_name": "Armaf Checkmate King & Queen Bundle",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "69c69cfdd9ad9",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8517613322423",
+  "parent_product_id": "8517613322423",
+  "description": "The Armaf King & Queen Bundle pairs two complementary fragrances designed to represent strength and elegance in a perfectly balanced duo. King delivers a bold and masculine scent with fresh, woody, and slightly spicy notes, creating a confident and modern presence. Queen offers a softer and more elegant composition with floral and slightly sweet notes, adding a graceful and feminine touch. Together, this bundle is ideal for couples or anyone who enjoys having both a strong, fresh masculine scent and a smooth, elegant feminine fragrance in their collection. Perfect as a gift set or for everyday rotation between bold and refined styles.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "78.99",
+      "compare_at_price": "99.99",
+      "sku": "69c69cfdd9ad9",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "78.99",
+  "compare_at_price": "99.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-checkmate-king-queen-bundle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_19.png?v=1774491411",
+      "content_hash": "e109a2690f3cb9e307f4d777295cc338d0bfba45",
+      "alt": "Armaf Checkmate King & Queen Bundle"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

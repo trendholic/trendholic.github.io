@@ -1,0 +1,94 @@
+{
+  "slug": "al-haramain-amber-oud-future-dubai-extrait-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8574169448631",
+  "source_parent_product_id": "8574169448631",
+  "source_product_url": "https://habibiperfumes.store/products/al-haramain-amber-oud-future-dubai-extrait-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/al-haramain-amber-oud-future-dubai-extrait-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/al-haramain-amber-oud-future-dubai-extrait-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ahp2071-ot.jpg?v=1778988912",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ahp2071-picture.jpg?v=1778988913",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/futuredubai1.png?v=1778988912",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/futuredubai2.png?v=1778988912"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Al Haramain Amber Oud Future Dubai Extrait de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Al Haramain Amber Oud Future Dubai Extrait de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Al Haramain",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8574169448631",
+  "parent_product_id": "8574169448631",
+  "description": "Al Haramain Amber Oud Future Dubai is a 100 ml / 3.4 oz Extrait de Parfum. Verified references list it as a contemporary Amber Oud Dubai release with a luxurious fresh-fruity opening, luminous floral character, and a clean musky amber-oud base.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "69.99",
+      "compare_at_price": "79.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "69.99",
+  "compare_at_price": "79.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/al-haramain-amber-oud-future-dubai-extrait-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ahp2071-ot.jpg?v=1778988912",
+      "content_hash": "646fa5d9aa59f39f6ecb8d15080edfa5e11ac326",
+      "alt": "Al Haramain Amber Oud Future Dubai Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/al-haramain-amber-oud-future-dubai-extrait-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ahp2071-picture.jpg?v=1778988913",
+      "content_hash": "c4dcc528641a535f71eba0f2791330e6fc1c4297",
+      "alt": "Al Haramain Amber Oud Future Dubai Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/al-haramain-amber-oud-future-dubai-extrait-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/futuredubai1.png?v=1778988912",
+      "content_hash": "e432efd995c64608d206e55b57fb9e7378655684",
+      "alt": "Al Haramain Amber Oud Future Dubai Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/al-haramain-amber-oud-future-dubai-extrait-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/futuredubai2.png?v=1778988912",
+      "content_hash": "aee64c7106573d76a1ada181e0a71f614aff1fa7",
+      "alt": "Al Haramain Amber Oud Future Dubai Extrait de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

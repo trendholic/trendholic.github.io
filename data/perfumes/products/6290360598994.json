@@ -1,0 +1,94 @@
+{
+  "slug": "6290360598994",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241890918583",
+  "source_parent_product_id": "8241890918583",
+  "source_product_url": "https://habibiperfumes.store/products/6290360598994",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6290360598994/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6290360598994"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_5.jpg?v=1757975458",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/6_88531c9d-0f85-459f-a5b2-c2dc96b4c59f.webp?v=1757975458",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_4.jpg?v=1757975458",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG-2813.webp?v=1757975458"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Bliss Extrait by Fariis Unisex Extrait de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Bliss Extrait by Fariis Unisex Extrait de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Fariis",
+  "sku": "6290360598994",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241890918583",
+  "parent_product_id": "8241890918583",
+  "description": "Bliss Extrait by Fariis is a rich, high-concentration fragrance crafted for both men and women. Its 100ml extrait de parfum format offers enhanced longevity and throw. While official notes aren’t disclosed, the style leans toward a balanced blend of freshness, warmth, and elegance — typical of Fariis’s unisex fragrances. Great for daily wear or special occasions when you want something noticeable yet refined.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.99",
+      "compare_at_price": null,
+      "sku": "6290360598994",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6290360598994-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_5.jpg?v=1757975458",
+      "content_hash": "942a237967cdd4c1f30a0aa96438f456f2f0cd17",
+      "alt": "Bliss Extrait by Fariis Unisex Extrait de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360598994-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/6_88531c9d-0f85-459f-a5b2-c2dc96b4c59f.webp?v=1757975458",
+      "content_hash": "000f7dff4452ae4efc1e3d4dd412e8a55b60eae6",
+      "alt": "Bliss Extrait by Fariis Unisex Extrait de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360598994-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_4.jpg?v=1757975458",
+      "content_hash": "64fc78aaaf82dd864d6719d819b3f74da274256b",
+      "alt": "Bliss Extrait by Fariis Unisex Extrait de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360598994-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG-2813.webp?v=1757975458",
+      "content_hash": "05652b7758ad2c0b847b7fa319c2aabbb8426afa",
+      "alt": "Bliss Extrait by Fariis Unisex Extrait de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

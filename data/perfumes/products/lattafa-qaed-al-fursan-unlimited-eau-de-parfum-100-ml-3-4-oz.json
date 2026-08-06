@@ -1,0 +1,80 @@
+{
+  "slug": "lattafa-qaed-al-fursan-unlimited-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8314046742711",
+  "source_parent_product_id": "8314046742711",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-qaed-al-fursan-unlimited-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-qaed-al-fursan-unlimited-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-qaed-al-fursan-unlimited-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQaedAlFursanUnlimited.jpg?v=1765942695",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQaedAlFursanUnlimited2.webp?v=1765942694"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Qaed Al Fursan Unlimited Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Qaed Al Fursan Unlimited Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8314046742711",
+  "parent_product_id": "8314046742711",
+  "description": "Qaed Al Fursan Unlimited by Lattafa is a fresh, tropical-fruity, creamy-woody fragrance—a lighter, brighter take on the original Qaed Al Fursan DNA. It opens with juicy pineapple, coconut cream, and citrus freshness, delivering an uplifting, beachy first impression. The heart develops into white florals and smooth woods, keeping the scent airy and clean. The base settles into vanilla, musk, and soft woods, creating a smooth, comforting dry-down with good everyday longevity. Ideal for customers who enjoy fresh tropical scents, pineapple-forward profiles, and easygoing warm-weather wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.99",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-qaed-al-fursan-unlimited-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQaedAlFursanUnlimited.jpg?v=1765942695",
+      "content_hash": "5c9de46c4686cdc30b32d7877d726c30baf516af",
+      "alt": "Lattafa Qaed Al Fursan Unlimited Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-qaed-al-fursan-unlimited-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQaedAlFursanUnlimited2.webp?v=1765942694",
+      "content_hash": "087451071ac064980ace7237135bdc2e5aabbade",
+      "alt": "Lattafa Qaed Al Fursan Unlimited Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

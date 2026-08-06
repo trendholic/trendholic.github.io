@@ -1,0 +1,101 @@
+{
+  "slug": "rasasi-hawas-london-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8565933179063",
+  "source_parent_product_id": "8565933179063",
+  "source_product_url": "https://habibiperfumes.store/products/rasasi-hawas-london-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rasasi-hawas-london-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rasasi-hawas-london-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Hawas-London-Perfume-100ml-EDP-Rasasi-183574839.jpg?v=1778274284",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Hawas-London-Perfume-100ml-EDP-Rasasi-183574758.jpg?v=1778274284",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RAH0011-2.png?v=1778274284",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RAH0011-1.png?v=1778274284",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RAH0011.png?v=1778274284"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rasasi Hawas London Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rasasi Hawas London Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rasasi",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8565933179063",
+  "parent_product_id": "8565933179063",
+  "description": "Rasasi Hawas London is a 100 ml / 3.4 oz Eau de Parfum with a warm spicy-floral profile. Verified notes across retailer sources include pear, pink pepper, and saffron on top; rose, olibanum or white florals in the heart; and vanilla, amber, musk, patchouli, and woods in the base.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "59.00",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "59.00",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-london-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Hawas-London-Perfume-100ml-EDP-Rasasi-183574839.jpg?v=1778274284",
+      "content_hash": "b71eded07745907c31e217b093fba3e36c256a7f",
+      "alt": "Rasasi Hawas London Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-london-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Hawas-London-Perfume-100ml-EDP-Rasasi-183574758.jpg?v=1778274284",
+      "content_hash": "c313974756590b89923150cac9828ffd8fa11022",
+      "alt": "Rasasi Hawas London Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-london-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RAH0011-2.png?v=1778274284",
+      "content_hash": "67d04e8e72b46f85c2cc725cd72067ae22181111",
+      "alt": "Rasasi Hawas London Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-london-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RAH0011-1.png?v=1778274284",
+      "content_hash": "64629f7b07171be1cba2360231ba4a3d41021c9d",
+      "alt": "Rasasi Hawas London Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-london-eau-de-parfum-100-ml-34-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RAH0011.png?v=1778274284",
+      "content_hash": "adc4e918193781f2c6620a10279afbf3e515a8d1",
+      "alt": "Rasasi Hawas London Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

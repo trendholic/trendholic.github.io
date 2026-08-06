@@ -1,0 +1,94 @@
+{
+  "slug": "lattafa-pride-love-in-paris-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8570483114167",
+  "source_parent_product_id": "8570483114167",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-pride-love-in-paris-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-pride-love-in-paris-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-pride-love-in-paris-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2_c82264c8-9c82-4a56-a65e-ca9e06c5e1d8.png?v=1778633841",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1_1bcec2b1-61d9-4329-bbd7-589c467ce927.png?v=1778633840",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3_1b11fb9d-053a-4e7d-ac13-9f5333d73f14.png?v=1778633840",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4_629495ab-7205-48d4-8efa-d0138de5e3d9.png?v=1778633841"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Pride Love In Paris Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Pride Love In Paris Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8570483114167",
+  "parent_product_id": "8570483114167",
+  "description": "Lattafa Pride Love In Paris is a 100 ml / 3.4 oz unisex Eau de Parfum with a sweet gourmand amber profile. Verified notes include caramelized apple on top; pomarose, maple syrup, and benzoin in the heart; and roasted tonka bean, patchouli, amber, and cashmeran in the base.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-pride-love-in-paris-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2_c82264c8-9c82-4a56-a65e-ca9e06c5e1d8.png?v=1778633841",
+      "content_hash": "d9f2fd38231a14bba466489b37afe23c8f2be803",
+      "alt": "Lattafa Pride Love In Paris Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-pride-love-in-paris-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1_1bcec2b1-61d9-4329-bbd7-589c467ce927.png?v=1778633840",
+      "content_hash": "ab7c011f55749ddb8a308e6874fd3d25aa96132a",
+      "alt": "Lattafa Pride Love In Paris Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-pride-love-in-paris-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3_1b11fb9d-053a-4e7d-ac13-9f5333d73f14.png?v=1778633840",
+      "content_hash": "95fbeb180b58dc7ffee5c216aadef1b466761329",
+      "alt": "Lattafa Pride Love In Paris Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-pride-love-in-paris-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4_629495ab-7205-48d4-8efa-d0138de5e3d9.png?v=1778633841",
+      "content_hash": "d2240f5be6bb3f1c3d09ab6f566b18a722b91487",
+      "alt": "Lattafa Pride Love In Paris Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

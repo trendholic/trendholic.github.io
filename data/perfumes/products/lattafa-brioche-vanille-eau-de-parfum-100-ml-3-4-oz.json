@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-brioche-vanille-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8504348246199",
+  "source_parent_product_id": "8504348246199",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-brioche-vanille-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-brioche-vanille-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-brioche-vanille-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafabriochevanille.jpg?v=1773708322",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafabriochevanille2.webp?v=1773708322",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafabriochevanille3.webp?v=1773708352"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Brioche Vanille Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Brioche Vanille Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8504348246199",
+  "parent_product_id": "8504348246199",
+  "description": "Brioche Vanille is a rich and indulgent gourmand fragrance inspired by the warm, buttery sweetness of freshly baked pastries. The scent is creamy, cozy, and comforting, delivering a dessert-like experience with a luxurious smooth finish. The opening introduces sweet, buttery notes reminiscent of warm brioche, creating an instantly delicious and inviting impression. The heart develops into creamy vanilla and soft milky accords, adding depth and a smooth, comforting sweetness. The base settles into caramelized sugar, amber, and musk, leaving a warm, long-lasting, and addictive gourmand trail. Brioche Vanille is perfect for those who enjoy dessert-inspired fragrances with creamy vanilla and sweet bakery warmth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "22.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "22.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-brioche-vanille-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafabriochevanille.jpg?v=1773708322",
+      "content_hash": "04e23dd484d48a589afb648e2943896519fac76f",
+      "alt": "Lattafa Brioche Vanille Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-brioche-vanille-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafabriochevanille2.webp?v=1773708322",
+      "content_hash": "75cbe587eee88164f49410f290876fa6929da4d9",
+      "alt": "Lattafa Brioche Vanille Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-brioche-vanille-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafabriochevanille3.webp?v=1773708352",
+      "content_hash": "bb09173c375d850cba784c5522c3eb77a81b7417",
+      "alt": "Lattafa Brioche Vanille Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

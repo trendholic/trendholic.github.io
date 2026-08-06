@@ -1,0 +1,87 @@
+{
+  "slug": "armaf-odyssey-revolution",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8480861520055",
+  "source_parent_product_id": "8480861520055",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-odyssey-revolution",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-odyssey-revolution/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-odyssey-revolution"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyRevolution.jpg?v=1772568308",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyRevolution2.webp?v=1772568308",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyRevolution3.webp?v=1772568309"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Revolution Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Odyssey Revolution Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8480861520055",
+  "parent_product_id": "8480861520055",
+  "description": "Armaf Odyssey Revolution is a bold and modern fragrance that combines fresh spice, energetic citrus, and warm woods to create a scent that feels vibrant, confident, and unmistakably attention-grabbing. Designed for individuals who want a contemporary yet versatile signature, this fragrance seamlessly transitions from daytime to evening wear with strength and style. The opening greets you with bright citrus and fresh spicy notes that feel lively and invigorating. The heart unfolds into richer aromatic and woody accords, adding structure and character. The base settles into warm woods, amber, and soft musk, leaving a balanced, long-lasting trail that projects confidence and modern appeal. Odyssey Revolution is perfect for everyday wear, work, casual outings, and nights out — for those who want a standout scent that’s both approachable and impactful.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-revolution-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyRevolution.jpg?v=1772568308",
+      "content_hash": "1f8648617004b399f0f4219ccefea5c7f3a3f318",
+      "alt": "Armaf Odyssey Revolution Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-revolution-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyRevolution2.webp?v=1772568308",
+      "content_hash": "0136e8f2a451ef35fa3b47f578cb437b3d72573d",
+      "alt": "Armaf Odyssey Revolution Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-revolution-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyRevolution3.webp?v=1772568309",
+      "content_hash": "f38ec438743db8a387f7e33f0dff96aaf429b770",
+      "alt": "Armaf Odyssey Revolution Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

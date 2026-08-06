@@ -1,0 +1,101 @@
+{
+  "slug": "6291107454825",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241904648375",
+  "source_parent_product_id": "8241904648375",
+  "source_product_url": "https://habibiperfumes.store/products/6291107454825",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6291107454825/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6291107454825"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.97119.jpg?v=1757975076",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/9de4c7ffa1364bb4fc3e5bfb118d9428.jpg?v=1757975076",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51usoXlkQML._UF1000_1000_QL80.jpg?v=1757975076",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_3.jpg?v=1757975076",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/en-p_c_97119.jpg?v=1757975076"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Café Noir (Riiffs) Men’s Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Café Noir (Riiffs) Men’s Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": "6291107454825",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241904648375",
+  "parent_product_id": "8241904648375",
+  "description": "Café Noir by Riiffs is a warm, spicy woods fragrance with fresh citrus and aromatic notes. It opens with pineapple, lemon, and lavender; moves through spicy and herbal heart notes including geranium, nutmeg, and sea water; and settles into a base of sandalwood, oakmoss, and amber. Bold, fresh, and inviting — this scent works well for both day and night when you want to make a confident statement.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": null,
+      "sku": "6291107454825",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6291107454825-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.97119.jpg?v=1757975076",
+      "content_hash": "da64d2e875aca920c0198be50a06786afe8710c1",
+      "alt": "Café Noir (Riiffs) Men’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107454825-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/9de4c7ffa1364bb4fc3e5bfb118d9428.jpg?v=1757975076",
+      "content_hash": "5394ea6a735100630b9145ba3d0e7aff04f68e8a",
+      "alt": "Café Noir (Riiffs) Men’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107454825-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51usoXlkQML._UF1000_1000_QL80.jpg?v=1757975076",
+      "content_hash": "04b0b1d0eae2bed6b4afb9af38508d7bbe24f99c",
+      "alt": "Café Noir (Riiffs) Men’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107454825-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_3.jpg?v=1757975076",
+      "content_hash": "ee3b99281e18ba534451ada9849ea7f4925d0a52",
+      "alt": "Café Noir (Riiffs) Men’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107454825-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/en-p_c_97119.jpg?v=1757975076",
+      "content_hash": "2eaadfbd38b11adfe448b26c439d630773c48ba9",
+      "alt": "Café Noir (Riiffs) Men’s Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

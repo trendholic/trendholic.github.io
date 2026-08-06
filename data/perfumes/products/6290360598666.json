@@ -1,0 +1,122 @@
+{
+  "slug": "6290360598666",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241894883511",
+  "source_parent_product_id": "8241894883511",
+  "source_product_url": "https://habibiperfumes.store/products/6290360598666",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6290360598666/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6290360598666"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Asad_Zanzibar3.jpg?v=1778186500",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Asad_Zanzibar4.webp?v=1778186500",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Asad_Zanzibar1.jpg?v=1778186500",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Asad_Zanzibar2.webp?v=1778186500",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Asad_Zanzibar5.webp?v=1778186500",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Asad_Zanzibar6.webp?v=1778186500",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.90713.jpg?v=1757885567",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61aYG2haQlL._UF1000_1000_QL80.jpg?v=1757885567"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Asad Zanzibar Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Asad Zanzibar Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6290360598666",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241894883511",
+  "parent_product_id": "8241894883511",
+  "description": "Asad Zanzibar is a fresh tropical fragrance that blends creamy coconut, aromatic spices, and smooth woods into a modern masculine scent. The fragrance feels exotic, energetic, and warm while maintaining the bold signature style of the Asad collection. The opening introduces lavender and black pepper, creating an aromatic spicy freshness with a vibrant masculine edge. The heart develops into coconut water, iris, and salt, adding a creamy tropical freshness balanced by soft powdery elegance and mineral depth. The base settles into vanilla and incense, leaving a warm, smoky, and slightly sweet trail that feels smooth, modern, and long-lasting. Asad Zanzibar is perfect for men who enjoy tropical fresh fragrances with creamy coconut warmth and a spicy woody finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": null,
+      "sku": "6290360598666",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6290360598666-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Asad_Zanzibar3.jpg?v=1778186500",
+      "content_hash": "bea6e903d7be0be62143eca9502f1fa35a65cf32",
+      "alt": "Lattafa Asad Zanzibar Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360598666-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Asad_Zanzibar4.webp?v=1778186500",
+      "content_hash": "22197a5eecc8b4353cdb3faf2ed50aa1ed14459b",
+      "alt": "Lattafa Asad Zanzibar Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360598666-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Asad_Zanzibar1.jpg?v=1778186500",
+      "content_hash": "08515c6ed2a39704ce7cc08c4acc2d06ce6fc62f",
+      "alt": "Lattafa Asad Zanzibar Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360598666-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Asad_Zanzibar2.webp?v=1778186500",
+      "content_hash": "d1e63e4cf0d5523b7e7863deb65cd83d27de733a",
+      "alt": "Lattafa Asad Zanzibar Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360598666-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Asad_Zanzibar5.webp?v=1778186500",
+      "content_hash": "a0ce27632c4770e347383318b3220b79bb04970e",
+      "alt": "Lattafa Asad Zanzibar Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360598666-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Asad_Zanzibar6.webp?v=1778186500",
+      "content_hash": "4952ae951c288e6df337bde54d6ac55aa2407d99",
+      "alt": "Lattafa Asad Zanzibar Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360598666-7.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.90713.jpg?v=1757885567",
+      "content_hash": "0c918e12ff1cfcf2d4b03e91a22f070ea5210c23",
+      "alt": "Lattafa Asad Zanzibar Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360598666-8.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61aYG2haQlL._UF1000_1000_QL80.jpg?v=1757885567",
+      "content_hash": "3cbe93a1b50c350f254ced8d083941d0415e8caf",
+      "alt": "Lattafa Asad Zanzibar Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

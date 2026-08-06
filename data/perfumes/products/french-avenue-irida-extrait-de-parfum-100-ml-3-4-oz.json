@@ -1,0 +1,87 @@
+{
+  "slug": "french-avenue-irida-extrait-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8484304912567",
+  "source_parent_product_id": "8484304912567",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-irida-extrait-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-irida-extrait-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-irida-extrait-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueIridaExtrait3.jpg?v=1772662742",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueIridaExtrait2.jpg?v=1772662715",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueIridaExtrait.jpg?v=1772662715"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Irida Extrait Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Irida Extrait Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8484304912567",
+  "parent_product_id": "8484304912567",
+  "description": "French Avenue Irida Extrait is a vibrant fruity-floral fragrance that blends juicy sweetness with soft florals and warm amber depth. Introduced in 2024, the scent is known for its smooth cherry character balanced with delicate jasmine and musky warmth. The opening delivers a bright blend of sweet cherry and spicy ginger that feels playful and energetic. The heart reveals elegant jasmine, adding floral sophistication and smooth balance. The base settles into amber, pink pepper, and musk, leaving a warm, slightly spicy and sensual trail that lingers beautifully. Irida Extrait is perfect for those who enjoy sweet fruity fragrances with floral elegance and a soft musky finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "59.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "59.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-irida-extrait-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueIridaExtrait3.jpg?v=1772662742",
+      "content_hash": "769bfa423b000861f4d8886aa47879528a2349ab",
+      "alt": "French Avenue Irida Extrait Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-irida-extrait-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueIridaExtrait2.jpg?v=1772662715",
+      "content_hash": "dd2e89696bc403677394b50f72cf8e7528c8d10e",
+      "alt": "French Avenue Irida Extrait Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-irida-extrait-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueIridaExtrait.jpg?v=1772662715",
+      "content_hash": "3adbac932a175d23a6a617135963872e0acb1707",
+      "alt": "French Avenue Irida Extrait Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

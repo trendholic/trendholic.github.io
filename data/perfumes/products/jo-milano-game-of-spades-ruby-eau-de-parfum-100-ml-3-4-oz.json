@@ -1,0 +1,87 @@
+{
+  "slug": "jo-milano-game-of-spades-ruby-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8475952775351",
+  "source_parent_product_id": "8475952775351",
+  "source_product_url": "https://habibiperfumes.store/products/jo-milano-game-of-spades-ruby-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/jo-milano-game-of-spades-ruby-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/jo-milano-game-of-spades-ruby-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/JoMilanoGameofSpadesRuby3.webp?v=1772391957",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/JoMilanoGameofSpadesRuby2.jpg?v=1772391957",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/JoMilanoGameofSpadesRuby.webp?v=1772391957"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Jo Milano Game of Spades Ruby Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Jo Milano Game of Spades Ruby Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Jo Milano",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8475952775351",
+  "parent_product_id": "8475952775351",
+  "description": "Jo Milano Game of Spades Ruby is a bold, luxurious amber-floral fragrance crafted for those who want to stand out with confidence and elegance. Inspired by exotic warmth and rich oriental character, Ruby blends spicy freshness with deep florals and sensual amber woods. The opening delivers a striking combination of saffron and bergamot, creating a bright citrus freshness with a warm spicy edge. The heart unfolds into an elegant bouquet of rose, geranium, and magnolia, adding smooth floral richness and refined depth. The base settles into warm amber, woody notes, and musk-like civet accords, leaving a powerful, long-lasting trail that feels luxurious, confident, and unforgettable. Game of Spades Ruby is perfect for those who want a high-end signature scent that commands attention and performs exceptionally well in evening and special occasion settings.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "69.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "69.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-ruby-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/JoMilanoGameofSpadesRuby3.webp?v=1772391957",
+      "content_hash": "4fad319e3554f5a1df64984f8c5e92cb7c64dec9",
+      "alt": "Jo Milano Game of Spades Ruby Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-ruby-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/JoMilanoGameofSpadesRuby2.jpg?v=1772391957",
+      "content_hash": "f51b078f3876efe4a101ede8fed3470b22917c42",
+      "alt": "Jo Milano Game of Spades Ruby Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-ruby-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/JoMilanoGameofSpadesRuby.webp?v=1772391957",
+      "content_hash": "54baa151793e227b825c39d885d7649f228842af",
+      "alt": "Jo Milano Game of Spades Ruby Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

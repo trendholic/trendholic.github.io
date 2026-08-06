@@ -1,0 +1,87 @@
+{
+  "slug": "bharara-arabesque-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8278058369207",
+  "source_parent_product_id": "8278058369207",
+  "source_product_url": "https://habibiperfumes.store/products/bharara-arabesque-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/bharara-arabesque-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/bharara-arabesque-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/BC53333B-7E26-424D-9AEC-4F863DEA91FB_590x767_94dc3ca3-50c1-446a-b1dc-af6c11c1e6fe.webp?v=1762123003",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/dbd94838f46045fcacddfc4f9c9ea9df_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1762123003",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/E1CD28E2-2324-4E40-95F7-5A6F41479333.webp?v=1762123003"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Bharara Arabesque Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Bharara Arabesque Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Bharara",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8278058369207",
+  "parent_product_id": "8278058369207",
+  "description": "Arabesque by Bharara opens with bold top notes of coffee, cognac, maple syrup, green coffee and liqueur. The heart introduces bread crust, marzipan, hazelnut, ambergris and sandalwood for a rich gourmand-ambery core. The base wraps everything in coffee cream, bourbon vanilla, caramel and tonka bean, delivering a smooth, decadent finish. This fragrance is perfect for those who love rich gourmand profiles with a sweet-coffee twist and lasting depth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "69.99",
+      "compare_at_price": "84.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "69.99",
+  "compare_at_price": "84.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/bharara-arabesque-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/BC53333B-7E26-424D-9AEC-4F863DEA91FB_590x767_94dc3ca3-50c1-446a-b1dc-af6c11c1e6fe.webp?v=1762123003",
+      "content_hash": "fe501bca42270d0fdb311ffe9761f4cfb1ff0068",
+      "alt": "Bharara Arabesque Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/bharara-arabesque-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/dbd94838f46045fcacddfc4f9c9ea9df_tplv-fhlh96nyum-resize-jpeg_800_800.jpg?v=1762123003",
+      "content_hash": "9a835aee0b590e6a7e7b6e25c9159eaadb8ab6fc",
+      "alt": "Bharara Arabesque Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/bharara-arabesque-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/E1CD28E2-2324-4E40-95F7-5A6F41479333.webp?v=1762123003",
+      "content_hash": "5eaf342bb36a2f016b6578579b0418646db17c7e",
+      "alt": "Bharara Arabesque Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "6290360597119",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241898750135",
+  "source_parent_product_id": "8241898750135",
+  "source_product_url": "https://habibiperfumes.store/products/6290360597119",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6290360597119/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6290360597119"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.97772.jpg?v=1757972032",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_4.jpg?v=1757972032"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Riiffs Exclusive Prive Gold Unisex Eau de Parfum 80ml (2.7 oz)",
+  "english_product_name": "Riiffs Exclusive Prive Gold Unisex Eau de Parfum 80ml (2.7 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": "6290360597119",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241898750135",
+  "parent_product_id": "8241898750135",
+  "description": "Exclusive Prive Gold by Riiffs is a warm amber fragrance designed for both women and men. Top notes show Sicilian orange, Calabrian bergamot, and Sicilian lemon for a bright citrus opening. The heart is fruity, with passion fruit, lily of the valley, plus other fruit tones. The base is rich and creamy with white musk, Madagascar vanilla, and amber. Soft yet bold, luminous and great for evening wear or special occasions.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.7 oz / 80ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": "6290360597119",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6290360597119-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.97772.jpg?v=1757972032",
+      "content_hash": "8757cb688fcd2d08f0a2c815eb136d427d48b179",
+      "alt": "Riiffs Exclusive Prive Gold Unisex Eau de Parfum 80ml (2.7 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6290360597119-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_4.jpg?v=1757972032",
+      "content_hash": "b0edd4d0e6789a5ffc9f0c3d7bec5c8aa3513c73",
+      "alt": "Riiffs Exclusive Prive Gold Unisex Eau de Parfum 80ml (2.7 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

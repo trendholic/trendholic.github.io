@@ -1,0 +1,73 @@
+{
+  "slug": "afnan-turathi-bundle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Perfume Bundle",
+  "source_category_original": "Perfume Bundle",
+  "source_categories": [
+    {
+      "name": "Perfume Bundle",
+      "slug": "perfume-bundle",
+      "source_path": "Perfume Bundle",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "perfume-bundle"
+  ],
+  "source_product_id": "8681080946871",
+  "source_parent_product_id": "8681080946871",
+  "source_product_url": "https://habibiperfumes.store/products/afnan-turathi-bundle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/afnan-turathi-bundle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/afnan-turathi-bundle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01.png?v=1784662284"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Afnan Turathi Bundle",
+  "english_product_name": "Afnan Turathi Bundle",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8681080946871",
+  "parent_product_id": "8681080946871",
+  "description": "Discover Afnan Turathi Bundle, a curated fragrance set from Habibi Perfumes Miami. Bundle includes Afnan Turathi Blue - 90 ml Afnan Turathi Electric - 90 ml Each item is a full-size fragrance. Products are packaged together as one bundle listing.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "69.99",
+      "compare_at_price": "89.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "69.99",
+  "compare_at_price": "89.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/afnan-turathi-bundle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01.png?v=1784662284",
+      "content_hash": "28bac3e6d333a409eb19ebd861bb16965680ffed",
+      "alt": "Afnan Turathi Bundle"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

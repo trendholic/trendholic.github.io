@@ -1,0 +1,87 @@
+{
+  "slug": "6291108735411",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241906352311",
+  "source_parent_product_id": "8241906352311",
+  "source_product_url": "https://habibiperfumes.store/products/6291108735411",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6291108735411/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6291108735411"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61vMhElZSJL._AC_UF350_350_QL80.jpg?v=1763577649",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/asad4.webp?v=1763577649",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/415tTA0HfOL._UF1000_1000_QL80.jpg?v=1763577649"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Asad Men Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Asad Men Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6291108735411",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241906352311",
+  "parent_product_id": "8241906352311",
+  "description": "Asad by Lattafa is a bold amber fragrance that blends spicy, sweet, and woody elements. Top notes burst with black pepper, pineapple, and tobacco; the heart features coffee, patchouli, and iris; while the base warms with vanilla, amber, dry woods, benzoin, and labdanum. Strong projection and a rich dry-down make it perfect for evening wear when you want to make an impression.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.99",
+      "compare_at_price": "29.99",
+      "sku": "6291108735411",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.99",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6291108735411-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/61vMhElZSJL._AC_UF350_350_QL80.jpg?v=1763577649",
+      "content_hash": "5080fc1596c5f2f15c9a4f82c9c085a3d59cc296",
+      "alt": "Lattafa Asad Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108735411-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/asad4.webp?v=1763577649",
+      "content_hash": "d29109c4515fd44b465bfcfe61e5faecb371ccfd",
+      "alt": "Lattafa Asad Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108735411-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/415tTA0HfOL._UF1000_1000_QL80.jpg?v=1763577649",
+      "content_hash": "33d146858a7cdd2af9eb73cdd001cd873d8bac05",
+      "alt": "Lattafa Asad Men Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

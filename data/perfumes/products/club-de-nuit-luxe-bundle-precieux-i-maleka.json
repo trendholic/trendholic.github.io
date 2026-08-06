@@ -1,0 +1,73 @@
+{
+  "slug": "club-de-nuit-luxe-bundle-precieux-i-maleka",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8400983621815",
+  "source_parent_product_id": "8400983621815",
+  "source_product_url": "https://habibiperfumes.store/products/club-de-nuit-luxe-bundle-precieux-i-maleka",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/club-de-nuit-luxe-bundle-precieux-i-maleka/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/club-de-nuit-luxe-bundle-precieux-i-maleka"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ClubDeNuitBundlePrecieuxIandMaleka.jpg?v=1770325274"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club de Nuit His & Hers Bundle - Precieux I, Maleka",
+  "english_product_name": "Armaf Club de Nuit His & Hers Bundle - Precieux I, Maleka",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "69c1f0a9ca2db",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8400983621815",
+  "parent_product_id": "8400983621815",
+  "description": "The Club de Nuit Luxe Bundle pairs two elevated expressions from the Club de Nuit line — bold refinement for him and modern elegance for her — creating a polished, high-end fragrance pairing. Precieux I delivers a rich, smooth blend of fresh brightness and deep woods with refined warmth, offering a luxurious masculine presence that feels confident and composed. Maleka brings soft floral sweetness and elegant warmth, blending femininity with sophistication for a modern, graceful signature. Together, these fragrances create a luxury Club de Nuit pairing that feels more refined and upscale than the classic line — ideal for couples, gifting, or customers who want something familiar but elevated.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "89.99",
+      "compare_at_price": "109.99",
+      "sku": "69c1f0a9ca2db",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "89.99",
+  "compare_at_price": "109.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/club-de-nuit-luxe-bundle-precieux-i-maleka-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ClubDeNuitBundlePrecieuxIandMaleka.jpg?v=1770325274",
+      "content_hash": "d6d64ff7e1ce2ad4834090d96de75191977e3ccd",
+      "alt": "Armaf Club de Nuit His & Hers Bundle - Precieux I, Maleka"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "bharara-king-parfum",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8622872133815",
+  "source_parent_product_id": "8622872133815",
+  "source_product_url": "https://habibiperfumes.store/products/bharara-king-parfum",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/bharara-king-parfum/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/bharara-king-parfum"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_29.png?v=1782346204",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/97524A10-7580-40D1-8B84-AB61A053DD02.webp?v=1782345534",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/575D6893-A79D-46BF-9E61-988317E6EDDF.jpg?v=1782345534",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Bharara_King_Parfum_57bb9ea5-26e1-45e7-98c7-f76ec895ea97.png?v=1782345534",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GeneratedwithKive.ai-Putboxonleftsideandperfumeandremoveminisample_9.png?v=1782345535"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Bharara King Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Bharara King Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Bharara",
+  "sku": "850060062141",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8622872133815",
+  "parent_product_id": "8622872133815",
+  "description": "Bharara King Parfum for men is a concentrated, confident fragrance with Sicilian orange, Calabrian bergamot and Sicilian lemon over a heart of red fruits. White musk and Madagascar vanilla create a smooth, lasting finish. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "74.95",
+      "compare_at_price": "109.99",
+      "sku": "850060062141",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "74.95",
+  "compare_at_price": "109.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/bharara-king-parfum-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GeneratedwithKive.ai-Removethebox_justkeepthebottleandcenterit_29.png?v=1782346204",
+      "content_hash": "3e3e706bee514500c2a8f3df08e23836d78a8290",
+      "alt": "Bharara King Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/bharara-king-parfum-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/97524A10-7580-40D1-8B84-AB61A053DD02.webp?v=1782345534",
+      "content_hash": "c8f12ae2ea0c72d5931ef12cf17cae38babd0c2b",
+      "alt": "Bharara King Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/bharara-king-parfum-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/575D6893-A79D-46BF-9E61-988317E6EDDF.jpg?v=1782345534",
+      "content_hash": "792174139607c5ca6a67116e8ff797bcfb5dd281",
+      "alt": "Bharara King Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/bharara-king-parfum-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Bharara_King_Parfum_57bb9ea5-26e1-45e7-98c7-f76ec895ea97.png?v=1782345534",
+      "content_hash": "7dc8c6a63324d42ad127f214eabcc8e629257b21",
+      "alt": "Bharara King Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/bharara-king-parfum-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/GeneratedwithKive.ai-Putboxonleftsideandperfumeandremoveminisample_9.png?v=1782345535",
+      "content_hash": "0429e1b1f373ab786aad38b0ce45aa1006182d37",
+      "alt": "Bharara King Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

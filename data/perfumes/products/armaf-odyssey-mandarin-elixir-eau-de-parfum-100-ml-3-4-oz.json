@@ -1,0 +1,87 @@
+{
+  "slug": "armaf-odyssey-mandarin-elixir-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8480860700855",
+  "source_parent_product_id": "8480860700855",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-odyssey-mandarin-elixir-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-odyssey-mandarin-elixir-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-odyssey-mandarin-elixir-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Armaf_Odyssey_Mandarin_Sky_Elixir_4.webp?v=1772568056",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyMandarinSkyElixir2.webp?v=1772567941",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyMandarinSkyElixir.jpg?v=1772567942"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Mandarin Sky Elixir Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Odyssey Mandarin Sky Elixir Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8480860700855",
+  "parent_product_id": "8480860700855",
+  "description": "Armaf Odyssey Mandarin Elixir is a refreshing and vibrant fragrance that celebrates bright citrus energy balanced with smooth woods and soft musk. This scent opens with a lively mandarin citrus burst that feels crisp and uplifting, followed by a heart that adds depth and balance. The dry down reveals warm woody and musky tones that create a refined, confident trail perfect for everyday wear. Mandarin Elixir is ideal for those who want a fresh, citrus-forward fragrance with a modern twist — one that feels clean, energetic, and effortlessly wearable from day to night.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-mandarin-elixir-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Armaf_Odyssey_Mandarin_Sky_Elixir_4.webp?v=1772568056",
+      "content_hash": "7db1640cb6533b95004040e25b99f3764cc92710",
+      "alt": "Armaf Odyssey Mandarin Sky Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-mandarin-elixir-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyMandarinSkyElixir2.webp?v=1772567941",
+      "content_hash": "3033d2fd701f8f491f66c26aafa93a27e9d6c78e",
+      "alt": "Armaf Odyssey Mandarin Sky Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-mandarin-elixir-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyMandarinSkyElixir.jpg?v=1772567942",
+      "content_hash": "b179c86cc3fb26186c48f9fb4309b9505fe08b71",
+      "alt": "Armaf Odyssey Mandarin Sky Elixir Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

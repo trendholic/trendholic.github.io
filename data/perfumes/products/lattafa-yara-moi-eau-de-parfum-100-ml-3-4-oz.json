@@ -1,0 +1,115 @@
+{
+  "slug": "lattafa-yara-moi-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8563779961015",
+  "source_parent_product_id": "8563779961015",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-yara-moi-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-yara-moi-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-yara-moi-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi2.jpg?v=1778186838",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi6.webp?v=1778186838",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi3.webp?v=1778186838",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi4.jpg?v=1778186838",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi5.webp?v=1778186838",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi.webp?v=1778186838",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi1.webp?v=1778186838"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Yara Moi Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Yara Moi Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8563779961015",
+  "parent_product_id": "8563779961015",
+  "description": "Yara Moi is a creamy and elegant gourmand fragrance that blends soft florals with warm caramelized sweetness and smooth musky woods. The scent feels cozy, feminine, and refined while maintaining a modern addictive softness throughout the wear. The opening introduces jasmine and peach, creating a fruity floral sweetness with a soft creamy freshness that feels elegant and inviting. The heart develops into caramel and amber, adding rich gourmand warmth balanced by smooth sensual depth. The base settles into sandalwood and patchouli, leaving a creamy woody trail that feels warm, sophisticated, and long-lasting. Yara Moi is perfect for women who enjoy sweet creamy fragrances with soft florals and warm caramelized woody depth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-yara-moi-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi2.jpg?v=1778186838",
+      "content_hash": "4e5f4d3d866035ce21b7eaa478961163730b886f",
+      "alt": "Lattafa Yara Moi Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-yara-moi-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi6.webp?v=1778186838",
+      "content_hash": "811ba6bb84172a51a76284e12bab582116028478",
+      "alt": "Lattafa Yara Moi Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-yara-moi-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi3.webp?v=1778186838",
+      "content_hash": "f970b7cb21b810da448af2746dfa9620d0a4be73",
+      "alt": "Lattafa Yara Moi Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-yara-moi-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi4.jpg?v=1778186838",
+      "content_hash": "5c91e3f0b2060c62c0d69ac15df7e89dc3f9ec2d",
+      "alt": "Lattafa Yara Moi Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-yara-moi-eau-de-parfum-100-ml-3-4-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi5.webp?v=1778186838",
+      "content_hash": "26bf62187859da6f45fbb9a261e45ab230271370",
+      "alt": "Lattafa Yara Moi Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-yara-moi-eau-de-parfum-100-ml-3-4-oz-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi.webp?v=1778186838",
+      "content_hash": "8f08c9c25fd83c185bc251e02ac51ef562c97bd1",
+      "alt": "Lattafa Yara Moi Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-yara-moi-eau-de-parfum-100-ml-3-4-oz-7.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafayaramoi1.webp?v=1778186838",
+      "content_hash": "57b8e2f43c12af6acfa24206645be350d217d108",
+      "alt": "Lattafa Yara Moi Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-ameer-al-oudh-intense-oud-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8504345985207",
+  "source_parent_product_id": "8504345985207",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-ameer-al-oudh-intense-oud-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-ameer-al-oudh-intense-oud-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-ameer-al-oudh-intense-oud-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAmeerAlOudhIntenseOud3.jpg?v=1773707465",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAmeerAlOudhIntenseOud2.avif?v=1773707465",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAmeerAlOudhIntenseOud.jpg?v=1773707465"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Ameer Al Oudh Intense Oud Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Ameer Al Oudh Intense Oud Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8504345985207",
+  "parent_product_id": "8504345985207",
+  "description": "Ameer Al Oudh Intense Oud is a rich and powerful fragrance that blends smoky oud with sweet vanilla and warm amber. The scent is bold, cozy, and highly addictive, delivering a deep Middle Eastern character with a modern gourmand twist. The opening introduces smoky woody notes combined with a hint of sweetness, creating a warm and slightly burnt sugar effect. The heart develops into rich oud and creamy vanilla, adding depth, smoothness, and a comforting gourmand character. The base settles into amber, sugar, and woody accords, leaving a long-lasting, warm, and smoky-sweet trail. Ameer Al Oudh Intense Oud is perfect for those who enjoy strong oud fragrances with a sweet vanilla and amber warmth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.99",
+      "compare_at_price": "29.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.99",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-ameer-al-oudh-intense-oud-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAmeerAlOudhIntenseOud3.jpg?v=1773707465",
+      "content_hash": "8da3958566ed8d3c3ce8ea5dbb559a3a0e8939cd",
+      "alt": "Lattafa Ameer Al Oudh Intense Oud Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-ameer-al-oudh-intense-oud-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAmeerAlOudhIntenseOud2.avif?v=1773707465",
+      "content_hash": "fd5a4bdaaee68acc9de2459bd9c00314da91d08e",
+      "alt": "Lattafa Ameer Al Oudh Intense Oud Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-ameer-al-oudh-intense-oud-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAmeerAlOudhIntenseOud.jpg?v=1773707465",
+      "content_hash": "681487e1dd40505f16e5acd1b7209f88983a17a3",
+      "alt": "Lattafa Ameer Al Oudh Intense Oud Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

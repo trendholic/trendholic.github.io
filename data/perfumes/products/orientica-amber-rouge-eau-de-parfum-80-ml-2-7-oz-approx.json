@@ -1,0 +1,94 @@
+{
+  "slug": "orientica-amber-rouge-eau-de-parfum-80-ml-2-7-oz-approx",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8297602973879",
+  "source_parent_product_id": "8297602973879",
+  "source_product_url": "https://habibiperfumes.store/products/orientica-amber-rouge-eau-de-parfum-80-ml-2-7-oz-approx",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/orientica-amber-rouge-eau-de-parfum-80-ml-2-7-oz-approx/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/orientica-amber-rouge-eau-de-parfum-80-ml-2-7-oz-approx"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAmberRouge4.jpg?v=1764262385",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAmberRouge5.webp?v=1764262385",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAmberRouge2.jpg?v=1764262385",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAmberRouge.jpg?v=1764262385"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Orientica Amber Rouge Eau de Parfum 80 ml (2.7 oz, approx.)",
+  "english_product_name": "Orientica Amber Rouge Eau de Parfum 80 ml (2.7 oz, approx.)",
+  "original_product_name": null,
+  "brand": "Orientica",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8297602973879",
+  "parent_product_id": "8297602973879",
+  "description": "Amber Rouge by Orientica is a smooth, warm, and refined amber-rouge fragrance built around soft spice, luminous florals, and a clean musky-woody base. The opening brings a gentle spiced-citrus sparkle that instantly feels premium. The heart blooms into soft, elegant florals that elevate the amber-rouge character without going sweet or heavy. The base dries into clean woods, light musk, and a silky amber finish with strong longevity on skin and clothes. This scent fits customers who enjoy a modern, spicy-amber, floral-musk signature — confident, long lasting, and evening-ready.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.7 oz / 80 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "64.99",
+      "compare_at_price": "64.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "64.99",
+  "compare_at_price": "64.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/orientica-amber-rouge-eau-de-parfum-80-ml-2-7-oz-approx-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAmberRouge4.jpg?v=1764262385",
+      "content_hash": "bfe5fb759e258cb71b171905db96eca77d4fd9b8",
+      "alt": "Orientica Amber Rouge Eau de Parfum 80 ml (2.7 oz, approx.)"
+    },
+    {
+      "src": "/data/perfumes/images/orientica-amber-rouge-eau-de-parfum-80-ml-2-7-oz-approx-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAmberRouge5.webp?v=1764262385",
+      "content_hash": "08aaa4b8d4a0e40f5a39ad1db3dd6b4d5080a977",
+      "alt": "Orientica Amber Rouge Eau de Parfum 80 ml (2.7 oz, approx.)"
+    },
+    {
+      "src": "/data/perfumes/images/orientica-amber-rouge-eau-de-parfum-80-ml-2-7-oz-approx-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAmberRouge2.jpg?v=1764262385",
+      "content_hash": "cfb30e1ee50c6ee7e4c96a4c7f9054aaa99ed8ca",
+      "alt": "Orientica Amber Rouge Eau de Parfum 80 ml (2.7 oz, approx.)"
+    },
+    {
+      "src": "/data/perfumes/images/orientica-amber-rouge-eau-de-parfum-80-ml-2-7-oz-approx-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/OrienticaAmberRouge.jpg?v=1764262385",
+      "content_hash": "95fd3a17616fe1f5c42cf4a286fc6ca275abc7a7",
+      "alt": "Orientica Amber Rouge Eau de Parfum 80 ml (2.7 oz, approx.)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

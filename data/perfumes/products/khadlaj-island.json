@@ -1,0 +1,101 @@
+{
+  "slug": "khadlaj-island",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8270521925815",
+  "source_parent_product_id": "8270521925815",
+  "source_product_url": "https://habibiperfumes.store/products/khadlaj-island",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/khadlaj-island/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/khadlaj-island"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/khadlaj-unisex-island-extrait-de-parfum-spray-34-oz-fragrances-6291107978789.jpg?v=1781447363",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71--CtR0lGL._AC_UF1000_1000_QL80.jpg?v=1761523729",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KhadlajIsland_5.webp?v=1761523729",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/khadlaj-unisex-island-extrait-de-parfum-spray-34-oz-fragrances-6291107978789_3.jpg?v=1781447363",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3.webp?v=1761523730"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Khadlaj Island Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Khadlaj Island Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Khadlaj Perfumes",
+  "sku": "6a30843b55be3",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270521925815",
+  "parent_product_id": "8270521925815",
+  "description": "Island by Khadlaj is a refreshing and luminous fragrance inspired by tropical serenity. It opens with bright notes of bergamot, mandarin, and coconut water, evoking a coastal breeze and sunlit beaches. The heart introduces gentle floral tones of jasmine, ylang-ylang, and lily, balanced by a creamy sweetness. In the base, warm vanilla, amber, and soft musk create a smooth and lasting finish that feels both elegant and relaxing.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.50",
+      "compare_at_price": "49.99",
+      "sku": "6a30843b55be3",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/khadlaj-island-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/khadlaj-unisex-island-extrait-de-parfum-spray-34-oz-fragrances-6291107978789.jpg?v=1781447363",
+      "content_hash": "29912449e333cfdc03de4dc38a841624708655a7",
+      "alt": "Khadlaj Island Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-island-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71--CtR0lGL._AC_UF1000_1000_QL80.jpg?v=1761523729",
+      "content_hash": "85d1206e581f5ffa16d1c6dc1139a49a769de1ed",
+      "alt": "Khadlaj Island Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-island-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KhadlajIsland_5.webp?v=1761523729",
+      "content_hash": "cf0c527316e68565fde14ac3a1fdcd795cfde2ad",
+      "alt": "Khadlaj Island Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-island-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/khadlaj-unisex-island-extrait-de-parfum-spray-34-oz-fragrances-6291107978789_3.jpg?v=1781447363",
+      "content_hash": "3f2ab54e77abe0aebbbd0b92ecde9fe136a4c80e",
+      "alt": "Khadlaj Island Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/khadlaj-island-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3.webp?v=1761523730",
+      "content_hash": "4969f8fed23d6bbf9e98ba0bc529a8a97f9ab302",
+      "alt": "Khadlaj Island Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

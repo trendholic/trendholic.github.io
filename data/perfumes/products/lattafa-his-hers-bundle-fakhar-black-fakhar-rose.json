@@ -1,0 +1,73 @@
+{
+  "slug": "lattafa-his-hers-bundle-fakhar-black-fakhar-rose",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8401002037431",
+  "source_parent_product_id": "8401002037431",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-his-hers-bundle-fakhar-black-fakhar-rose",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-his-hers-bundle-fakhar-black-fakhar-rose/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-his-hers-bundle-fakhar-black-fakhar-rose"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaBundleFakharBlackandRose.jpg?v=1770327278"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa His & Hers Bundle - Fakhar Black, Fakhar Rose",
+  "english_product_name": "Lattafa His & Hers Bundle - Fakhar Black, Fakhar Rose",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "69c1f0a97b50b",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8401002037431",
+  "parent_product_id": "8401002037431",
+  "description": "The Lattafa Fakhar His & Hers Bundle pairs two of Lattafa’s most elegant and versatile fragrances — designed for confidence, freshness, and everyday sophistication. Fakhar Black is a modern, masculine-leaning scent with aromatic freshness, smooth woods, and soft amber warmth — clean, confident, and highly wearable. Fakhar Rose offers a refined feminine balance with fruity brightness, elegant florals, and creamy sweetness — graceful yet noticeable. Together, this bundle delivers a polished his & hers signature that works effortlessly from day to night.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "59.99",
+      "compare_at_price": "74.99",
+      "sku": "69c1f0a97b50b",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "59.99",
+  "compare_at_price": "74.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-his-hers-bundle-fakhar-black-fakhar-rose-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaBundleFakharBlackandRose.jpg?v=1770327278",
+      "content_hash": "d7b1d3ba275ae5f10b7453b3975e91de8673d518",
+      "alt": "Lattafa His & Hers Bundle - Fakhar Black, Fakhar Rose"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "riiffs-season-rise",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8490371055799",
+  "source_parent_product_id": "8490371055799",
+  "source_product_url": "https://habibiperfumes.store/products/riiffs-season-rise",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/riiffs-season-rise/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/riiffs-season-rise"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsSeasonsRise.webp?v=1772989664",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsSeasonsRise1.webp?v=1772989664",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsSeasonsRise2.webp?v=1772989664"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Riiffs Seasons Rise Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Riiffs Seasons Rise Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490371055799",
+  "parent_product_id": "8490371055799",
+  "description": "Season Rise is a bright and uplifting fragrance that blends sparkling citrus with soft florals and smooth woody warmth. The scent feels energetic and modern, offering a clean freshness balanced by subtle depth. The opening introduces vibrant citrus notes that create a crisp and refreshing first impression. The heart develops into delicate florals and aromatic nuances that add elegance and airy smoothness. The base settles into musk and warm woods, leaving a clean and long-lasting trail that feels fresh, refined, and versatile. Season Rise is ideal for those who enjoy bright, refreshing fragrances with a smooth woody finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/riiffs-season-rise-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsSeasonsRise.webp?v=1772989664",
+      "content_hash": "0974e3f1e1c0f693d8f7a1cb9e202bc0cec3547d",
+      "alt": "Riiffs Seasons Rise Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-season-rise-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsSeasonsRise1.webp?v=1772989664",
+      "content_hash": "a329766fa5dc49da6a9f98b0e8d4cc08e4b076c0",
+      "alt": "Riiffs Seasons Rise Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-season-rise-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsSeasonsRise2.webp?v=1772989664",
+      "content_hash": "813b87e8e4b034ac4e3c95c0af77a23897bc9210",
+      "alt": "Riiffs Seasons Rise Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "french-avenue-meringue",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8558607007927",
+  "source_parent_product_id": "8558607007927",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-meringue",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-meringue/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-meringue"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueMeringue4.jpg?v=1777650012",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueMeringue3.webp?v=1777650012",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueMeringue.jpg?v=1777650012",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueMeringue2.webp?v=1777650012",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueMeringue5.webp?v=1777650012",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueMeringue1.webp?v=1777650013"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Meringue Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Meringue Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8558607007927",
+  "parent_product_id": "8558607007927",
+  "description": "Meringue is a refined and elegant fragrance that blends bright citrus fruits with creamy woods and soft musky warmth. Despite its name, it is not a sugary gourmand—rather, it leans sophisticated, smooth, and slightly leathery with a clean modern finish. The opening introduces a vibrant mix of pineapple, mandarin, and bergamot, delivering a fresh, slightly juicy citrus brightness. The heart develops into suede, sandalwood, and subtle pink berries, adding a soft leathery texture with creamy woody depth. The base settles into vanilla, white musk, birch, and ambergris, creating a smooth, musky, and slightly smoky finish that feels elegant and long-lasting. Meringue is perfect for women who enjoy clean yet slightly leathery woody fragrances with a soft musky sweetness.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-meringue-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueMeringue4.jpg?v=1777650012",
+      "content_hash": "bd1993b76e792af8cbf51b5fd2e8a2938874490d",
+      "alt": "French Avenue Meringue Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-meringue-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueMeringue3.webp?v=1777650012",
+      "content_hash": "2c2efdad7c1e57afc7279e980699955441475d38",
+      "alt": "French Avenue Meringue Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-meringue-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueMeringue.jpg?v=1777650012",
+      "content_hash": "20555b863bbc5e387e1e83eb821c5b1502f8cae9",
+      "alt": "French Avenue Meringue Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-meringue-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueMeringue2.webp?v=1777650012",
+      "content_hash": "0c074dd19526daed2184567cb7cc31acaac01cc2",
+      "alt": "French Avenue Meringue Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-meringue-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueMeringue5.webp?v=1777650012",
+      "content_hash": "d0153b61d6a57c92238604b1c5c337e5c8ae8fdd",
+      "alt": "French Avenue Meringue Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-meringue-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueMeringue1.webp?v=1777650013",
+      "content_hash": "261b31b069b0d25058f7772c904784e1dd88f73e",
+      "alt": "French Avenue Meringue Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

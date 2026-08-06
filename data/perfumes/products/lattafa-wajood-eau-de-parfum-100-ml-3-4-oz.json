@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-wajood-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8505053675703",
+  "source_parent_product_id": "8505053675703",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-wajood-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-wajood-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-wajood-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaWajood3.avif?v=1773711982",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaWajood2.jpg?v=1773711982",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaWajood.webp?v=1773711982"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Wajood Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Wajood Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8505053675703",
+  "parent_product_id": "8505053675703",
+  "description": "Wajood is a fresh yet deep fragrance that blends marine notes with woody and amber warmth. The scent feels modern, slightly salty, and refined, combining aquatic freshness with a smooth, masculine depth. The opening introduces fresh marine accords with a slightly salty and airy character, creating a clean and invigorating first impression. The heart develops into woody and aromatic notes that add structure, balance, and a subtle earthy sophistication. The base settles into amber, musk, and mineral accords, leaving a long-lasting, smooth, and slightly warm aquatic trail. Wajood is perfect for those who enjoy fresh aquatic fragrances with a woody and amber backbone that gives it more depth than typical fresh scents.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "34.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "34.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-wajood-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaWajood3.avif?v=1773711982",
+      "content_hash": "5d1c4a32841d739c55d274c4311393391d4a03aa",
+      "alt": "Lattafa Wajood Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-wajood-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaWajood2.jpg?v=1773711982",
+      "content_hash": "8f2810fb020dde506404c6d3a4059d3be75a2f91",
+      "alt": "Lattafa Wajood Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-wajood-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaWajood.webp?v=1773711982",
+      "content_hash": "5fd60a6de959bbc09cacfbd2068225716bb0ad6c",
+      "alt": "Lattafa Wajood Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

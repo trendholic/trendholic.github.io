@@ -1,0 +1,73 @@
+{
+  "slug": "womens-lattafa-bundle-victoria-eclaire-angham-eau-de-parfum-100-ml",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8322474967223",
+  "source_parent_product_id": "8322474967223",
+  "source_product_url": "https://habibiperfumes.store/products/womens-lattafa-bundle-victoria-eclaire-angham-eau-de-parfum-100-ml",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/womens-lattafa-bundle-victoria-eclaire-angham-eau-de-parfum-100-ml/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/womens-lattafa-bundle-victoria-eclaire-angham-eau-de-parfum-100-ml"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Women_s_Bundle.jpg?v=1766537259"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Women's Signature Bundle - Victoria, Eclaire, Angham: Eau de Parfum 100 ml",
+  "english_product_name": "Women's Signature Bundle - Victoria, Eclaire, Angham: Eau de Parfum 100 ml",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "69c1f0a9a21d5",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8322474967223",
+  "parent_product_id": "8322474967223",
+  "description": "The Women's Signature Bundle is a luxurious, crowd-pleasing trio — blending sweet gourmand warmth, creamy elegance, and modern sophistication in one irresistible set. This bundle offers three distinct moods: Victoria delivers cozy sweetness and feminine charm Éclair brings creamy vanilla-gourmand comfort Angham adds a refined, elegant balance with modern appeal Together, they create a versatile perfume wardrobe that moves effortlessly from cozy winter days to festive nights and special occasions . Perfect as a holiday gift , self-indulgence set , or signature scent rotation .",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "94.99",
+      "compare_at_price": "119.99",
+      "sku": "69c1f0a9a21d5",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "94.99",
+  "compare_at_price": "119.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/womens-lattafa-bundle-victoria-eclaire-angham-eau-de-parfum-100-ml-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Women_s_Bundle.jpg?v=1766537259",
+      "content_hash": "b3c8693908e179b046170a22f43bf56c71334257",
+      "alt": "Women's Signature Bundle - Victoria, Eclaire, Angham: Eau de Parfum 100 ml"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

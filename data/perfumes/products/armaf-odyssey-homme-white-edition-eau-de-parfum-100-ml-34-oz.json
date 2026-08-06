@@ -1,0 +1,94 @@
+{
+  "slug": "armaf-odyssey-homme-white-edition-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8575501598903",
+  "source_parent_product_id": "8575501598903",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-odyssey-homme-white-edition-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-odyssey-homme-white-edition-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-odyssey-homme-white-edition-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Product_5acac787-8470-4653-aaf1-8ac525eb73f2.png?v=1779201310",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Product_Box_6fa92977-fa19-49a1-aa56-91e174484827.png?v=1779201310",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Q325BODYSSEYHOMMEWHITEEDITION_ARMAFSERIES_d4304b7d-8f65-4fec-a6c9-dd0195d38aaf.jpg?v=1779201310",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/200ml.jpg?v=1779201309"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Homme White Edition Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Odyssey Homme White Edition Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "ARMAF-ODYSSEY-HOMME-WHITE-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8575501598903",
+  "parent_product_id": "8575501598903",
+  "description": "Armaf Odyssey Homme White Edition is a 100 ml / 3.4 oz Eau de Parfum for men. Official Armaf notes list mint, pink pepper, and cardamom; sage, pineapple, and aquatic accords; then cedarwood, amberwood, and vanilla.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "34.99",
+      "sku": "ARMAF-ODYSSEY-HOMME-WHITE-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "34.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-homme-white-edition-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Product_5acac787-8470-4653-aaf1-8ac525eb73f2.png?v=1779201310",
+      "content_hash": "4da9bf390ba398d096528bc4e62362cabd6a27dc",
+      "alt": "Armaf Odyssey Homme White Edition Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-homme-white-edition-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Product_Box_6fa92977-fa19-49a1-aa56-91e174484827.png?v=1779201310",
+      "content_hash": "999558165c3cd4904cbaf203d6d9eb37f196c2a1",
+      "alt": "Armaf Odyssey Homme White Edition Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-homme-white-edition-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Q325BODYSSEYHOMMEWHITEEDITION_ARMAFSERIES_d4304b7d-8f65-4fec-a6c9-dd0195d38aaf.jpg?v=1779201310",
+      "content_hash": "41cb0e232a61080a983f4fe436e54df55383df87",
+      "alt": "Armaf Odyssey Homme White Edition Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-homme-white-edition-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/200ml.jpg?v=1779201309",
+      "content_hash": "f76f9e50b134466510fca40db846552fd69e83a7",
+      "alt": "Armaf Odyssey Homme White Edition Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

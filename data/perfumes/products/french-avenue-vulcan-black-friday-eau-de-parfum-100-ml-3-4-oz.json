@@ -1,0 +1,87 @@
+{
+  "slug": "french-avenue-vulcan-black-friday-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8484484808887",
+  "source_parent_product_id": "8484484808887",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-vulcan-black-friday-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-vulcan-black-friday-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-vulcan-black-friday-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueVulcanBlackFriday.jpg?v=1772664318",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchavenueVulcanBlackFriday2.webp?v=1772664318",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchavenueVulcanBlackFriday3.webp?v=1772664318"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Vulcan Black Friday Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Vulcan Black Friday Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8484484808887",
+  "parent_product_id": "8484484808887",
+  "description": "French Avenue Vulcan Black Friday is a bold leather-spicy fragrance built for intensity, confidence, and dark sophistication. Released in 2025, this scent blends warm spices, rich leather, and earthy woods to create a powerful masculine signature. The opening delivers a striking mix of saffron, crisp apple, and cinnamon, creating a spicy-fruity introduction that immediately grabs attention. The heart develops into a deep leather accord balanced by elegant rose, adding richness and smooth character. The base settles into patchouli, moss, musk, and papyrus, producing a dark, earthy trail that feels smoky, powerful, and long-lasting. Vulcan Black Friday is ideal for evening wear and colder seasons, delivering a commanding presence with a sophisticated leathery finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "49.95",
+      "compare_at_price": "69.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "49.95",
+  "compare_at_price": "69.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-vulcan-black-friday-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueVulcanBlackFriday.jpg?v=1772664318",
+      "content_hash": "e1f7b1721f7f5f1fcb26d339898ff7f0c3797c5c",
+      "alt": "French Avenue Vulcan Black Friday Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-vulcan-black-friday-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchavenueVulcanBlackFriday2.webp?v=1772664318",
+      "content_hash": "113eca810ce7699751ed041488becde77d2bba70",
+      "alt": "French Avenue Vulcan Black Friday Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-vulcan-black-friday-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchavenueVulcanBlackFriday3.webp?v=1772664318",
+      "content_hash": "a432b8141ef5c7530dbedc6642c77a8fd1954102",
+      "alt": "French Avenue Vulcan Black Friday Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

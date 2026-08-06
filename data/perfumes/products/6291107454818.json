@@ -1,0 +1,87 @@
+{
+  "slug": "6291107454818",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8241906385079",
+  "source_parent_product_id": "8241906385079",
+  "source_product_url": "https://habibiperfumes.store/products/6291107454818",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6291107454818/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6291107454818"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsBellaRouge3_8e44c356-b7b0-4ce2-a249-d5cb9e3a9755.jpg?v=1764864074",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsBellaRouge2_1d6418c8-9d9d-456a-bc5d-1e3e059de874.jpg?v=1764864074",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsBellaRouge_7bbe46f0-934f-4dc2-9ad7-8fe2020a22d4.jpg?v=1764864050"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Riiffs Bella Rouge Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Riiffs Bella Rouge Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": "6291107454818",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241906385079",
+  "parent_product_id": "8241906385079",
+  "description": "Bella Rouge by Riiffs is a sweet, floral, amber-musk fragrance crafted for modern women who love warm, elegant, feminine scents. It opens with bright saffron and soft floral sweetness, giving a warm, luxurious first impression. The heart unfolds with delicate jasmine and creamy florals, adding depth and smoothness. The base settles into ambergris, musk, and soft woods, creating a radiant, long-lasting trail that feels warm, sensual, and refined. Perfect for customers who enjoy sweet-floral amber fragrances with a sophisticated feminine finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "21.99",
+      "compare_at_price": null,
+      "sku": "6291107454818",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "21.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6291107454818-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsBellaRouge3_8e44c356-b7b0-4ce2-a249-d5cb9e3a9755.jpg?v=1764864074",
+      "content_hash": "a7a35e31e4d05cdba3c1522cfd0fc2c032707dc2",
+      "alt": "Riiffs Bella Rouge Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107454818-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsBellaRouge2_1d6418c8-9d9d-456a-bc5d-1e3e059de874.jpg?v=1764864074",
+      "content_hash": "89cc8f812805d1d5ef346d7e495d4f5f2013ee95",
+      "alt": "Riiffs Bella Rouge Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107454818-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsBellaRouge_7bbe46f0-934f-4dc2-9ad7-8fe2020a22d4.jpg?v=1764864050",
+      "content_hash": "c751b27f560de8be47c88e67cd9c6175554e14f3",
+      "alt": "Riiffs Bella Rouge Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "afnan-9-am-pour-femme",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8216591859895",
+  "source_parent_product_id": "8216591859895",
+  "source_product_url": "https://habibiperfumes.store/products/afnan-9-am-pour-femme",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/afnan-9-am-pour-femme/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/afnan-9-am-pour-femme"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51413SfNBJL._SX679.jpg?v=1755801564",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41KH0dXjs7L._SX679.jpg?v=1755801564"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "9AM Pour Femme by Afnan Women’s Eau de Parfum 100ml (3.4 oz) – Pink Edition",
+  "english_product_name": "9AM Pour Femme by Afnan Women’s Eau de Parfum 100ml (3.4 oz) – Pink Edition",
+  "original_product_name": null,
+  "brand": "Afnan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216591859895",
+  "parent_product_id": "8216591859895",
+  "description": "9 AM Pour Femme (Pink) by Afnan is a playful and feminine fragrance designed to brighten your mornings. It opens with sparkling citrus and juicy fruits, leading into a soft heart of jasmine, rose, and delicate florals. The base lingers with vanilla, musk, and creamy woods, offering a sweet and elegant finish. Fresh, radiant, and long-lasting — perfect for women who want to start their day with confidence.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/afnan-9-am-pour-femme-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51413SfNBJL._SX679.jpg?v=1755801564",
+      "content_hash": "9d22007c00507d3b2d1532767f8ce3415e4281b9",
+      "alt": "9AM Pour Femme by Afnan Women’s Eau de Parfum 100ml (3.4 oz) – Pink Edition"
+    },
+    {
+      "src": "/data/perfumes/images/afnan-9-am-pour-femme-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41KH0dXjs7L._SX679.jpg?v=1755801564",
+      "content_hash": "fd9aacaa36744de3fd2d5587db3311e0812bdbba",
+      "alt": "9AM Pour Femme by Afnan Women’s Eau de Parfum 100ml (3.4 oz) – Pink Edition"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

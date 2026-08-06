@@ -1,0 +1,87 @@
+{
+  "slug": "michael-malul-ocean-noir-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8490342613175",
+  "source_parent_product_id": "8490342613175",
+  "source_product_url": "https://habibiperfumes.store/products/michael-malul-ocean-noir-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/michael-malul-ocean-noir-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/michael-malul-ocean-noir-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulOceanNoir2.jpg?v=1772984238",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulOceanNoir3.webp?v=1772984266",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulOceanNoir.jpg?v=1772984238"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Michael Malul Ocean Noir Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Michael Malul Ocean Noir Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Michael Malul",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490342613175",
+  "parent_product_id": "8490342613175",
+  "description": "Michael Malul Ocean Noir is a modern aquatic fragrance that captures the power and mystery of the ocean at night. The scent blends crisp marine freshness with aromatic herbs and warm woods, creating a confident and sophisticated masculine signature. The opening delivers a refreshing burst of citrus and marine notes that feel bright, clean, and energizing. The heart introduces aromatic herbs and subtle spices, adding depth and masculine refinement. The base settles into amber, musk, and smooth woods, leaving a long-lasting trail that feels fresh yet powerful. Ocean Noir is perfect for men who enjoy clean aquatic fragrances with a refined woody backbone that works effortlessly from day to night.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "119.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "119.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/michael-malul-ocean-noir-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulOceanNoir2.jpg?v=1772984238",
+      "content_hash": "cd97a5a4cc70cc2ee7a659bb2be412ddf638a9da",
+      "alt": "Michael Malul Ocean Noir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-ocean-noir-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulOceanNoir3.webp?v=1772984266",
+      "content_hash": "e461d02b4b3773717315065ab6e795198cfc135a",
+      "alt": "Michael Malul Ocean Noir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-ocean-noir-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulOceanNoir.jpg?v=1772984238",
+      "content_hash": "054cc52865003101556212327b8f0eb52a20e8c4",
+      "alt": "Michael Malul Ocean Noir Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

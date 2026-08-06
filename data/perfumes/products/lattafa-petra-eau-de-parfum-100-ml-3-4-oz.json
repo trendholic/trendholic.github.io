@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-petra-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8291031482551",
+  "source_parent_product_id": "8291031482551",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-petra-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-petra-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-petra-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa_petra_eau_de_parfum_3.webp?v=1763588324",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa-petra-perfume-artistic-shot.webp?v=1763588324",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa-petra-perfume-bottle.webp?v=1763588324"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Petra Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Petra Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8291031482551",
+  "parent_product_id": "8291031482551",
+  "description": "Lattafa Petra is a warm, elegant, and sophisticated fragrance built around creamy vanilla, smooth woods, and smoky amber. It opens with a blend of sweet florals and soft spicy nuances, giving a rich and inviting first impression. The heart deepens into warm woods, resins, and a velvety sweetness that feels luxurious and comforting. The base settles into a thick blanket of vanilla, amber, musk, and subtle smoke — creating a long-lasting, sensual, and modern Middle Eastern signature scent. Petra is perfect for customers who love deep, warm, sweet-woody perfumes with strong projection and a premium feel.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "37.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "37.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-petra-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa_petra_eau_de_parfum_3.webp?v=1763588324",
+      "content_hash": "f857d58308f7e471ca99877399196c751dba26fb",
+      "alt": "Lattafa Petra Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-petra-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa-petra-perfume-artistic-shot.webp?v=1763588324",
+      "content_hash": "eff0a92ca808845969c55fa4e0bcba7475a6affd",
+      "alt": "Lattafa Petra Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-petra-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/lattafa-petra-perfume-bottle.webp?v=1763588324",
+      "content_hash": "4e60e7c932c168d24ed03d232216f1ac9290f063",
+      "alt": "Lattafa Petra Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

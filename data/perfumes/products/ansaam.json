@@ -1,0 +1,80 @@
+{
+  "slug": "ansaam",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8241903108279",
+  "source_parent_product_id": "8241903108279",
+  "source_product_url": "https://habibiperfumes.store/products/ansaam",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/ansaam/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/ansaam"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/dyjrytjj.webp?v=1762652616",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1600_2.webp?v=1762652616"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Ansaam Gold Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Ansaam Gold Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241903108279",
+  "parent_product_id": "8241903108279",
+  "description": "Ansaam Gold by Lattafa opens with a sweet, bright mix of peach, pear, and citrus , giving a juicy and uplifting start. The heart brings in a soft blend of white florals and creamy notes , adding elegance and smooth sweetness. The base settles into warm vanilla, musk, amber, and light woods , creating a long-lasting, gentle, and luxurious finish. Ansaam Gold is a sweet, fruity-floral fragrance with a warm, creamy dry-down — perfect as a daily signature or for those who love soft, golden sweetness.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "26.99",
+      "compare_at_price": "29.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "26.99",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/ansaam-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/dyjrytjj.webp?v=1762652616",
+      "content_hash": "12beed951fe0d0000a8357495aa5d31d7aad8ddb",
+      "alt": "Lattafa Ansaam Gold Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/ansaam-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1600_2.webp?v=1762652616",
+      "content_hash": "38d77bcfc226c115dc3642dbc6606f0ffc1dbb99",
+      "alt": "Lattafa Ansaam Gold Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

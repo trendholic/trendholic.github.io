@@ -1,0 +1,64 @@
+{
+  "slug": "damask-2oz-edp",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": null,
+  "source_category_original": null,
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "8091906474167",
+  "source_parent_product_id": "8091906474167",
+  "source_product_url": "https://habibiperfumes.store/products/damask-2oz-edp",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/damask-2oz-edp/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/damask-2oz-edp"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG_0639.jpg?v=1745872298"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "DAMASK inspired by BACCARAT ROUGE 540",
+  "english_product_name": "DAMASK inspired by BACCARAT ROUGE 540",
+  "original_product_name": null,
+  "brand": "Daspar",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8091906474167",
+  "parent_product_id": "8091906474167",
+  "description": "Damask 2oz edp",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "9.99",
+      "compare_at_price": "19.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "9.99",
+  "compare_at_price": "19.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/damask-2oz-edp-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG_0639.jpg?v=1745872298",
+      "content_hash": "5901e2b2e2df130ff0167d0288eaf14a6866df6a",
+      "alt": "DAMASK inspired by BACCARAT ROUGE 540"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

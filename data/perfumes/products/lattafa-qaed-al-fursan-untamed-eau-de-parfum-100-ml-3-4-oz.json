@@ -1,0 +1,80 @@
+{
+  "slug": "lattafa-qaed-al-fursan-untamed-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8314047201463",
+  "source_parent_product_id": "8314047201463",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-qaed-al-fursan-untamed-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-qaed-al-fursan-untamed-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-qaed-al-fursan-untamed-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQaedAlFursamUntamed.jpg?v=1765942990",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQaedAlFursamUntamed2.jpg?v=1765942990"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Qaed Al Fursan Untamed Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Qaed Al Fursan Untamed Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8314047201463",
+  "parent_product_id": "8314047201463",
+  "description": "Qaed Al Fursan Untamed by Lattafa is a bold, dark, smoky-woody, spicy fragrance designed for those who want a more intense, rugged take on the Qaed Al Fursan line. It opens with smoky woods, warm spices, and subtle sweetness, delivering an immediate powerful and confident impression. The heart develops into amber, resinous notes, and dry woods, adding depth and a slightly wild, untamed character. The base settles into oud nuances, musk, leather-like warmth, and dark woods, creating a long-lasting, masculine trail with strong presence and projection. This fragrance is ideal for customers who enjoy dark woody ambers, smoky accords, and strong Middle Eastern-style scents.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-qaed-al-fursan-untamed-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQaedAlFursamUntamed.jpg?v=1765942990",
+      "content_hash": "724d4fa8528eb597fbec7b54c3f96e087b8be62c",
+      "alt": "Lattafa Qaed Al Fursan Untamed Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-qaed-al-fursan-untamed-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQaedAlFursamUntamed2.jpg?v=1765942990",
+      "content_hash": "77ada7f5d2bf97f4df330c4c8fa65fcb8b008470",
+      "alt": "Lattafa Qaed Al Fursan Untamed Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

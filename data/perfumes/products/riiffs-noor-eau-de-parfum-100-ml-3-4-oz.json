@@ -1,0 +1,87 @@
+{
+  "slug": "riiffs-noor-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8490366566583",
+  "source_parent_product_id": "8490366566583",
+  "source_product_url": "https://habibiperfumes.store/products/riiffs-noor-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/riiffs-noor-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/riiffs-noor-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsNoor2.jpg?v=1772988793",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsNoor.webp?v=1772988793",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsNoor.jpg?v=1772988793"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Riiffs Noor Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Riiffs Noor Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490366566583",
+  "parent_product_id": "8490366566583",
+  "description": "Noor is a warm oriental fragrance that blends delicate florals with smooth amber and soft woody notes. The scent feels elegant and luminous, balancing gentle sweetness with refined depth. The opening introduces light floral tones and subtle freshness that create a soft and inviting first impression. The heart develops into rich amber and warm floral accords, adding smooth elegance and depth. The base settles into woods, musk, and soft sweetness, leaving a warm and comforting trail that feels luxurious and long-lasting. Noor is ideal for those who enjoy smooth amber fragrances with a soft floral character and warm woody finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/riiffs-noor-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsNoor2.jpg?v=1772988793",
+      "content_hash": "bc8c7f7f1f46c3f25e2174dc2a93a94526fd1244",
+      "alt": "Riiffs Noor Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-noor-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsNoor.webp?v=1772988793",
+      "content_hash": "85c499daff2f1745ce8e4f0bcd0eaa8893cf03a5",
+      "alt": "Riiffs Noor Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-noor-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsNoor.jpg?v=1772988793",
+      "content_hash": "6a04dfa38fa3e28565b3b8ddf44f07b43fc797a3",
+      "alt": "Riiffs Noor Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

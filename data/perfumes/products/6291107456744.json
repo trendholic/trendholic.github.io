@@ -1,0 +1,80 @@
+{
+  "slug": "6291107456744",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241891410103",
+  "source_parent_product_id": "8241891410103",
+  "source_product_url": "https://habibiperfumes.store/products/6291107456744",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6291107456744/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6291107456744"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.82727.webp?v=1757961288",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/xlavzkgoyw8i.jpg?v=1757961288"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Maahir Unisex Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Maahir Unisex Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6291107456744",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241891410103",
+  "parent_product_id": "8241891410103",
+  "description": "Maahir by Lattafa is an oriental-floral fragrance launched in 2020, blending juicy fruit, warm florals, woods, and sweet creamy elements. It opens with vibrant top notes of red berries, peach, and bergamot. The heart carries jasmine, peony, and red lily. The base is rich with sandalwood, vanilla flower, and musk. It delivers strong projection and lasting warmth — ideal when you want to make a statement.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": "49.99",
+      "sku": "6291107456744",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6291107456744-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.82727.webp?v=1757961288",
+      "content_hash": "ab9ccd0ce08b52243cb520116b5d0bc41d5edb28",
+      "alt": "Lattafa Maahir Unisex Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107456744-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/xlavzkgoyw8i.jpg?v=1757961288",
+      "content_hash": "18e21e267308eea3f3cd40540770e9058ae7676a",
+      "alt": "Lattafa Maahir Unisex Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

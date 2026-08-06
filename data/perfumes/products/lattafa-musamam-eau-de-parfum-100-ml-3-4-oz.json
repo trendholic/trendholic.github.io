@@ -1,0 +1,94 @@
+{
+  "slug": "lattafa-musamam-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8563782451383",
+  "source_parent_product_id": "8563782451383",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-musamam-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-musamam-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-musamam-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Musamam5.jpg?v=1778187330",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamam.jpg?v=1778187145",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Musamam3.jpg?v=1778187262",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Musamam4.jpg?v=1778187262"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Musamam Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Musamam Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8563782451383",
+  "parent_product_id": "8563782451383",
+  "description": "Musamam is a luxurious woody-spicy fragrance that blends smoky incense, warm spices, and creamy woods into a rich and sophisticated unisex scent. The fragrance feels elegant, mysterious, and refined with a smooth oriental character and strong long-lasting depth. The opening introduces saffron, Italian mandarin, and lavender, creating a vibrant spicy-citrus freshness with aromatic warmth. The heart develops into amberwood, cedarwood, geranium, and incense, adding smoky woody richness balanced by smooth floral-aromatic nuances. The base settles into Akigalawood, incense, and labdanum, leaving a deep, resinous, and long-lasting trail that feels warm, woody, and luxurious. Musamam is perfect for those who enjoy rich woody fragrances with smoky incense and smooth amber warmth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-musamam-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Musamam5.jpg?v=1778187330",
+      "content_hash": "1dd8db3d6f740d55ad36aa1a3ba685bc6c84175d",
+      "alt": "Lattafa Musamam Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-musamam-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamam.jpg?v=1778187145",
+      "content_hash": "037ae56490b3f855bd7d4d5b52b9d0a6c3d1aca0",
+      "alt": "Lattafa Musamam Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-musamam-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Musamam3.jpg?v=1778187262",
+      "content_hash": "8c0e50bd009221ae7b7ab074d652ac7e2aec7e84",
+      "alt": "Lattafa Musamam Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-musamam-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Musamam4.jpg?v=1778187262",
+      "content_hash": "99e6689830246975a3d09b99577693b5c84bd717",
+      "alt": "Lattafa Musamam Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

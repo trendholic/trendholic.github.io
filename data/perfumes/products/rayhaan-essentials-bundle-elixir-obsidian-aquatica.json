@@ -1,0 +1,73 @@
+{
+  "slug": "rayhaan-essentials-bundle-elixir-obsidian-aquatica",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8322568814775",
+  "source_parent_product_id": "8322568814775",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-essentials-bundle-elixir-obsidian-aquatica",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-essentials-bundle-elixir-obsidian-aquatica/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-essentials-bundle-elixir-obsidian-aquatica"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanEssentialsBundle_80c1205d-c6c5-42da-ab9d-4763f9bb1aa5.jpg?v=1766600887"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Essentials Bundle - Elixir, Obsidian, Aquatica",
+  "english_product_name": "Rayhaan Essentials Bundle - Elixir, Obsidian, Aquatica",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8322568814775",
+  "parent_product_id": "8322568814775",
+  "description": "The Rayhaan Essentials Bundle is a complete, no-guesswork fragrance rotation designed to cover daily freshness, modern masculinity, and night-time depth — all within one cohesive brand identity. Each fragrance plays a clear role: Aquatica delivers crisp, aquatic freshness for clean daytime and office wear Obsidian adds dark, smooth, masculine depth with a confident everyday edge Elixir finishes the rotation with rich intensity for nights, dates, and elevated moments Together, this bundle gives customers a true essentials wardrobe — fresh, bold, and refined — perfect for anyone who wants to rely on one brand for every situation.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "118.50",
+      "compare_at_price": "149.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "118.50",
+  "compare_at_price": "149.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-essentials-bundle-elixir-obsidian-aquatica-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanEssentialsBundle_80c1205d-c6c5-42da-ab9d-4763f9bb1aa5.jpg?v=1766600887",
+      "content_hash": "2d1fe027745e7d8d5ce91a9b05bdfb97bee787b1",
+      "alt": "Rayhaan Essentials Bundle - Elixir, Obsidian, Aquatica"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

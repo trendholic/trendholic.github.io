@@ -1,0 +1,87 @@
+{
+  "slug": "armaf-odyssey-artisto-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8480853426359",
+  "source_parent_product_id": "8480853426359",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-odyssey-artisto-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-odyssey-artisto-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-odyssey-artisto-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyArtisto3.webp?v=1772567143",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyArtisto2.webp?v=1772567143",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyArtisto.jpg?v=1772567143"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Artisto Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Odyssey Artisto Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes Miami",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8480853426359",
+  "parent_product_id": "8480853426359",
+  "description": "Armaf Odyssey Artisto is a refined and captivating fragrance that combines fresh citrus brightness with rich woods and amber for a bold yet sophisticated signature. Designed for confident individuals who appreciate both modern freshness and classic depth, Artisto evolves beautifully from uplifting opening to a long-lasting, memorable dry down. The opening greets with crisp citrus and aromatic accords that feel clean, energetic, and immediately engaging. The heart unfolds into smooth woody and amber nuances, adding structure, warmth, and depth. The base settles into rich woods, soft musk, and subtle sweetness, creating a smooth, enduring trail that feels elegant, balanced, and versatile. Odyssey Artisto is ideal for everyday wear and evening occasions alike, offering strong performance and broad appeal.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-artisto-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyArtisto3.webp?v=1772567143",
+      "content_hash": "39fb78fd8860ad17fa84b050e3d3e12f827557d3",
+      "alt": "Armaf Odyssey Artisto Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-artisto-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyArtisto2.webp?v=1772567143",
+      "content_hash": "1575ffe761e72e8efcafe57e36574cf866b53282",
+      "alt": "Armaf Odyssey Artisto Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-odyssey-artisto-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafOdysseyArtisto.jpg?v=1772567143",
+      "content_hash": "711c1685fbe6227a6b3ee8ca8c5bf15abe460ce1",
+      "alt": "Armaf Odyssey Artisto Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

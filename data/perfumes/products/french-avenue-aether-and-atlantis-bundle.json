@@ -1,0 +1,73 @@
+{
+  "slug": "french-avenue-aether-and-atlantis-bundle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Perfume Bundle",
+  "source_category_original": "Perfume Bundle",
+  "source_categories": [
+    {
+      "name": "Perfume Bundle",
+      "slug": "perfume-bundle",
+      "source_path": "Perfume Bundle",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "perfume-bundle"
+  ],
+  "source_product_id": "8681081340087",
+  "source_parent_product_id": "8681081340087",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-aether-and-atlantis-bundle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-aether-and-atlantis-bundle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-aether-and-atlantis-bundle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_ee365226-5e44-4d81-b3a1-2dd7c5a96292.png?v=1784662311"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Aether & Atlantis Bundle",
+  "english_product_name": "French Avenue Aether & Atlantis Bundle",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8681081340087",
+  "parent_product_id": "8681081340087",
+  "description": "Discover French Avenue Aether & Atlantis Bundle, a curated fragrance set from Habibi Perfumes Miami. Bundle includes French Avenue Aether - 100 ml French Avenue Atlantis Extrait - 100 ml Each item is a full-size fragrance. Products are packaged together as one bundle listing.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "89.99",
+      "compare_at_price": "124.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "89.99",
+  "compare_at_price": "124.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-aether-and-atlantis-bundle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_ee365226-5e44-4d81-b3a1-2dd7c5a96292.png?v=1784662311",
+      "content_hash": "1f18eee934babeb47d948c3bed46f5d24d6fc0c8",
+      "alt": "French Avenue Aether & Atlantis Bundle"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

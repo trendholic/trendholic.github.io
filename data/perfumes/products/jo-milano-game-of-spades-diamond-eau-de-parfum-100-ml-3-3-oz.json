@@ -1,0 +1,87 @@
+{
+  "slug": "jo-milano-game-of-spades-diamond-eau-de-parfum-100-ml-3-3-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8480847429815",
+  "source_parent_product_id": "8480847429815",
+  "source_product_url": "https://habibiperfumes.store/products/jo-milano-game-of-spades-diamond-eau-de-parfum-100-ml-3-3-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/jo-milano-game-of-spades-diamond-eau-de-parfum-100-ml-3-3-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/jo-milano-game-of-spades-diamond-eau-de-parfum-100-ml-3-3-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Jo_Milano_Game_of_Spades_Diamond_4.jpg?v=1772566685",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/JoMilanoGameofSpadesDiamond2.webp?v=1772566618",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/JoMilanoGameofSpadesDiamond.webp?v=1772566618"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Jo Milano Game of Spades Diamond Eau de Parfum 100 ml (3.3 oz)",
+  "english_product_name": "Jo Milano Game of Spades Diamond Eau de Parfum 100 ml (3.3 oz)",
+  "original_product_name": null,
+  "brand": "Jo Milano",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8480847429815",
+  "parent_product_id": "8480847429815",
+  "description": "Jo Milano Game of Spades Diamond is a vibrant, refined fragrance that blends freshness with modern sophistication. This composition opens with crisp citrus and aromatic notes that feel clean and uplifting, transitioning into a balanced heart of florals and aromatic accords. The base reveals smooth woods, amber, and musk, creating a well-rounded scent that’s fresh yet substantial. Diamond is designed for people who want a versatile, polished scent that works for both everyday wear and special occasions. Its bright opening and smooth dry-down make it a perfect balance of energy and elegance, ideal for those who prefer a fresh but confident signature.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "69.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "69.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-diamond-eau-de-parfum-100-ml-3-3-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Jo_Milano_Game_of_Spades_Diamond_4.jpg?v=1772566685",
+      "content_hash": "e0dad56f960baa2f5f6cbc35500f4dff8a007579",
+      "alt": "Jo Milano Game of Spades Diamond Eau de Parfum 100 ml (3.3 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-diamond-eau-de-parfum-100-ml-3-3-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/JoMilanoGameofSpadesDiamond2.webp?v=1772566618",
+      "content_hash": "3f2fa582bc780d02e65f219887378a3930226944",
+      "alt": "Jo Milano Game of Spades Diamond Eau de Parfum 100 ml (3.3 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-diamond-eau-de-parfum-100-ml-3-3-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/JoMilanoGameofSpadesDiamond.webp?v=1772566618",
+      "content_hash": "101c3f3629a5bbb317e68971051cb5264b974464",
+      "alt": "Jo Milano Game of Spades Diamond Eau de Parfum 100 ml (3.3 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

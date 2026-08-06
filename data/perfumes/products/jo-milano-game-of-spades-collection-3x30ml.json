@@ -1,0 +1,73 @@
+{
+  "slug": "jo-milano-game-of-spades-collection-3x30ml",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8475947401399",
+  "source_parent_product_id": "8475947401399",
+  "source_product_url": "https://habibiperfumes.store/products/jo-milano-game-of-spades-collection-3x30ml",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/jo-milano-game-of-spades-collection-3x30ml/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/jo-milano-game-of-spades-collection-3x30ml"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/JoMilanoGameofSpades3pcsSet.webp?v=1772389050"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Jo Milano Game of Spades Collection 3x30ml",
+  "english_product_name": "Jo Milano Game of Spades Collection 3x30ml",
+  "original_product_name": null,
+  "brand": "Jo Milano",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8475947401399",
+  "parent_product_id": "8475947401399",
+  "description": "The Jo Milano Game of Spades 3-Piece Set is a luxury fragrance collection featuring three of the brand’s most iconic scents: Wildcard, Full-House, and Royale . Each fragrance offers its own unique personality while maintaining the bold, high-end DNA that defines the Game of Spades line. Game of Spades Wildcard delivers a vibrant fruity-fresh opening with smooth sweetness and modern woody depth, creating an energetic and highly addictive signature. Game of Spades Full-House focuses on rich gourmand sweetness with creamy vanilla and warm amber, offering a powerful, attention-grabbing presence perfect for nights out. Game of Spades Royale brings a refined fruity-woody luxury profile with smooth sophistication, blending freshness and depth for a confident, upscale finish. Together, this set provides versatility for different moods, occasions, and seasons — from fresh daily wear to bold evening statements. Perfect for collectors, gifting, or anyone looking to experience the Game of Spades collection in one premium set.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "79.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "79.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-collection-3x30ml-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/JoMilanoGameofSpades3pcsSet.webp?v=1772389050",
+      "content_hash": "ea26c1b6ca628b4f796761258cd4c30c81274b07",
+      "alt": "Jo Milano Game of Spades Collection 3x30ml"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

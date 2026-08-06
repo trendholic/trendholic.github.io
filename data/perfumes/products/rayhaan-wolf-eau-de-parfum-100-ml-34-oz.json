@@ -1,0 +1,101 @@
+{
+  "slug": "rayhaan-wolf-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8594261803191",
+  "source_parent_product_id": "8594261803191",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-wolf-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-wolf-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-wolf-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rayhaan-mens-wolf-edp-spray-3-4-oz-fragrances-6297001571378.jpg?v=1781889115",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/WolfBottleandBox.png?v=1780525131",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3wolf.png?v=1780525131",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4wolf.png?v=1780525131",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/5wolf.png?v=1780525131"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Wolf Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Wolf Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": "6297001571378",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8594261803191",
+  "parent_product_id": "8594261803191",
+  "description": "Rayhaan Wolf Eau de Parfum is a unisex fragrance with cardamom, toffee and amber wood for a warm, confident profile.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.50",
+      "compare_at_price": "49.99",
+      "sku": "6297001571378",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-wolf-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rayhaan-mens-wolf-edp-spray-3-4-oz-fragrances-6297001571378.jpg?v=1781889115",
+      "content_hash": "9f8f1e3622ce26fcd6d71edae30ff5450a10ad81",
+      "alt": "Rayhaan Wolf Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-wolf-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/WolfBottleandBox.png?v=1780525131",
+      "content_hash": "02e5ec96c5615d3721439695ac3e0432c965be1d",
+      "alt": "Rayhaan Wolf Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-wolf-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3wolf.png?v=1780525131",
+      "content_hash": "a5e44c8e23ba43bc26bf539499210936555b6a00",
+      "alt": "Rayhaan Wolf Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-wolf-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4wolf.png?v=1780525131",
+      "content_hash": "b514506fe756d1f658f89a7b840ea3fb63cf7150",
+      "alt": "Rayhaan Wolf Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-wolf-eau-de-parfum-100-ml-34-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/5wolf.png?v=1780525131",
+      "content_hash": "d46d78c124e92aaf39b4b10ed4858a1cc62b043d",
+      "alt": "Rayhaan Wolf Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

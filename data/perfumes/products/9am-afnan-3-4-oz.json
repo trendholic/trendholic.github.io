@@ -1,0 +1,80 @@
+{
+  "slug": "9am-afnan-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8216593137847",
+  "source_parent_product_id": "8216593137847",
+  "source_product_url": "https://habibiperfumes.store/products/9am-afnan-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/9am-afnan-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/9am-afnan-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41yyEfSspCL._SX679.jpg?v=1755802789",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51gUQlB4g9L._SX679.jpg?v=1755802790"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Afnan 9AM Unisex Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Afnan 9AM Unisex Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Afnan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216593137847",
+  "parent_product_id": "8216593137847",
+  "description": "9AM by Afnan is a fresh, uplifting unisex fragrance that energizes your day. It opens with zesty lemon, mandarin, pink pepper, and cardamom, giving a sparkling citrus-spice kick. The heart reveals lavender, green apple, orange blossom, and rose, adding both freshness and floral sweetness. The base settles into musk, cedarwood, moss, and patchouli, creating a smooth and long-lasting dry down. Versatile and modern, it works perfectly for both men and women.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/9am-afnan-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/41yyEfSspCL._SX679.jpg?v=1755802789",
+      "content_hash": "417c125bfed28b69c899983fc21a8765564e6113",
+      "alt": "Afnan 9AM Unisex Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/9am-afnan-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/51gUQlB4g9L._SX679.jpg?v=1755802790",
+      "content_hash": "aeb2be900e2b52f86a105c4f81523594f21d8de3",
+      "alt": "Afnan 9AM Unisex Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "french-avenue-atlantis-extrait",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8484246618295",
+  "source_parent_product_id": "8484246618295",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-atlantis-extrait",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-atlantis-extrait/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-atlantis-extrait"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueAtlantisExtrait.webp?v=1772662191",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueAtlantisExtrait4.jpg?v=1772662192",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueAtlantisExtrait3.webp?v=1772662191"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Atlantis Extrait Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Atlantis Extrait Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8484246618295",
+  "parent_product_id": "8484246618295",
+  "description": "French Avenue Atlantis Extrait is a bold tropical-aquatic fragrance that blends bright citrus freshness with exotic fruits and warm amber depth. Launched in 2025, this scent creates the feeling of sunlit shores, ocean air, and luxurious summer nights. The opening bursts with vibrant citrus notes of orange, mandarin, and lemon that feel bright and energizing. The heart reveals a juicy tropical blend of watermelon and creamy coconut, adding smooth sweetness and exotic warmth. The base settles into cacao, amberwood, and ambergris, creating a warm, slightly salty and sensual trail that lingers for hours. Atlantis Extrait is perfect for people who want a unique fruity-tropical fragrance with strong performance and a luxurious, modern character.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "54.50",
+      "compare_at_price": "69.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "54.50",
+  "compare_at_price": "69.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-atlantis-extrait-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueAtlantisExtrait.webp?v=1772662191",
+      "content_hash": "4bfb74c7869ba80b5e720b8c0cd90caadb8dc26a",
+      "alt": "French Avenue Atlantis Extrait Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-atlantis-extrait-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueAtlantisExtrait4.jpg?v=1772662192",
+      "content_hash": "50f7539527978d611bf80579ef479eb03baf4dfe",
+      "alt": "French Avenue Atlantis Extrait Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-atlantis-extrait-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueAtlantisExtrait3.webp?v=1772662191",
+      "content_hash": "b98dbac85e1c3386ce7197754fa3ff12ded38efe",
+      "alt": "French Avenue Atlantis Extrait Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

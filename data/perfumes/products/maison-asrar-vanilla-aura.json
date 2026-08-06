@@ -1,0 +1,108 @@
+{
+  "slug": "maison-asrar-vanilla-aura",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8562690359479",
+  "source_parent_product_id": "8562690359479",
+  "source_product_url": "https://habibiperfumes.store/products/maison-asrar-vanilla-aura",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/maison-asrar-vanilla-aura/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/maison-asrar-vanilla-aura"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaaura.jpg?v=1785525185",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaaura1.jpg?v=1778094199",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaaura3.webp?v=1778094199",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaaura5.webp?v=1778094199",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaaura2.webp?v=1778094199",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaaura4.webp?v=1778094200"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Maison Asrar Vanilla Aura Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Maison Asrar Vanilla Aura Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Maison Asrar",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8562690359479",
+  "parent_product_id": "8562690359479",
+  "description": "Vanilla Aura is a warm and comforting gourmand fragrance centered around creamy vanilla sweetness with soft florals and smooth musky warmth. The scent feels cozy, feminine, and addictive while maintaining a refined and elegant balance. The opening introduces sweet creamy accords with soft fruity nuances, creating a warm and inviting first impression that immediately feels comforting. The heart develops into delicate florals and caramelized sweetness, adding richness and a soft feminine elegance to the composition. The base settles into vanilla, amber, musk, and sandalwood, leaving a creamy, warm, and long-lasting trail that feels smooth, cozy, and luxurious. Vanilla Aura is perfect for women who enjoy sweet vanilla fragrances with creamy gourmand warmth and a soft musky finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.95",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.95",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/maison-asrar-vanilla-aura-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaaura.jpg?v=1785525185",
+      "content_hash": "5162063c8af681c40475d32e49434dcc09838bcd",
+      "alt": "Maison Asrar Vanilla Aura Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-vanilla-aura-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaaura1.jpg?v=1778094199",
+      "content_hash": "1689372ffd6fd6fc28fece5f37e28e55354cc188",
+      "alt": "Maison Asrar Vanilla Aura Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-vanilla-aura-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaaura3.webp?v=1778094199",
+      "content_hash": "e39c01818d584f00cfdc9d44dc0274b9f030d88c",
+      "alt": "Maison Asrar Vanilla Aura Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-vanilla-aura-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaaura5.webp?v=1778094199",
+      "content_hash": "45c8a7aced56b8853cba69caa7bfb18e99d1b16e",
+      "alt": "Maison Asrar Vanilla Aura Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-vanilla-aura-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaaura2.webp?v=1778094199",
+      "content_hash": "ed99e9a1b5a089688c66b1c55583ad4fc2a96bb2",
+      "alt": "Maison Asrar Vanilla Aura Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-vanilla-aura-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaaura4.webp?v=1778094200",
+      "content_hash": "86170846afed76613b1070b3e95a70ea3abeab34",
+      "alt": "Maison Asrar Vanilla Aura Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

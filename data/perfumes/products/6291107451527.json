@@ -1,0 +1,80 @@
+{
+  "slug": "6291107451527",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241896063159",
+  "source_parent_product_id": "8241896063159",
+  "source_product_url": "https://habibiperfumes.store/products/6291107451527",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6291107451527/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6291107451527"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.59133.jpg?v=1757886012",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200.jpg?v=1757886012"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Lail Maleki Unisex Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Lail Maleki Unisex Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6291107451527",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241896063159",
+  "parent_product_id": "8241896063159",
+  "description": "Lail Maleki by Lattafa is an oriental floral fragrance launched in 2018. It opens with fruity, spicy, and citrus top notes. The heart is rich with jasmine, gardenia, orchid, and honey. The base provides warmth and depth with amber, caramel, sandalwood, and musk. It’s powerful, sweet, and floral with very good presence.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.99",
+      "compare_at_price": null,
+      "sku": "6291107451527",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6291107451527-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.59133.jpg?v=1757886012",
+      "content_hash": "9ce496ec00ee751da63dadaf8eb5fa6e707fb155",
+      "alt": "Lattafa Lail Maleki Unisex Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291107451527-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200.jpg?v=1757886012",
+      "content_hash": "941dd8e911229b86b59c414439691e3abe2d8a9f",
+      "alt": "Lattafa Lail Maleki Unisex Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "art-of-universe",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241906942135",
+  "source_parent_product_id": "8241906942135",
+  "source_product_url": "https://habibiperfumes.store/products/art-of-universe",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/art-of-universe/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/art-of-universe"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.101314-Copy.jpg?v=1757956168",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/610JOMcHJDL._UF1000_1000_QL80_-Copy.jpg?v=1757956168"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Pride Art of Universe Unisex Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Pride Art of Universe Unisex Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241906942135",
+  "parent_product_id": "8241906942135",
+  "description": "Art of Universe by Lattafa is a vibrant fresh-citrus fragrance for those who love energetic and elegant scents. It opens with mandarin, bergamot, mint, and ginger for a zesty burst. The heart blends pear and orange blossom, adding fruity sweetness and floral brightness. The dry down reveals warm woods, amber, cedar, and soft musk, creating a lasting smooth finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.95",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.95",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/art-of-universe-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.101314-Copy.jpg?v=1757956168",
+      "content_hash": "d6a89b0ef82d7cf0acac18be56b9c970a460dd67",
+      "alt": "Lattafa Pride Art of Universe Unisex Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/art-of-universe-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/610JOMcHJDL._UF1000_1000_QL80_-Copy.jpg?v=1757956168",
+      "content_hash": "1456da55c0f7787994a786c581ecf0d54aadcabf",
+      "alt": "Lattafa Pride Art of Universe Unisex Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

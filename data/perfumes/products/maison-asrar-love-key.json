@@ -1,0 +1,108 @@
+{
+  "slug": "maison-asrar-love-key",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8562682921143",
+  "source_parent_product_id": "8562682921143",
+  "source_product_url": "https://habibiperfumes.store/products/maison-asrar-love-key",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/maison-asrar-love-key/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/maison-asrar-love-key"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MaisonAsrarLoveKey3.webp?v=1778093016",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MaisonAsrarLoveKey1.webp?v=1778093017",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MaisonAsrarLoveKey.jpg?v=1778093017",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MaisonAsrarLoveKey2.webp?v=1778093017",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MaisonAsrarLoveKey5.jpg?v=1778093074",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MaisonAsrarLoveKey4.webp?v=1778093016"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Maison Asrar Love Key Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Maison Asrar Love Key Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Maison Asrar",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8562682921143",
+  "parent_product_id": "8562682921143",
+  "description": "Love Key is a soft and romantic fragrance that blends juicy fruits with delicate florals and creamy vanilla sweetness. The scent feels feminine, elegant, and playful while maintaining a smooth and comforting gourmand warmth. The opening introduces fruity accords with sparkling citrus nuances, creating a bright and uplifting first impression that feels sweet and inviting. The heart develops into jasmine, rose, and white florals, adding a graceful feminine softness with floral elegance and depth. The base settles into vanilla, musk, and amber, leaving a warm, creamy, and long-lasting trail that feels cozy, smooth, and addictive. Love Key is perfect for women who enjoy fruity floral fragrances with soft gourmand sweetness and a clean musky finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/maison-asrar-love-key-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MaisonAsrarLoveKey3.webp?v=1778093016",
+      "content_hash": "4637e6a9cb3f621679500613a2c72b26d3c278ce",
+      "alt": "Maison Asrar Love Key Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-love-key-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MaisonAsrarLoveKey1.webp?v=1778093017",
+      "content_hash": "3fbb90dea6383f329b1fe209406b319dc60edc24",
+      "alt": "Maison Asrar Love Key Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-love-key-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MaisonAsrarLoveKey.jpg?v=1778093017",
+      "content_hash": "e5f28e4991e96797fdd14a4e6a687672655db2b4",
+      "alt": "Maison Asrar Love Key Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-love-key-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MaisonAsrarLoveKey2.webp?v=1778093017",
+      "content_hash": "ae747580ba1870ebcbb746bf3ec23e27a6e33d96",
+      "alt": "Maison Asrar Love Key Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-love-key-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MaisonAsrarLoveKey5.jpg?v=1778093074",
+      "content_hash": "23b79d2c6def80afd4a97d1cc4fe1f17ed25af45",
+      "alt": "Maison Asrar Love Key Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-love-key-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MaisonAsrarLoveKey4.webp?v=1778093016",
+      "content_hash": "414960c6901d2508856e09302a3de37d86708c14",
+      "alt": "Maison Asrar Love Key Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

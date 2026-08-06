@@ -1,0 +1,73 @@
+{
+  "slug": "riiffs-seasons-drift-seasons-rise-bundle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8517636030647",
+  "source_parent_product_id": "8517636030647",
+  "source_product_url": "https://habibiperfumes.store/products/riiffs-seasons-drift-seasons-rise-bundle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/riiffs-seasons-drift-seasons-rise-bundle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/riiffs-seasons-drift-seasons-rise-bundle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_22.png?v=1774494464"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Riiffs Seasons Drift & Seasons Rise Bundle",
+  "english_product_name": "Riiffs Seasons Drift & Seasons Rise Bundle",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": "69c6c667c8ea5",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8517636030647",
+  "parent_product_id": "8517636030647",
+  "description": "The Riiffs Seasons Drift & Seasons Rise Bundle brings together two contrasting yet complementary fragrances that capture both freshness and warmth for a complete all-day rotation. Seasons Drift delivers a fresh, airy, and slightly aquatic profile that feels clean, uplifting, and easy to wear throughout the day. Seasons Rise introduces a warmer and more energetic composition, blending subtle sweetness with smooth depth for a more vibrant and confident feel. Together, this bundle offers versatility across different moods and environments, making it perfect for transitioning from daytime freshness to a slightly warmer evening presence. Ideal for those who want a balanced fragrance duo that works across multiple seasons and occasions.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "49.50",
+      "compare_at_price": "99.99",
+      "sku": "69c6c667c8ea5",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "49.50",
+  "compare_at_price": "99.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/riiffs-seasons-drift-seasons-rise-bundle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitleddesign_22.png?v=1774494464",
+      "content_hash": "9bc3576b2558da2879ea5b544a311e8feb393e83",
+      "alt": "Riiffs Seasons Drift & Seasons Rise Bundle"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

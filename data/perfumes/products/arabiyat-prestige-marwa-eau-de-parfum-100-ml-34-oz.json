@@ -1,0 +1,101 @@
+{
+  "slug": "arabiyat-prestige-marwa-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8301200507063",
+  "source_parent_product_id": "8301200507063",
+  "source_product_url": "https://habibiperfumes.store/products/arabiyat-prestige-marwa-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/arabiyat-prestige-marwa-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/arabiyat-prestige-marwa-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Marwa_Clear.jpg?v=1778381401",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeMarwa1.jpg?v=1764653881",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rn-image_picker_lib_temp_20f068a6-e626-4c8d-9a4a-d7ac48b3df3e.jpg?v=1778357219",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rn-image_picker_lib_temp_63697128-d7fb-46cc-9267-339b7a1c9540.png?v=1778357351",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/marwa5.jpg?v=1778381305"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige Marwa Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Arabiyat Prestige Marwa Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": "ARABIYAT-PRESTIGE-MARWA-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8301200507063",
+  "parent_product_id": "8301200507063",
+  "description": "Arabiyat Prestige Marwa is a 100 ml / 3.4 oz Eau de Parfum for unisex wear. Official notes list bergamot, petit grain, and ginger; geranium, tea, and incense; then guaiac wood, ambroxan, and musk.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.95",
+      "compare_at_price": "59.99",
+      "sku": "ARABIYAT-PRESTIGE-MARWA-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.95",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-marwa-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Marwa_Clear.jpg?v=1778381401",
+      "content_hash": "4693b5ad8c88708c019ac0179b6f8b4845ab23c4",
+      "alt": "Arabiyat Prestige Marwa Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-marwa-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeMarwa1.jpg?v=1764653881",
+      "content_hash": "1b5e1a6b007a60069df83b6ae040fd0eaffc8cdd",
+      "alt": "Arabiyat Prestige Marwa Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-marwa-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rn-image_picker_lib_temp_20f068a6-e626-4c8d-9a4a-d7ac48b3df3e.jpg?v=1778357219",
+      "content_hash": "1342c4113e46b69131b5b71e75c46e6c7083d251",
+      "alt": "Arabiyat Prestige Marwa Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-marwa-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rn-image_picker_lib_temp_63697128-d7fb-46cc-9267-339b7a1c9540.png?v=1778357351",
+      "content_hash": "48881cacb44595f94eefde746f1a11d1df7af752",
+      "alt": "Arabiyat Prestige Marwa Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-marwa-eau-de-parfum-100-ml-34-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/marwa5.jpg?v=1778381305",
+      "content_hash": "ea191e3dba17799828027f3533a4eb86fbc8b52a",
+      "alt": "Arabiyat Prestige Marwa Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

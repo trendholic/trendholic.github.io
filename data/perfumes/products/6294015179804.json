@@ -1,0 +1,71 @@
+{
+  "slug": "6294015179804",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": null,
+  "source_category_original": null,
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "8241907073207",
+  "source_parent_product_id": "8241907073207",
+  "source_product_url": "https://habibiperfumes.store/products/6294015179804",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6294015179804/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6294015179804"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ARMAF-CLUB-DE-NUIT-DISCOVERY-TRAVEL-SET-FOR-UNISEX-1.webp?v=1757876917",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/armaf-mini-set-gift-set-fragrances-6294015179804.jpg?v=1757876917"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club Discovery 10-Piece Men’s Mini Gift Set",
+  "english_product_name": "Armaf Club Discovery 10-Piece Men’s Mini Gift Set",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "6294015179804",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241907073207",
+  "parent_product_id": "8241907073207",
+  "description": "This Armaf Club Discovery Mini Set includes 10 travel-ready 10 ml bottles showcasing Discover the iconic style of Armaf with the Club Discovery 12-Piece Mini Gift Set. This set features 10 travel-size 10 ml fragrances from the Club de Nuit line, plus 2 sleek atomizers — perfect for sampling on the go or rotating daily. Includes bold, fresh, spicy, and woody scents like Club de Nuit Intense Man, Sillage, Urban Man Elixir, Iconic, among others. A versatile and sophisticated set ideal for gifting or building your signature scent collection.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "59.99",
+      "compare_at_price": "79.00",
+      "sku": "6294015179804",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "59.99",
+  "compare_at_price": "79.00",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6294015179804-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ARMAF-CLUB-DE-NUIT-DISCOVERY-TRAVEL-SET-FOR-UNISEX-1.webp?v=1757876917",
+      "content_hash": "50749a68dc3703d77edb0e24a547cf27aff1208a",
+      "alt": "Armaf Club Discovery 10-Piece Men’s Mini Gift Set"
+    },
+    {
+      "src": "/data/perfumes/images/6294015179804-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/armaf-mini-set-gift-set-fragrances-6294015179804.jpg?v=1757876917",
+      "content_hash": "8cb7b483062fd780596e746664cffb1e211ba9be",
+      "alt": "Armaf Club Discovery 10-Piece Men’s Mini Gift Set"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

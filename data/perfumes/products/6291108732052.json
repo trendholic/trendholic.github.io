@@ -1,0 +1,94 @@
+{
+  "slug": "6291108732052",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241906712759",
+  "source_parent_product_id": "8241906712759",
+  "source_product_url": "https://habibiperfumes.store/products/6291108732052",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6291108732052/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6291108732052"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.97011.jpg?v=1757975589",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/410ZFtqBqWL._UF1000_1000_QL80__1.jpg?v=1757975589",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fit.120985.jpg?v=1757975589",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_6.jpg?v=1757975589"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Imperial Blue Riiffs Men’s Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Imperial Blue Riiffs Men’s Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": "6291108732052",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241906712759",
+  "parent_product_id": "8241906712759",
+  "description": "Imperial Blue by Riiffs is a fresh, spicy-woody fragrance designed for men. It opens with crisp top notes of orange blossom, apple, and mint. The heart blends aromatic herbs and florals—clary sage, geranium, and Ambrofix™. It dries down into a rich base of frankincense, sandalwood, and tonka bean, adding warmth and depth. The result is bold yet smooth, perfect for evening wear or when you want to leave a confident impression.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": null,
+      "sku": "6291108732052",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6291108732052-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.97011.jpg?v=1757975589",
+      "content_hash": "6e36315047d9d4005126e84058aabe9f6cc709d8",
+      "alt": "Imperial Blue Riiffs Men’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108732052-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/410ZFtqBqWL._UF1000_1000_QL80__1.jpg?v=1757975589",
+      "content_hash": "dc7df3fbad2fc69cf425f724b60dabe0dcf2a5e5",
+      "alt": "Imperial Blue Riiffs Men’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108732052-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/fit.120985.jpg?v=1757975589",
+      "content_hash": "0566d3ed5b676dfa06ad23e1212f786091e35932",
+      "alt": "Imperial Blue Riiffs Men’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108732052-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_6.jpg?v=1757975589",
+      "content_hash": "08b299a29d2b6d757ad9229005d2cfee86815824",
+      "alt": "Imperial Blue Riiffs Men’s Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

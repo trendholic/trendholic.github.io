@@ -1,0 +1,87 @@
+{
+  "slug": "rayhaan-cordava",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8368320676023",
+  "source_parent_product_id": "8368320676023",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-cordava",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-cordava/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-cordava"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanCordava.jpg?v=1769367690",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanCordova1.jpg?v=1769367689",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanCordova2.webp?v=1769367689"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Cordava Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Cordava Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8368320676023",
+  "parent_product_id": "8368320676023",
+  "description": "Rayhaan Cordava is a bold, warm fragrance built around spices, woods, and smooth amber, delivering a confident and masculine presence with a refined edge. The opening introduces warm spices and subtle sweetness, creating an immediate sense of richness and depth. The heart develops into woody and aromatic notes, adding structure and masculinity without becoming heavy. In the base, amber, musk, and smooth woods provide a long-lasting, warm finish that feels polished and powerful. Cordava is ideal for men who enjoy warm, spicy, masculine scents that work especially well in the evening and cooler weather.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-cordava-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanCordava.jpg?v=1769367690",
+      "content_hash": "a81dc6f64a802dbe22147fd6769b45b1f37589df",
+      "alt": "Rayhaan Cordava Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-cordava-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanCordova1.jpg?v=1769367689",
+      "content_hash": "779ce2c78eb8396b517e11adc49af8ff915429f1",
+      "alt": "Rayhaan Cordava Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-cordava-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanCordova2.webp?v=1769367689",
+      "content_hash": "b1b6a5b14529bbf46a98fae1a7d077a7dbd8910f",
+      "alt": "Rayhaan Cordava Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

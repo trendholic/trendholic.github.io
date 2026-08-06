@@ -1,0 +1,94 @@
+{
+  "slug": "6291108738115",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241902616759",
+  "source_parent_product_id": "8241902616759",
+  "source_product_url": "https://habibiperfumes.store/products/6291108738115",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/6291108738115/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/6291108738115"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/image_1024x1024_2x_19e0a52b-c061-47d7-9abe-291eb21e72e0.webp?v=1764095702",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2_feb18755-98a4-4562-b46f-9ec96ccd6456.webp?v=1764095702",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG-20230221-WA0006.webp?v=1764095702",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Eternal-Oud-by-Lattafa-Perfume_1800x_8a5b7820-926f-4ed1-95f0-f40f72eab9dc.webp?v=1764095702"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Eternal Oud Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Eternal Oud Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6291108738115",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241902616759",
+  "parent_product_id": "8241902616759",
+  "description": "Eternal Oud by Lattafa opens with rich top notes of plum and grapefruit, offering a unique mix of dark fruit and bright citrus. In the heart, heliotrope and orchid unfold, adding a soft floral layer that gently balances the bold opening. The base wraps the scent in creamy vanilla, warm amber, labdanum, benzoin, tonka bean and smooth oud — delivering a deep, lasting finish with luxurious depth and sophistication. Overall, this fragrance is a modern oriental woody blend with a fruity opening and a rich, resinous, comforting dry-down.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "39.99",
+      "sku": "6291108738115",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/6291108738115-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/image_1024x1024_2x_19e0a52b-c061-47d7-9abe-291eb21e72e0.webp?v=1764095702",
+      "content_hash": "3627de74fb86a1def53bd2c906bccd25b8c46352",
+      "alt": "Lattafa Eternal Oud Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108738115-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2_feb18755-98a4-4562-b46f-9ec96ccd6456.webp?v=1764095702",
+      "content_hash": "48ec0163cdffa74c62ca8cbee339db636b21adce",
+      "alt": "Lattafa Eternal Oud Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108738115-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG-20230221-WA0006.webp?v=1764095702",
+      "content_hash": "764f3ce0ee818158292a0d61189cc67f612d7344",
+      "alt": "Lattafa Eternal Oud Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/6291108738115-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Eternal-Oud-by-Lattafa-Perfume_1800x_8a5b7820-926f-4ed1-95f0-f40f72eab9dc.webp?v=1764095702",
+      "content_hash": "62975d70f02fae10efcf52021f073a9aa0c0a9ca",
+      "alt": "Lattafa Eternal Oud Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

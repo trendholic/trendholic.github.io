@@ -1,0 +1,80 @@
+{
+  "slug": "odyssey-aoud-by-armaf-3-4",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8216951029943",
+  "source_parent_product_id": "8216951029943",
+  "source_product_url": "https://habibiperfumes.store/products/odyssey-aoud-by-armaf-3-4",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/odyssey-aoud-by-armaf-3-4/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/odyssey-aoud-by-armaf-3-4"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_8.webp?v=1755885528",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_9.webp?v=1755885528"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Odyssey Aoud Edition Men’s Eau de Parfum 3.4 oz",
+  "english_product_name": "Armaf Odyssey Aoud Edition Men’s Eau de Parfum 3.4 oz",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "6294015166149",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216951029943",
+  "parent_product_id": "8216951029943",
+  "description": "Armaf Odyssey Aoud is a woody-spicy fragrance for men introduced in 2023. It opens with rich spicy and aromatic top notes of saffron, lavender, and nutmeg; the heart features deep oud and woody accords; the finish provides warmth and longevity with base notes of patchouli, musk, and ambroxan. Bold, exotic, and ideal for evenings or special occasions. F",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": "6294015166149",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/odyssey-aoud-by-armaf-3-4-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_8.webp?v=1755885528",
+      "content_hash": "f2039753a69124e9aef4d3cfffc4082811d50437",
+      "alt": "Armaf Odyssey Aoud Edition Men’s Eau de Parfum 3.4 oz"
+    },
+    {
+      "src": "/data/perfumes/images/odyssey-aoud-by-armaf-3-4-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_9.webp?v=1755885528",
+      "content_hash": "f1fbb7d330e41b3f03a0ba9ae4f5fc486993f59e",
+      "alt": "Armaf Odyssey Aoud Edition Men’s Eau de Parfum 3.4 oz"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

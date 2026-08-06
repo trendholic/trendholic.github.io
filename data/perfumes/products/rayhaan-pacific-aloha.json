@@ -1,0 +1,108 @@
+{
+  "slug": "rayhaan-pacific-aloha",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8621409140919",
+  "source_parent_product_id": "8621409140919",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-pacific-aloha",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-pacific-aloha/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-pacific-aloha"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Pacific_Aloha_Bottle.png?v=1782231123",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Pacific_Aloha_Bottle_And_Box.png?v=1782231138",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Pacific_Aloha_Box.png?v=1782231110",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Pacific_Aloha_4.png?v=1782232008",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Pacific_Aloha_5.png?v=1782232008",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Pacific_Aloha_Bottle_3fab3183-9b60-4caf-8db5-67353bff6666.png?v=1782231998"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Pacific Aloha Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Pacific Aloha Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": "6297001571392",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8621409140919",
+  "parent_product_id": "8621409140919",
+  "description": "Rayhaan Pacific Aloha Eau de Parfum is a tropical unisex fragrance launched in 2026. It opens with blood orange, melon and lemon, followed by candied watermelon and creamy coconut. Marine notes, amberwood and cacao form a smooth, modern base. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.50",
+      "compare_at_price": "49.99",
+      "sku": "6297001571392",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-aloha-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Pacific_Aloha_Bottle.png?v=1782231123",
+      "content_hash": "8884a988d7b35b5915c2220783a9b28ce0fe35f2",
+      "alt": "Rayhaan Pacific Aloha Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-aloha-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Pacific_Aloha_Bottle_And_Box.png?v=1782231138",
+      "content_hash": "60ae91402a05a9b72b6cfc25bd567daaa0635660",
+      "alt": "Rayhaan Pacific Aloha Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-aloha-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Pacific_Aloha_Box.png?v=1782231110",
+      "content_hash": "cdafd7256a22aeb4c1b83121c9207085af4338cd",
+      "alt": "Rayhaan Pacific Aloha Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-aloha-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Pacific_Aloha_4.png?v=1782232008",
+      "content_hash": "471359375700acfc1b6f4d9ac668d1b211e0fc07",
+      "alt": "Rayhaan Pacific Aloha Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-aloha-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Pacific_Aloha_5.png?v=1782232008",
+      "content_hash": "98ea22e8f08e555de59f431f029e27cc7871c766",
+      "alt": "Rayhaan Pacific Aloha Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-aloha-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Pacific_Aloha_Bottle_3fab3183-9b60-4caf-8db5-67353bff6666.png?v=1782231998",
+      "content_hash": "3fa5520ef41d9d36421ab333527ef33a3b5927ca",
+      "alt": "Rayhaan Pacific Aloha Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

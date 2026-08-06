@@ -1,0 +1,101 @@
+{
+  "slug": "french-avenue-nectare-extradose-eau-de-parfum-90-ml-304-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8574169415863",
+  "source_parent_product_id": "8574169415863",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-nectare-extradose-eau-de-parfum-90-ml-304-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-nectare-extradose-eau-de-parfum-90-ml-304-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-nectare-extradose-eau-de-parfum-90-ml-304-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1_11.jpg?v=1778988910",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3_8.jpg?v=1778988910",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2_9.jpg?v=1778988910",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4_8.jpg?v=1778988910",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/5_9.jpg?v=1778988910"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Nectare Extradose Eau de Parfum 90 ml (3.04 oz)",
+  "english_product_name": "French Avenue Nectare Extradose Eau de Parfum 90 ml (3.04 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": "10445",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8574169415863",
+  "parent_product_id": "8574169415863",
+  "description": "French Avenue Nectare Extradose is a 90 ml / 3.04 oz Eau de Parfum. The official French Avenue listing verifies the size as 90 ml and lists a citrus-gourmand profile with bitter orange, ginger, bergamot, and neroli; honey, tuberose, saffron, and orange blossom; then walnut milk, vanilla, and tobacco.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "3.04 oz / 90 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "54.99",
+      "compare_at_price": "64.99",
+      "sku": "10445",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "54.99",
+  "compare_at_price": "64.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-nectare-extradose-eau-de-parfum-90-ml-304-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1_11.jpg?v=1778988910",
+      "content_hash": "545da6fb2e69721f547ee2b09ed6efe304da56bf",
+      "alt": "French Avenue Nectare Extradose Eau de Parfum 90 ml (3.04 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-nectare-extradose-eau-de-parfum-90-ml-304-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3_8.jpg?v=1778988910",
+      "content_hash": "03e99cec5f5b2e05a7098b4f36dd1d3faaddcc22",
+      "alt": "French Avenue Nectare Extradose Eau de Parfum 90 ml (3.04 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-nectare-extradose-eau-de-parfum-90-ml-304-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2_9.jpg?v=1778988910",
+      "content_hash": "07cdae2f387b6abf117b9794764b4e4307d1461b",
+      "alt": "French Avenue Nectare Extradose Eau de Parfum 90 ml (3.04 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-nectare-extradose-eau-de-parfum-90-ml-304-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4_8.jpg?v=1778988910",
+      "content_hash": "3df14e8fdd190361c547ce731ee04c760e3d05df",
+      "alt": "French Avenue Nectare Extradose Eau de Parfum 90 ml (3.04 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-nectare-extradose-eau-de-parfum-90-ml-304-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/5_9.jpg?v=1778988910",
+      "content_hash": "7b771068dd346d939ee33c1c6888c9fe8d9129e6",
+      "alt": "French Avenue Nectare Extradose Eau de Parfum 90 ml (3.04 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

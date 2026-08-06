@@ -1,0 +1,101 @@
+{
+  "slug": "lattafa-pride-london",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8622835728567",
+  "source_parent_product_id": "8622835728567",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-pride-london",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-pride-london/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-pride-london"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LONDON-4.png?v=1782337213",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LONDON-5.png?v=1782337230",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LONDON-1.png?v=1782337280",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LONDON-3.png?v=1782337249",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LONDON-2.png?v=1782337264"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Pride London The City of Contrast Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Pride London The City of Contrast Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa Pride",
+  "sku": "6295157380004",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8622835728567",
+  "parent_product_id": "8622835728567",
+  "description": "Lattafa Pride London The City of Contrast Eau de Parfum is a bright, polished unisex fragrance. It opens with lemon, mandarin heart LMR and pink pepper, followed by ginger, neroli, tuberose and apple. Sandalwood, vanilla and musk create a smooth, warm base. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.95",
+      "compare_at_price": "59.99",
+      "sku": "6295157380004",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.95",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-pride-london-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LONDON-4.png?v=1782337213",
+      "content_hash": "7c07ca0a72883ba93e9c89bb67b1e2b646e12837",
+      "alt": "Lattafa Pride London The City of Contrast Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-pride-london-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LONDON-5.png?v=1782337230",
+      "content_hash": "2d4008a3f3f07c0e6e7d0e35dadfc7b3e0211f5a",
+      "alt": "Lattafa Pride London The City of Contrast Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-pride-london-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LONDON-1.png?v=1782337280",
+      "content_hash": "4af894001730ec5b3b0c091fb775e7f3503153c4",
+      "alt": "Lattafa Pride London The City of Contrast Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-pride-london-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LONDON-3.png?v=1782337249",
+      "content_hash": "c231d577ee2a8b8abd1cf7446ee1e4bb321d0c80",
+      "alt": "Lattafa Pride London The City of Contrast Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-pride-london-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LONDON-2.png?v=1782337264",
+      "content_hash": "865287a601a1f6c142a2ba95fb1787d81b49bfeb",
+      "alt": "Lattafa Pride London The City of Contrast Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

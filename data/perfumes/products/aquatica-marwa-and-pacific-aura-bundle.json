@@ -1,0 +1,73 @@
+{
+  "slug": "aquatica-marwa-and-pacific-aura-bundle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Perfume Bundle",
+  "source_category_original": "Perfume Bundle",
+  "source_categories": [
+    {
+      "name": "Perfume Bundle",
+      "slug": "perfume-bundle",
+      "source_path": "Perfume Bundle",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "perfume-bundle"
+  ],
+  "source_product_id": "8681081438391",
+  "source_parent_product_id": "8681081438391",
+  "source_product_url": "https://habibiperfumes.store/products/aquatica-marwa-and-pacific-aura-bundle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/aquatica-marwa-and-pacific-aura-bundle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/aquatica-marwa-and-pacific-aura-bundle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_68352c3a-f2c5-4670-b93c-d2bfc40c4fc1.png?v=1784662314"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Aquatica, Marwa & Pacific Aura Bundle",
+  "english_product_name": "Aquatica, Marwa & Pacific Aura Bundle",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8681081438391",
+  "parent_product_id": "8681081438391",
+  "description": "Discover Aquatica, Marwa & Pacific Aura Bundle, a curated fragrance set from Habibi Perfumes Miami. Bundle includes Rayhaan Aquatica - 100 ml Arabiyat Prestige Marwa - 100 ml Rayhaan Pacific Aura - 100 ml Each item is a full-size fragrance. Products are packaged together as one bundle listing.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "118.50",
+      "compare_at_price": "149.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "118.50",
+  "compare_at_price": "149.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/aquatica-marwa-and-pacific-aura-bundle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_68352c3a-f2c5-4670-b93c-d2bfc40c4fc1.png?v=1784662314",
+      "content_hash": "fa03b43871b15fe62c32ddb61fd77d5912fe5db8",
+      "alt": "Aquatica, Marwa & Pacific Aura Bundle"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "armaf-the-lion-s-club-monarque",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8548269457591",
+  "source_parent_product_id": "8548269457591",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-the-lion-s-club-monarque",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-the-lion-s-club-monarque/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-the-lion-s-club-monarque"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafTheLion_sClubMonarque.jpg?v=1776903928",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafTheLion_sClubMonarque2.webp?v=1776903928",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafTheLion_sClubMonarque3.webp?v=1776903928"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf The Lion’s Club Monarque Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf The Lion’s Club Monarque Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8548269457591",
+  "parent_product_id": "8548269457591",
+  "description": "The Lion’s Club Monarque is a bold and regal fragrance that blends warm spices, rich woods, and smooth amber into a powerful masculine composition. The scent feels confident, luxurious, and commanding, designed for strong presence and refined style. The opening introduces aromatic spices and subtle freshness that create an intense and captivating first impression. The heart develops into smooth woody accords and warm aromatic notes, adding depth and masculine structure. The base settles into amber, musk, and rich woods, leaving a long-lasting trail that feels warm, bold, and sophisticated. Monarque is perfect for men who enjoy powerful fragrances with spicy warmth and deep woody character.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-the-lion-s-club-monarque-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafTheLion_sClubMonarque.jpg?v=1776903928",
+      "content_hash": "2f85926e6b5a3491f32a18560c3b6cee55ecd6fb",
+      "alt": "Armaf The Lion’s Club Monarque Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-the-lion-s-club-monarque-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafTheLion_sClubMonarque2.webp?v=1776903928",
+      "content_hash": "14d83b69341e173e408b4fb3eb9998e2a0edfc1c",
+      "alt": "Armaf The Lion’s Club Monarque Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-the-lion-s-club-monarque-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafTheLion_sClubMonarque3.webp?v=1776903928",
+      "content_hash": "e3cffa8c611bbfe8e75e81f40fcd28974dadf664",
+      "alt": "Armaf The Lion’s Club Monarque Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

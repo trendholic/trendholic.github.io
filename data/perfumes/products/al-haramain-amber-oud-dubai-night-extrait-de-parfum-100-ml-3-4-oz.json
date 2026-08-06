@@ -1,0 +1,101 @@
+{
+  "slug": "al-haramain-amber-oud-dubai-night-extrait-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8270510522551",
+  "source_parent_product_id": "8270510522551",
+  "source_product_url": "https://habibiperfumes.store/products/al-haramain-amber-oud-dubai-night-extrait-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/al-haramain-amber-oud-dubai-night-extrait-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/al-haramain-amber-oud-dubai-night-extrait-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Dubai-Night-Post.webp?v=1761517157",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ahp1484_1.jpg?v=1761517157",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.96481.jpg?v=1761517157",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG-5321.webp?v=1761517157"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Al Haramain Amber Oud Dubai Night Extrait de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Al Haramain Amber Oud Dubai Night Extrait de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Al Haramain",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270510522551",
+  "parent_product_id": "8270510522551",
+  "description": "Amber Oud Dubai Night opens with vibrant top notes of bergamot, saffron and elemi resin, giving a fresh-yet-spicy burst. The heart reveals agarwood (oud), Bulgarian rose and lily of the valley, creating a rich, luxurious core. The base evolves into white musk, tonka bean, amber and oakmoss, delivering a warm, deep finish with strong projection and lasting power.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "100ml / 3.4oz",
+      "price": "51.99",
+      "compare_at_price": "59.99",
+      "sku": null,
+      "available": true
+    },
+    {
+      "title": "75ml / 2.5oz",
+      "price": "44.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "51.99",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/al-haramain-amber-oud-dubai-night-extrait-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Dubai-Night-Post.webp?v=1761517157",
+      "content_hash": "18f7bc664b344b497b05754dad93aefa352af532",
+      "alt": "Al Haramain Amber Oud Dubai Night Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/al-haramain-amber-oud-dubai-night-extrait-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ahp1484_1.jpg?v=1761517157",
+      "content_hash": "b4aa08ca5c5875cd05d7ef67714b30a91703a165",
+      "alt": "Al Haramain Amber Oud Dubai Night Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/al-haramain-amber-oud-dubai-night-extrait-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.96481.jpg?v=1761517157",
+      "content_hash": "94ef4f5e602af91c6d0774afbabdcea477ae0667",
+      "alt": "Al Haramain Amber Oud Dubai Night Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/al-haramain-amber-oud-dubai-night-extrait-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/IMG-5321.webp?v=1761517157",
+      "content_hash": "3eb07a7560a6f15f4a291dd63808c3347125cd1e",
+      "alt": "Al Haramain Amber Oud Dubai Night Extrait de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

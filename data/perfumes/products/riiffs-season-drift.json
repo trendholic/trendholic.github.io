@@ -1,0 +1,87 @@
+{
+  "slug": "riiffs-season-drift",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8490370695351",
+  "source_parent_product_id": "8490370695351",
+  "source_product_url": "https://habibiperfumes.store/products/riiffs-season-drift",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/riiffs-season-drift/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/riiffs-season-drift"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Riiffs_Season_Drift_3.jpg?v=1782846616",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsSeasonsDrift1.jpg?v=1772989362",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsSeasonsDrift2.webp?v=1772989362"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Riiffs Seasons Drift Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Riiffs Seasons Drift Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490370695351",
+  "parent_product_id": "8490370695351",
+  "description": "Seasons Drift is a fresh and elegant fragrance that blends bright aromatics with soft woods and smooth amber warmth. The scent captures the feeling of changing seasons, balancing freshness with comforting depth. The opening introduces fresh citrus and aromatic notes that create a crisp and uplifting first impression. The heart develops into soft floral and herbal accords that add smooth elegance and airy freshness. The base settles into amber, musk, and warm woods, leaving a clean and refined trail that feels modern and long-lasting. Season Drift is ideal for those who enjoy fresh fragrances with a smooth woody backbone that works effortlessly for daily wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/riiffs-season-drift-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Riiffs_Season_Drift_3.jpg?v=1782846616",
+      "content_hash": "05b12bd8445215da9dd7a312827cf288cb5d8da1",
+      "alt": "Riiffs Seasons Drift Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-season-drift-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsSeasonsDrift1.jpg?v=1772989362",
+      "content_hash": "7add2a9c0aede17ab5668d915514f632059be70a",
+      "alt": "Riiffs Seasons Drift Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-season-drift-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RiiffsSeasonsDrift2.webp?v=1772989362",
+      "content_hash": "238947aec32947683a8551c4cff07dc502d5e39e",
+      "alt": "Riiffs Seasons Drift Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

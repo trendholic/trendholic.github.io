@@ -1,0 +1,87 @@
+{
+  "slug": "michael-malul-ginger-mist-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8490354376887",
+  "source_parent_product_id": "8490354376887",
+  "source_product_url": "https://habibiperfumes.store/products/michael-malul-ginger-mist-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/michael-malul-ginger-mist-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/michael-malul-ginger-mist-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulGinger_Mist4.webp?v=1772986340",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulGinger_Mist2.jpg?v=1772986341",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulGinger_Mist1.jpg?v=1772986341"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Michael Malul Ginger + Mist Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Michael Malul Ginger + Mist Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Michael Malul",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490354376887",
+  "parent_product_id": "8490354376887",
+  "description": "Ginger + Mist is a refreshing and energizing fragrance that blends sparkling citrus with vibrant ginger and soft aquatic freshness. The scent feels bright, modern, and effortlessly clean, creating a light yet sophisticated profile. The opening introduces crisp citrus and fresh ginger, delivering an invigorating burst of brightness and spice. The heart reveals aromatic herbs and aquatic freshness that add clarity and airy elegance. The base settles into soft woods and musk, leaving a clean, smooth trail that feels refreshing and long-lasting. Ginger + Mist is perfect for those who enjoy bright, uplifting fragrances with a crisp citrus-spice character.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "129.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "129.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/michael-malul-ginger-mist-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulGinger_Mist4.webp?v=1772986340",
+      "content_hash": "df1d96d2f1d0a3c0c6984963ccb305526b098185",
+      "alt": "Michael Malul Ginger + Mist Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-ginger-mist-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulGinger_Mist2.jpg?v=1772986341",
+      "content_hash": "138ae75198f4d219f66e14926d24e9c0474a0ad5",
+      "alt": "Michael Malul Ginger + Mist Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-ginger-mist-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulGinger_Mist1.jpg?v=1772986341",
+      "content_hash": "0e692d7d9ef939c97a8466fba930a1507aba6199",
+      "alt": "Michael Malul Ginger + Mist Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

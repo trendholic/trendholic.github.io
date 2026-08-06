@@ -1,0 +1,94 @@
+{
+  "slug": "rayhaan-pacific-for-men",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8297576956087",
+  "source_parent_product_id": "8297576956087",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-pacific-for-men",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-pacific-for-men/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-pacific-for-men"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanMen_sPacificEDP.jpg?v=1764256078",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Men_s_Pacific_EDP_4.jpg?v=1764256161",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanMen_sPacificEDP3.webp?v=1764256078",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Men_s_Pacific_EDP_2.jpg?v=1764256120"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Pacific for Men Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Pacific for Men Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8297576956087",
+  "parent_product_id": "8297576956087",
+  "description": "Pacific for Men by Rayhaan is a fresh, clean, ocean-inspired fragrance crafted for a confident, modern masculine presence. It opens with a cooling wave of citrus and aquatic freshness, delivering a bright and energizing first impression. The heart adds aromatic herbs and clean florals that bring balance and structure, keeping the scent crisp without turning sharp. The base finishes smooth with soft woods and long-lasting musk, leaving a clean, fresh skin-like trail that lingers all day. This is a perfect fit for customers who enjoy blue-fresh colognes with a refreshing oceanic identity and strong all-day wearability.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "59.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-for-men-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanMen_sPacificEDP.jpg?v=1764256078",
+      "content_hash": "d72c5cce0e6762d1e4f79cea3b4d8ee090ae6d0d",
+      "alt": "Rayhaan Pacific for Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-for-men-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Men_s_Pacific_EDP_4.jpg?v=1764256161",
+      "content_hash": "b8383dae029ecbf8e78dbb382f7d98b2886383b4",
+      "alt": "Rayhaan Pacific for Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-for-men-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanMen_sPacificEDP3.webp?v=1764256078",
+      "content_hash": "9020b91ea316a2bddc1950ee8895848b8731e424",
+      "alt": "Rayhaan Pacific for Men Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-pacific-for-men-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Rayhaan_Men_s_Pacific_EDP_2.jpg?v=1764256120",
+      "content_hash": "5e0764f0bbbc4c733c9d8690c19202db14b49705",
+      "alt": "Rayhaan Pacific for Men Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

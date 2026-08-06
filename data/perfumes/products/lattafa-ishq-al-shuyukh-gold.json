@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-ishq-al-shuyukh-gold",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8505670107319",
+  "source_parent_product_id": "8505670107319",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-ishq-al-shuyukh-gold",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-ishq-al-shuyukh-gold/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-ishq-al-shuyukh-gold"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaIshqAlShuyukh.png?v=1773713067",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaIshqAlShuyukh2.webp?v=1773713066",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaIshqAlShuyukh3.jpg?v=1773713066"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Ishq Al Shuyukh Gold Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Ishq Al Shuyukh Gold Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8505670107319",
+  "parent_product_id": "8505670107319",
+  "description": "Ishq Al Shuyukh Gold is a rich and luxurious gourmand fragrance that blends caramel sweetness with creamy vanilla and warm amber depth. The scent is smooth, indulgent, and elegant, delivering a dessert-like warmth with a refined Middle Eastern touch. The opening introduces sweet caramel and sugary notes, creating a warm and inviting first impression. The heart develops into creamy vanilla and soft gourmand accords, adding richness and a smooth, comforting sweetness. The base settles into amber, musk, and woody notes, leaving a long-lasting, warm, and slightly resinous trail. Ishq Al Shuyukh Gold is perfect for those who enjoy sweet caramel vanilla fragrances with a warm amber and musky finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-ishq-al-shuyukh-gold-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaIshqAlShuyukh.png?v=1773713067",
+      "content_hash": "ac3196c3cbd4352eac11fb9a646ea1e73fed4c42",
+      "alt": "Lattafa Ishq Al Shuyukh Gold Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-ishq-al-shuyukh-gold-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaIshqAlShuyukh2.webp?v=1773713066",
+      "content_hash": "e7982a6142371c2806a91557983b00e56b0a7732",
+      "alt": "Lattafa Ishq Al Shuyukh Gold Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-ishq-al-shuyukh-gold-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaIshqAlShuyukh3.jpg?v=1773713066",
+      "content_hash": "ccee1be7e336650fbe4224e6a2bc35c760aca944",
+      "alt": "Lattafa Ishq Al Shuyukh Gold Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

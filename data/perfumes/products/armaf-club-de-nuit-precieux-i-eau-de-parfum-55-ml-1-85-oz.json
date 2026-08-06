@@ -1,0 +1,87 @@
+{
+  "slug": "armaf-club-de-nuit-precieux-i-eau-de-parfum-55-ml-1-85-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8314052673719",
+  "source_parent_product_id": "8314052673719",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-club-de-nuit-precieux-i-eau-de-parfum-55-ml-1-85-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-club-de-nuit-precieux-i-eau-de-parfum-55-ml-1-85-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-club-de-nuit-precieux-i-eau-de-parfum-55-ml-1-85-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafClubdeNuitPrecieuxI.webp?v=1765943331",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafClubdeNuitPrecieuxI2.jpg?v=1765943331",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafClubdeNuitPrecieuxI3.webp?v=1765943331"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club de Nuit Precieux I Eau de Parfum 55 ml (1.85 oz)",
+  "english_product_name": "Armaf Club de Nuit Precieux I Eau de Parfum 55 ml (1.85 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8314052673719",
+  "parent_product_id": "8314052673719",
+  "description": "Club de Nuit Precieux I by Armaf is a refined, elegant, woody-amber fragrance designed as a premium, upscale evolution of the Club de Nuit DNA. It opens with bright citrus freshness, smooth fruity nuances, and refined aromatic sparkle, delivering a polished and luxurious first impression. The heart introduces soft florals, subtle spices, and clean woods, adding depth while maintaining a smooth, modern masculine profile. The base settles into amber, musk, patchouli, and warm woods, creating a long-lasting, sophisticated trail that feels elegant, clean, and confident. This fragrance is ideal for customers who want a more luxurious, smoother, less aggressive Club de Nuit experience with a classy, premium feel.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "1.85 oz / 55 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "54.99",
+      "compare_at_price": "69.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "54.99",
+  "compare_at_price": "69.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-precieux-i-eau-de-parfum-55-ml-1-85-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafClubdeNuitPrecieuxI.webp?v=1765943331",
+      "content_hash": "b6b681969653f9bf800265c8044a0cc7e14d16b7",
+      "alt": "Armaf Club de Nuit Precieux I Eau de Parfum 55 ml (1.85 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-precieux-i-eau-de-parfum-55-ml-1-85-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafClubdeNuitPrecieuxI2.jpg?v=1765943331",
+      "content_hash": "d92a25103eac8bb8f89b3e5d317b6b59159b7220",
+      "alt": "Armaf Club de Nuit Precieux I Eau de Parfum 55 ml (1.85 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-precieux-i-eau-de-parfum-55-ml-1-85-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafClubdeNuitPrecieuxI3.webp?v=1765943331",
+      "content_hash": "0659299749148afa42b6fec0562adce72a0d3736",
+      "alt": "Armaf Club de Nuit Precieux I Eau de Parfum 55 ml (1.85 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

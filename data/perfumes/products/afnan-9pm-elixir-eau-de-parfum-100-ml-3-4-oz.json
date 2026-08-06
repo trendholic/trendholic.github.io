@@ -1,0 +1,87 @@
+{
+  "slug": "afnan-9pm-elixir-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8301799604407",
+  "source_parent_product_id": "8301799604407",
+  "source_product_url": "https://habibiperfumes.store/products/afnan-9pm-elixir-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/afnan-9pm-elixir-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/afnan-9pm-elixir-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Afnan9PMElixir.jpg?v=1764685376",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Afnan9PMElixir2.jpg?v=1764685376",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Afnan9PMElixir3.webp?v=1764685376"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Afnan 9PM Elixir Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Afnan 9PM Elixir Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Afnan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8301799604407",
+  "parent_product_id": "8301799604407",
+  "description": "9PM Elixir by Afnan is a rich nighttime fragrance built for boldness — a blend of spicy freshness, warm woods, and sensual amber-musk depth. It opens with fresh spice and crisp citrus brightness, giving a confident first spray that stands out. The heart layers aromatic spices with smooth woods and subtle sweet undertones for a refined yet modern tone. The base dries down into warm amber, deep musk, and creamy woods — giving a long-lasting trail that’s ideal for evenings, special events, or nights out. This scent is perfect for men or anyone who wants a strong, masculine, warm-woody amber signature with good longevity and projection.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/afnan-9pm-elixir-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Afnan9PMElixir.jpg?v=1764685376",
+      "content_hash": "12c9b119cf3ed3a87bc3f975ac44e3517239f1a0",
+      "alt": "Afnan 9PM Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/afnan-9pm-elixir-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Afnan9PMElixir2.jpg?v=1764685376",
+      "content_hash": "3da88c8b956738e1aa7254c5209d45d501ca648a",
+      "alt": "Afnan 9PM Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/afnan-9pm-elixir-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Afnan9PMElixir3.webp?v=1764685376",
+      "content_hash": "02a37102e644ea7c04ee435017904f88cc76ca13",
+      "alt": "Afnan 9PM Elixir Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

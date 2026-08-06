@@ -1,0 +1,87 @@
+{
+  "slug": "michael-malul-joie-de-vie-blush-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8490342777015",
+  "source_parent_product_id": "8490342777015",
+  "source_product_url": "https://habibiperfumes.store/products/michael-malul-joie-de-vie-blush-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/michael-malul-joie-de-vie-blush-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/michael-malul-joie-de-vie-blush-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJoieDeVieBlush3.avif?v=1772984553",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJoieDeVieBlush1.jpg?v=1772984552",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJoieDeVieBlush2.jpg?v=1772984552"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Michael Malul Joie de Vie Blush Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Michael Malul Joie de Vie Blush Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Michael Malul",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490342777015",
+  "parent_product_id": "8490342777015",
+  "description": "Michael Malul Joie de Vie Blush is a vibrant fruity-floral fragrance that captures playful elegance and feminine charm. The scent blends sparkling fruits with delicate florals and soft woods, creating a bright and uplifting fragrance that feels youthful and refined. The opening introduces juicy red berries and citrus accents, delivering a lively sweetness that feels fresh and radiant. The heart reveals soft rose and delicate florals, adding romantic elegance and smooth floral depth. The base settles into musk, amber, and light woods, creating a warm, soft trail that feels clean, feminine, and long-lasting. Joie de Vie Blush is perfect for women who enjoy cheerful fruity florals that feel light, elegant, and effortlessly beautiful.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "139.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "139.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/michael-malul-joie-de-vie-blush-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJoieDeVieBlush3.avif?v=1772984553",
+      "content_hash": "9e1b8d825f2fb219afdf1df95a79418be1ad1d7a",
+      "alt": "Michael Malul Joie de Vie Blush Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-joie-de-vie-blush-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJoieDeVieBlush1.jpg?v=1772984552",
+      "content_hash": "4d102048b0cd140149473149ca0de93659f1eced",
+      "alt": "Michael Malul Joie de Vie Blush Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-joie-de-vie-blush-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJoieDeVieBlush2.jpg?v=1772984552",
+      "content_hash": "f1c4d58c89cf9f9c60f50063149cf6762671a443",
+      "alt": "Michael Malul Joie de Vie Blush Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

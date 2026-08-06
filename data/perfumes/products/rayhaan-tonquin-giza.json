@@ -1,0 +1,101 @@
+{
+  "slug": "rayhaan-tonquin-giza",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8540560752823",
+  "source_parent_product_id": "8540560752823",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-tonquin-giza",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-tonquin-giza/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-tonquin-giza"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanTonquinGiza.jpg?v=1776382096",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanTonquinGiza2.webp?v=1776382096",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanTonquinGiza6.webp?v=1776382135",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanTonquinGiza7.webp?v=1776382122",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanTonquinGiza5.webp?v=1776382096"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Tonquin Giza Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Tonquin Giza Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8540560752823",
+  "parent_product_id": "8540560752823",
+  "description": "Tonquin Giza is a bold and distinctive fragrance that blends rich amber warmth with animalic depth and smooth woody notes. The scent feels intense, luxurious, and slightly exotic, delivering a powerful presence with a refined edge. The opening introduces warm amber and subtle spice, creating a deep and captivating first impression. The heart develops into animalic nuances and soft floral tones, adding complexity and a sensual character. The base settles into woods, musk, and rich resins, leaving a long-lasting trail that feels warm, bold, and unforgettable. Tonquin Giza is ideal for those who enjoy strong, unique fragrances with amber richness and animalic depth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.50",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.50",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-tonquin-giza-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanTonquinGiza.jpg?v=1776382096",
+      "content_hash": "c6fcfc54d01dc24605804896ce310f2b95fda4bc",
+      "alt": "Rayhaan Tonquin Giza Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-tonquin-giza-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanTonquinGiza2.webp?v=1776382096",
+      "content_hash": "f46c36f402afb241ed2a5a8afb860e38a3661740",
+      "alt": "Rayhaan Tonquin Giza Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-tonquin-giza-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanTonquinGiza6.webp?v=1776382135",
+      "content_hash": "2b4d5873841a0ca8ca11274a82b23a5d8f146bcd",
+      "alt": "Rayhaan Tonquin Giza Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-tonquin-giza-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanTonquinGiza7.webp?v=1776382122",
+      "content_hash": "680bd52ae407a137de73bf99a44f5409560c3dc8",
+      "alt": "Rayhaan Tonquin Giza Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-tonquin-giza-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RayhaanTonquinGiza5.webp?v=1776382096",
+      "content_hash": "db9dd23f7877dc408b0d945437c7fa6ef0dca353",
+      "alt": "Rayhaan Tonquin Giza Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

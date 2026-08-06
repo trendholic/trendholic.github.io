@@ -1,0 +1,73 @@
+{
+  "slug": "french-avenue-bundle-vulcan-feu-vulcan-baie",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8400998138039",
+  "source_parent_product_id": "8400998138039",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-bundle-vulcan-feu-vulcan-baie",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-bundle-vulcan-feu-vulcan-baie/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-bundle-vulcan-feu-vulcan-baie"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueBundleVulcanFeuandBaie.jpg?v=1770326749"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue His & Hers Bundle - Vulcan Feu, Vulcan Baie",
+  "english_product_name": "French Avenue His & Hers Bundle - Vulcan Feu, Vulcan Baie",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": "69c1f0a9c4ac1",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8400998138039",
+  "parent_product_id": "8400998138039",
+  "description": "The French Avenue Vulcan Feu & Baie Bundle is a bold contrast set that pairs power and softness, making it ideal for couples or fragrance lovers who enjoy switching moods. Vulcan Feu is intense, warm, and masculine-leaning — built around smoky woods, spices, and amber warmth with strong presence and depth. Baie offers a smoother, lighter counterbalance with fruity-floral freshness and soft musky sweetness, creating an elegant and wearable profile. Together, this bundle delivers a fire & elegance experience — commanding when needed, refined when desired.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "64.50",
+      "compare_at_price": "99.99",
+      "sku": "69c1f0a9c4ac1",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "64.50",
+  "compare_at_price": "99.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-bundle-vulcan-feu-vulcan-baie-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueBundleVulcanFeuandBaie.jpg?v=1770326749",
+      "content_hash": "cd6e1f251672e2893be486a49fca52d5f8ce7b42",
+      "alt": "French Avenue His & Hers Bundle - Vulcan Feu, Vulcan Baie"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

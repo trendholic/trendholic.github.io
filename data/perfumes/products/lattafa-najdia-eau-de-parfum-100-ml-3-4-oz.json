@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-najdia-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8505671516343",
+  "source_parent_product_id": "8505671516343",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-najdia-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-najdia-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-najdia-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaNajdia.jpg?v=1781894084",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Najdia.jpg?v=1773713375",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Najdia2.webp?v=1773713375"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Najdia Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Najdia Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8505671516343",
+  "parent_product_id": "8505671516343",
+  "description": "Najdia is a fresh and energetic fragrance that blends bright citrus with aquatic notes and smooth woody undertones. The scent is clean, slightly sweet, and sporty, making it highly versatile for everyday wear. The opening introduces a refreshing burst of citrus and fruity notes with a hint of spice, creating a lively and uplifting first impression. The heart develops into aquatic and aromatic accords, adding a clean, airy, and modern freshness. The base settles into amber, musk, and woody notes, leaving a smooth, slightly warm, and long-lasting trail. Najdia is perfect for those who enjoy fresh aquatic fragrances with a subtle sweetness and a clean woody finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.99",
+      "compare_at_price": "29.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.99",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-najdia-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaNajdia.jpg?v=1781894084",
+      "content_hash": "4ebf9ca3977696e631241170871a9c57766f42bd",
+      "alt": "Lattafa Najdia Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-najdia-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Najdia.jpg?v=1773713375",
+      "content_hash": "7cfc30efe84d08b8b58bf32485766e4d1f432fe9",
+      "alt": "Lattafa Najdia Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-najdia-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Najdia2.webp?v=1773713375",
+      "content_hash": "d848c9b35c8b3cdac610285ab0c9ede59d261e66",
+      "alt": "Lattafa Najdia Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

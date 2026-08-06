@@ -1,0 +1,87 @@
+{
+  "slug": "michael-malul-citizen-jill-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8490352378039",
+  "source_parent_product_id": "8490352378039",
+  "source_product_url": "https://habibiperfumes.store/products/michael-malul-citizen-jill-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/michael-malul-citizen-jill-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/michael-malul-citizen-jill-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulCitizenJill3.jpg?v=1772985997",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulCitizenJill2.jpg?v=1772985997",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulCitizenJill1.jpg?v=1772985997"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Michael Malul Citizen Jill Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Michael Malul Citizen Jill Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Michael Malul",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490352378039",
+  "parent_product_id": "8490352378039",
+  "description": "Citizen Jill is a vibrant and feminine fragrance that blends bright fruits, elegant florals, and warm amber sweetness. The scent delivers a playful yet sophisticated profile that feels modern, confident, and effortlessly stylish. The opening introduces sparkling fruits and citrus brightness that feel lively and uplifting. The heart reveals delicate florals that add elegance and soft feminine depth. The base settles into amber, musk, and creamy woods, creating a warm and smooth trail that feels refined and long-lasting. Citizen Jill is perfect for women who enjoy cheerful fruity-floral fragrances with a soft amber warmth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "119.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "119.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/michael-malul-citizen-jill-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulCitizenJill3.jpg?v=1772985997",
+      "content_hash": "64fbb08e06165f45f69b4edb0ff63fa4dd820c49",
+      "alt": "Michael Malul Citizen Jill Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-citizen-jill-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulCitizenJill2.jpg?v=1772985997",
+      "content_hash": "6eb16ead4241f5a0db7de2350ab3de04bc6b45ea",
+      "alt": "Michael Malul Citizen Jill Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-citizen-jill-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulCitizenJill1.jpg?v=1772985997",
+      "content_hash": "0557f78e1cec86bbf51233613d5a116a0f1912ba",
+      "alt": "Michael Malul Citizen Jill Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

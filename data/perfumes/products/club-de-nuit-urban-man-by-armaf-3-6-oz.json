@@ -1,0 +1,80 @@
+{
+  "slug": "club-de-nuit-urban-man-by-armaf-3-6-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8216653070519",
+  "source_parent_product_id": "8216653070519",
+  "source_product_url": "https://habibiperfumes.store/products/club-de-nuit-urban-man-by-armaf-3-6-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/club-de-nuit-urban-man-by-armaf-3-6-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/club-de-nuit-urban-man-by-armaf-3-6-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_1.webp?v=1755805547",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.47394.2x.avif?v=1755805628"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club de Nuit Urban Man Eau de Parfum 3.6 oz",
+  "english_product_name": "Armaf Club de Nuit Urban Man Eau de Parfum 3.6 oz",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "6294015102642",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216653070519",
+  "parent_product_id": "8216653070519",
+  "description": "Armaf Club de Nuit Urban Man is a dynamic fragrance that balances freshness, spice, and woods. It opens with crisp top notes of grapefruit, bergamot, mint, and cardamom. The heart brings aromatic layers of nutmeg, lavender, ginger, and cedar. It settles into a warm and earthy base of patchouli, vetiver, sandalwood, and oakmoss — making it perfect for both daytime and evening wear, especially in cooler weather.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": "6294015102642",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/club-de-nuit-urban-man-by-armaf-3-6-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_1.webp?v=1755805547",
+      "content_hash": "556d3c249e3f1281c84fa364292a52425e522c9c",
+      "alt": "Armaf Club de Nuit Urban Man Eau de Parfum 3.6 oz"
+    },
+    {
+      "src": "/data/perfumes/images/club-de-nuit-urban-man-by-armaf-3-6-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.47394.2x.avif?v=1755805628",
+      "content_hash": "930e56be4b12426a0793098bc9c2ff97affcf7b3",
+      "alt": "Armaf Club de Nuit Urban Man Eau de Parfum 3.6 oz"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

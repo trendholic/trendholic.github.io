@@ -1,0 +1,87 @@
+{
+  "slug": "french-avenue-pinnace-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8484447125687",
+  "source_parent_product_id": "8484447125687",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-pinnace-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-pinnace-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-pinnace-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenuePinnace3.jpg?v=1772663869",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenuePinnace2.webp?v=1772663869",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenuePinnace.jpg?v=1772663869"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Pinnace Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Pinnace Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8484447125687",
+  "parent_product_id": "8484447125687",
+  "description": "French Avenue Pinnace is a bright, refreshing citrus-aromatic fragrance designed for clean, uplifting everyday wear. Introduced in 2024, the scent blends sparkling citrus with cool mint and smooth musky depth for a modern, energetic signature. The opening bursts with vibrant grapefruit and orange, delivering a crisp citrus freshness that feels lively and energizing. The heart introduces refreshing mint and juicy blackcurrant, adding a cool aromatic sweetness. The base settles into ambroxan and musk, creating a smooth, clean finish that feels airy, modern, and easy to wear. Pinnace is perfect for warm weather, daytime wear, and anyone who enjoys fresh citrus fragrances with a clean musky dry down.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "59.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "59.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-pinnace-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenuePinnace3.jpg?v=1772663869",
+      "content_hash": "f6749869f3017cbef17d56d867eb2e2fdeb8efd2",
+      "alt": "French Avenue Pinnace Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-pinnace-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenuePinnace2.webp?v=1772663869",
+      "content_hash": "98ad9038c5269f4e651c0fbc393ca1d603781f6a",
+      "alt": "French Avenue Pinnace Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-pinnace-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenuePinnace.jpg?v=1772663869",
+      "content_hash": "99151ef8d191b9bb0dc86a2940042918dd6d6ce2",
+      "alt": "French Avenue Pinnace Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

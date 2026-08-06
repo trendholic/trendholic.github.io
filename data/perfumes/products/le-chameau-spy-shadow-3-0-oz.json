@@ -1,0 +1,71 @@
+{
+  "slug": "le-chameau-spy-shadow-3-0-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": null,
+  "source_category_original": null,
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "8216573968567",
+  "source_parent_product_id": "8216573968567",
+  "source_product_url": "https://habibiperfumes.store/products/le-chameau-spy-shadow-3-0-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/le-chameau-spy-shadow-3-0-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/le-chameau-spy-shadow-3-0-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/le-chameau-spy-shadow-flacon_11235x_423bea22-e68d-4748-9828-cdd53c2cef19.webp?v=1755796560",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/le-chameau-spy-shadow_1235x_8476fd0a-930d-4b6d-abf2-2a225e89f600.webp?v=1755796547"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Spy Shadow by La Chameau",
+  "english_product_name": "Spy Shadow by La Chameau",
+  "original_product_name": null,
+  "brand": "Le Chameau",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216573968567",
+  "parent_product_id": "8216573968567",
+  "description": "INSPIRED BY CREED AVENTUS Spy Shadow by Le Chameau is a bold and masculine fragrance. It opens with fresh citrus and spicy notes that energize the senses. The heart introduces warm woods and subtle florals, adding depth and intrigue. The base lingers with rich amber, musk, and oriental accords, creating a mysterious and long-lasting signature scent.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/le-chameau-spy-shadow-3-0-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/le-chameau-spy-shadow-flacon_11235x_423bea22-e68d-4748-9828-cdd53c2cef19.webp?v=1755796560",
+      "content_hash": "e659285afe5099b83b42fb3b6548433e9eb16f9c",
+      "alt": "Spy Shadow by La Chameau"
+    },
+    {
+      "src": "/data/perfumes/images/le-chameau-spy-shadow-3-0-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/le-chameau-spy-shadow_1235x_8476fd0a-930d-4b6d-abf2-2a225e89f600.webp?v=1755796547",
+      "content_hash": "95a809365f6fd0ab443e008f687027043ecdce6a",
+      "alt": "Spy Shadow by La Chameau"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

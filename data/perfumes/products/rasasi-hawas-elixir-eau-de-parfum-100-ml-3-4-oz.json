@@ -1,0 +1,94 @@
+{
+  "slug": "rasasi-hawas-elixir-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8297598451895",
+  "source_parent_product_id": "8297598451895",
+  "source_product_url": "https://habibiperfumes.store/products/rasasi-hawas-elixir-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rasasi-hawas-elixir-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rasasi-hawas-elixir-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasElixir3.jpg?v=1764259934",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasElixir4.webp?v=1764259934",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasElixir2.webp?v=1764259934",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasElixir.jpg?v=1764259934"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rasasi Hawas Elixir Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rasasi Hawas Elixir Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rasasi",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8297598451895",
+  "parent_product_id": "8297598451895",
+  "description": "Hawas Elixir by Rasasi is a bold, modern scent that blends cool freshness with a warm, sweet amber-woody finish. The opening brings a sharp minty-citrus feel that smells clean and energizing. The heart transitions into smooth aromatics and gentle spice, adding character without becoming heavy. The base finishes with creamy amber sweetness, vanilla hints, woods, and soft musk — giving it strong performance and a refined, slightly sweet masculine presence.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": "44.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": "44.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-elixir-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasElixir3.jpg?v=1764259934",
+      "content_hash": "810954a0e22c74a4a63f6711b90355f18f2a34e3",
+      "alt": "Rasasi Hawas Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-elixir-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasElixir4.webp?v=1764259934",
+      "content_hash": "2e88fbd934ad26830796542e88df2221140089aa",
+      "alt": "Rasasi Hawas Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-elixir-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasElixir2.webp?v=1764259934",
+      "content_hash": "1b0be5e1a09a2691cb12d14e7648d4dbdd074254",
+      "alt": "Rasasi Hawas Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-elixir-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RasasiHawasElixir.jpg?v=1764259934",
+      "content_hash": "7248f1e82f68bb42b7838a4d8e02dc0a597c0ae3",
+      "alt": "Rasasi Hawas Elixir Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "maison-asrar-vanilla-seduction",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8562694553783",
+  "source_parent_product_id": "8562694553783",
+  "source_product_url": "https://habibiperfumes.store/products/maison-asrar-vanilla-seduction",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/maison-asrar-vanilla-seduction/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/maison-asrar-vanilla-seduction"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaseduction.webp?v=1778094729",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaseduction1.jpg?v=1778094729",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaseduction6.webp?v=1778094729",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaseduction5.webp?v=1778094733",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaseduction4.webp?v=1778094729"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Maison Asrar Vanilla Seduction Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Maison Asrar Vanilla Seduction Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Maison Asrar",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8562694553783",
+  "parent_product_id": "8562694553783",
+  "description": "Vanilla Seduction is a rich and feminine gourmand fragrance that blends creamy vanilla with soft florals and warm amber sweetness. The scent feels elegant, seductive, and comforting while maintaining a smooth luxurious warmth throughout the wear. The opening introduces sweet vanilla and delicate fruity nuances, creating a soft and inviting first impression that feels creamy and addictive. The heart develops into jasmine and floral accords, adding elegance and a romantic feminine softness that balances the gourmand sweetness. The base settles into amber, musk, caramelized notes, and sandalwood, leaving a warm, creamy, and long-lasting trail that feels sensual, cozy, and luxurious. Vanilla Seduction is perfect for women who enjoy sweet vanilla fragrances with floral elegance and a warm seductive dry-down.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/maison-asrar-vanilla-seduction-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaseduction.webp?v=1778094729",
+      "content_hash": "00861f6d434f5e10db3f67947acb847f76ceaf5f",
+      "alt": "Maison Asrar Vanilla Seduction Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-vanilla-seduction-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaseduction1.jpg?v=1778094729",
+      "content_hash": "d1c5817fd8b9e2980429bbb45eea673c24a2b348",
+      "alt": "Maison Asrar Vanilla Seduction Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-vanilla-seduction-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaseduction6.webp?v=1778094729",
+      "content_hash": "2ec610c402141f07f04b79d3ffdbf07b96b1908a",
+      "alt": "Maison Asrar Vanilla Seduction Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-vanilla-seduction-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaseduction5.webp?v=1778094733",
+      "content_hash": "57cf8163e6360e878f4d2497efb014870f8d6f9c",
+      "alt": "Maison Asrar Vanilla Seduction Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/maison-asrar-vanilla-seduction-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/maisonasrarvanillaseduction4.webp?v=1778094729",
+      "content_hash": "a94dc749dee9bd8c801075d7f8f5aa86d079f73b",
+      "alt": "Maison Asrar Vanilla Seduction Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

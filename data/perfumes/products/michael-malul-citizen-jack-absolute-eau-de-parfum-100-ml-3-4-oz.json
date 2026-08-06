@@ -1,0 +1,87 @@
+{
+  "slug": "michael-malul-citizen-jack-absolute-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8490350805175",
+  "source_parent_product_id": "8490350805175",
+  "source_product_url": "https://habibiperfumes.store/products/michael-malul-citizen-jack-absolute-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/michael-malul-citizen-jack-absolute-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/michael-malul-citizen-jack-absolute-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/michaelmalulcitizenjackabsolute3.avif?v=1772985774",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/michaelmalulcitizenjackabsolute2.webp?v=1772985774",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/michaelmalulcitizenjackabsolute1.jpg?v=1772985774"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Michael Malul Citizen Jack Absolute Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Michael Malul Citizen Jack Absolute Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Michael Malul",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490350805175",
+  "parent_product_id": "8490350805175",
+  "description": "Citizen Jack Absolute is a bold and modern fragrance that blends juicy fruits with smooth woods and warm amber. The scent delivers a confident and charismatic profile, combining sweetness with masculine depth. The opening introduces vibrant melon and bergamot, creating a bright fruity freshness that immediately captures attention. The heart reveals pineapple and amber, adding juicy sweetness and warm richness. The base settles into vanilla and musk, leaving a smooth, creamy trail that feels warm, addictive, and long-lasting. Citizen Jack Absolute is perfect for men who enjoy modern fruity fragrances with a sweet amber warmth and strong presence.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "119.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "119.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/michael-malul-citizen-jack-absolute-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/michaelmalulcitizenjackabsolute3.avif?v=1772985774",
+      "content_hash": "50e44189388c3dd1095c6aec47c960cf6178e726",
+      "alt": "Michael Malul Citizen Jack Absolute Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-citizen-jack-absolute-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/michaelmalulcitizenjackabsolute2.webp?v=1772985774",
+      "content_hash": "273f5ebc04b67b973e5fbf37c9d026c2b1966962",
+      "alt": "Michael Malul Citizen Jack Absolute Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-citizen-jack-absolute-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/michaelmalulcitizenjackabsolute1.jpg?v=1772985774",
+      "content_hash": "b8330b51b9346d374c9a907a4fe4304011898419",
+      "alt": "Michael Malul Citizen Jack Absolute Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

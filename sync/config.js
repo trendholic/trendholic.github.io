@@ -21,12 +21,17 @@ export const CONFIG = {
     { key: "accessories", top: "Accessories", baseUrl: "https://acc.tangma2088.com",  lang: "en" },
     { key: "bags",        top: "Bags",        baseUrl: "https://bags.tangma2088.com", lang: "en" },
     { key: "shoes",       top: "Shoes",       baseUrl: "https://shoes.tangma2088.com",lang: "en" },
+    // Arabic Perfumes — a Shopify store exposing a public /products.json feed
+    // (engine: "shopify"). Separate adapter; the tangma "album" sources above
+    // are untouched. Custom slug so the URL is /catalog/perfumes/.
+    { key: "perfumes",    top: "Arabic Perfumes", slug: "perfumes", engine: "shopify", baseUrl: "https://habibiperfumes.store", lang: "en" },
   ],
   domainToTop: {
     "tangma2088.com": "Apparel",
     "acc.tangma2088.com": "Accessories",
     "bags.tangma2088.com": "Bags",
     "shoes.tangma2088.com": "Shoes",
+    "habibiperfumes.store": "Arabic Perfumes",
   },
 
   // ---- Source --------------------------------------------------------------

@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-al-qiam-gold-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8504341921975",
+  "source_parent_product_id": "8504341921975",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-al-qiam-gold-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-al-qiam-gold-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-al-qiam-gold-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AlQiamGold3.webp?v=1773706301",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AlQiamGold2.webp?v=1773706301",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AlQiamGold.jpg?v=1773706301"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Al Qiam Gold Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Al Qiam Gold Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8504341921975",
+  "parent_product_id": "8504341921975",
+  "description": "Al Qiam Gold is a bold and luxurious fragrance that blends juicy fruits with rich leather and deep oud warmth. The scent is powerful and sophisticated, offering a unique Middle Eastern character with a modern twist. The opening introduces a striking combination of sweet raspberry and warm saffron, creating a vibrant and slightly spicy fruity accord. The heart develops into smooth leather and earthy patchouli, adding depth, richness, and a refined masculine-leaning elegance. The base settles into a deep blend of oud, amber, benzoin, vetiver, and guaiac wood, delivering a warm, smoky, and long-lasting woody finish. Al Qiam Gold is perfect for those who enjoy bold leather-oud fragrances with a touch of fruity sweetness and strong presence.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": "29.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-al-qiam-gold-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AlQiamGold3.webp?v=1773706301",
+      "content_hash": "34fed600bbfef7bb10e28a3a36ccd4bfa79151cb",
+      "alt": "Lattafa Al Qiam Gold Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-al-qiam-gold-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AlQiamGold2.webp?v=1773706301",
+      "content_hash": "0f9620d115c1b1827fe2571d6795bce9fac68cb5",
+      "alt": "Lattafa Al Qiam Gold Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-al-qiam-gold-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AlQiamGold.jpg?v=1773706301",
+      "content_hash": "7f9bd5aa4d8be2e55849ff7d5422256b6b115fe5",
+      "alt": "Lattafa Al Qiam Gold Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "riiffs-prive-oros-women-s-eau-de-parfum-100ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8243890192567",
+  "source_parent_product_id": "8243890192567",
+  "source_product_url": "https://habibiperfumes.store/products/riiffs-prive-oros-women-s-eau-de-parfum-100ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/riiffs-prive-oros-women-s-eau-de-parfum-100ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/riiffs-prive-oros-women-s-eau-de-parfum-100ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/538872_500_dc386de8-bb9b-4b62-bed3-cb96b78b09fc.jpg?v=1757974685",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Riiffs-Prive-Oros-Eau-De-Parfum.b13285835ce2945cd47574341d526c02_30b0fb96-737b-492b-bc8e-1336529a4983.avif?v=1757974685",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_1_fbd92622-03db-4b5b-9edc-aea28446a886.jpg?v=1757974685"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Riiffs Prive Oros Women’s Eau de Parfum 100ml (3.4 oz)",
+  "english_product_name": "Riiffs Prive Oros Women’s Eau de Parfum 100ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8243890192567",
+  "parent_product_id": "8243890192567",
+  "description": "Prive Oros by Riiffs is a rich, gourmand floral fragrance crafted for women. It opens with creamy and comforting top notes of almond, coffee, bergamot, and lemon. The heart blossoms with tuberose, sambac jasmine, orange blossom, and Bulgarian rose. The base lingers with sensual accords like praline, sandalwood, vanilla, tonka bean, patchouli, cedarwood, amber, musk, and hints of cocoa and cashmere wood. A generous dry-down that’s sweet, warm, and luxurious.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/riiffs-prive-oros-women-s-eau-de-parfum-100ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/538872_500_dc386de8-bb9b-4b62-bed3-cb96b78b09fc.jpg?v=1757974685",
+      "content_hash": "e87bc7ed08316ba95a8fe225b519d63639bdf352",
+      "alt": "Riiffs Prive Oros Women’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-prive-oros-women-s-eau-de-parfum-100ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Riiffs-Prive-Oros-Eau-De-Parfum.b13285835ce2945cd47574341d526c02_30b0fb96-737b-492b-bc8e-1336529a4983.avif?v=1757974685",
+      "content_hash": "2b66bfd380b367d5ca22e295cfbfac41e65f6b62",
+      "alt": "Riiffs Prive Oros Women’s Eau de Parfum 100ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-prive-oros-women-s-eau-de-parfum-100ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_1_fbd92622-03db-4b5b-9edc-aea28446a886.jpg?v=1757974685",
+      "content_hash": "72bce00f7e460389374ceb477ff91831ada9ca7e",
+      "alt": "Riiffs Prive Oros Women’s Eau de Parfum 100ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

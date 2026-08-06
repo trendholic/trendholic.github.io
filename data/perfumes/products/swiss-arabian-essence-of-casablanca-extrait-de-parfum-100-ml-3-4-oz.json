@@ -1,0 +1,87 @@
+{
+  "slug": "swiss-arabian-essence-of-casablanca-extrait-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8485249450167",
+  "source_parent_product_id": "8485249450167",
+  "source_product_url": "https://habibiperfumes.store/products/swiss-arabian-essence-of-casablanca-extrait-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/swiss-arabian-essence-of-casablanca-extrait-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/swiss-arabian-essence-of-casablanca-extrait-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/EssenceofCasablanca3.webp?v=1772671366",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/EssenceofCasablanca2.jpg?v=1772671366",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/EssenceofCasablanca.jpg?v=1772671366"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Swiss Arabian Essence of Casablanca Extrait de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Swiss Arabian Essence of Casablanca Extrait de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Swiss Arabian",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8485249450167",
+  "parent_product_id": "8485249450167",
+  "description": "Swiss Arabian Essence of Casablanca is a rich fruity-amber fragrance that blends juicy fruits with creamy vanilla and warm resins for a luxurious, dessert-like scent profile. The fragrance opens with sweet apple and grapes, delivering a juicy, slightly wine-like fruitiness that feels vibrant and inviting. The heart introduces patchouli and powdery orris, adding earthy depth and smooth elegance. The base settles into amber, vanilla, musk, and balsamic notes, creating a warm gourmand trail that feels sweet, smooth, and long-lasting. Essence of Casablanca is ideal for those who enjoy fruity gourmand fragrances with warm amber depth and strong projection.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "69.99",
+      "compare_at_price": "99.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "69.99",
+  "compare_at_price": "99.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/swiss-arabian-essence-of-casablanca-extrait-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/EssenceofCasablanca3.webp?v=1772671366",
+      "content_hash": "86cb1941b86951ea628ec6ba8fcc2cf70084240c",
+      "alt": "Swiss Arabian Essence of Casablanca Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-essence-of-casablanca-extrait-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/EssenceofCasablanca2.jpg?v=1772671366",
+      "content_hash": "0ddb6736d9a9b6c9165c66d0cfa1ef0ac2438da7",
+      "alt": "Swiss Arabian Essence of Casablanca Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-essence-of-casablanca-extrait-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/EssenceofCasablanca.jpg?v=1772671366",
+      "content_hash": "aeceedc8f9bbae88737761313e78c903617f1973",
+      "alt": "Swiss Arabian Essence of Casablanca Extrait de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

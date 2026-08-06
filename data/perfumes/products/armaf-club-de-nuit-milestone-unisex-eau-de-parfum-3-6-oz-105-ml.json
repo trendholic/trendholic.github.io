@@ -1,0 +1,80 @@
+{
+  "slug": "armaf-club-de-nuit-milestone-unisex-eau-de-parfum-3-6-oz-105-ml",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8243127419063",
+  "source_parent_product_id": "8243127419063",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-club-de-nuit-milestone-unisex-eau-de-parfum-3-6-oz-105-ml",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-club-de-nuit-milestone-unisex-eau-de-parfum-3-6-oz-105-ml/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-club-de-nuit-milestone-unisex-eau-de-parfum-3-6-oz-105-ml"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.64104.jpg?v=1757881711",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/714zmFnYJtL._UF1000_1000_QL80.jpg?v=1757881711"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club de Nuit Milestone Unisex Eau de Parfum 3.6 oz (105 ml)",
+  "english_product_name": "Armaf Club de Nuit Milestone Unisex Eau de Parfum 3.6 oz (105 ml)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "6294015136838",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8243127419063",
+  "parent_product_id": "8243127419063",
+  "description": "Club de Nuit Milestone (2019) by Armaf is a fresh, marine-fruity woody musk fragrance. It opens with sea notes, red fruits, and bergamot, leading into a heart of violet, white woods, and sandalwood. The base rests on musk, ambroxan, and vetiver, giving it a clean, cooling dry-down. Excellent for warm weather, daytime wear, or whenever you want a crisp and airy yet elegant signature scent.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": "49.99",
+      "sku": "6294015136838",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-milestone-unisex-eau-de-parfum-3-6-oz-105-ml-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.64104.jpg?v=1757881711",
+      "content_hash": "bb6bfd9694b3d61f0a1114e0f2f863347b4aa0b5",
+      "alt": "Armaf Club de Nuit Milestone Unisex Eau de Parfum 3.6 oz (105 ml)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-club-de-nuit-milestone-unisex-eau-de-parfum-3-6-oz-105-ml-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/714zmFnYJtL._UF1000_1000_QL80.jpg?v=1757881711",
+      "content_hash": "216b332462d5743e2729031b93b01ef8a29f031a",
+      "alt": "Armaf Club de Nuit Milestone Unisex Eau de Parfum 3.6 oz (105 ml)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

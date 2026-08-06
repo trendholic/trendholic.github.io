@@ -1,0 +1,80 @@
+{
+  "slug": "lattafa-niche-emarati-vintage-castle",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8504335138999",
+  "source_parent_product_id": "8504335138999",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-niche-emarati-vintage-castle",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-niche-emarati-vintage-castle/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-niche-emarati-vintage-castle"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/VintageCastle2.webp?v=1773704915",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/VintageCastle.jpg?v=1773704915"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Niche Emarati Vintage Castle Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Niche Emarati Vintage Castle Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8504335138999",
+  "parent_product_id": "8504335138999",
+  "description": "Niche Emarati Vintage Castle is a refined and elegant fragrance that blends aromatic freshness with smooth woods and warm amber depth. The scent evokes a sense of heritage and sophistication, balancing brightness with rich oriental warmth. The opening introduces fresh aromatic notes and subtle citrus that create a crisp and elegant first impression. The heart develops into smooth woods and soft spices, adding structure and depth to the fragrance. The base settles into amber, musk, and warm woody accords, leaving a refined and long-lasting trail that feels classic and luxurious. Vintage Castle is perfect for those who enjoy sophisticated woody fragrances with aromatic freshness and warm amber depth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "22.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "22.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-niche-emarati-vintage-castle-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/VintageCastle2.webp?v=1773704915",
+      "content_hash": "6a3e6322d6035d4801a81131c9ab4b8e8ba8b5d1",
+      "alt": "Lattafa Niche Emarati Vintage Castle Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-niche-emarati-vintage-castle-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/VintageCastle.jpg?v=1773704915",
+      "content_hash": "7bcf7877958caaf5171ad23d8f806ccab8060a78",
+      "alt": "Lattafa Niche Emarati Vintage Castle Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

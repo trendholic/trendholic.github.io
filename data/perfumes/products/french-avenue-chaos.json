@@ -1,0 +1,108 @@
+{
+  "slug": "french-avenue-chaos",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8558875345079",
+  "source_parent_product_id": "8558875345079",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-chaos",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-chaos/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-chaos"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueChaos5.jpg?v=1777678441",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueChaos1.jpg?v=1777678441",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueChaos.webp?v=1777678441",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueChaos4.webp?v=1777678442",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueChaos3.webp?v=1777678441",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueChaos2.webp?v=1777678441"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Chaos Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Chaos Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8558875345079",
+  "parent_product_id": "8558875345079",
+  "description": "Chaos is a bold and modern fragrance that blends warm spices with rich woods and a smooth amber base. The scent feels powerful, slightly sweet, and edgy, delivering a statement-making profile that balances intensity with refinement. The opening introduces a striking mix of saffron, cinnamon, and citrus, creating a warm, spicy, and slightly bright first impression. The heart develops into woods and aromatic notes, adding depth, structure, and a smooth masculine edge. The base settles into amber, vanilla, and musk, leaving a warm, slightly sweet, and long-lasting trail that feels rich, smooth, and addictive. Chaos is perfect for those who enjoy strong, spicy-amber fragrances with a modern woody backbone and a bold presence.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "59.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-chaos-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueChaos5.jpg?v=1777678441",
+      "content_hash": "8ff3d1ff8f92f3b9b43f29d3736bfecc95fd7ef4",
+      "alt": "French Avenue Chaos Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-chaos-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueChaos1.jpg?v=1777678441",
+      "content_hash": "78426a857f5295b4845fa2647baa028a6d84ff06",
+      "alt": "French Avenue Chaos Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-chaos-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueChaos.webp?v=1777678441",
+      "content_hash": "59ecb19657bdb08a87eb24da0fabbccdc03e2e72",
+      "alt": "French Avenue Chaos Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-chaos-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueChaos4.webp?v=1777678442",
+      "content_hash": "e80731f4d03f84449a05c6b99358ca45e162b839",
+      "alt": "French Avenue Chaos Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-chaos-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueChaos3.webp?v=1777678441",
+      "content_hash": "e613d0d7459ec07579ec1478bcc80442f9d636f6",
+      "alt": "French Avenue Chaos Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-chaos-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueChaos2.webp?v=1777678441",
+      "content_hash": "ba86904cfaf492d3d2ff62f945062cdb39fdd8a2",
+      "alt": "French Avenue Chaos Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

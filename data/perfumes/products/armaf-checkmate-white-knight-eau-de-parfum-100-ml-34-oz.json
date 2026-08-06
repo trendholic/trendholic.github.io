@@ -1,0 +1,101 @@
+{
+  "slug": "armaf-checkmate-white-knight-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8575501271223",
+  "source_parent_product_id": "8575501271223",
+  "source_product_url": "https://habibiperfumes.store/products/armaf-checkmate-white-knight-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/armaf-checkmate-white-knight-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/armaf-checkmate-white-knight-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Knight-white-100-ml-edp-bottle-front_jpg_79e2b9ba-a70f-4ca5-84d3-9fabdb3cd449.jpg?v=1779201298",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Armaf_Knight_Checkmate_Eau_De_Parfum_100ml.webp?v=1779201298",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Knight-Checkmate--white-100-ml-edp-group_jpg_77843334-9eca-4b7b-ade7-27913136fa65.jpg?v=1779201298",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Knight-Checkmate-white-box-side_jpg_1f2e8299-d261-4b28-b484-8f878f028776.jpg?v=1779201298",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafKnightCheckmateEauDeParfum100mlAccords.png?v=1779201298"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Checkmate White Knight Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Checkmate White Knight Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": "ARMAF-CHECKMATE-WHITE-KNIGHT-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8575501271223",
+  "parent_product_id": "8575501271223",
+  "description": "Armaf Checkmate White Knight is a 100 ml / 3.4 oz Eau de Parfum for women. Official Armaf notes list elemi, mandarin, pear, and orange; clary sage, angelica seed, and Virginia cedarwood; then ambrettolide, patchouli, Haitian vetiver, cypriol, and ambrette absolute.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": "49.99",
+      "sku": "ARMAF-CHECKMATE-WHITE-KNIGHT-100",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/armaf-checkmate-white-knight-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Knight-white-100-ml-edp-bottle-front_jpg_79e2b9ba-a70f-4ca5-84d3-9fabdb3cd449.jpg?v=1779201298",
+      "content_hash": "897b59c8a5b2484249f2d26d03f3562370a05284",
+      "alt": "Armaf Checkmate White Knight Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-checkmate-white-knight-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Armaf_Knight_Checkmate_Eau_De_Parfum_100ml.webp?v=1779201298",
+      "content_hash": "7707d4df8d23aa3fd19f390aaa00548e0485968e",
+      "alt": "Armaf Checkmate White Knight Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-checkmate-white-knight-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Knight-Checkmate--white-100-ml-edp-group_jpg_77843334-9eca-4b7b-ade7-27913136fa65.jpg?v=1779201298",
+      "content_hash": "5f67eb0b0b93f689c81064657f1dd415fef5a089",
+      "alt": "Armaf Checkmate White Knight Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-checkmate-white-knight-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Knight-Checkmate-white-box-side_jpg_1f2e8299-d261-4b28-b484-8f878f028776.jpg?v=1779201298",
+      "content_hash": "3c170f40c0e9adf0dd009e5f5a7cc187bde2ab7c",
+      "alt": "Armaf Checkmate White Knight Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/armaf-checkmate-white-knight-eau-de-parfum-100-ml-34-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArmafKnightCheckmateEauDeParfum100mlAccords.png?v=1779201298",
+      "content_hash": "76f25449cb7a0c696924edc37ba1dfae2edb528c",
+      "alt": "Armaf Checkmate White Knight Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

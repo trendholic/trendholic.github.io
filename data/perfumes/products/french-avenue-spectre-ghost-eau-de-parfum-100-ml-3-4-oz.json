@@ -1,0 +1,94 @@
+{
+  "slug": "french-avenue-spectre-ghost-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8270544437431",
+  "source_parent_product_id": "8270544437431",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-spectre-ghost-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-spectre-ghost-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-spectre-ghost-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71DO1VVms8L._AC_UF350_350_QL80.jpg?v=1763578427",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/SpectreGhostbyFrenchAvenue2.jpg?v=1763578427",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/SpectreGhostbyFrenchAvenue1.jpg?v=1763578427",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Apa-de-Parfum-Spectre-Ghost-by-French-Avenue-1-768x613.jpg?v=1763578427"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Spectre Ghost Eau de Parfum 80 ml (2.7 oz)",
+  "english_product_name": "French Avenue Spectre Ghost Eau de Parfum 80 ml (2.7 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270544437431",
+  "parent_product_id": "8270544437431",
+  "description": "Spectre Ghost by French Avenue opens with a striking blend of ginger, cardamom and bergamot for an invigorating top impression. The heart evolves with pink pepper, black currant and Turkish rose for a dynamic, aromatic core. In its dry-down, vanilla, cedarwood and patchouli ground the scent in a rich, warm finish that lingers with elegance and presence. This fragrance masterfully balances bold freshness with deep warmth, making it a versatile signature for both day and evening wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "35.95",
+      "compare_at_price": "53.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "35.95",
+  "compare_at_price": "53.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-spectre-ghost-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71DO1VVms8L._AC_UF350_350_QL80.jpg?v=1763578427",
+      "content_hash": "9d57a2ffd23c6b625dd6fad885519436ea1459ec",
+      "alt": "French Avenue Spectre Ghost Eau de Parfum 80 ml (2.7 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-spectre-ghost-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/SpectreGhostbyFrenchAvenue2.jpg?v=1763578427",
+      "content_hash": "8a2b8852077e8ad435210571ef7afc2c133a0b3f",
+      "alt": "French Avenue Spectre Ghost Eau de Parfum 80 ml (2.7 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-spectre-ghost-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/SpectreGhostbyFrenchAvenue1.jpg?v=1763578427",
+      "content_hash": "0b52a50f0e11c09869a375ccc6e5d2375660de6d",
+      "alt": "French Avenue Spectre Ghost Eau de Parfum 80 ml (2.7 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-spectre-ghost-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Apa-de-Parfum-Spectre-Ghost-by-French-Avenue-1-768x613.jpg?v=1763578427",
+      "content_hash": "b81ec9766f5f7bec6e35e3501bf21c19d29735a0",
+      "alt": "French Avenue Spectre Ghost Eau de Parfum 80 ml (2.7 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

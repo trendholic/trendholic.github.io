@@ -1,0 +1,101 @@
+{
+  "slug": "rasasi-hawas-atlantis",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8565933211831",
+  "source_parent_product_id": "8565933211831",
+  "source_product_url": "https://habibiperfumes.store/products/rasasi-hawas-atlantis",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rasasi-hawas-atlantis/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rasasi-hawas-atlantis"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rasasi-hawas-atlantis-eau-de-parfum-for-him-100ml-bottle.jpg?v=1778274286",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/hawas_atlantis_centered_1x1_538f71e4-1a0e-4c24-83ef-ccb288c71205.png?v=1779112797",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1.3HawasAtlantis.jpg?v=1778274286",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/614514555125.webp?v=1778274286",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rasasi-hawas-atlantis-eau-de-parfum-100ml-box-set.jpg?v=1778274286"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rasasi Hawas Atlantis Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rasasi Hawas Atlantis Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rasasi",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8565933211831",
+  "parent_product_id": "8565933211831",
+  "description": "Rasasi Hawas Atlantis is a 100 ml / 3.4 oz Eau de Parfum with a fresh aquatic citrus-woody profile. Verified notes across retailer sources include citrus, lemon, apple, bergamot, cinnamon, aquatic accords, plum, orange blossom, cardamom, driftwood, musk, ambergris, and patchouli.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "59.00",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "59.00",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-atlantis-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rasasi-hawas-atlantis-eau-de-parfum-for-him-100ml-bottle.jpg?v=1778274286",
+      "content_hash": "af5398952099cf08ff877a454fb2e1d950a8939b",
+      "alt": "Rasasi Hawas Atlantis Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-atlantis-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/hawas_atlantis_centered_1x1_538f71e4-1a0e-4c24-83ef-ccb288c71205.png?v=1779112797",
+      "content_hash": "0d642679e4cba40673f46fa8677155e2b5f4e10a",
+      "alt": "Rasasi Hawas Atlantis Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-atlantis-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1.3HawasAtlantis.jpg?v=1778274286",
+      "content_hash": "8de0004065b66deff0387997125f3595b320b816",
+      "alt": "Rasasi Hawas Atlantis Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-atlantis-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/614514555125.webp?v=1778274286",
+      "content_hash": "19e8fe95bca5a387cc6d71f4cd03b2dd55a81734",
+      "alt": "Rasasi Hawas Atlantis Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-atlantis-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rasasi-hawas-atlantis-eau-de-parfum-100ml-box-set.jpg?v=1778274286",
+      "content_hash": "7cf7d1e0d0ac57cbe14479435b8aaa201ae139b6",
+      "alt": "Rasasi Hawas Atlantis Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

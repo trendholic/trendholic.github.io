@@ -1,0 +1,87 @@
+{
+  "slug": "risala-pista-kunafa-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8309772615863",
+  "source_parent_product_id": "8309772615863",
+  "source_product_url": "https://habibiperfumes.store/products/risala-pista-kunafa-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/risala-pista-kunafa-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/risala-pista-kunafa-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RisalaPistaKunafa3.webp?v=1765526645",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RisalaPistaKunafa.jpg?v=1765526645",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RisalaPistaKunafa2.jpg?v=1765526645"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Risala Pista Kunafa Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Risala Pista Kunafa Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Risala",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8309772615863",
+  "parent_product_id": "8309772615863",
+  "description": "Risala Pista Kunafa is a rich, creamy, nutty-sweet gourmand fragrance inspired by the famous Middle Eastern dessert made with pistachios, syrup, and warm pastry. This scent opens with creamy pistachio, sweet syrup, and warm nuttiness, creating an instantly edible, comforting aroma. The heart introduces soft florals, whipped vanilla, and buttery pastry accords, adding depth and enhancing the dessert-like character. The base settles into amber, sugar, vanilla cream, musk, and warm woods, giving the fragrance exceptional longevity and a cozy, addictive trail. Perfect for customers who love pistachio, vanilla, caramelized sweetness, and dessert-style gourmands.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/risala-pista-kunafa-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RisalaPistaKunafa3.webp?v=1765526645",
+      "content_hash": "f40b45b54425a8f7f0a8f33a0acaaca69485f572",
+      "alt": "Risala Pista Kunafa Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/risala-pista-kunafa-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RisalaPistaKunafa.jpg?v=1765526645",
+      "content_hash": "82dc7749e22d3940f54a90a390f24c1549072487",
+      "alt": "Risala Pista Kunafa Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/risala-pista-kunafa-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/RisalaPistaKunafa2.jpg?v=1765526645",
+      "content_hash": "cc034ca64fdb6e3dd21e166c73b603c703926ea4",
+      "alt": "Risala Pista Kunafa Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

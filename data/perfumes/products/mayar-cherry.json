@@ -1,0 +1,94 @@
+{
+  "slug": "mayar-cherry",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241906614455",
+  "source_parent_product_id": "8241906614455",
+  "source_product_url": "https://habibiperfumes.store/products/mayar-cherry",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/mayar-cherry/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/mayar-cherry"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarCherryIntense.jpg?v=1764271605",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarCherryIntense6.jpg?v=1764271605",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarCherryIntense2.jpg?v=1764271605",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarCherryIntense3.jpg?v=1764271605"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Mayar Cherry Intense Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Mayar Cherry Intense Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241906614455",
+  "parent_product_id": "8241906614455",
+  "description": "Mayar Cherry Intense by Lattafa is a bold, juicy cherry-forward fragrance with a smooth sweet-amber woody foundation. The opening brings deep, ripe cherry, sweet red fruits, and soft almond-like warmth for a vivid first impression. The heart introduces a floral-fruity sweetness that keeps the scent silky and bright instead of spicy or smoky. The base dries into amber, musk, soft vanilla, and gentle woods, giving it strong longevity while staying sweet, modern, and wearable. This scent is ideal for customers who love rich cherry, soft florals, and warm amber-musk sweetness without heavy oud or sharp spices.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "32.99",
+      "compare_at_price": "33.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "32.99",
+  "compare_at_price": "33.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/mayar-cherry-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarCherryIntense.jpg?v=1764271605",
+      "content_hash": "a611c02795e3d2cecafc3f3447944cb1ff4c16a8",
+      "alt": "Lattafa Mayar Cherry Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/mayar-cherry-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarCherryIntense6.jpg?v=1764271605",
+      "content_hash": "88d891910f8bf7e4432c307933508b252746f387",
+      "alt": "Lattafa Mayar Cherry Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/mayar-cherry-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarCherryIntense2.jpg?v=1764271605",
+      "content_hash": "75d0781c7c921e2d4b392ef8044fa7c1ef4a0662",
+      "alt": "Lattafa Mayar Cherry Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/mayar-cherry-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMayarCherryIntense3.jpg?v=1764271605",
+      "content_hash": "fefc60cf40cf61ec3d65baeda1ed5f39eef64c3b",
+      "alt": "Lattafa Mayar Cherry Intense Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

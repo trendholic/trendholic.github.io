@@ -1,0 +1,108 @@
+{
+  "slug": "lionheart-man",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8241903075511",
+  "source_parent_product_id": "8241903075511",
+  "source_product_url": "https://habibiperfumes.store/products/lionheart-man",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lionheart-man/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lionheart-man"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/armaflionheart.webp?v=1762221023",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81-C0DWC5OL.jpg?v=1762221023",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/en-p_c_102026.jpg?v=1762221023",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/5_6efc0ff0-8df2-4525-8650-4958c039708b.webp?v=1762221023",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_16.jpg?v=1762221023",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_34.jpg?v=1762221023"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club De Nuit Lionheart Man Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Armaf Club De Nuit Lionheart Man Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241903075511",
+  "parent_product_id": "8241903075511",
+  "description": "Lionheart Man by Armaf opens with invigorating mint and lavender, delivering a fresh and vibrant start. The heart blends warm vanilla and benzoin for a soft yet resonant gourmand core. In the base, rich honey, tonka bean and tobacco create a bold, lingering finish that radiates strength and presence. This fragrance is crafted for the modern man who values confidence and character—ideal for evenings or cooler seasons.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "42.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "42.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lionheart-man-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/armaflionheart.webp?v=1762221023",
+      "content_hash": "97622ae1d053ac74b235c70cfe85a951950c2229",
+      "alt": "Armaf Club De Nuit Lionheart Man Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lionheart-man-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81-C0DWC5OL.jpg?v=1762221023",
+      "content_hash": "bf153755589e3362a2494e8c382f28fd167f6816",
+      "alt": "Armaf Club De Nuit Lionheart Man Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lionheart-man-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/en-p_c_102026.jpg?v=1762221023",
+      "content_hash": "5a5a87d192909f42284c7ec6bab15d31a806be62",
+      "alt": "Armaf Club De Nuit Lionheart Man Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lionheart-man-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/5_6efc0ff0-8df2-4525-8650-4958c039708b.webp?v=1762221023",
+      "content_hash": "d003d2d6cc019d5240ff9a480a41fd7ae773bdd2",
+      "alt": "Armaf Club De Nuit Lionheart Man Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lionheart-man-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_16.jpg?v=1762221023",
+      "content_hash": "6f6eaaf9795ff1bf78fbf687e2cff506eef310dd",
+      "alt": "Armaf Club De Nuit Lionheart Man Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lionheart-man-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/images_34.jpg?v=1762221023",
+      "content_hash": "ab9f06337ba9502c0a98dffb5e62b2515fe2b408",
+      "alt": "Armaf Club De Nuit Lionheart Man Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

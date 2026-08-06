@@ -1,0 +1,101 @@
+{
+  "slug": "lattafa-musamam-white-intense-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8563786383543",
+  "source_parent_product_id": "8563786383543",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-musamam-white-intense-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-musamam-white-intense-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-musamam-white-intense-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamamWhiteIntense8.webp?v=1778187617",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamamWhiteIntense6.webp?v=1778187617",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamamWhiteIntense3.webp?v=1778187617",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamamWhiteIntense5.webp?v=1778187617",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamamWhiteIntense2.avif?v=1778187617"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Musamam White Intense Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Musamam White Intense Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8563786383543",
+  "parent_product_id": "8563786383543",
+  "description": "Musamam White Intense is a refined and modern fragrance that blends fresh spices, creamy woods, and soft musky warmth into a clean luxurious scent. The fragrance feels smooth, elegant, and versatile with a fresh woody profile balanced by subtle sweetness and depth. The opening introduces bergamot, orange, and spices, creating a bright citrus freshness layered with warm aromatic energy. The heart develops into coconut, ylang-ylang, ambroxan, and mahonial, adding creamy tropical softness balanced by airy modern woods and smooth floral nuances. The base settles into sandalwood, musk, and benzoin, leaving a creamy woody trail that feels clean, comforting, and long-lasting. Musamam White Intense is perfect for those who enjoy fresh woody fragrances with creamy musky warmth and an elegant modern niche-style character.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-musamam-white-intense-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamamWhiteIntense8.webp?v=1778187617",
+      "content_hash": "96403b37abf929478522263faaa47a15551aac9f",
+      "alt": "Lattafa Musamam White Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-musamam-white-intense-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamamWhiteIntense6.webp?v=1778187617",
+      "content_hash": "7d709d6285c0fcc2392bcc90bb373a499f551ff7",
+      "alt": "Lattafa Musamam White Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-musamam-white-intense-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamamWhiteIntense3.webp?v=1778187617",
+      "content_hash": "5df2e3e83f5145867b36a2114d0c3ba0fd584ff3",
+      "alt": "Lattafa Musamam White Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-musamam-white-intense-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamamWhiteIntense5.webp?v=1778187617",
+      "content_hash": "6030a4652145a4fc2ab54c8df10d7ffdb295ad87",
+      "alt": "Lattafa Musamam White Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-musamam-white-intense-eau-de-parfum-100-ml-3-4-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamamWhiteIntense2.avif?v=1778187617",
+      "content_hash": "ec9ccd2d2ab0568454c34da26accb609a74f5a76",
+      "alt": "Lattafa Musamam White Intense Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

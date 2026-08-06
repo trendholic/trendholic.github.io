@@ -1,0 +1,94 @@
+{
+  "slug": "dumont-nitro-platinum-pour-homme-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8574169383095",
+  "source_parent_product_id": "8574169383095",
+  "source_product_url": "https://habibiperfumes.store/products/dumont-nitro-platinum-pour-homme-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dumont-nitro-platinum-pour-homme-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/dumont-nitro-platinum-pour-homme-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Perfumes1600X148434.jpg?v=1778988908",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Perfumes1600X148433.jpg?v=1778988908",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NitroPlatinum1.jpg?v=1778988908",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NitroPlatinum2.jpg?v=1778988910"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Dumont Nitro Platinum Pour Homme Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Dumont Nitro Platinum Pour Homme Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Dumont",
+  "sku": "3760060762870",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8574169383095",
+  "parent_product_id": "8574169383095",
+  "description": "Dumont Nitro Platinum Pour Homme is a 100 ml / 3.4 oz Eau de Parfum for men. Official Dumont notes list bergamot, apple, blackcurrant, orange, pink pepper, and cardamom on top; amber, candy sugar, lily of the valley, saffron, dry wood, and vanilla in the heart; and cedarwood, vanilla, moss, musk, amber, and patchouli in the base.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": "39.99",
+      "sku": "3760060762870",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/dumont-nitro-platinum-pour-homme-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Perfumes1600X148434.jpg?v=1778988908",
+      "content_hash": "73bcff00d65b951a2433249afda8e1d2f071509d",
+      "alt": "Dumont Nitro Platinum Pour Homme Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-platinum-pour-homme-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Perfumes1600X148433.jpg?v=1778988908",
+      "content_hash": "0cdf8ecf65d5b94a25a66d8518219a3cb0f9dcef",
+      "alt": "Dumont Nitro Platinum Pour Homme Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-platinum-pour-homme-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NitroPlatinum1.jpg?v=1778988908",
+      "content_hash": "b979049892e20f39a8a5e2e898e3150e1eb05fde",
+      "alt": "Dumont Nitro Platinum Pour Homme Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/dumont-nitro-platinum-pour-homme-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NitroPlatinum2.jpg?v=1778988910",
+      "content_hash": "3460aff14f00decd87fe7c9e00f05b7dadfefe55",
+      "alt": "Dumont Nitro Platinum Pour Homme Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

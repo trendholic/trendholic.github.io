@@ -1,0 +1,73 @@
+{
+  "slug": "club-de-nuit-intense-armaf-w",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8216647532727",
+  "source_parent_product_id": "8216647532727",
+  "source_product_url": "https://habibiperfumes.store/products/club-de-nuit-intense-armaf-w",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/club-de-nuit-intense-armaf-w/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/club-de-nuit-intense-armaf-w"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.27656.2x_a0a00130-55c1-4b7c-8381-cda735935a31.avif?v=1755804713"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club de Nuit Intense Woman Eau de Parfum 3.6 oz",
+  "english_product_name": "Armaf Club de Nuit Intense Woman Eau de Parfum 3.6 oz",
+  "original_product_name": null,
+  "brand": "Armaf Woman",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216647532727",
+  "parent_product_id": "8216647532727",
+  "description": "Club de Nuit Intense Woman is a rich chypre-floral fragrance featuring bold rose and luxurious spice. Top notes are rose, saffron, and geranium; the heart adds nutmeg, pepper, violet, and caraway; the base settles into patchouli, agarwood (oud), vanilla, and amber for a warm, sensual dry-down. Excellent for evening wear or cooler days when you want a romantic, long-lasting scent.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/club-de-nuit-intense-armaf-w-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/375x500.27656.2x_a0a00130-55c1-4b7c-8381-cda735935a31.avif?v=1755804713",
+      "content_hash": "de5501fe7f2418252ac5c4deacd4748e7f9f8ede",
+      "alt": "Armaf Club de Nuit Intense Woman Eau de Parfum 3.6 oz"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

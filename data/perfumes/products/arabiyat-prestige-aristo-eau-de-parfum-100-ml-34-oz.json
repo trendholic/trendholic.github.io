@@ -1,0 +1,101 @@
+{
+  "slug": "arabiyat-prestige-aristo-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8562620694711",
+  "source_parent_product_id": "8562620694711",
+  "source_product_url": "https://habibiperfumes.store/products/arabiyat-prestige-aristo-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/arabiyat-prestige-aristo-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/arabiyat-prestige-aristo-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeAristo1.webp?v=1778082246",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeAristo.jpg?v=1778082247",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Arabiyat_Prestige_Aristo_5.jpg?v=1778082312",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeAristo3.jpg?v=1778082246",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeAristo2.webp?v=1778082246"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Prestige Aristo Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Arabiyat Prestige Aristo Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": "ARABIYAT-PRESTIGE-ARISTO-100",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8562620694711",
+  "parent_product_id": "8562620694711",
+  "description": "Arabiyat Prestige Aristo is a 100 ml / 3.4 oz Eau de Parfum. Verified references describe a fresh citrus, floral, amber, and woody profile with musk and vanilla warmth.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.99",
+      "compare_at_price": "59.99",
+      "sku": "ARABIYAT-PRESTIGE-ARISTO-100",
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.99",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-aristo-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeAristo1.webp?v=1778082246",
+      "content_hash": "1bb2d854be13c97256e2a4476b52432569f7941a",
+      "alt": "Arabiyat Prestige Aristo Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-aristo-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeAristo.jpg?v=1778082247",
+      "content_hash": "f35090fff1c363db46ad64970c95014393170088",
+      "alt": "Arabiyat Prestige Aristo Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-aristo-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Arabiyat_Prestige_Aristo_5.jpg?v=1778082312",
+      "content_hash": "859cfee686520b9b027542a69b9a4686d84c4099",
+      "alt": "Arabiyat Prestige Aristo Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-aristo-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeAristo3.jpg?v=1778082246",
+      "content_hash": "e1ec87e141832566216f63ecab243a322217a6ab",
+      "alt": "Arabiyat Prestige Aristo Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/arabiyat-prestige-aristo-eau-de-parfum-100-ml-34-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ArabiyatPrestigeAristo2.webp?v=1778082246",
+      "content_hash": "b6d6162b774ea12f67626cbd2d437ed82d656c4e",
+      "alt": "Arabiyat Prestige Aristo Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

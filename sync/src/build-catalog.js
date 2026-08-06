@@ -83,9 +83,14 @@ ${CART_DRAWER}
 </body></html>`;
 }
 
+// Display a currency amount with a friendly symbol (real data only; blank if none).
+const curSym = (c) => ({ USD: "$", AED: "AED ", EUR: "€", GBP: "£" }[c] || (c ? c + " " : "$"));
+const priceHtml = (r) => r.price
+  ? `<span class="pr">${curSym(r.currency)}${esc(r.price)}${r.compare_at_price && r.compare_at_price !== r.price ? ` <s>${curSym(r.currency)}${esc(r.compare_at_price)}</s>` : ""}</span>`
+  : "";
 const card = (r) => `<a class="card" href="${cp}/product/${esc(r.slug)}/">
   ${r.image ? `<img src="${esc(r.image)}" alt="${esc(r.name)}" loading="lazy" onerror="this.style.visibility='hidden'">` : `<div class="ph"></div>`}
-  <div class="cb"><span class="tag">${esc(r.top)}</span><span class="nm">${esc(r.name)}</span></div></a>`;
+  <div class="cb"><span class="tag">${esc(r.top)}</span><span class="nm">${esc(r.name)}</span>${r.brand ? `<span class="br">${esc(r.brand)}</span>` : ""}${priceHtml(r)}</div></a>`;
 
 function main() {
   const topCategories = [];
@@ -93,7 +98,7 @@ function main() {
   const productsByTop = {};
 
   for (const src of CONFIG.sources) {
-    const topSlug = slugify(src.top);
+    const topSlug = src.slug || slugify(src.top);
     const prodDir = path.join(dataDir, topSlug, "products");
     const cats = readJson(path.join(dataDir, topSlug, "categories.json"), { categories: [] });
     const products = [];
@@ -107,9 +112,10 @@ function main() {
         allRecords.push({
           slug: p.slug, name: p.name, top: p.top_category, topSlug,
           brand: p.brand || "", model: p.model_number || "", sku: p.sku || "",
+          price: p.price || "", currency: p.currency || "", compare_at_price: p.compare_at_price || "",
           category: p.source_category || "", image: p.images?.[0]?.src || null,
           url: p._url, canonical: p._canonical,
-          keywords: [p.name, p.top_category, p.source_category, ...(Array.isArray(p.source_categories) ? p.source_categories.map((c) => c.name) : [])].filter(Boolean),
+          keywords: [p.name, p.brand, p.top_category, p.source_category, ...(Array.isArray(p.source_categories) ? p.source_categories.map((c) => c.name) : [])].filter(Boolean),
         });
       }
     }
@@ -170,10 +176,11 @@ function main() {
     if (!progressed) break;
   }
   const featured = featuredRecords.map(card).join("");
+  const heroLine = topCategories.map((t) => t.name).join(" · ");
   writeFile(path.join(repo, "catalog", "index.html"), page({
-    title: "Catalog | TrendHolic", desc: "Browse the TrendHolic catalog — Apparel, Accessories, Bags and Shoes.",
+    title: "Catalog | TrendHolic", desc: `Browse the TrendHolic catalog — ${heroLine}.`,
     canonical: `${base}${cp}/`, ogImage: featuredRecords[0]?.image ? base + featuredRecords[0].image : null,
-    body: `<section class="hero"><h1>TrendHolic Catalog</h1><p>Apparel · Accessories · Bags · Shoes</p></section>
+    body: `<section class="hero"><h1>TrendHolic Catalog</h1><p>${esc(heroLine)}</p></section>
       <h2 class="sec">Browse by category</h2>
       <div class="tops">${catCards}</div>
       <h2 class="sec">Featured selection</h2>
@@ -196,7 +203,7 @@ function main() {
         <h1>${esc(t.top)} <span class="muted">(${t.products.length})</span></h1>
         ${subNav}
         <h2 class="sec">All ${esc(t.top)}</h2>
-        <div class="grid">${t.products.map((p) => card({ slug: p.slug, name: p.name, top: p.top_category, image: p.images?.[0]?.src || null })).join("") || '<p class="muted">No products yet.</p>'}</div>`,
+        <div class="grid">${t.products.map((p) => card({ slug: p.slug, name: p.name, top: p.top_category, image: p.images?.[0]?.src || null, brand: p.brand, price: p.price, currency: p.currency, compare_at_price: p.compare_at_price })).join("") || '<p class="muted">No products yet.</p>'}</div>`,
     }));
 
     // per-subcategory listing pages (real supplier categories → products)
@@ -208,7 +215,7 @@ function main() {
         ogImage: s.products[0]?.images?.[0]?.src ? base + s.products[0].images[0].src : null,
         body: `<nav class="crumb"><a href="${cp}/">Catalog</a> › <a href="${cp}/${t.slug}/">${esc(t.top)}</a> › <span>${esc(s.name)}</span></nav>
           <h1>${esc(s.name)} <span class="muted">(${s.products.length})</span></h1>
-          <div class="grid">${s.products.map((p) => card({ slug: p.slug, name: p.name, top: p.top_category, image: p.images?.[0]?.src || null })).join("") || '<p class="muted">No products yet.</p>'}</div>`,
+          <div class="grid">${s.products.map((p) => card({ slug: p.slug, name: p.name, top: p.top_category, image: p.images?.[0]?.src || null, brand: p.brand, price: p.price, currency: p.currency, compare_at_price: p.compare_at_price })).join("") || '<p class="muted">No products yet.</p>'}</div>`,
       }));
     }
   }
@@ -220,7 +227,11 @@ function main() {
       const jsonld = { "@context": "https://schema.org", "@type": "Product", name: p.name,
         image: imgs.map((i) => base + i.src), category: p.top_category, url: p._canonical,
         ...(p.brand ? { brand: { "@type": "Brand", name: p.brand } } : {}),
-        ...(p.model_number ? { model: p.model_number } : {}) };
+        ...(p.model_number ? { model: p.model_number } : {}),
+        ...(p.sku ? { sku: String(p.sku) } : {}),
+        ...(p.description ? { description: truncate(p.description, 300) } : {}),
+        ...(p.price ? { offers: { "@type": "Offer", price: String(p.price), priceCurrency: p.currency || "USD",
+          availability: `https://schema.org/${p.availability === "Out of stock" ? "OutOfStock" : "InStock"}`, url: p._canonical } } : {}) };
       writeFile(path.join(repo, "catalog", "product", p.slug, "index.html"), page({
         title: `${p.name} | TrendHolic ${p.top_category}`,
         desc: truncate(`${p.name} — ${p.top_category} in the TrendHolic catalog.`, 155),
@@ -233,19 +244,23 @@ function main() {
           </div>
           <div class="info">
             <span class="tag">${esc(p.top_category)}</span><h1>${esc(p.name)}</h1>
+            ${p.brand ? `<div class="p-brand">${esc(p.brand)}</div>` : ""}
+            ${p.price ? `<div class="price">${curSym(p.currency)}${esc(p.price)}${p.compare_at_price && p.compare_at_price !== p.price ? ` <s>${curSym(p.currency)}${esc(p.compare_at_price)}</s>` : ""}</div>` : ""}
             <div class="buy">
               <div class="qtyctl"><button type="button" class="q-dec" aria-label="Decrease quantity">−</button><input class="q-in" type="number" min="1" value="1" aria-label="Quantity"><button type="button" class="q-inc" aria-label="Increase quantity">+</button></div>
-              <button type="button" class="add-cart wa-add" data-slug="${esc(p.slug)}" data-name="${esc(p.name)}" data-ref="${esc(p.model_number || p.sku || p.parent_product_id || "")}" data-price="${esc(p.price ?? "")}" data-currency="${esc(p.currency || "$")}" data-image="${esc(imgs[0]?.src || "")}" data-url="${esc(p._url)}">Add to Cart</button>
+              <button type="button" class="add-cart wa-add" data-slug="${esc(p.slug)}" data-name="${esc(p.name)}" data-ref="${esc(p.model_number || p.sku || p.parent_product_id || "")}" data-price="${esc(p.price ?? "")}" data-currency="${esc(curSym(p.currency))}" data-image="${esc(imgs[0]?.src || "")}" data-url="${esc(p._url)}">Add to Cart</button>
             </div>
             <dl class="kv">
               <dt>Brand</dt><dd>${na(p.brand)}</dd>
+              ${p.size ? `<dt>Size</dt><dd>${na(p.size)}</dd>` : ""}
               <dt>Model</dt><dd>${na(p.model_number)}</dd>
               <dt>SKU</dt><dd>${na(p.sku)}</dd>
               <dt>Product ID</dt><dd>${na(p.parent_product_id)}</dd>
               <dt>Description</dt><dd>${na(p.description)}</dd>
               <dt>Materials</dt><dd>${na(p.materials)}</dd>
               <dt>Dimensions</dt><dd>${na(p.dimensions)}</dd>
-              <dt>Price</dt><dd>${na(p.price)}</dd>
+              <dt>Price</dt><dd>${p.price ? `${curSym(p.currency)}${esc(p.price)}` : na(p.price)}</dd>
+              ${p.availability ? `<dt>Availability</dt><dd>${na(p.availability)}</dd>` : ""}
               <dt>Images</dt><dd>${imgs.length}</dd>
             </dl>
           </div>
@@ -281,7 +296,7 @@ a{color:inherit;text-decoration:none}img{max-width:100%}
 .cat-main{max-width:1180px;margin:0 auto;padding:20px}
 .hero{padding:22px 0 8px}.hero h1{margin:0;font-size:1.9rem}.hero p{color:var(--muted);margin:6px 0 0}
 .sec{font-size:1rem;text-transform:uppercase;letter-spacing:.06em;color:var(--gold);margin:26px 0 12px}.muted{color:var(--muted)}
-.tops{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:18px 0}
+.tops{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:18px 0}
 @media(max-width:640px){.tops{grid-template-columns:repeat(2,1fr)}}
 .topcard{background:var(--surface);border:1px solid var(--rule);border-radius:14px;padding:22px 16px;display:flex;flex-direction:column;gap:6px}
 .topcard:hover{border-color:var(--gold)}.tn{font-weight:700;font-size:1.1rem}.tc{color:var(--muted);font-size:.85rem}
@@ -293,6 +308,10 @@ a{color:inherit;text-decoration:none}img{max-width:100%}
 .card:hover{border-color:var(--gold)}.card img,.card .ph{width:100%;height:180px;object-fit:cover;background:var(--surface2)}
 .cb{padding:10px 12px;display:flex;flex-direction:column;gap:3px}.tag{font-size:.66rem;text-transform:uppercase;letter-spacing:.05em;color:var(--gold);font-weight:700}
 .nm{font-size:.85rem;font-weight:600;line-height:1.25}
+.br{font-size:.72rem;color:var(--muted)}
+.pr{font-size:.9rem;font-weight:700;color:var(--gold);margin-top:2px}.pr s{color:var(--muted);font-weight:400;font-size:.78rem}
+.p-brand{color:var(--muted);font-size:.9rem;margin:2px 0}
+.price{font-size:1.35rem;font-weight:700;color:var(--gold);margin:8px 0}.price s{color:var(--muted);font-weight:400;font-size:1rem;margin-left:6px}
 .crumb{font-size:.82rem;color:var(--muted);margin:6px 0 14px}.crumb a:hover{color:var(--gold)}
 .detail{display:grid;grid-template-columns:minmax(0,1.1fr) 1fr;gap:26px}@media(max-width:760px){.detail{grid-template-columns:1fr}}
 .gallery #main-img{width:100%;border-radius:12px;border:1px solid var(--rule);background:var(--surface2)}

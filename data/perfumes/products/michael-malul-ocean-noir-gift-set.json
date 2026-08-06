@@ -1,0 +1,87 @@
+{
+  "slug": "michael-malul-ocean-noir-gift-set",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8490333405367",
+  "source_parent_product_id": "8490333405367",
+  "source_product_url": "https://habibiperfumes.store/products/michael-malul-ocean-noir-gift-set",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/michael-malul-ocean-noir-gift-set/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/michael-malul-ocean-noir-gift-set"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulOceanNoirGiftSet1_5446edb6-324b-490e-97e4-3d2c06696793.jpg?v=1772983271",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulOceanNoirGiftSet3_6ca9fe8d-db7f-4ae9-a3fa-7eebf73de9d4.webp?v=1772983271",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulOceanNoirGiftSet4_1214e215-b9e0-4057-b7f1-aea1bbba1b99.jpg?v=1772983271"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Michael Malul Ocean Noir Gift Set",
+  "english_product_name": "Michael Malul Ocean Noir Gift Set",
+  "original_product_name": null,
+  "brand": "Michael Malul",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490333405367",
+  "parent_product_id": "8490333405367",
+  "description": "The Michael Malul Ocean Noir Gift Set captures the fresh, confident character of Ocean Noir in a premium presentation perfect for gifting. This set features the signature Ocean Noir fragrance along with complementary grooming items, delivering a complete scent experience inspired by the power and mystery of the ocean. Ocean Noir opens with vibrant citrus and marine freshness that immediately feels crisp and invigorating. The heart introduces aromatic herbs and subtle spices, adding masculine depth and sophistication. The base settles into smooth woods, amber, and musk, creating a clean yet powerful trail that feels modern, confident, and long-lasting. This gift set is perfect for men who enjoy fresh aquatic fragrances with a refined woody backbone.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "149.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "149.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/michael-malul-ocean-noir-gift-set-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulOceanNoirGiftSet1_5446edb6-324b-490e-97e4-3d2c06696793.jpg?v=1772983271",
+      "content_hash": "dc0ba227f4def523a387cb5627273d77386562e0",
+      "alt": "Michael Malul Ocean Noir Gift Set"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-ocean-noir-gift-set-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulOceanNoirGiftSet3_6ca9fe8d-db7f-4ae9-a3fa-7eebf73de9d4.webp?v=1772983271",
+      "content_hash": "b118351ed6281d5ea68c60e9fa4e9366230a72ec",
+      "alt": "Michael Malul Ocean Noir Gift Set"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-ocean-noir-gift-set-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulOceanNoirGiftSet4_1214e215-b9e0-4057-b7f1-aea1bbba1b99.jpg?v=1772983271",
+      "content_hash": "e848a8e7bf740903e29bf271665867a907ce1285",
+      "alt": "Michael Malul Ocean Noir Gift Set"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

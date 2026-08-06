@@ -1,0 +1,80 @@
+{
+  "slug": "club-de-nuit-intense-man-by-armaf-3-6-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8216653529271",
+  "source_parent_product_id": "8216653529271",
+  "source_product_url": "https://habibiperfumes.store/products/club-de-nuit-intense-man-by-armaf-3-6-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/club-de-nuit-intense-man-by-armaf-3-6-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/club-de-nuit-intense-man-by-armaf-3-6-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_2.webp?v=1755805785",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_3.webp?v=1755805785"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Armaf Club de Nuit Intense Man Eau de Toilette 3.6 oz",
+  "english_product_name": "Armaf Club de Nuit Intense Man Eau de Toilette 3.6 oz",
+  "original_product_name": null,
+  "brand": "Armaf",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8216653529271",
+  "parent_product_id": "8216653529271",
+  "description": "Club de Nuit Intense Man by Armaf is a bold woody-spicy fragrance launched in 2015. It opens with a vibrant burst of lemon, pineapple, apple, bergamot, and black currant. The heart reveals floral and smoky tones with jasmine, rose, and birch. It finishes with a warm, rich base of vanilla, musk, patchouli, and ambergris for strong longevity and sillage. Ideal for men who want a high-impact scent for evening wear or special events.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "31.99",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "31.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/club-de-nuit-intense-man-by-armaf-3-6-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_2.webp?v=1755805785",
+      "content_hash": "b7d194bafccf880650fad9f5f5e2c79b925d9399",
+      "alt": "Armaf Club de Nuit Intense Man Eau de Toilette 3.6 oz"
+    },
+    {
+      "src": "/data/perfumes/images/club-de-nuit-intense-man-by-armaf-3-6-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/shopping_3.webp?v=1755805785",
+      "content_hash": "152bf5d8f21d22e6bac77378d270151e9d86ab59",
+      "alt": "Armaf Club de Nuit Intense Man Eau de Toilette 3.6 oz"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

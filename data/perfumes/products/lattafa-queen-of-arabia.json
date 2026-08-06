@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-queen-of-arabia",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8504347623607",
+  "source_parent_product_id": "8504347623607",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-queen-of-arabia",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-queen-of-arabia/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-queen-of-arabia"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQueenofArabia.webp?v=1773707911",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQueenofArabia2.jpg?v=1773707911",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQueenofArabia3.webp?v=1773707911"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Queen of Arabia Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Queen of Arabia Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8504347623607",
+  "parent_product_id": "8504347623607",
+  "description": "Queen of Arabia is a soft yet elegant fragrance that blends sweet fruits with delicate florals and warm amber. The scent feels feminine, smooth, and inviting, offering a graceful balance between sweetness and warmth. The opening introduces fruity notes with a gentle sweetness, creating a bright and uplifting first impression. The heart develops into soft floral accords that add elegance and a romantic character to the fragrance. The base settles into amber and musk, leaving a warm, smooth, and long-lasting trail. Queen of Arabia is perfect for those who enjoy sweet floral fragrances with a warm amber finish and a soft feminine touch.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-queen-of-arabia-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQueenofArabia.webp?v=1773707911",
+      "content_hash": "b4187db0ee7b153e056f7ef0e16ece6a38f02fde",
+      "alt": "Lattafa Queen of Arabia Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-queen-of-arabia-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQueenofArabia2.jpg?v=1773707911",
+      "content_hash": "e85ded143f9c2b6eeaba5cf0acf6815d56bf477d",
+      "alt": "Lattafa Queen of Arabia Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-queen-of-arabia-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaQueenofArabia3.webp?v=1773707911",
+      "content_hash": "e801959fc0b21f643e4eba6cfa8fe0607d012721",
+      "alt": "Lattafa Queen of Arabia Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

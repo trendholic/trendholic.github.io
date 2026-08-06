@@ -1,0 +1,101 @@
+{
+  "slug": "lattafa-afaq-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8558626701495",
+  "source_parent_product_id": "8558626701495",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-afaq-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-afaq-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-afaq-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAfaq5.webp?v=1777654369",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAfaq4.jpg?v=1777654369",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAfaq3.jpg?v=1777654370",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAfaq1.webp?v=1777654369",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAfaq.jpg?v=1777654369"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Afaq Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Afaq Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8558626701495",
+  "parent_product_id": "8558626701495",
+  "description": "Afaq is a smooth and modern fragrance that blends juicy fruits with soft florals and a creamy gourmand base. The scent feels elegant, slightly sweet, and versatile, offering a refined balance between freshness and warmth. The opening introduces a bright blend of pear and cassis, creating a juicy, slightly tart sweetness that feels fresh and inviting. The heart develops into jasmine and tuberose, adding a soft, creamy floral layer that enhances the elegance and depth of the fragrance. The base settles into vanilla, musk, and sandalwood, leaving a smooth, warm, and long-lasting trail that feels creamy, clean, and comforting. Afaq is perfect for those who enjoy fruity-floral fragrances with a soft gourmand twist and a clean, musky finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-afaq-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAfaq5.webp?v=1777654369",
+      "content_hash": "0b9f1c7a0c83e00968a56e751b4d2c4b205c2da4",
+      "alt": "Lattafa Afaq Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-afaq-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAfaq4.jpg?v=1777654369",
+      "content_hash": "1f892eb89d285a548a7b592a474bed309305e6ab",
+      "alt": "Lattafa Afaq Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-afaq-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAfaq3.jpg?v=1777654370",
+      "content_hash": "31105d7027770df07a54ecf772011faf7c21c5b7",
+      "alt": "Lattafa Afaq Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-afaq-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAfaq1.webp?v=1777654369",
+      "content_hash": "25af39e58c78a87d6b12dcb239f3e4a7bb45c74f",
+      "alt": "Lattafa Afaq Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-afaq-eau-de-parfum-100-ml-3-4-oz-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaAfaq.jpg?v=1777654369",
+      "content_hash": "1ab546001075edd83325d2ac9bc37ab61407d682",
+      "alt": "Lattafa Afaq Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

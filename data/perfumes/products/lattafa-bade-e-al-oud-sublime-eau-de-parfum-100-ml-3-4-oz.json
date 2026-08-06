@@ -1,0 +1,80 @@
+{
+  "slug": "lattafa-bade-e-al-oud-sublime-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8314059391159",
+  "source_parent_product_id": "8314059391159",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-bade-e-al-oud-sublime-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-bade-e-al-oud-sublime-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-bade-e-al-oud-sublime-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaBade_eAlOudSublime.jpg?v=1765944204",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaBade_eAlOudSublime2.jpg?v=1765944204"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Bade’e Al Oud Sublime Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Bade’e Al Oud Sublime Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8314059391159",
+  "parent_product_id": "8314059391159",
+  "description": "Bade’e Al Oud Sublime by Lattafa is a sweet, fruity, gourmand-woody fragrance that blends juicy fruits with smooth oud and warm amber. It opens with ripe plum, apple, and fruity sweetness, creating a bright, mouthwatering first impression. The heart develops into floral notes and soft woods, balancing the sweetness with elegance and depth. The base settles into oud, vanilla, amber, and musk, delivering a smooth, cozy, long-lasting trail that feels addictive and comforting rather than smoky. This fragrance is ideal for customers who love sweet fruity gourmands with a refined Middle Eastern touch and excellent performance.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-bade-e-al-oud-sublime-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaBade_eAlOudSublime.jpg?v=1765944204",
+      "content_hash": "1c38394a2d77db4d924d8f22b1dcb19fbd894206",
+      "alt": "Lattafa Bade’e Al Oud Sublime Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-bade-e-al-oud-sublime-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaBade_eAlOudSublime2.jpg?v=1765944204",
+      "content_hash": "2e3095b23c6c1adb8ef4040b0b67e9cecce536f6",
+      "alt": "Lattafa Bade’e Al Oud Sublime Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

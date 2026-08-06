@@ -1,0 +1,101 @@
+{
+  "slug": "lattafa-pride-leen",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8680072085687",
+  "source_parent_product_id": "8680072085687",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-pride-leen",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-pride-leen/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-pride-leen"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1_d96cc5c0-4200-46d5-a044-d85be05a3ca1.png?v=1784568601",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2_f015b9ae-9658-41ed-a216-104c63fa38de.png?v=1784568601",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/03ylyuibhq.png?v=1784568601",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/03t2pyds37.png?v=1784568601",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3_de9ed40e-e50c-4d5e-b10c-4ab200fca031.png?v=1784568601"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Pride Leen Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Pride Leen Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa Pride",
+  "sku": "6290360592305",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8680072085687",
+  "parent_product_id": "8680072085687",
+  "description": "Lattafa Pride Leen Eau de Parfum is a soft oriental-fruity floral fragrance with a bright spicy opening of ginger, bergamot, turmeric and pink pepper. Mango, jasmine, tuberose, osmanthus and black pepper create a lush floral heart, while sandalwood, musk and incense leave a smooth, warm finish. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.50",
+      "compare_at_price": "49.99",
+      "sku": "6290360592305",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-pride-leen-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1_d96cc5c0-4200-46d5-a044-d85be05a3ca1.png?v=1784568601",
+      "content_hash": "54b8dd90ee9dbeb066fc3b51dfc7f487292987db",
+      "alt": "Lattafa Pride Leen Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-pride-leen-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2_f015b9ae-9658-41ed-a216-104c63fa38de.png?v=1784568601",
+      "content_hash": "3601db0b5107fce3b833a2d81750905b3e9babaf",
+      "alt": "Lattafa Pride Leen Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-pride-leen-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/03ylyuibhq.png?v=1784568601",
+      "content_hash": "7ebf49d29ec1efd74627fa3ade025c2612d6d165",
+      "alt": "Lattafa Pride Leen Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-pride-leen-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/03t2pyds37.png?v=1784568601",
+      "content_hash": "d0ecf72eab0c9fa2be57439ef82fd144613d0f7e",
+      "alt": "Lattafa Pride Leen Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-pride-leen-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3_de9ed40e-e50c-4d5e-b10c-4ab200fca031.png?v=1784568601",
+      "content_hash": "c32a41a453594971b6fb25122362359e7323cba8",
+      "alt": "Lattafa Pride Leen Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

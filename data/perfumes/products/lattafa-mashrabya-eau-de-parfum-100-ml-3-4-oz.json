@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-mashrabya-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8349858103479",
+  "source_parent_product_id": "8349858103479",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-mashrabya-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-mashrabya-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-mashrabya-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMashrabya3.webp?v=1767140158",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMashrabya2.jpg?v=1767140158",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMashrabya.jpg?v=1767140158"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Mashrabya Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Mashrabya Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8349858103479",
+  "parent_product_id": "8349858103479",
+  "description": "Mashrabya by Lattafa is a bold, deep fragrance built around smoky oud, warm resins, and rich sweetness , delivering a powerful Middle Eastern character. The opening introduces a warm, slightly sweet resinous tone that immediately feels dark and luxurious. The heart develops into smoky oud and woody depth , creating an intense, confident presence. In the base, amber, vanilla sweetness, and smooth woods soften the darkness, leaving a long-lasting, addictive trail that feels rich and enveloping. Mashrabya is designed for those who enjoy strong projection, deep warmth, and unapologetic oud intensity .",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-mashrabya-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMashrabya3.webp?v=1767140158",
+      "content_hash": "01d04c6ae26f76b0ab77e679433daccec2496001",
+      "alt": "Lattafa Mashrabya Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-mashrabya-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMashrabya2.jpg?v=1767140158",
+      "content_hash": "05d83d4e1734dade270d93b18d617147f08985a9",
+      "alt": "Lattafa Mashrabya Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-mashrabya-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMashrabya.jpg?v=1767140158",
+      "content_hash": "23c358031fcdc5b15ed54f9055e0f0d281c8b39c",
+      "alt": "Lattafa Mashrabya Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

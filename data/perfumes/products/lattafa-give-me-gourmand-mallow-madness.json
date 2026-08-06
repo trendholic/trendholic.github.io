@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-give-me-gourmand-mallow-madness",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8573484269751",
+  "source_parent_product_id": "8573484269751",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-give-me-gourmand-mallow-madness",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-give-me-gourmand-mallow-madness/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-give-me-gourmand-mallow-madness"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/15.png?v=1778861451",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/8.png?v=1778861451",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/9_233b481d-4156-44b4-aa47-86f141f24bac.png?v=1778861451"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Give Me Gourmand Mallow Madness Eau de Parfum 75 ml (2.5 oz)",
+  "english_product_name": "Lattafa Give Me Gourmand Mallow Madness Eau de Parfum 75 ml (2.5 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6290362349686",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8573484269751",
+  "parent_product_id": "8573484269751",
+  "description": "Lattafa Give Me Gourmand Mallow Madness is a 75 ml / 2.5 oz Eau de Parfum with a sweet marshmallow berry gourmand profile. Verified official notes include strawberry and raspberry on top, marshmallow and freesia in the heart, and vanilla, cream, and musk in the base.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.5 oz / 75 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "49.99",
+      "sku": "6290362349686",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-give-me-gourmand-mallow-madness-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/15.png?v=1778861451",
+      "content_hash": "d4d960bb2f447d812794cb08a02040293f83ca7e",
+      "alt": "Lattafa Give Me Gourmand Mallow Madness Eau de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-give-me-gourmand-mallow-madness-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/8.png?v=1778861451",
+      "content_hash": "2d50b5b149fb2f5bd694872ab4dc624738548e0d",
+      "alt": "Lattafa Give Me Gourmand Mallow Madness Eau de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-give-me-gourmand-mallow-madness-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/9_233b481d-4156-44b4-aa47-86f141f24bac.png?v=1778861451",
+      "content_hash": "9806e8ad29e5ca940fad6150aeed9ef60d628252",
+      "alt": "Lattafa Give Me Gourmand Mallow Madness Eau de Parfum 75 ml (2.5 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

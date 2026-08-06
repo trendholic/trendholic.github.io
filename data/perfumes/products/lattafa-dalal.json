@@ -1,0 +1,101 @@
+{
+  "slug": "lattafa-dalal",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8622864138423",
+  "source_parent_product_id": "8622864138423",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-dalal",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-dalal/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-dalal"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDalalEDP100mlSpray.png?v=1782343527",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDalalEDP100mlSprayBoxBottle.png?v=1782343527",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDalalEDP100mlSprayBox.png?v=1782343527",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/018wgyd82t.png?v=1782343527",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/0222asdkj7.png?v=1782343527"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Dalal Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Dalal Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": "6290360598925",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8622864138423",
+  "parent_product_id": "8622864138423",
+  "description": "Lattafa Dalal Eau de Parfum for women is a warm gourmand floral fragrance. Golden Delicious apple and mandarin open the scent, followed by ylang-ylang, jasmine and orange flower. Vanilla, musk and oakmoss create a comforting, elegant base. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": "59.99",
+      "sku": "6290360598925",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-dalal-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDalalEDP100mlSpray.png?v=1782343527",
+      "content_hash": "3d5804c7d78e5090e4eba95061c3532f817b6f5a",
+      "alt": "Lattafa Dalal Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-dalal-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDalalEDP100mlSprayBoxBottle.png?v=1782343527",
+      "content_hash": "9dbe6620a40c363fe697afc42544351a5185f9b7",
+      "alt": "Lattafa Dalal Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-dalal-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaDalalEDP100mlSprayBox.png?v=1782343527",
+      "content_hash": "565ad82c727aaf5660f1b9d3ea2908cb97b8bcca",
+      "alt": "Lattafa Dalal Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-dalal-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/018wgyd82t.png?v=1782343527",
+      "content_hash": "e67638527d460d8406469925228b695082aea567",
+      "alt": "Lattafa Dalal Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-dalal-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/0222asdkj7.png?v=1782343527",
+      "content_hash": "86190cacbbf4fe72c746504341f41723c930061c",
+      "alt": "Lattafa Dalal Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "rayhaan-elixir-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8270546534583",
+  "source_parent_product_id": "8270546534583",
+  "source_product_url": "https://habibiperfumes.store/products/rayhaan-elixir-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rayhaan-elixir-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rayhaan-elixir-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.95265.jpg?v=1763601153",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71k-Pi-sMdL._AC_UF350_350_QL80.jpg?v=1763601153",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_11.jpg?v=1763601153",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_10.jpg?v=1763601153"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rayhaan Elixir Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rayhaan Elixir Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rayhaan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8270546534583",
+  "parent_product_id": "8270546534583",
+  "description": "Elixir by Rayhaan opens with fresh top notes of bergamot and lavender. The heart reveals armoise (wormwood) and honey, offering a warm and slightly aromatic mid. The base is anchored by benzoin, vanilla, and tonka bean—creating a rich, inviting dry-down that lingers. This fragrance is smooth, sweet, warm, and versatile—perfect for evenings or cooler weather when you want something rich yet wearable.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "29.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "29.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rayhaan-elixir-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.95265.jpg?v=1763601153",
+      "content_hash": "d9c107731146e0720a3fd1ed6a29784a3322035e",
+      "alt": "Rayhaan Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-elixir-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71k-Pi-sMdL._AC_UF350_350_QL80.jpg?v=1763601153",
+      "content_hash": "7de6c29181ba4b572bd504e9ae7cdb872556a04f",
+      "alt": "Rayhaan Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-elixir-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_11.jpg?v=1763601153",
+      "content_hash": "7045d572108328a661b0119741f1531f49301888",
+      "alt": "Rayhaan Elixir Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rayhaan-elixir-eau-de-parfum-100-ml-3-4-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_10.jpg?v=1763601153",
+      "content_hash": "2ad226314a6f2e1bde2a308b2c9ff812c5a09eee",
+      "alt": "Rayhaan Elixir Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

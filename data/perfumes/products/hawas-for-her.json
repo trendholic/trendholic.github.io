@@ -1,0 +1,64 @@
+{
+  "slug": "hawas-for-her",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": null,
+  "source_category_original": null,
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "8241903141047",
+  "source_parent_product_id": "8241903141047",
+  "source_product_url": "https://habibiperfumes.store/products/hawas-for-her",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/hawas-for-her/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/hawas-for-her"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rn-image_picker_lib_temp_ba143190-bb5d-46be-9620-927cbf020892.jpg?v=1765793249"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Hawas For Her",
+  "english_product_name": "Hawas For Her",
+  "original_product_name": null,
+  "brand": "Nan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241903141047",
+  "parent_product_id": "8241903141047",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "31.99",
+      "compare_at_price": "34.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "31.99",
+  "compare_at_price": "34.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/hawas-for-her-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rn-image_picker_lib_temp_ba143190-bb5d-46be-9620-927cbf020892.jpg?v=1765793249",
+      "content_hash": "38bb1e09098e88f77d00632d7d30a06a91e4cc9a",
+      "alt": "Hawas For Her"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

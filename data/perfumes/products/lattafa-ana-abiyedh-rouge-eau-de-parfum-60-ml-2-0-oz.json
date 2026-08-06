@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-ana-abiyedh-rouge-eau-de-parfum-60-ml-2-0-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8504345329847",
+  "source_parent_product_id": "8504345329847",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-ana-abiyedh-rouge-eau-de-parfum-60-ml-2-0-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-ana-abiyedh-rouge-eau-de-parfum-60-ml-2-0-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-ana-abiyedh-rouge-eau-de-parfum-60-ml-2-0-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/anaabiyedhrouge3.webp?v=1773707121",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/anaabiyedhrouge2.jpg?v=1773707121",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/anaabiyedhrouge.webp?v=1773707121"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Ana Abiyedh Rouge Eau de Parfum 60 ml (2.0 oz)",
+  "english_product_name": "Lattafa Ana Abiyedh Rouge Eau de Parfum 60 ml (2.0 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8504345329847",
+  "parent_product_id": "8504345329847",
+  "description": "Ana Abiyedh Rouge is a warm, radiant fragrance that blends sweet amber with airy florals and a distinctive saffron signature. The scent feels luminous, slightly sweet, and elegant, with a smooth balance between warmth and freshness. The opening introduces saffron and delicate jasmine, creating a bright, slightly spicy floral accord. The heart develops into warm amber and sweet notes that add depth, richness, and a soft glowing character. The base settles into musk and woody accords, leaving a clean, long-lasting, and slightly airy trail. Ana Abiyedh Rouge is perfect for those who enjoy sweet amber fragrances with a saffron-floral brightness and a smooth musky finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.0 oz / 60 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.99",
+      "compare_at_price": "29.99",
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.99",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-ana-abiyedh-rouge-eau-de-parfum-60-ml-2-0-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/anaabiyedhrouge3.webp?v=1773707121",
+      "content_hash": "0dbf3351fb82e05a55cae45e732ce3e720d13e33",
+      "alt": "Lattafa Ana Abiyedh Rouge Eau de Parfum 60 ml (2.0 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-ana-abiyedh-rouge-eau-de-parfum-60-ml-2-0-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/anaabiyedhrouge2.jpg?v=1773707121",
+      "content_hash": "43559360ed80bd8c6d1640439e5e665671bd1e51",
+      "alt": "Lattafa Ana Abiyedh Rouge Eau de Parfum 60 ml (2.0 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-ana-abiyedh-rouge-eau-de-parfum-60-ml-2-0-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/anaabiyedhrouge.webp?v=1773707121",
+      "content_hash": "af11dc404a2891a67533c1a8ce70591ec8367bb8",
+      "alt": "Lattafa Ana Abiyedh Rouge Eau de Parfum 60 ml (2.0 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

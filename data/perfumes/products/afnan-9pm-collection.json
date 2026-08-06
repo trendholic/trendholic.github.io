@@ -1,0 +1,73 @@
+{
+  "slug": "afnan-9pm-collection",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Perfume Bundle",
+  "source_category_original": "Perfume Bundle",
+  "source_categories": [
+    {
+      "name": "Perfume Bundle",
+      "slug": "perfume-bundle",
+      "source_path": "Perfume Bundle",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "perfume-bundle"
+  ],
+  "source_product_id": "8681080979639",
+  "source_parent_product_id": "8681080979639",
+  "source_product_url": "https://habibiperfumes.store/products/afnan-9pm-collection",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/afnan-9pm-collection/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/afnan-9pm-collection"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_a7fec2de-b607-4b79-9c2a-40618faf8ddd.png?v=1784662287"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Afnan 9PM Collection",
+  "english_product_name": "Afnan 9PM Collection",
+  "original_product_name": null,
+  "brand": "Habibi Perfumes",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8681080979639",
+  "parent_product_id": "8681080979639",
+  "description": "Discover Afnan 9PM Collection, a curated fragrance set from Habibi Perfumes Miami. Bundle includes Afnan 9PM - 100 ml Afnan 9PM Elixir - 100 ml Afnan 9PM Night Out - 100 ml Each item is a full-size fragrance. Products are packaged together as one bundle listing.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "114.50",
+      "compare_at_price": "139.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "114.50",
+  "compare_at_price": "139.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/afnan-9pm-collection-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_a7fec2de-b607-4b79-9c2a-40618faf8ddd.png?v=1784662287",
+      "content_hash": "90dcb1c186ae4a88642c0718e237efcb58983cc1",
+      "alt": "Afnan 9PM Collection"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

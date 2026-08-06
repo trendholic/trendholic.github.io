@@ -1,0 +1,87 @@
+{
+  "slug": "michael-malul-jet-black-intense-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8490343301303",
+  "source_parent_product_id": "8490343301303",
+  "source_product_url": "https://habibiperfumes.store/products/michael-malul-jet-black-intense-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/michael-malul-jet-black-intense-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/michael-malul-jet-black-intense-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJetBlackIntense3.jpg?v=1772984888",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJetBlackIntense2.jpg?v=1772984869",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJetBlackIntense1.jpg?v=1772984869"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Michael Malul Jet Black Intense Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Michael Malul Jet Black Intense Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Michael Malul",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490343301303",
+  "parent_product_id": "8490343301303",
+  "description": "Michael Malul Jet Black Intense is a bold and seductive fragrance that blends warm spices, smooth woods, and rich amber into a powerful masculine signature. The scent is deeper and more intense than the original Jet Black, designed for confidence, sophistication, and evening wear. The opening introduces vibrant bergamot and cardamom, creating a fresh yet spicy energy that immediately captures attention. The heart develops into aromatic lavender and subtle florals, adding elegance and smooth masculine balance. The base settles into amber, patchouli, and dark woods, leaving a warm, smoky trail that feels refined, mysterious, and long-lasting. Jet Black Intense is perfect for men who enjoy bold fragrances with warm spice, woody depth, and strong presence.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "119.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "119.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/michael-malul-jet-black-intense-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJetBlackIntense3.jpg?v=1772984888",
+      "content_hash": "6877ed3c2d94e7984c71de1dfb3f4c3ae41c4d35",
+      "alt": "Michael Malul Jet Black Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-jet-black-intense-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJetBlackIntense2.jpg?v=1772984869",
+      "content_hash": "c880443992eabc3253135ec95a0bcd9a35e5a48f",
+      "alt": "Michael Malul Jet Black Intense Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-jet-black-intense-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJetBlackIntense1.jpg?v=1772984869",
+      "content_hash": "e5c0254a3acfcb5b8c222fd84d0612cfb5088d3e",
+      "alt": "Michael Malul Jet Black Intense Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

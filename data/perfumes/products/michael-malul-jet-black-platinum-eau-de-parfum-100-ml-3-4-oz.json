@@ -1,0 +1,87 @@
+{
+  "slug": "michael-malul-jet-black-platinum-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8490344972471",
+  "source_parent_product_id": "8490344972471",
+  "source_product_url": "https://habibiperfumes.store/products/michael-malul-jet-black-platinum-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/michael-malul-jet-black-platinum-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/michael-malul-jet-black-platinum-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJetBlackPlatinum3.avif?v=1772985069",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJetBlackPlatinum2.jpg?v=1772985069",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJetBlackPlatinum1.jpg?v=1772985069"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Michael Malul Jet Black Platinum Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Michael Malul Jet Black Platinum Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Michael Malul",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490344972471",
+  "parent_product_id": "8490344972471",
+  "description": "Michael Malul Jet Black Platinum is a fresh yet sophisticated fragrance that blends bright citrus, aromatic spices, and smooth woods for a refined masculine scent. It delivers a clean, modern character while maintaining depth and warmth. The opening introduces sparkling citrus and fresh aromatics, creating an energizing and crisp first impression. The heart develops into warm spices and subtle florals that add elegance and structure to the fragrance. The base settles into amber, musk, and smooth woods, leaving a refined, long-lasting trail that feels clean, confident, and modern. Jet Black Platinum is perfect for men who enjoy fresh fragrances with a polished woody backbone that works effortlessly for daily wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "119.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "119.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/michael-malul-jet-black-platinum-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJetBlackPlatinum3.avif?v=1772985069",
+      "content_hash": "a17d75010ef598648fbc6314a33fee43e50da169",
+      "alt": "Michael Malul Jet Black Platinum Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-jet-black-platinum-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJetBlackPlatinum2.jpg?v=1772985069",
+      "content_hash": "5f2ed1d70b0c802bd3ce64942e02f244289ad777",
+      "alt": "Michael Malul Jet Black Platinum Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/michael-malul-jet-black-platinum-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/MichaelMalulJetBlackPlatinum1.jpg?v=1772985069",
+      "content_hash": "d79f9bffe32db0a84ae6cce67762fd23dd71146a",
+      "alt": "Michael Malul Jet Black Platinum Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

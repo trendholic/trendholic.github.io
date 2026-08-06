@@ -1,0 +1,87 @@
+{
+  "slug": "electric",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8241903173815",
+  "source_parent_product_id": "8241903173815",
+  "source_product_url": "https://habibiperfumes.store/products/electric",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/electric/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/electric"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/TurathiElectric.webp?v=1760363299",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200.png?v=1760363299",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81_MeeAUwcL._UF350_350_QL80.jpg?v=1760363299"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Afnan Turathi Electric Unisex Eau de Parfum 90ml (3.0 oz)",
+  "english_product_name": "Afnan Turathi Electric Unisex Eau de Parfum 90ml (3.0 oz)",
+  "original_product_name": null,
+  "brand": "Afnan",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241903173815",
+  "parent_product_id": "8241903173815",
+  "description": "Turathi Electric by Afnan is a sparkling, energetic fragrance that captures a summer breeze in a bottle. It opens with fresh bursts of bergamot, pink grapefruit, pear, and mandarin orange , followed by a heart of apple, cedarwood, and orange blossom . The base settles into vanilla, amber, musk, and ambroxan , giving it a warm and sensual dry-down.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/electric-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/TurathiElectric.webp?v=1760363299",
+      "content_hash": "14e7fa5a5b37e5e53d23dddb1ac39a1d4993e1b3",
+      "alt": "Afnan Turathi Electric Unisex Eau de Parfum 90ml (3.0 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/electric-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200.png?v=1760363299",
+      "content_hash": "15101edb7b0d997a3dd2292c3261531540632a4d",
+      "alt": "Afnan Turathi Electric Unisex Eau de Parfum 90ml (3.0 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/electric-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81_MeeAUwcL._UF350_350_QL80.jpg?v=1760363299",
+      "content_hash": "2175f59ed9bb01d8c2fe701410f22948d141c789",
+      "alt": "Afnan Turathi Electric Unisex Eau de Parfum 90ml (3.0 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "safa",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8241893015735",
+  "source_parent_product_id": "8241893015735",
+  "source_product_url": "https://habibiperfumes.store/products/safa",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/safa/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/safa"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.115550.jpg?v=1762721686",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_20.jpg?v=1762721686",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/en-p_c_115550.jpg?v=1762721686",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/9_1100x_4565bf0a-0768-4bd1-80d3-bea268003383.webp?v=1762721686"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Arabiyat Safa Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Arabiyat Safa Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Arabiyat Prestige",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8241893015735",
+  "parent_product_id": "8241893015735",
+  "description": "Safa by Arabiyat opens with a bright and sweet blend of red fruits, citrus, and fresh florals , giving a juicy and feminine introduction. The heart develops into a smooth mix of rose, jasmine, and soft creamy notes , adding elegance and gentle warmth. The base settles into vanilla, musk, amber, and delicate woods , creating a sensual, long-lasting finish with a soft sweetness. Safa is known for its clean, fruity-floral profile with a warm creamy dry-down — a beautiful everyday signature scent that feels youthful, modern, and classy.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.99",
+      "compare_at_price": "55.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.99",
+  "compare_at_price": "55.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/safa-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.115550.jpg?v=1762721686",
+      "content_hash": "7296a0c193a6dcb663d248944e6bed8f33695028",
+      "alt": "Arabiyat Safa Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/safa-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_20.jpg?v=1762721686",
+      "content_hash": "f5ae1d18a8e6668791501c4db423b015085b1b6d",
+      "alt": "Arabiyat Safa Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/safa-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/en-p_c_115550.jpg?v=1762721686",
+      "content_hash": "5f011ac4da270df8695e8193205a4ac02e42b5b2",
+      "alt": "Arabiyat Safa Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/safa-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/9_1100x_4565bf0a-0768-4bd1-80d3-bea268003383.webp?v=1762721686",
+      "content_hash": "08bc50202ac8ea28302c0611734899b2c6c641e0",
+      "alt": "Arabiyat Safa Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

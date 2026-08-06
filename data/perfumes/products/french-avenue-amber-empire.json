@@ -1,0 +1,87 @@
+{
+  "slug": "french-avenue-amber-empire",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8484394172599",
+  "source_parent_product_id": "8484394172599",
+  "source_product_url": "https://habibiperfumes.store/products/french-avenue-amber-empire",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/french-avenue-amber-empire/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/french-avenue-amber-empire"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueAmberEmpire.png?v=1772663516",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueAmberEmpire3.jpg?v=1772663516",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueAmberEmpire2.webp?v=1772663515"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "French Avenue Amber Empire Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "French Avenue Amber Empire Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8484394172599",
+  "parent_product_id": "8484394172599",
+  "description": "French Avenue Amber Empire is a rich amber-oriental fragrance that blends smooth sweetness with warm woods and subtle spice. Released in 2025 , it’s designed for men who want a bold, elegant scent with depth and sophistication. The opening introduces warm oriental notes mixed with creamy vanilla, soft cashmere wood, and a hint of liquor that creates a smooth, slightly boozy sweetness. The heart reveals glowing amber combined with cedarwood and sugar cane, adding warmth and refined sweetness. The base settles into tonka bean, sandalwood, musk, and labdanum, producing a deep, smooth, long-lasting trail with luxurious amber warmth. Amber Empire is ideal for evening wear and cooler weather, delivering a confident, sophisticated presence with a warm amber signature.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/french-avenue-amber-empire-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueAmberEmpire.png?v=1772663516",
+      "content_hash": "4bcaa22f0425f5dbe5790d2baaebd4ae3a5406f5",
+      "alt": "French Avenue Amber Empire Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-amber-empire-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueAmberEmpire3.jpg?v=1772663516",
+      "content_hash": "1ac982d71118be45f08fe86481c174ce4f881421",
+      "alt": "French Avenue Amber Empire Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/french-avenue-amber-empire-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueAmberEmpire2.webp?v=1772663515",
+      "content_hash": "9d8e9fa8c52821a50ba3cf33bdf94d4672c38342",
+      "alt": "French Avenue Amber Empire Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

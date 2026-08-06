@@ -1,0 +1,87 @@
+{
+  "slug": "al-haramain-amber-oud-999-9-extrait-de-parfum-75-ml-2-53-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8475940454583",
+  "source_parent_product_id": "8475940454583",
+  "source_product_url": "https://habibiperfumes.store/products/al-haramain-amber-oud-999-9-extrait-de-parfum-75-ml-2-53-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/al-haramain-amber-oud-999-9-extrait-de-parfum-75-ml-2-53-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/al-haramain-amber-oud-999-9-extrait-de-parfum-75-ml-2-53-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AmberOudGold999.9DubaiEditionAlHaramain2.webp?v=1772386264",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amber_Oud_Gold_999.9_Dubai_Edition_Al_Haramain_3.jpg?v=1772386278",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amber_Oud_Gold_999.9_Dubai_Edition_Al_Haramain.jpg?v=1772386278"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Al Haramain Amber Oud 999.9 Extrait de Parfum 75 ml (2.53 oz)",
+  "english_product_name": "Al Haramain Amber Oud 999.9 Extrait de Parfum 75 ml (2.53 oz)",
+  "original_product_name": null,
+  "brand": "Al Haramain",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8475940454583",
+  "parent_product_id": "8475940454583",
+  "description": "Al Haramain Amber Oud 999.9 is an ultra-concentrated luxury extrait designed to deliver power, clarity, and lasting sophistication. This fragrance combines bright freshness with deep amber warmth and rich oud, creating a scent that feels prestigious, bold, and unmistakably refined. The opening introduces a crisp burst of citrus and fresh accords that feel clean, energetic, and immediately captivating. The heart develops into warm amber and smooth woody tones, adding richness and elegant depth. The base settles into luxurious oud, soft musk, and resinous warmth, leaving a strong, long-lasting trail that projects confidence and presence. Amber Oud 999.9 is perfect for those seeking a high-end signature scent with elite performance and undeniable luxury.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.53 oz / 75 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "49.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "49.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/al-haramain-amber-oud-999-9-extrait-de-parfum-75-ml-2-53-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AmberOudGold999.9DubaiEditionAlHaramain2.webp?v=1772386264",
+      "content_hash": "5a6491f1c9d97fe7848cc48ceddf4085912163a7",
+      "alt": "Al Haramain Amber Oud 999.9 Extrait de Parfum 75 ml (2.53 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/al-haramain-amber-oud-999-9-extrait-de-parfum-75-ml-2-53-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amber_Oud_Gold_999.9_Dubai_Edition_Al_Haramain_3.jpg?v=1772386278",
+      "content_hash": "2a494f7325e6961041a977815d502a80cdb7b597",
+      "alt": "Al Haramain Amber Oud 999.9 Extrait de Parfum 75 ml (2.53 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/al-haramain-amber-oud-999-9-extrait-de-parfum-75-ml-2-53-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amber_Oud_Gold_999.9_Dubai_Edition_Al_Haramain.jpg?v=1772386278",
+      "content_hash": "cd78f9689452f0c3002c867b38bb20e17efb5960",
+      "alt": "Al Haramain Amber Oud 999.9 Extrait de Parfum 75 ml (2.53 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

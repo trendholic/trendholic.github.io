@@ -1,0 +1,108 @@
+{
+  "slug": "swiss-arabian-shaghaf-bundle-vanilla-toffee-amber-infusion",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8536049189047",
+  "source_parent_product_id": "8536049189047",
+  "source_product_url": "https://habibiperfumes.store/products/swiss-arabian-shaghaf-bundle-vanilla-toffee-amber-infusion",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/swiss-arabian-shaghaf-bundle-vanilla-toffee-amber-infusion/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/swiss-arabian-shaghaf-bundle-vanilla-toffee-amber-infusion"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitled_design_28.png?v=1776093448",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitled_design_29.png?v=1776093448",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafVanillaToffee2_b71b15c9-2b3b-4370-b29d-16eddbce2ff5.jpg?v=1776093071",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafAmberInfusion4_5c175abb-12a3-4ddd-9eec-a60a6ce96e71.jpg?v=1776093070",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafVanillaToffeeSwissArabian.avif?v=1776093071",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafAmberInfusion_cf47a152-0d6d-4fe5-b51f-a3a31f2bcf53.webp?v=1776093071"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Swiss Arabian Shaghaf Bundle – Vanilla Toffee & Amber Infusion",
+  "english_product_name": "Swiss Arabian Shaghaf Bundle – Vanilla Toffee & Amber Infusion",
+  "original_product_name": null,
+  "brand": "Swiss Arabian",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8536049189047",
+  "parent_product_id": "8536049189047",
+  "description": "This Swiss Arabian Shaghaf Bundle pairs two rich and luxurious fragrances, combining indulgent gourmand sweetness with deep amber warmth for a bold and versatile scent experience. Shaghaf Vanilla Toffee (75 ml) delivers a creamy gourmand profile with buttery toffee, rich coffee, and smooth vanilla, creating a warm and addictive dessert-like scent. Shaghaf Amber Infusion (75 ml) brings a powerful oriental blend of spices, amber, woods, and subtle leather, adding depth, richness, and sophistication. Together, this duo offers the perfect balance of sweet and warm, making it ideal for evening wear, layering, or building a strong fragrance rotation.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "75 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "84.50",
+      "compare_at_price": "114.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "84.50",
+  "compare_at_price": "114.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/swiss-arabian-shaghaf-bundle-vanilla-toffee-amber-infusion-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitled_design_28.png?v=1776093448",
+      "content_hash": "c2838b1d0b1df84749896f38c21740fc805fb2fa",
+      "alt": "Swiss Arabian Shaghaf Bundle – Vanilla Toffee & Amber Infusion"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-shaghaf-bundle-vanilla-toffee-amber-infusion-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Untitled_design_29.png?v=1776093448",
+      "content_hash": "bc8339b0f63ce41623f4057b6e525100a82ac3eb",
+      "alt": "Swiss Arabian Shaghaf Bundle – Vanilla Toffee & Amber Infusion"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-bundle-shaghaf-vanilla-toffee-rose-01-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafVanillaToffee2_b71b15c9-2b3b-4370-b29d-16eddbce2ff5.jpg?v=1776093071",
+      "content_hash": "705eb684d5880912873001b1ad68b7f2a3b36adb",
+      "alt": "Swiss Arabian Shaghaf Bundle – Vanilla Toffee & Amber Infusion"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-bundle-shaghaf-amber-infusion-rose-01-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafAmberInfusion4_5c175abb-12a3-4ddd-9eec-a60a6ce96e71.jpg?v=1776093070",
+      "content_hash": "3dbc3c1ac16f9c4ef245db16de0457bd5e7c6d8e",
+      "alt": "Swiss Arabian Shaghaf Bundle – Vanilla Toffee & Amber Infusion"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-shaghaf-bundle-vanilla-toffee-amber-infusion-5.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafVanillaToffeeSwissArabian.avif?v=1776093071",
+      "content_hash": "0f40861f82544ceb17ba248377a6a12b7b2b7a20",
+      "alt": "Swiss Arabian Shaghaf Bundle – Vanilla Toffee & Amber Infusion"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-bundle-shaghaf-amber-infusion-rose-01-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafAmberInfusion_cf47a152-0d6d-4fe5-b51f-a3a31f2bcf53.webp?v=1776093071",
+      "content_hash": "31793ee1e499abdf70bbcab1609e7e774e9d2072",
+      "alt": "Swiss Arabian Shaghaf Bundle – Vanilla Toffee & Amber Infusion"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

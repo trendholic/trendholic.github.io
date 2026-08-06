@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-haya-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8314046218423",
+  "source_parent_product_id": "8314046218423",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-haya-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-haya-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-haya-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaHaya.jpg?v=1765942340",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaHaya2.jpg?v=1765942340",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaHaya3.webp?v=1765942340"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Haya (Pink) Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Haya (Pink) Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8314046218423",
+  "parent_product_id": "8314046218423",
+  "description": "Lattafa Haya is a sparkling fruity-floral fragrance with a soft gourmand touch, designed to feel elegant, feminine, and joyful. It opens with champagne accord, pink berries, and citrus sparkle, creating a bright, celebratory first impression. The heart reveals rose, jasmine, and white florals, adding romantic softness and graceful femininity. The base settles into vanilla, musk, and creamy woods, giving a warm, smooth dry-down that feels polished and long-lasting. This fragrance is perfect for customers who enjoy bright feminine scents with a slightly sweet, elegant, and modern feel.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.50",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.50",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-haya-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaHaya.jpg?v=1765942340",
+      "content_hash": "c1a5597ae2d09d2a48574c536a221422d68a502f",
+      "alt": "Lattafa Haya (Pink) Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-haya-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaHaya2.jpg?v=1765942340",
+      "content_hash": "f794bb9263f793c58ed61401ecfd9d61f0915fac",
+      "alt": "Lattafa Haya (Pink) Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-haya-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaHaya3.webp?v=1765942340",
+      "content_hash": "cf689960d7613c6937351f4a4f4e9fe8e7beb252",
+      "alt": "Lattafa Haya (Pink) Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

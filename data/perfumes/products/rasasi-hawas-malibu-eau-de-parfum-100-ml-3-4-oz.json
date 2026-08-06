@@ -1,0 +1,87 @@
+{
+  "slug": "rasasi-hawas-malibu-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8291021390007",
+  "source_parent_product_id": "8291021390007",
+  "source_product_url": "https://habibiperfumes.store/products/rasasi-hawas-malibu-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rasasi-hawas-malibu-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/rasasi-hawas-malibu-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_23.jpg?v=1763586947",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l400_1.jpg?v=1763586947",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.112707.jpg?v=1763586947"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Rasasi Hawas Malibu Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Rasasi Hawas Malibu Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Rasasi",
+  "sku": "6a3083b1de76e",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8291021390007",
+  "parent_product_id": "8291021390007",
+  "description": "Hawas Malibu by Rasasi opens with a vibrant burst of pineapple, orange and grapefruit, giving a fresh, tropical fruit-laced summit. In the heart, orris, lavender and amber bring a refined aromatic middle layer that adds structure and depth. The base settles into tonka bean, musk, cashmeran and patchouli — providing a warm, slightly sweet and woody dry-down. This fragrance captures a resort-style, sunny-day freshness with enough richness to transition into late afternoon and evening wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "49.99",
+      "compare_at_price": "59.99",
+      "sku": "6a3083b1de76e",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "49.99",
+  "compare_at_price": "59.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-malibu-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l1200_23.jpg?v=1763586947",
+      "content_hash": "bc9beb113ef7162a1fd3eab7abf9b8ffae052b2a",
+      "alt": "Rasasi Hawas Malibu Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-malibu-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/s-l400_1.jpg?v=1763586947",
+      "content_hash": "4e4992d3a600f3bdb5f8886ef32f185aa9e67e88",
+      "alt": "Rasasi Hawas Malibu Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/rasasi-hawas-malibu-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/o.112707.jpg?v=1763586947",
+      "content_hash": "45f1d07e379c5c7d53b8959283d4c68015260e73",
+      "alt": "Rasasi Hawas Malibu Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

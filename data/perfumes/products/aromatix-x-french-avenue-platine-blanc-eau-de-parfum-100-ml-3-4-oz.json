@@ -1,0 +1,87 @@
+{
+  "slug": "aromatix-x-french-avenue-platine-blanc-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8484949754039",
+  "source_parent_product_id": "8484949754039",
+  "source_product_url": "https://habibiperfumes.store/products/aromatix-x-french-avenue-platine-blanc-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/aromatix-x-french-avenue-platine-blanc-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/aromatix-x-french-avenue-platine-blanc-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AromatixPlatineBlanc3.jpg?v=1772667357",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AromatixPlatineBlanc2.jpg?v=1772667357",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AromatixPlatineBlanc.jpg?v=1772667357"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Aromatix x French Avenue Platine Blanc Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Aromatix x French Avenue Platine Blanc Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "French Avenue",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8484949754039",
+  "parent_product_id": "8484949754039",
+  "description": "Aromatix x French Avenue Platine Blanc is a bright citrus-aromatic fragrance built around crisp freshness and smooth woody depth. The scent delivers an energizing, modern profile that feels clean, refreshing, and effortlessly elegant. The opening bursts with sparkling lime, lemon, mint, and tonic water, creating a crisp and uplifting freshness that immediately wakes up the senses. The heart introduces rosemary, black currant, and jasmine, adding aromatic greenery and subtle fruity brightness. The base settles into ambergris, sandalwood, musk, and oakmoss, leaving a smooth, airy trail that feels refined, clean, and long-lasting. Platine Blanc is ideal for those who enjoy fresh citrus fragrances with a sophisticated aromatic character that works perfectly for daily wear.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "64.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": false
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "64.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "Out of stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/aromatix-x-french-avenue-platine-blanc-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AromatixPlatineBlanc3.jpg?v=1772667357",
+      "content_hash": "2fbb763c6a6fe9c0c7d6650741fe6a480c3a1007",
+      "alt": "Aromatix x French Avenue Platine Blanc Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/aromatix-x-french-avenue-platine-blanc-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AromatixPlatineBlanc2.jpg?v=1772667357",
+      "content_hash": "4fcc5997d78d8b1195708c6ec802a062034a210f",
+      "alt": "Aromatix x French Avenue Platine Blanc Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/aromatix-x-french-avenue-platine-blanc-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AromatixPlatineBlanc.jpg?v=1772667357",
+      "content_hash": "0d21c55e0e0ee713595c8fd99b77f8cf54d165fe",
+      "alt": "Aromatix x French Avenue Platine Blanc Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-nebras-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8505668665527",
+  "source_parent_product_id": "8505668665527",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-nebras-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-nebras-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-nebras-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaNebras.png?v=1773712383",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaNebras2.jpg?v=1773712383",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaNebras3.avif?v=1773712383"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Nebras Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Nebras Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8505668665527",
+  "parent_product_id": "8505668665527",
+  "description": "Nebras is a rich and addictive gourmand fragrance that blends sweet red berries with creamy vanilla and smooth chocolate warmth. The scent feels playful, cozy, and luxurious, offering a dessert-like sweetness balanced with soft amber depth. The opening introduces bright red berries and a hint of citrus, creating a sweet and slightly fresh fruity impression. The heart develops into creamy vanilla and cocoa, adding a smooth, chocolatey richness that feels warm and indulgent. The base settles into tonka bean, sugar, amber, and musk, leaving a long-lasting, soft, and comforting gourmand trail. Nebras is perfect for those who enjoy sweet dessert-style fragrances with a creamy vanilla and chocolate backbone.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-nebras-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaNebras.png?v=1773712383",
+      "content_hash": "051e3714bdd8438aeffad7b8c6ac2f91828954e1",
+      "alt": "Lattafa Nebras Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-nebras-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaNebras2.jpg?v=1773712383",
+      "content_hash": "6a76fdbf47c01f39151c43f0df762ff1e8e5d64a",
+      "alt": "Lattafa Nebras Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-nebras-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaNebras3.avif?v=1773712383",
+      "content_hash": "bbe57475c6096029481d11e6ce9e355d56327fa0",
+      "alt": "Lattafa Nebras Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

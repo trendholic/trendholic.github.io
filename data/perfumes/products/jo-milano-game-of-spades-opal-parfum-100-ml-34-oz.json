@@ -1,0 +1,94 @@
+{
+  "slug": "jo-milano-game-of-spades-opal-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8622864171191",
+  "source_parent_product_id": "8622864171191",
+  "source_product_url": "https://habibiperfumes.store/products/jo-milano-game-of-spades-opal-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/jo-milano-game-of-spades-opal-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/jo-milano-game-of-spades-opal-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/029mjqwjj1.png?v=1782343529",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01crx0qfei.png?v=1782343529",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Game-of-Spades-Opal-Parfum-90-ml-_-3.0-fl.-oz-Unisex-by-Jo-Milano-43316.webp?v=1782344224",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4_7cdd9e31-20db-48d4-b42c-f8e54b261306.webp?v=1782344224"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Jo Milano Game of Spades Opal Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Jo Milano Game of Spades Opal Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Jo Milano",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8622864171191",
+  "parent_product_id": "8622864171191",
+  "description": "Jo Milano Game of Spades Opal Parfum is a refined unisex fragrance with bright citrus, pear and raspberry accents. Rose, jasmine, peony and green-spicy notes shape the heart, while musk, amber, sandalwood and cedar provide a polished woody base. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "69.99",
+      "compare_at_price": "99.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "69.99",
+  "compare_at_price": "99.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-opal-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/029mjqwjj1.png?v=1782343529",
+      "content_hash": "01042de88a5634834f5ebd391ece5fce6514acd9",
+      "alt": "Jo Milano Game of Spades Opal Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-opal-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01crx0qfei.png?v=1782343529",
+      "content_hash": "70dadbdc4c96323189de021650f514ae90915506",
+      "alt": "Jo Milano Game of Spades Opal Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-opal-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Game-of-Spades-Opal-Parfum-90-ml-_-3.0-fl.-oz-Unisex-by-Jo-Milano-43316.webp?v=1782344224",
+      "content_hash": "ad15d14ea8445a4952f987a7dda67d9341344eb9",
+      "alt": "Jo Milano Game of Spades Opal Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/jo-milano-game-of-spades-opal-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4_7cdd9e31-20db-48d4-b42c-f8e54b261306.webp?v=1782344224",
+      "content_hash": "d183c1101db5c650ee19b8c7c4904e7e834ebbd2",
+      "alt": "Jo Milano Game of Spades Opal Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

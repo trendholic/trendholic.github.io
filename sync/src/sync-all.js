@@ -21,6 +21,7 @@ import CONFIG from "../config.js";
 import { fetchHtml, fetchBuffer, robotsAllows, robotsStatus, limiter } from "./http.js";
 import { getAdapter } from "./adapters/index.js";
 import { groupProductPages } from "./grouping.js";
+import { syncShopifySource } from "./shopify-source.js";
 import { slugify, sha1 } from "./util.js";
 
 let sharpLib = null;
@@ -294,7 +295,9 @@ async function main() {
   const reports = [];
   for (const src of sources) {
     console.log(`\n=== ${src.top} (${src.key}) ===`);
-    const r = await syncSource(src);
+    // Shopify-engine sources (e.g. Arabic Perfumes) use the separate adapter;
+    // the tangma "album" sources use the existing syncSource unchanged.
+    const r = src.engine === "shopify" ? await syncShopifySource(src) : await syncSource(src);
     reports.push(r);
     console.log(`  status=${r.status} categories=${r.categories} crawled=${r.categoriesCrawled} ` +
       `listingPages=${r.listingPagesVisited} truncated=${r.categoriesTruncated} pages=${r.pagesFetched} ` +

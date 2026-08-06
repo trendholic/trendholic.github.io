@@ -1,0 +1,80 @@
+{
+  "slug": "lattafa-king-of-arabia",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8504346476727",
+  "source_parent_product_id": "8504346476727",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-king-of-arabia",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-king-of-arabia/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-king-of-arabia"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KingofArabia2.jpg?v=1773707671",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KingofArabia.jpg?v=1773707671"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa King of Arabia Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa King of Arabia Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8504346476727",
+  "parent_product_id": "8504346476727",
+  "description": "King of Arabia is a bold and elegant fragrance that blends warm spices with rich woods and smooth amber. The scent feels regal, confident, and masculine, offering a strong presence with a refined Middle Eastern character. The opening introduces spicy and slightly aromatic notes that create a warm and powerful first impression. The heart develops into woody accords with subtle sweetness, adding depth, balance, and smooth sophistication. The base settles into amber and musk, leaving a long-lasting, warm, and slightly smoky trail. King of Arabia is perfect for those who enjoy classic woody-spicy fragrances with a warm amber finish and confident masculine presence.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "34.50",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "34.50",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-king-of-arabia-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KingofArabia2.jpg?v=1773707671",
+      "content_hash": "7efb346fad0b2c5e7249c311bfccd62a86fa46e1",
+      "alt": "Lattafa King of Arabia Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-king-of-arabia-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/KingofArabia.jpg?v=1773707671",
+      "content_hash": "811df67597df547608412be361b3a1fd90b374ac",
+      "alt": "Lattafa King of Arabia Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

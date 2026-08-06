@@ -1,0 +1,87 @@
+{
+  "slug": "nusuk-ateeq-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8490371121335",
+  "source_parent_product_id": "8490371121335",
+  "source_product_url": "https://habibiperfumes.store/products/nusuk-ateeq-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/nusuk-ateeq-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/nusuk-ateeq-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukAteeq2.webp?v=1772989985",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukAteeq.jpg?v=1772989985",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukAteeq.webp?v=1772989985"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Nusuk Ateeq Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Nusuk Ateeq Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Nusuk",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8490371121335",
+  "parent_product_id": "8490371121335",
+  "description": "Ateeq is a rich oriental fragrance that blends warm spices, deep woods, and smooth amber sweetness into a luxurious composition. The scent delivers a traditional Middle Eastern character with modern elegance and depth. The opening introduces aromatic spices and warm accords that create a bold and captivating first impression. The heart develops into rich amber and smooth woody notes, adding depth and oriental richness to the fragrance. The base settles into musk, woods, and soft sweetness, leaving a warm and long-lasting trail that feels refined and powerful. Ateeq is ideal for those who enjoy deep oriental fragrances with warm amber richness and woody sophistication.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.99",
+      "compare_at_price": "49.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.99",
+  "compare_at_price": "49.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/nusuk-ateeq-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukAteeq2.webp?v=1772989985",
+      "content_hash": "b13b155311e2b40c0c09348cb1bc6df09135391e",
+      "alt": "Nusuk Ateeq Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/nusuk-ateeq-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukAteeq.jpg?v=1772989985",
+      "content_hash": "ed21d1cd6391e8552cac9ddb6e43d0f78eac3f5e",
+      "alt": "Nusuk Ateeq Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/nusuk-ateeq-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/NusukAteeq.webp?v=1772989985",
+      "content_hash": "872b1c8abbb94961a1e7f961792eaa3f7c0c499d",
+      "alt": "Nusuk Ateeq Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

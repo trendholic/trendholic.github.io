@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-emaan-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8505677185207",
+  "source_parent_product_id": "8505677185207",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-emaan-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-emaan-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-emaan-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Emaan3.jpg?v=1773714841",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Emaan2.jpg?v=1773714842",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Emaan.jpg?v=1773714841"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Emaan Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Emaan Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8505677185207",
+  "parent_product_id": "8505677185207",
+  "description": "Emaan is a soft and elegant fragrance that blends delicate florals with clean musk and a smooth powdery finish. The scent feels fresh, airy, and feminine, offering a refined and comforting presence that is easy to wear daily. The opening introduces fresh citrus and light fruity nuances, creating a bright and uplifting first impression. The heart develops into soft white florals, adding elegance and a gentle, feminine sophistication. The base settles into musk, powdery notes, and light woods, leaving a clean, smooth, and long-lasting trail. Emaan is perfect for those who enjoy soft floral fragrances with a clean musky and powdery finish.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "24.99",
+      "compare_at_price": "39.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "24.99",
+  "compare_at_price": "39.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-emaan-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Emaan3.jpg?v=1773714841",
+      "content_hash": "89e8205583961e3eee682e81dd73fe6cbf28fb00",
+      "alt": "Lattafa Emaan Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-emaan-eau-de-parfum-100-ml-3-4-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Emaan2.jpg?v=1773714842",
+      "content_hash": "96a1ff4d1ad584e07ca59a90a0e429a5954266af",
+      "alt": "Lattafa Emaan Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-emaan-eau-de-parfum-100-ml-3-4-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Emaan.jpg?v=1773714841",
+      "content_hash": "137d9302e60e9bb51c4ae25daf13644559c53dd9",
+      "alt": "Lattafa Emaan Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

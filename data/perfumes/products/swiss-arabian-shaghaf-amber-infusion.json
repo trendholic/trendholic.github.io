@@ -1,0 +1,94 @@
+{
+  "slug": "swiss-arabian-shaghaf-amber-infusion",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8485251317943",
+  "source_parent_product_id": "8485251317943",
+  "source_product_url": "https://habibiperfumes.store/products/swiss-arabian-shaghaf-amber-infusion",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/swiss-arabian-shaghaf-amber-infusion/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/swiss-arabian-shaghaf-amber-infusion"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Swiss_Arabian_Shagaf_Amber_Infusion_In_Hand.webp?v=1781331071",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafAmberInfusion2.webp?v=1772672042",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafAmberInfusion.webp?v=1772672042",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafAmberInfusion3.webp?v=1772672042"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Swiss Arabian Shaghaf Amber Infusion Extrait de Parfum 75 ml (2.5 oz)",
+  "english_product_name": "Swiss Arabian Shaghaf Amber Infusion Extrait de Parfum 75 ml (2.5 oz)",
+  "original_product_name": null,
+  "brand": "Swiss Arabian",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8485251317943",
+  "parent_product_id": "8485251317943",
+  "description": "Swiss Arabian Shaghaf Amber Infusion is a rich amber-spice fragrance that blends warm resins, creamy sweetness, and subtle fruitiness into a deep and luxurious scent profile. The opening introduces dry amber, ginger, cardamom, and apricot, creating a warm spicy brightness with a slightly fruity sweetness. The heart reveals creamy vanilla, apple, cedar, davana, and lily of the valley, adding smooth sweetness and woody elegance. The base settles into amber, patchouli, olibanum, leather, and musk, leaving a deep, resinous trail that feels bold, warm, and long-lasting. Shaghaf Amber Infusion is perfect for lovers of warm amber fragrances that feel rich, sophisticated, and powerful.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "2.5 oz / 75 ml",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "39.50",
+      "compare_at_price": "64.99",
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "39.50",
+  "compare_at_price": "64.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/swiss-arabian-shaghaf-amber-infusion-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Swiss_Arabian_Shagaf_Amber_Infusion_In_Hand.webp?v=1781331071",
+      "content_hash": "2cf0723af395072041f7fa1850079a5b04dfd233",
+      "alt": "Swiss Arabian Shaghaf Amber Infusion Extrait de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-shaghaf-amber-infusion-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafAmberInfusion2.webp?v=1772672042",
+      "content_hash": "e1bff4931cdb245b667abb5c30a2373ccd486b58",
+      "alt": "Swiss Arabian Shaghaf Amber Infusion Extrait de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-bundle-shaghaf-amber-infusion-rose-01-6.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafAmberInfusion.webp?v=1772672042",
+      "content_hash": "31793ee1e499abdf70bbcab1609e7e774e9d2072",
+      "alt": "Swiss Arabian Shaghaf Amber Infusion Extrait de Parfum 75 ml (2.5 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/swiss-arabian-shaghaf-amber-infusion-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/ShaghafAmberInfusion3.webp?v=1772672042",
+      "content_hash": "c1e0cb8271bb94526a915845f19e84a69fdb0fa3",
+      "alt": "Swiss Arabian Shaghaf Amber Infusion Extrait de Parfum 75 ml (2.5 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}

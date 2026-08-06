@@ -1,0 +1,87 @@
+{
+  "slug": "lattafa-eclair-pistache-eau-de-parfum-100-ml-3-4-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8309774254263",
+  "source_parent_product_id": "8309774254263",
+  "source_product_url": "https://habibiperfumes.store/products/lattafa-eclair-pistache-eau-de-parfum-100-ml-3-4-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lattafa-eclair-pistache-eau-de-parfum-100-ml-3-4-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/lattafa-eclair-pistache-eau-de-parfum-100-ml-3-4-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaEclairePistache3.jpg?v=1765527507",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaEclairePistache2.webp?v=1765527508",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaEclairePistache.jpg?v=1765527508"
+  ],
+  "source_last_seen": "2026-08-06T04:55:52.071Z",
+  "name": "Lattafa Éclair Pistache Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Lattafa Éclair Pistache Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Lattafa",
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8309774254263",
+  "parent_product_id": "8309774254263",
+  "description": "Lattafa Éclair Pistache is a creamy pistachio–vanilla gourmand with a soft, luxurious sweetness and a warm edible aura. It opens with creamy pistachio, light sweetness, and a smooth nutty warmth, instantly giving a comforting dessert-like feel. The heart introduces whipped vanilla cream, soft florals, and a light milky accord, adding depth and silky texture. The base settles into cozy amber, sugar, tonka bean, and soft musk, creating a long-lasting, irresistible pistachio-cream trail. Perfect for customers who love pistachio gourmands, creamy desserts, vanilla blends, and sweet cozy scents similar to pistachio gelato or pastry-inspired perfumes.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "44.99",
+      "compare_at_price": null,
+      "sku": null,
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "44.99",
+  "compare_at_price": null,
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/lattafa-eclair-pistache-eau-de-parfum-100-ml-3-4-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaEclairePistache3.jpg?v=1765527507",
+      "content_hash": "b31a58793b38aded71aae7bcff0268667695d8e2",
+      "alt": "Lattafa Éclair Pistache Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-eclaire-pistache-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaEclairePistache2.webp?v=1765527508",
+      "content_hash": "4eaa0421f18d08fcc685053ef8002b8a67538ef3",
+      "alt": "Lattafa Éclair Pistache Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/lattafa-eclaire-pistache-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaEclairePistache.jpg?v=1765527508",
+      "content_hash": "719821bd0cc32afc6366253bd4cf4f9619a19f32",
+      "alt": "Lattafa Éclair Pistache Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-06T04:55:52.071Z"
+}
