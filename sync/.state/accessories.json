@@ -2982,13 +2982,132 @@
       "parent_product_id": "4108090",
       "firstSeen": "2026-08-06T06:06:00.185Z",
       "lastSeen": "2026-08-06T06:06:00.185Z"
+    },
+    "4108892": {
+      "rawHash": "e9f6429b978684c77e3df51b6f8a8c4cbf677990",
+      "slug": "hermes-blanket-150-200x150-230cm-cushion-45x45-50x50cm-4108892",
+      "parent_product_id": "4108892",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4108897": {
+      "rawHash": "14be4dc5af6c07e36485b9141714534c117c2235",
+      "slug": "chrome-hearts-200x230-220x240cm-4108897",
+      "parent_product_id": "4108897",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4108906": {
+      "rawHash": "dfaef160dd123bdbaa7ee8f53e7f1e7be597c45e",
+      "slug": "dior-200x230-220x240cm-4108906",
+      "parent_product_id": "4108906",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4108924": {
+      "rawHash": "ee66e07b27035f9b0bc1e30077735cfb56fbff0c",
+      "slug": "gucci-200x230-220x240cm-4108924",
+      "parent_product_id": "4108924",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4108942": {
+      "rawHash": "13446d1d94f8a44c76603e2175de8ff1a8ffcf25",
+      "slug": "dior-200-230x220-250cm-48x74cm-4108942",
+      "parent_product_id": "4108942",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4108951": {
+      "rawHash": "c44b04a3784edf9bad03340cb204b5d962211744",
+      "slug": "hermes-200-230x220-250cm-48x74cm-4108951",
+      "parent_product_id": "4108951",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4108995": {
+      "rawHash": "4956e72351ae3eb62181b14102140079851f69d1",
+      "slug": "versace-200-230x220-250cm-48x74cm-4108995",
+      "parent_product_id": "4108995",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4109021": {
+      "rawHash": "ab4ce440ef13089d6643bdfb4036574f9876a111",
+      "slug": "chanel-gloves-dx-4109021",
+      "parent_product_id": "4109021",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4109083": {
+      "rawHash": "63508aa6056f8bf03c560244c4377a34246a722b",
+      "slug": "dior-gloves-dx-4109083",
+      "parent_product_id": "4109083",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4109098": {
+      "rawHash": "b026fbde51f462851fcbfebcf92e3d1bf425aa8d",
+      "slug": "fendi-gloves-dx-4109098",
+      "parent_product_id": "4109098",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4109106": {
+      "rawHash": "92e3e8c225b11567b065620af631dec42542411b",
+      "slug": "gucci-gloves-dx-4109106",
+      "parent_product_id": "4109106",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4109153": {
+      "rawHash": "a04bcc7419c29388dbecad055d7476cfc9e8731d",
+      "slug": "lv-gloves-dx-4109153",
+      "parent_product_id": "4109153",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4109161": {
+      "rawHash": "4a7f7616e618cbf82504fac5cc3ab4decef146b8",
+      "slug": "miumiu-gloves-dx-4109161",
+      "parent_product_id": "4109161",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4109169": {
+      "rawHash": "7497bcb6fae94a46ab1afce248702e2549d6f0f4",
+      "slug": "prada-gloves-dx-4109169",
+      "parent_product_id": "4109169",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4109198": {
+      "rawHash": "08e7bc67050c4be462c6f533d5274e764501eb27",
+      "slug": "vivienne-westwood-gloves-dx-4109198",
+      "parent_product_id": "4109198",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4109234": {
+      "rawHash": "87f8fdc02d36851a86132487a22c9ed3fa06b060",
+      "slug": "dior-blanket-145x145-200cm-cushion45x45cm-50x50cm-4109234",
+      "parent_product_id": "4109234",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4109237": {
+      "rawHash": "b99653ec170faab892af4e1d123953bda8d8679f",
+      "slug": "hermes-blanket-145x145-200cm-cushion45x45cm-50x50cm-4109237",
+      "parent_product_id": "4109237",
+      "firstSeen": "2026-08-07T05:08:05.277Z",
+      "lastSeen": "2026-08-07T05:08:05.277Z"
     }
   },
   "categories": [
     "new-arrival-0806",
     "jewelry-0707",
     "glasses-0629",
-    "plain-glasses-0728",
+    "plain-glasses-0806",
     "glasses-factory-0806",
     "belts-0806",
     "watches-0721",
@@ -3006,8 +3125,8 @@
     "pen-0608",
     "umbrella-0726",
     "towel-0728",
-    "beddings-0608",
-    "blanket-0728",
+    "beddings-0806",
+    "blanket-0806",
     "table-cushions-0701",
     "pet-clothes",
     "thermos-0411",
@@ -3021,5 +3140,5 @@
     "underware-sleepware-0307",
     "sunglasses-a"
   ],
-  "updatedAt": "2026-08-06T06:06:00.185Z"
+  "updatedAt": "2026-08-07T05:08:05.277Z"
 }

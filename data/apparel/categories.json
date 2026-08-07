@@ -3,7 +3,7 @@
   "source": "apparel",
   "host": "tangma2088.com",
   "count": 56,
-  "updatedAt": "2026-08-06T05:56:27.595Z",
+  "updatedAt": "2026-08-07T05:00:06.287Z",
   "categories": [
     {
       "name": "2025 New",
@@ -55,15 +55,15 @@
       "parent_path": "0"
     },
     {
-      "name": "T Shirt 0805",
-      "slug": "t-shirt-0805",
+      "name": "T Shirt 0807",
+      "slug": "t-shirt-0807",
       "source_url": "https://tangma2088.com/categoryen_11.html?path=0_11",
       "source_path": "0_11",
       "parent_path": "0"
     },
     {
-      "name": "High Quality 0805",
-      "slug": "high-quality-0805",
+      "name": "High Quality 0807",
+      "slug": "high-quality-0807",
       "source_url": "https://tangma2088.com/categoryen_139496.html?path=0_139496",
       "source_path": "0_139496",
       "parent_path": "0"
@@ -97,8 +97,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Spring Summer Kid Clothes 0721",
-      "slug": "spring-summer-kid-clothes-0721",
+      "name": "Spring Summer Kid Clothes 0807",
+      "slug": "spring-summer-kid-clothes-0807",
       "source_url": "https://tangma2088.com/categoryen_345535.html?path=0_345535",
       "source_path": "0_345535",
       "parent_path": "0"

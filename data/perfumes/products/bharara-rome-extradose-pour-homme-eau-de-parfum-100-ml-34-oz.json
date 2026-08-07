@@ -33,7 +33,7 @@
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/BhararaRomeExtradose3.png?v=1777647403",
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/BhararaRomeExtradose2.webp?v=1777647403"
   ],
-  "source_last_seen": "2026-08-06T06:19:34.334Z",
+  "source_last_seen": "2026-08-07T05:19:39.995Z",
   "name": "Bharara Rome Extradose Pour Homme Eau de Parfum 100 ml (3.4 oz)",
   "english_product_name": "Bharara Rome Extradose Pour Homme Eau de Parfum 100 ml (3.4 oz)",
   "original_product_name": null,
@@ -55,7 +55,7 @@
       "price": "39.99",
       "compare_at_price": "49.99",
       "sku": "BHARARA-ROME-EXTRADOSE-HOMME-100",
-      "available": true
+      "available": false
     }
   ],
   "dimensions": null,
@@ -65,7 +65,7 @@
   "price": "39.99",
   "compare_at_price": "49.99",
   "currency": "USD",
-  "availability": "In stock",
+  "availability": "Out of stock",
   "images": [
     {
       "src": "/data/perfumes/images/bharara-rome-extradose-pour-homme-eau-de-parfum-100-ml-34-oz-1.webp",
@@ -111,5 +111,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-08-06T06:19:34.334Z"
+  "synced_at": "2026-08-07T05:19:39.995Z"
 }

@@ -30,7 +30,7 @@
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Musamam3.jpg?v=1778187262",
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Lattafa_Musamam4.jpg?v=1778187262"
   ],
-  "source_last_seen": "2026-08-06T06:19:34.334Z",
+  "source_last_seen": "2026-08-07T05:19:39.995Z",
   "name": "Lattafa Musamam Eau de Parfum 100 ml (3.4 oz)",
   "english_product_name": "Lattafa Musamam Eau de Parfum 100 ml (3.4 oz)",
   "original_product_name": null,
@@ -49,8 +49,8 @@
   "variants": [
     {
       "title": "Default Title",
-      "price": "29.99",
-      "compare_at_price": null,
+      "price": "36.50",
+      "compare_at_price": "39.99",
       "sku": null,
       "available": true
     }
@@ -59,8 +59,8 @@
   "weight": null,
   "packaging": null,
   "moq": null,
-  "price": "29.99",
-  "compare_at_price": null,
+  "price": "36.50",
+  "compare_at_price": "39.99",
   "currency": "USD",
   "availability": "In stock",
   "images": [
@@ -90,5 +90,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-08-06T06:19:34.334Z"
+  "synced_at": "2026-08-07T05:19:39.995Z"
 }

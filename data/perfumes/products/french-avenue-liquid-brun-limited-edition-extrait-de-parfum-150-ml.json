@@ -29,7 +29,7 @@
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueLiquidBrunLimitedEdition4.jpg?v=1772668330",
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/FrenchAvenueLiquidBrunLimitedEdition.jpg?v=1772668330"
   ],
-  "source_last_seen": "2026-08-06T06:19:34.334Z",
+  "source_last_seen": "2026-08-07T05:19:39.995Z",
   "name": "French Avenue Liquid Brun Limited Edition Extrait de Parfum 150 ml",
   "english_product_name": "French Avenue Liquid Brun Limited Edition Extrait de Parfum 150 ml",
   "original_product_name": null,
@@ -51,7 +51,7 @@
       "price": "59.99",
       "compare_at_price": null,
       "sku": null,
-      "available": true
+      "available": false
     }
   ],
   "dimensions": null,
@@ -61,7 +61,7 @@
   "price": "59.99",
   "compare_at_price": null,
   "currency": "USD",
-  "availability": "In stock",
+  "availability": "Out of stock",
   "images": [
     {
       "src": "/data/perfumes/images/french-avenue-liquid-brun-limited-edition-extrait-de-parfum-150-ml-1.webp",
@@ -83,5 +83,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-08-06T06:19:34.334Z"
+  "synced_at": "2026-08-07T05:19:39.995Z"
 }

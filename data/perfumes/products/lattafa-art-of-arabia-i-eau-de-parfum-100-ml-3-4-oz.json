@@ -28,7 +28,7 @@
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaArtofArabiaI.webp?v=1765944498",
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaArtofArabiaI2.jpg?v=1765944498"
   ],
-  "source_last_seen": "2026-08-06T06:19:34.334Z",
+  "source_last_seen": "2026-08-07T05:19:39.995Z",
   "name": "Lattafa Art of Arabia I Eau de Parfum 100 ml (3.4 oz)",
   "english_product_name": "Lattafa Art of Arabia I Eau de Parfum 100 ml (3.4 oz)",
   "original_product_name": null,
@@ -50,7 +50,7 @@
       "price": "24.50",
       "compare_at_price": "44.99",
       "sku": null,
-      "available": true
+      "available": false
     }
   ],
   "dimensions": null,
@@ -60,7 +60,7 @@
   "price": "24.50",
   "compare_at_price": "44.99",
   "currency": "USD",
-  "availability": "In stock",
+  "availability": "Out of stock",
   "images": [
     {
       "src": "/data/perfumes/images/lattafa-art-of-arabia-i-eau-de-parfum-100-ml-3-4-oz-1.webp",
@@ -76,5 +76,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-08-06T06:19:34.334Z"
+  "synced_at": "2026-08-07T05:19:39.995Z"
 }

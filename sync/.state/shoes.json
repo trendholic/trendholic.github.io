@@ -3376,15 +3376,204 @@
       "parent_product_id": "3005313",
       "firstSeen": "2026-08-06T06:16:10.356Z",
       "lastSeen": "2026-08-06T06:16:10.356Z"
+    },
+    "3005516": {
+      "rawHash": "b1df5279a9a4ddeec081b9966881fa68bc293130",
+      "slug": "lv-sz35-41-mns0704-3005516",
+      "parent_product_id": "3005516",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005522": {
+      "rawHash": "48a29f7dbe2e3eef82ce75951461df66ff78e03c",
+      "slug": "untitlab-sz35-39-mns0701-3005522",
+      "parent_product_id": "3005522",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005537": {
+      "rawHash": "c094b3ac5a3c24ee1ccbb7d55bb94238bc5814dd",
+      "slug": "prada-sz35-39-mns0704-3005537",
+      "parent_product_id": "3005537",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005547": {
+      "rawHash": "d48de3b28488989b9d37d5ac7753967f0fc162f0",
+      "slug": "chane-sz35-39-mns0720-3005547",
+      "parent_product_id": "3005547",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005556": {
+      "rawHash": "5ce637009db9e3538567f263eadd20de22657d5a",
+      "slug": "chane-sz35-39-mns0721-3005556",
+      "parent_product_id": "3005556",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005565": {
+      "rawHash": "4c531d5080640625ff8bdf9d96a7de0b85e15aae",
+      "slug": "chane-sz35-39-mns0722-3005565",
+      "parent_product_id": "3005565",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005573": {
+      "rawHash": "7285322d51f92016981b17b1b9782d404c3bf1e5",
+      "slug": "chane-sz35-39-mns0723-3005573",
+      "parent_product_id": "3005573",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005581": {
+      "rawHash": "5d03ffe2056a6d460cc902b6343d285eecc46c39",
+      "slug": "chane-sz35-39-mns0724-3005581",
+      "parent_product_id": "3005581",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005590": {
+      "rawHash": "528bd82251940b09c89ed2ccca127f8b8b218094",
+      "slug": "chane-sz35-39-mns0725-3005590",
+      "parent_product_id": "3005590",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005598": {
+      "rawHash": "25cde5896524b0678b78248e5fe578a50cd9eeba",
+      "slug": "chane-sz35-39-mns0726-3005598",
+      "parent_product_id": "3005598",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005618": {
+      "rawHash": "7c0d416470e2f4c07d08d22f9163852e0f56b1ed",
+      "slug": "chane-sz35-39-mns0727-3005618",
+      "parent_product_id": "3005618",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005638": {
+      "rawHash": "c58ecbd9ae9a6745362aa294b39f62324b348e0f",
+      "slug": "chane-sz35-39-6cm-mns0728-3005638",
+      "parent_product_id": "3005638",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005646": {
+      "rawHash": "5ad0be339757ed5f70bc9625b06c3b406a6705fa",
+      "slug": "chane-sz35-39-6cm-mns0729-3005646",
+      "parent_product_id": "3005646",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005655": {
+      "rawHash": "dd405ffbe3c8f19810d0d98fdcdf95a0caa4434c",
+      "slug": "chane-sz35-39-7cm-mns0730-3005655",
+      "parent_product_id": "3005655",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005675": {
+      "rawHash": "f0b526ba8a82160ae11472238322fcf1a2c32f20",
+      "slug": "chane-sz35-39-7cm-mns0731-3005675",
+      "parent_product_id": "3005675",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005695": {
+      "rawHash": "bc6d1f750af415b42125cd37e77f2c98ec7fe016",
+      "slug": "balenciaga-sz35-40-mns0701-3005695",
+      "parent_product_id": "3005695",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005720": {
+      "rawHash": "2c0df6d77b33e89bb79a6e11c7d21eadf846307b",
+      "slug": "chanel-sz35-39-mns0727-3005720",
+      "parent_product_id": "3005720",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005729": {
+      "rawHash": "2d88dfd6cdcb42e46890c4e4bceb02b24f3a75e8",
+      "slug": "chanel-sz35-39-mns0728-3005729",
+      "parent_product_id": "3005729",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005738": {
+      "rawHash": "4627e8a7096cf91d332bc6607be180703055a69d",
+      "slug": "lv-sz35-39-5-5cm-mns0737-3005738",
+      "parent_product_id": "3005738",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005758": {
+      "rawHash": "5070a28047e661e813f7816896c1a347dfd47500",
+      "slug": "lv-sz35-39-5-5cm-mns0738-3005758",
+      "parent_product_id": "3005758",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005783": {
+      "rawHash": "208b57c815331d1746614351592e2367d1fede67",
+      "slug": "lv-sz35-39-9-5cm-mns0739-3005783",
+      "parent_product_id": "3005783",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005808": {
+      "rawHash": "20daf6c6be38a17d3c74f56bd541bad192921c99",
+      "slug": "lv-sz35-39-9-5cm-mns0740-3005808",
+      "parent_product_id": "3005808",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005828": {
+      "rawHash": "733fdbe2db536b0ac35e7a6db8cb84c70810f7a5",
+      "slug": "lv-sz35-41-5-5cm-mns0742-3005828",
+      "parent_product_id": "3005828",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005843": {
+      "rawHash": "8ad59327992b8f58800a2338118349bf05745511",
+      "slug": "lv-sz35-41-5-5cm-mns0743-3005843",
+      "parent_product_id": "3005843",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005868": {
+      "rawHash": "67d964167a7ac6480ba443e7edb12b36b40cda77",
+      "slug": "lv-sz35-41-5cm9cm-mns0741-3005868",
+      "parent_product_id": "3005868",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005888": {
+      "rawHash": "9103506c5650679253bfc70d18d38ddc2262e542",
+      "slug": "lv-sz35-41-9-5cm-mns0744-3005888",
+      "parent_product_id": "3005888",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3005898": {
+      "rawHash": "2af4de2dd7a546ce1f2fff341b929c956c44080b",
+      "slug": "lv-sz35-41-9-5cm-mns0745-3005898",
+      "parent_product_id": "3005898",
+      "firstSeen": "2026-08-07T05:15:47.432Z",
+      "lastSeen": "2026-08-07T05:15:47.432Z"
     }
   },
   "categories": [
     "new-arrival-0804",
-    "factory-b-0804",
+    "factory-b-0806",
     "factory-c0805",
     "kid-shoes-0713",
     "gucci-2026-0803",
-    "louis-vittion-2026-0804",
+    "louis-vittion-2026-0807",
     "alexander-mcqueen-2026-0728",
     "armani-2026-0730",
     "amiri-2026-0725",
@@ -3400,7 +3589,7 @@
     "bape-20250715",
     "berluti-2026-0623",
     "boss-2026-0731",
-    "balenciaga-2026-0802",
+    "balenciaga-2026-0807",
     "bottega-veneta-2026-0728",
     "burberry-2026-0728",
     "bally-2026-0802",
@@ -3409,7 +3598,7 @@
     "celine-20260319",
     "christian-louboutin-2026-0803",
     "casablanca-2026-0802",
-    "chanel-2026-0803",
+    "chanel-2026-0807",
     "coach-2026-0728",
     "chrome-hearts-2026-0606",
     "dymsolatey-2026-0803",
@@ -3456,7 +3645,7 @@
     "on-2026-0722",
     "onitsuka-tiger-2026-0608",
     "philipp-plein-2026-0623",
-    "prada-2026-0804",
+    "prada-2026-0807",
     "toga-2026-0802",
     "stefano-ricci-2026-0617",
     "santoni-2026-0802",
@@ -3470,11 +3659,11 @@
     "valentino-2026-0804",
     "versace-2026-0802",
     "veja-2026-0617",
-    "ysl-2026-0730",
+    "ysl-2026-0807",
     "y-3-20260204",
     "zegna-2026-0802",
     "zilli-2026-0606",
     "zara-2026-0725"
   ],
-  "updatedAt": "2026-08-06T06:16:10.356Z"
+  "updatedAt": "2026-08-07T05:15:47.432Z"
 }

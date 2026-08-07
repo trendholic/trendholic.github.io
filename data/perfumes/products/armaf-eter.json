@@ -33,7 +33,7 @@
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71I7ClhfghL._SL1080.jpg?v=1757885072",
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/71TyYwzepPL._SL1080.jpg?v=1757885072"
   ],
-  "source_last_seen": "2026-08-06T06:19:34.334Z",
+  "source_last_seen": "2026-08-07T05:19:39.995Z",
   "name": "Armaf Eter Arabian Sky Unisex Eau de Parfum 3.4 oz (100 ml)",
   "english_product_name": "Armaf Eter Arabian Sky Unisex Eau de Parfum 3.4 oz (100 ml)",
   "original_product_name": null,
@@ -52,8 +52,8 @@
   "variants": [
     {
       "title": "Default Title",
-      "price": "44.50",
-      "compare_at_price": "59.99",
+      "price": "59.50",
+      "compare_at_price": "69.99",
       "sku": null,
       "available": true
     }
@@ -62,8 +62,8 @@
   "weight": null,
   "packaging": null,
   "moq": null,
-  "price": "44.50",
-  "compare_at_price": "59.99",
+  "price": "59.50",
+  "compare_at_price": "69.99",
   "currency": "USD",
   "availability": "In stock",
   "images": [
@@ -111,5 +111,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-08-06T06:19:34.334Z"
+  "synced_at": "2026-08-07T05:19:39.995Z"
 }

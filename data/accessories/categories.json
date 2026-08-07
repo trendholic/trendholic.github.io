@@ -3,7 +3,7 @@
   "source": "accessories",
   "host": "acc.tangma2088.com",
   "count": 35,
-  "updatedAt": "2026-08-06T06:03:08.056Z",
+  "updatedAt": "2026-08-07T05:05:43.672Z",
   "categories": [
     {
       "name": "New Arrival 0806",
@@ -27,8 +27,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Plain Glasses 0728",
-      "slug": "plain-glasses-0728",
+      "name": "Plain Glasses 0806",
+      "slug": "plain-glasses-0806",
       "source_url": "https://acc.tangma2088.com/categoryen_391.html?path=0_391",
       "source_path": "0_391",
       "parent_path": "0"
@@ -153,15 +153,15 @@
       "parent_path": "0"
     },
     {
-      "name": "Beddings 0608",
-      "slug": "beddings-0608",
+      "name": "Beddings 0806",
+      "slug": "beddings-0806",
       "source_url": "https://acc.tangma2088.com/categoryen_265944.html?path=0_265944",
       "source_path": "0_265944",
       "parent_path": "0"
     },
     {
-      "name": "Blanket 0728",
-      "slug": "blanket-0728",
+      "name": "Blanket 0806",
+      "slug": "blanket-0806",
       "source_url": "https://acc.tangma2088.com/categoryen_266070.html?path=0_266070",
       "source_path": "0_266070",
       "parent_path": "0"

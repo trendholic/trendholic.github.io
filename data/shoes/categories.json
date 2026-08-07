@@ -3,7 +3,7 @@
   "source": "shoes",
   "host": "shoes.tangma2088.com",
   "count": 96,
-  "updatedAt": "2026-08-06T06:13:28.926Z",
+  "updatedAt": "2026-08-07T05:13:18.339Z",
   "categories": [
     {
       "name": "NEW ARRIVAL 0804",
@@ -13,8 +13,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Factory B 0804",
-      "slug": "factory-b-0804",
+      "name": "Factory B 0806",
+      "slug": "factory-b-0806",
       "source_url": "https://shoes.tangma2088.com/categoryen_367.html?path=0_367",
       "source_path": "0_367",
       "parent_path": "0"
@@ -41,8 +41,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Louis Vittion 2026 0804",
-      "slug": "louis-vittion-2026-0804",
+      "name": "Louis Vittion 2026 0807",
+      "slug": "louis-vittion-2026-0807",
       "source_url": "https://shoes.tangma2088.com/categoryen_327.html?path=0_327",
       "source_path": "0_327",
       "parent_path": "0"
@@ -153,8 +153,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Balenciaga 2026 0802",
-      "slug": "balenciaga-2026-0802",
+      "name": "Balenciaga 2026 0807",
+      "slug": "balenciaga-2026-0807",
       "source_url": "https://shoes.tangma2088.com/categoryen_304.html?path=0_304",
       "source_path": "0_304",
       "parent_path": "0"
@@ -216,8 +216,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Chanel 2026 0803",
-      "slug": "chanel-2026-0803",
+      "name": "Chanel 2026 0807",
+      "slug": "chanel-2026-0807",
       "source_url": "https://shoes.tangma2088.com/categoryen_229.html?path=0_229",
       "source_path": "0_229",
       "parent_path": "0"
@@ -545,8 +545,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Prada 2026 0804",
-      "slug": "prada-2026-0804",
+      "name": "Prada 2026 0807",
+      "slug": "prada-2026-0807",
       "source_url": "https://shoes.tangma2088.com/categoryen_92.html?path=0_92",
       "source_path": "0_92",
       "parent_path": "0"
@@ -643,8 +643,8 @@
       "parent_path": "0"
     },
     {
-      "name": "YSL 2026 0730",
-      "slug": "ysl-2026-0730",
+      "name": "YSL 2026 0807",
+      "slug": "ysl-2026-0807",
       "source_url": "https://shoes.tangma2088.com/categoryen_84731.html?path=0_84731",
       "source_path": "0_84731",
       "parent_path": "0"

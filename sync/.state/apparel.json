@@ -4062,6 +4062,181 @@
       "parent_product_id": "5826530",
       "firstSeen": "2026-08-06T05:58:39.300Z",
       "lastSeen": "2026-08-06T05:58:39.300Z"
+    },
+    "5832544": {
+      "rawHash": "d4e162ca3eda93da10b2ae87223fb207b7bbb5ff",
+      "slug": "fendi-sz38-40-bhtx25344-5832544",
+      "parent_product_id": "5832544",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832554": {
+      "rawHash": "c83f3e9f08f2075cdb82704b64c65a5cd6660d6b",
+      "slug": "givenchy-sz44-50-bhtx01-5832554",
+      "parent_product_id": "5832554",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832566": {
+      "rawHash": "a7b59db1717c2b002f0e952b2363365ae76121bd",
+      "slug": "loewe-sz38-41-bhtx26038-5832566",
+      "parent_product_id": "5832566",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832576": {
+      "rawHash": "7949c86448bf965f062361f61aae56dc3d87ab30",
+      "slug": "lv-s-xl-bhtx012-5832576",
+      "parent_product_id": "5832576",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832586": {
+      "rawHash": "61903cf38fb5207d417cb6083955b80a4a781292",
+      "slug": "lv-s-xl-bhtx006-5832586",
+      "parent_product_id": "5832586",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832596": {
+      "rawHash": "deca0403175762421d4ab20724bcfec37a0ca231",
+      "slug": "lv-s-xl-bhtxw001-5832596",
+      "parent_product_id": "5832596",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832606": {
+      "rawHash": "e019fa163ca30518eaa108e79053d4452ea77ab0",
+      "slug": "moncler-m-3xl-xetr103-5832606",
+      "parent_product_id": "5832606",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832618": {
+      "rawHash": "9b9b866d587ddffded8a4538ca564a5e0004cafa",
+      "slug": "prada-s-xl-bhtx25146-5832618",
+      "parent_product_id": "5832618",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832628": {
+      "rawHash": "122c2f94058b6784ab219310cc4ba1b21210b445",
+      "slug": "moncler-m-3xl-xetr104-5832628",
+      "parent_product_id": "5832628",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832639": {
+      "rawHash": "9a406e23b0060ad1b3acf551f49a1d6fca644374",
+      "slug": "moncler-m-3xl-xetr105-5832639",
+      "parent_product_id": "5832639",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832654": {
+      "rawHash": "bd36cfb1ff0f687ff846955187f12948c987fdf6",
+      "slug": "moncler-m-3xl-xetr106-5832654",
+      "parent_product_id": "5832654",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832668": {
+      "rawHash": "081b6fa22b3a45f461b8b4b00bbc8b7798da36a4",
+      "slug": "moncler-m-3xl-xetr107-5832668",
+      "parent_product_id": "5832668",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832682": {
+      "rawHash": "68206dd1c80541a424fc515d78995b31beddc91e",
+      "slug": "moncler-s-3xl-xetr108-5832682",
+      "parent_product_id": "5832682",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832695": {
+      "rawHash": "fa208d9b185b398798adc58242d7b21a35268a7e",
+      "slug": "prada-sz38-42-bhtxff753-5832695",
+      "parent_product_id": "5832695",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832705": {
+      "rawHash": "6d0c1e6c2ae51aeb57c36225c2cc884e45365138",
+      "slug": "moncler-s-3xl-xetr109-5832705",
+      "parent_product_id": "5832705",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832720": {
+      "rawHash": "c01da0b31a1e769723e5462842b986d60f31df55",
+      "slug": "lv-sz46-52-30-36-bhtx022-021-5832720",
+      "parent_product_id": "5832720",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832740": {
+      "rawHash": "472077154e4ba556600e76d0f2fdc9edec0cd4bf",
+      "slug": "palace-s-xl-bhtxa277-a278-5832740",
+      "parent_product_id": "5832740",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832783": {
+      "rawHash": "af3be28efc83187388bd0972b703a16b2fc69682",
+      "slug": "supreme-s-xl-bhtxa275-a276-5832783",
+      "parent_product_id": "5832783",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832825": {
+      "rawHash": "bf552a7fad354e765faf5d00507b37308f783192",
+      "slug": "supreme-s-xl-bhtxa280-a281-5832825",
+      "parent_product_id": "5832825",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832865": {
+      "rawHash": "fef9da16ef1a79c5e2bf3fe66b8866ae20deeab4",
+      "slug": "prada-sz28-35-xetr125-5832865",
+      "parent_product_id": "5832865",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832879": {
+      "rawHash": "417075ae70f861629b0deaef213851db277f52c0",
+      "slug": "prada-s-3xl-xetr126-5832879",
+      "parent_product_id": "5832879",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832894": {
+      "rawHash": "dff6cd66881be0e968fece1397357d3b016b6ce4",
+      "slug": "stone-island-sz28-35-xetr19-5832894",
+      "parent_product_id": "5832894",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832905": {
+      "rawHash": "34260f0ca33410169c84732f6c240560c2d5a797",
+      "slug": "y-3-m-3xl-xetr13-5832905",
+      "parent_product_id": "5832905",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832918": {
+      "rawHash": "b79d4c0384e822afefd534d7628e1b69380d2e0a",
+      "slug": "y-3-m-3xl-xetr14-5832918",
+      "parent_product_id": "5832918",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
+    },
+    "5832933": {
+      "rawHash": "2fd03f70b36aae8b5e0008b6ebf028034aa0a09a",
+      "slug": "loro-piana-m-4xl-xetr31-5832933",
+      "parent_product_id": "5832933",
+      "firstSeen": "2026-08-07T05:02:07.132Z",
+      "lastSeen": "2026-08-07T05:02:07.132Z"
     }
   },
   "categories": [
@@ -4072,13 +4247,13 @@
     "lacoste",
     "high-quality-0801",
     "by-style-0806",
-    "t-shirt-0805",
-    "high-quality-0805",
+    "t-shirt-0807",
+    "high-quality-0807",
     "polo-short-0805",
     "jacket-0806",
     "down-jacket-0720",
     "bikini-0729",
-    "spring-summer-kid-clothes-0721",
+    "spring-summer-kid-clothes-0807",
     "fashion-dress-0714",
     "lululemon-alo-0714",
     "louis-vuitton",
@@ -4122,5 +4297,5 @@
     "kenzo",
     "hotsale-updating"
   ],
-  "updatedAt": "2026-08-06T05:58:39.300Z"
+  "updatedAt": "2026-08-07T05:02:07.132Z"
 }
