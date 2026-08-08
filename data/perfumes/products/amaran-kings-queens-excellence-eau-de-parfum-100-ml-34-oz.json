@@ -1,0 +1,94 @@
+{
+  "slug": "amaran-kings-queens-excellence-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8695200841911",
+  "source_parent_product_id": "8695200841911",
+  "source_product_url": "https://habibiperfumes.store/products/amaran-kings-queens-excellence-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/amaran-kings-queens-excellence-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/amaran-kings-queens-excellence-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/amaran-mens-kings-queens-excellence-edp-spray-34-oz-fragrances-6291108727799.jpg?v=1785691324",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amaran-Kings-and-Queens-Excellence-eau-de-parfum-100ml_097da215-6a5c-4ee4-85a7-f1151d533fda.jpg?v=1785691324",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amaran-Kings-and-Queens-Excellence-eau-de-parfum-100ml_60c73cea-3a23-4861-94da-84e34584a4ab.jpg?v=1785691324",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amaran-Kings-and-Queens-Excellence-eau-de-parfum-100ml.jpg?v=1785691324"
+  ],
+  "source_last_seen": "2026-08-08T04:41:05.212Z",
+  "name": "Amaran Kings & Queens Excellence Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Amaran Kings & Queens Excellence Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Amaran",
+  "sku": "6291108727799",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8695200841911",
+  "parent_product_id": "8695200841911",
+  "description": "Amaran Kings & Queens Excellence Eau de Parfum is a masculine aromatic fragrance with lemon and sage in the opening. Cinnamon, praline, black cardamom and tolu balsam add a spicy sweet heart, finishing with patchouli, black amber and Brazilian rosewood. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.50",
+      "compare_at_price": "29.99",
+      "sku": "6291108727799",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.50",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/amaran-kings-queens-excellence-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/amaran-mens-kings-queens-excellence-edp-spray-34-oz-fragrances-6291108727799.jpg?v=1785691324",
+      "content_hash": "93b510c45c442a8d323a33065c765f88f3c93a4f",
+      "alt": "Amaran Kings & Queens Excellence Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/amaran-kings-queens-excellence-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amaran-Kings-and-Queens-Excellence-eau-de-parfum-100ml_097da215-6a5c-4ee4-85a7-f1151d533fda.jpg?v=1785691324",
+      "content_hash": "40471ac590715c66c7d8e21e0849ef4c5997f575",
+      "alt": "Amaran Kings & Queens Excellence Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/amaran-kings-queens-excellence-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amaran-Kings-and-Queens-Excellence-eau-de-parfum-100ml_60c73cea-3a23-4861-94da-84e34584a4ab.jpg?v=1785691324",
+      "content_hash": "334bb46545696324dc4a61e9d58a353ddf85d8f2",
+      "alt": "Amaran Kings & Queens Excellence Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/amaran-kings-queens-excellence-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amaran-Kings-and-Queens-Excellence-eau-de-parfum-100ml.jpg?v=1785691324",
+      "content_hash": "efe9f11f8d0192d1dab10fe7afc1db277af6fc45",
+      "alt": "Amaran Kings & Queens Excellence Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-08T04:41:05.212Z"
+}

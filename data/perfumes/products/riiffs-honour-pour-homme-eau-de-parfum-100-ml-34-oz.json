@@ -1,0 +1,94 @@
+{
+  "slug": "riiffs-honour-pour-homme-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8695201136823",
+  "source_parent_product_id": "8695201136823",
+  "source_product_url": "https://habibiperfumes.store/products/riiffs-honour-pour-homme-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/riiffs-honour-pour-homme-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/riiffs-honour-pour-homme-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4.jpg?v=1785691339",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2.jpg?v=1785691338",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3-scaled.jpg?v=1785691339",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1.jpg?v=1785691339"
+  ],
+  "source_last_seen": "2026-08-08T04:41:05.212Z",
+  "name": "Riiffs Honour Pour Homme Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Riiffs Honour Pour Homme Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Riiffs",
+  "sku": "6290360595573",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8695201136823",
+  "parent_product_id": "8695201136823",
+  "description": "Riiffs Honour Pour Homme Eau de Parfum is a men's fragrance with a fresh citrus-fruity opening of pineapple, bergamot and lemon. Aromatic and woody facets build through the heart and base for a polished masculine finish. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.50",
+      "compare_at_price": "29.99",
+      "sku": "6290360595573",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.50",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/riiffs-honour-pour-homme-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/4.jpg?v=1785691339",
+      "content_hash": "8c1a37f3c97950de475be82a157a4c1f19f06b9f",
+      "alt": "Riiffs Honour Pour Homme Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-honour-pour-homme-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/2.jpg?v=1785691338",
+      "content_hash": "678123acc7689120e25fab8baedbea9859cb3bd9",
+      "alt": "Riiffs Honour Pour Homme Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-honour-pour-homme-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/3-scaled.jpg?v=1785691339",
+      "content_hash": "67b59ca0b8e674bd9494c22ba36773156578531a",
+      "alt": "Riiffs Honour Pour Homme Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/riiffs-honour-pour-homme-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/1.jpg?v=1785691339",
+      "content_hash": "23d13db58fe5e2c5c278444deacbe01670d43963",
+      "alt": "Riiffs Honour Pour Homme Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-08T04:41:05.212Z"
+}

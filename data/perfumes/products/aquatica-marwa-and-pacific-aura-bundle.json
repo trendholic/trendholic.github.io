@@ -27,7 +27,7 @@
   "source_image_urls": [
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_68352c3a-f2c5-4670-b93c-d2bfc40c4fc1.png?v=1784662314"
   ],
-  "source_last_seen": "2026-08-07T05:19:39.995Z",
+  "source_last_seen": "2026-08-08T04:41:05.212Z",
   "name": "Aquatica, Marwa & Pacific Aura Bundle",
   "english_product_name": "Aquatica, Marwa & Pacific Aura Bundle",
   "original_product_name": null,
@@ -46,20 +46,20 @@
   "variants": [
     {
       "title": "Default Title",
-      "price": "118.50",
+      "price": "129.50",
       "compare_at_price": "149.99",
       "sku": null,
-      "available": false
+      "available": true
     }
   ],
   "dimensions": null,
   "weight": null,
   "packaging": null,
   "moq": null,
-  "price": "118.50",
+  "price": "129.50",
   "compare_at_price": "149.99",
   "currency": "USD",
-  "availability": "Out of stock",
+  "availability": "In stock",
   "images": [
     {
       "src": "/data/perfumes/images/aquatica-marwa-and-pacific-aura-bundle-1.webp",
@@ -69,5 +69,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-08-07T05:19:39.995Z"
+  "synced_at": "2026-08-08T04:41:05.212Z"
 }

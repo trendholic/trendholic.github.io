@@ -1,0 +1,63 @@
+{
+  "slug": "dior-sz38-44-mns0702-3007288",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "3007289",
+  "source_parent_product_id": "3007288",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_3007289.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/dior-sz38-44-mns0702-3007288/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_3007289.html",
+    "https://shoes.tangma2088.com/productinfoen_3007288.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202608/Dior%20sz38-44%20mns0702%20(1)_3007289.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Dior%20sz38-44%20mns0702%20(2)_3007288.jpg"
+  ],
+  "source_last_seen": "2026-08-08T04:35:54.532Z",
+  "name": "Dior sz38-44 mns0702",
+  "english_product_name": "Dior sz38-44 mns0702",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "3007288",
+  "parent_product_id": "3007288",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/dior-sz38-44-mns0702-3007288-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Dior%20sz38-44%20mns0702%20(1)_3007289.jpg",
+      "content_hash": "6b11ba8cfbf9b8fc19e2bea8e338d1bbe9a419fa",
+      "alt": "Dior sz38-44 mns0702"
+    },
+    {
+      "src": "/data/shoes/images/dior-sz38-44-mns0702-3007288-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Dior%20sz38-44%20mns0702%20(2)_3007288.jpg",
+      "content_hash": "46d680514acf54819e343e01840065ac2ea253fd",
+      "alt": "Dior sz38-44 mns0702"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-08T04:35:54.532Z"
+}

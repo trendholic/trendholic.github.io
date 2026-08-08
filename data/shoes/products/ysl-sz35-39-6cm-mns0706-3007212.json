@@ -1,0 +1,79 @@
+{
+  "slug": "ysl-sz35-39-6cm-mns0706-3007212",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "3007223",
+  "source_parent_product_id": "3007212",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_3007223.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/ysl-sz35-39-6cm-mns0706-3007212/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_3007223.html",
+    "https://shoes.tangma2088.com/productinfoen_3007222.html",
+    "https://shoes.tangma2088.com/productinfoen_3007213.html",
+    "https://shoes.tangma2088.com/productinfoen_3007212.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202608/YSL%20sz35-39%206cm%20mns0706%20(1)_3007223.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/YSL%20sz35-39%206cm%20mns0706%20(2)_3007213.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/YSL%20sz35-39%206cm%20mns0706%20(11)_3007222.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/YSL%20sz35-39%206cm%20mns0706%20(12)_3007212.jpg"
+  ],
+  "source_last_seen": "2026-08-08T04:35:54.532Z",
+  "name": "YSL sz35-39 6cm mns0706",
+  "english_product_name": "YSL sz35-39 6cm mns0706",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "3007212",
+  "parent_product_id": "3007212",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/ysl-sz35-39-6cm-mns0706-3007212-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/YSL%20sz35-39%206cm%20mns0706%20(1)_3007223.jpg",
+      "content_hash": "d5978284c3300d5046509d4414449421ed086d24",
+      "alt": "YSL sz35-39 6cm mns0706"
+    },
+    {
+      "src": "/data/shoes/images/ysl-sz35-39-6cm-mns0706-3007212-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/YSL%20sz35-39%206cm%20mns0706%20(2)_3007213.jpg",
+      "content_hash": "3e2e10256c0b33857856ba621491d0aa28f964a8",
+      "alt": "YSL sz35-39 6cm mns0706"
+    },
+    {
+      "src": "/data/shoes/images/ysl-sz35-39-6cm-mns0706-3007212-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/YSL%20sz35-39%206cm%20mns0706%20(11)_3007222.jpg",
+      "content_hash": "483b3187971321c845c53a259d389fa9f1aa415b",
+      "alt": "YSL sz35-39 6cm mns0706"
+    },
+    {
+      "src": "/data/shoes/images/ysl-sz35-39-6cm-mns0706-3007212-4.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/YSL%20sz35-39%206cm%20mns0706%20(12)_3007212.jpg",
+      "content_hash": "adcd75ad53bea50bdce133b9da788ce3b2cebfc9",
+      "alt": "YSL sz35-39 6cm mns0706"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-08T04:35:54.532Z"
+}

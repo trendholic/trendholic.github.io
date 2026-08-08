@@ -3,11 +3,11 @@
   "source": "accessories",
   "host": "acc.tangma2088.com",
   "count": 35,
-  "updatedAt": "2026-08-07T05:05:43.672Z",
+  "updatedAt": "2026-08-08T04:23:36.594Z",
   "categories": [
     {
-      "name": "New Arrival 0806",
-      "slug": "new-arrival-0806",
+      "name": "New Arrival 0807",
+      "slug": "new-arrival-0807",
       "source_url": "https://acc.tangma2088.com/categoryen_16511.html?path=0_16511",
       "source_path": "0_16511",
       "parent_path": "0"
@@ -27,15 +27,15 @@
       "parent_path": "0"
     },
     {
-      "name": "Plain Glasses 0806",
-      "slug": "plain-glasses-0806",
+      "name": "Plain Glasses 0807",
+      "slug": "plain-glasses-0807",
       "source_url": "https://acc.tangma2088.com/categoryen_391.html?path=0_391",
       "source_path": "0_391",
       "parent_path": "0"
     },
     {
-      "name": "Glasses Factory 0806",
-      "slug": "glasses-factory-0806",
+      "name": "Glasses Factory 0807",
+      "slug": "glasses-factory-0807",
       "source_url": "https://acc.tangma2088.com/categoryen_28251.html?path=0_28251",
       "source_path": "0_28251",
       "parent_path": "0"
@@ -48,8 +48,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Watches 0721",
-      "slug": "watches-0721",
+      "name": "Watches 0808",
+      "slug": "watches-0808",
       "source_url": "https://acc.tangma2088.com/categoryen_383.html?path=0_383",
       "source_path": "0_383",
       "parent_path": "0"

@@ -33,7 +33,7 @@
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/06_27318443-145a-47e6-beac-c1147ef55e26.png?v=1784662335",
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/07_e9fdd133-b393-4d02-a5d2-8a60cea173c3.png?v=1784662335"
   ],
-  "source_last_seen": "2026-08-07T05:19:39.995Z",
+  "source_last_seen": "2026-08-08T04:41:05.212Z",
   "name": "Marwa, Aquatica & Island Dreams Bundle",
   "english_product_name": "Marwa, Aquatica & Island Dreams Bundle",
   "original_product_name": null,
@@ -52,20 +52,20 @@
   "variants": [
     {
       "title": "Default Title",
-      "price": "119.50",
+      "price": "124.50",
       "compare_at_price": "149.99",
       "sku": null,
-      "available": false
+      "available": true
     }
   ],
   "dimensions": null,
   "weight": null,
   "packaging": null,
   "moq": null,
-  "price": "119.50",
+  "price": "124.50",
   "compare_at_price": "149.99",
   "currency": "USD",
-  "availability": "Out of stock",
+  "availability": "In stock",
   "images": [
     {
       "src": "/data/perfumes/images/marwa-aquatica-and-island-dreams-bundle-1.webp",
@@ -111,5 +111,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-08-07T05:19:39.995Z"
+  "synced_at": "2026-08-08T04:41:05.212Z"
 }

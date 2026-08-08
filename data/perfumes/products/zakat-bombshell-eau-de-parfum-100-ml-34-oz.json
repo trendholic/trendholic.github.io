@@ -1,0 +1,94 @@
+{
+  "slug": "zakat-bombshell-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Womans Perfume",
+  "source_category_original": "Womans Perfume",
+  "source_categories": [
+    {
+      "name": "Womans Perfume",
+      "slug": "womans-perfume",
+      "source_path": "Womans Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "womans-perfume"
+  ],
+  "source_product_id": "8695200940215",
+  "source_parent_product_id": "8695200940215",
+  "source_product_url": "https://habibiperfumes.store/products/zakat-bombshell-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/zakat-bombshell-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/zakat-bombshell-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/zakat_bombshell.jpg?v=1786129398",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/a71a3b775429437cac8a523cfbd7eb23tplv-omjb5zjo8w-origin-jpeg-1536x1536.jpg?v=1785691327",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/zakat-ladies-bombshell-edp-3-4-oz-fragrances-6290362710233.jpg?v=1785691327",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rjusri-scaled.jpg?v=1785691327"
+  ],
+  "source_last_seen": "2026-08-08T04:41:05.212Z",
+  "name": "Zakat Bombshell Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Zakat Bombshell Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Zakat",
+  "sku": "6290362710233",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8695200940215",
+  "parent_product_id": "8695200940215",
+  "description": "Zakat Bombshell Eau de Parfum is a women's fragrance with a sweet fruity opening of sugar, red berries and mandarin orange. Vanilla, cacao, spicy notes and rose create a playful heart, while tonka bean, amber, musk and woody notes finish the scent. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.50",
+      "compare_at_price": "29.99",
+      "sku": "6290362710233",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.50",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/zakat-bombshell-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/zakat_bombshell.jpg?v=1786129398",
+      "content_hash": "d9018754736167f261abac7dd34b96cfbd0d9a67",
+      "alt": "Zakat Bombshell Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/zakat-bombshell-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/a71a3b775429437cac8a523cfbd7eb23tplv-omjb5zjo8w-origin-jpeg-1536x1536.jpg?v=1785691327",
+      "content_hash": "f00bd418f3ebfc300dda53215736bbfbd5874811",
+      "alt": "Zakat Bombshell Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/zakat-bombshell-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/zakat-ladies-bombshell-edp-3-4-oz-fragrances-6290362710233.jpg?v=1785691327",
+      "content_hash": "b466acba4843203c7c0a68f033b117ef05f5f3f8",
+      "alt": "Zakat Bombshell Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/zakat-bombshell-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/rjusri-scaled.jpg?v=1785691327",
+      "content_hash": "17cbd3b88fa15702ef9f7802162cd73838f22f83",
+      "alt": "Zakat Bombshell Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-08T04:41:05.212Z"
+}

@@ -3101,16 +3101,317 @@
       "parent_product_id": "4109237",
       "firstSeen": "2026-08-07T05:08:05.277Z",
       "lastSeen": "2026-08-07T05:08:05.277Z"
+    },
+    "4112031": {
+      "rawHash": "cbdce850ccb4fe4f554d32d3495d16994d505b05",
+      "slug": "omega-28mm-51-4112031",
+      "parent_product_id": "4112031",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112036": {
+      "rawHash": "4096d5870c6a6735c6d2cc46a40eb46ad82ccb4d",
+      "slug": "omega-28mm-52-4112036",
+      "parent_product_id": "4112036",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112041": {
+      "rawHash": "e8cf56c9b91b2f90b1d3a0a9c37a079566617ec3",
+      "slug": "omega-watch-01-4112041",
+      "parent_product_id": "4112041",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112062": {
+      "rawHash": "e772c6bfca1a9aa801204a8927f10eba537ff707",
+      "slug": "omega-watch-02-4112062",
+      "parent_product_id": "4112062",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112083": {
+      "rawHash": "9df580c773772a88f7cf86375d1a76fa3a893374",
+      "slug": "omega-watch-03-4112083",
+      "parent_product_id": "4112083",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112101": {
+      "rawHash": "3b0dcc5e638ebfc2927f12a9f7f781ee996ed9fa",
+      "slug": "omega-watch-04-4112101",
+      "parent_product_id": "4112101",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112110": {
+      "rawHash": "0cbc14d540b8071e98a70936763aeef1d33927bc",
+      "slug": "omega-watch-05-4112110",
+      "parent_product_id": "4112110",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112120": {
+      "rawHash": "2876c5cad93987467904d87b33780a2e44dcc78d",
+      "slug": "omega-watch-06-4112120",
+      "parent_product_id": "4112120",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112125": {
+      "rawHash": "e0e52f75ea65cad71ca7411037d234794bdb586a",
+      "slug": "omega-watch-07-4112125",
+      "parent_product_id": "4112125",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112133": {
+      "rawHash": "2334e6fe87493adf6a59608e0ea3061b8748915e",
+      "slug": "omega-watch-08-4112133",
+      "parent_product_id": "4112133",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112141": {
+      "rawHash": "b9683839869c4f34e0716b1051201056fb6e783d",
+      "slug": "omega-watch-09-4112141",
+      "parent_product_id": "4112141",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112149": {
+      "rawHash": "ef8b4b5d4d6dc5428cda145c6c2e9d2b8c9b2a68",
+      "slug": "omega-watch-10-4112149",
+      "parent_product_id": "4112149",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112156": {
+      "rawHash": "af469fb67a23eef516b677cddee9c0d252e99df3",
+      "slug": "omega-watch-11-4112156",
+      "parent_product_id": "4112156",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112162": {
+      "rawHash": "e26fe2457c5bf9385d5cc0bb9c51f124610ff6df",
+      "slug": "omega-watch-12-4112162",
+      "parent_product_id": "4112162",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112168": {
+      "rawHash": "c30af599885abe7bb30c4caf9c420688efdd7b7d",
+      "slug": "omega-watch-13-4112168",
+      "parent_product_id": "4112168",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112172": {
+      "rawHash": "aeb52ea295028b1ce7c4909c8e048687021fbbc0",
+      "slug": "omega-watch-14-4112172",
+      "parent_product_id": "4112172",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112180": {
+      "rawHash": "759b9e1e265b3cf76c1ce744eb1c76274a9e897c",
+      "slug": "omega-watch-15-4112180",
+      "parent_product_id": "4112180",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112187": {
+      "rawHash": "b82f4943d3becd135bc298911e5ef085fcc2b1a2",
+      "slug": "omega-watch-16-4112187",
+      "parent_product_id": "4112187",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112192": {
+      "rawHash": "0312bfc84a81bda0eec75fe28b511a5073c485f9",
+      "slug": "omega-watch-17-4112192",
+      "parent_product_id": "4112192",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112210": {
+      "rawHash": "1f6af835c16eb2671316cb1e5a6220e6c835d422",
+      "slug": "omega-watch-18-4112210",
+      "parent_product_id": "4112210",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112219": {
+      "rawHash": "0ee06fcf4a9aba777a3dc6e586fe2b6300df9d05",
+      "slug": "omega-watch-19-4112219",
+      "parent_product_id": "4112219",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112226": {
+      "rawHash": "6e038e5d76d54b5a9ca53d58fe4cc8860890f4b0",
+      "slug": "rolex-36mm-04-4112226",
+      "parent_product_id": "4112226",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112237": {
+      "rawHash": "65afed04c2f2ce6df425059a68063b26ee7f1dd9",
+      "slug": "rolex-36mm-16-4112237",
+      "parent_product_id": "4112237",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112247": {
+      "rawHash": "40429d8e9dba020b326a89c8794e1f62692bc4e6",
+      "slug": "rolex-36mm-17-milgauss-4112247",
+      "parent_product_id": "4112247",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112257": {
+      "rawHash": "9a95eeee1542ecd0fe38a698591d1cdb27f760ac",
+      "slug": "rolex-36mm-18-milgauss-4112257",
+      "parent_product_id": "4112257",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112265": {
+      "rawHash": "4c5159d2b025e56f8cc02f976ac16fa8cc99b803",
+      "slug": "rolex-36mm-19-milgauss-4112265",
+      "parent_product_id": "4112265",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112275": {
+      "rawHash": "02f1449c9a933d7356db82f04503a974aaf9966c",
+      "slug": "rolex-36mm-20-milgauss-4112275",
+      "parent_product_id": "4112275",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112282": {
+      "rawHash": "2c1047a86f97ae9b3ce2c11ac5d6a2017699ef43",
+      "slug": "rolex-36mm-32-4112282",
+      "parent_product_id": "4112282",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112293": {
+      "rawHash": "c1a47a029257767c878b8b394bca6d7f75cc4eba",
+      "slug": "rolex-36mm-41-4112293",
+      "parent_product_id": "4112293",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112302": {
+      "rawHash": "9c12ae1cb538a11469ea54d68dd8481dc7ef4c22",
+      "slug": "rolex-36mm-42-explorer-4112302",
+      "parent_product_id": "4112302",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112311": {
+      "rawHash": "d35004856125cb6ba590b5ddcc2d3f3901614d0e",
+      "slug": "rolex-36mm-43-explorer-4112311",
+      "parent_product_id": "4112311",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112320": {
+      "rawHash": "4d2fb593c61b01d0a50fb6e47a3aed5ca11453d1",
+      "slug": "rolex-36mm-44-explorer-4112320",
+      "parent_product_id": "4112320",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112326": {
+      "rawHash": "01cd0d031ad0519801907143fd3371488989d806",
+      "slug": "rolex-36mm-45-explorer-4112326",
+      "parent_product_id": "4112326",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112334": {
+      "rawHash": "d06e3c5eef18206c339aca3e3bd24f10c91c47e5",
+      "slug": "rolex-36mm-46-explorer-4112334",
+      "parent_product_id": "4112334",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112343": {
+      "rawHash": "eeed5d0be9077185dc843a60e214ed9f441ad40c",
+      "slug": "rolex-36mm-47-explorer-4112343",
+      "parent_product_id": "4112343",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112352": {
+      "rawHash": "1c16709a23dbd74925c2f8aeb2fcac0cda269b7c",
+      "slug": "rolex-36mm-48-explorer-4112352",
+      "parent_product_id": "4112352",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112359": {
+      "rawHash": "7139e2d9bdb9414e175f9808af1aa1e93e62a519",
+      "slug": "rolex-36mm-49-explorer-4112359",
+      "parent_product_id": "4112359",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112367": {
+      "rawHash": "6072fe90024dbaf3d199a071ce32e0fd5821aaae",
+      "slug": "rolex-36mm-50-explorer-4112367",
+      "parent_product_id": "4112367",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112376": {
+      "rawHash": "febcaccd4a4f80d617e7b07faa93b2985112bb3c",
+      "slug": "rolex-36mm-51-4112376",
+      "parent_product_id": "4112376",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112387": {
+      "rawHash": "9b3d507a41142ba2b3134348c536125b7357f3b7",
+      "slug": "rolex-36mm-53-4112387",
+      "parent_product_id": "4112387",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112397": {
+      "rawHash": "b3ec95694ca9feda7e9af1ba78db12f115808a46",
+      "slug": "rolex-36mm-54-milgauss-4112397",
+      "parent_product_id": "4112397",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112414": {
+      "rawHash": "29f4d22fbf7ccddb675bab98b667de04d628d838",
+      "slug": "rolex-36mm-55-milgauss-4112414",
+      "parent_product_id": "4112414",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
+    },
+    "4112424": {
+      "rawHash": "7fe7e792248636dfc059ac44ef8150be5d7a0909",
+      "slug": "rolex-38mm-02-daytona-4112424",
+      "parent_product_id": "4112424",
+      "firstSeen": "2026-08-08T04:25:39.381Z",
+      "lastSeen": "2026-08-08T04:25:39.381Z"
     }
   },
   "categories": [
-    "new-arrival-0806",
+    "new-arrival-0807",
     "jewelry-0707",
     "glasses-0629",
-    "plain-glasses-0806",
-    "glasses-factory-0806",
+    "plain-glasses-0807",
+    "glasses-factory-0807",
     "belts-0806",
-    "watches-0721",
+    "watches-0808",
     "caps-0803",
     "bucket-hat-0803",
     "26-hat-0803",
@@ -3140,5 +3441,5 @@
     "underware-sleepware-0307",
     "sunglasses-a"
   ],
-  "updatedAt": "2026-08-07T05:08:05.277Z"
+  "updatedAt": "2026-08-08T04:25:39.381Z"
 }

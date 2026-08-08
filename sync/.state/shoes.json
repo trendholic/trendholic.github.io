@@ -3565,10 +3565,444 @@
       "parent_product_id": "3005898",
       "firstSeen": "2026-08-07T05:15:47.432Z",
       "lastSeen": "2026-08-07T05:15:47.432Z"
+    },
+    "3007204": {
+      "rawHash": "1f9bb67c6c278208ce42456d9c174b34b6f35421",
+      "slug": "ysl-sz35-39-6cm-mns0708-3007204",
+      "parent_product_id": "3007204",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007207": {
+      "rawHash": "91158ecbc1790a346363c038281e058e6868f61d",
+      "slug": "ysl-sz35-39-6cm-mns0707-3007207",
+      "parent_product_id": "3007207",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007212": {
+      "rawHash": "906b300084488d37dd299f422e98a03ff30be77c",
+      "slug": "ysl-sz35-39-6cm-mns0706-3007212",
+      "parent_product_id": "3007212",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007242": {
+      "rawHash": "ae092900c99c33968b9bc9063b6cd17886bdab76",
+      "slug": "ysl-sz35-39-10cm-mns0712-3007242",
+      "parent_product_id": "3007242",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007250": {
+      "rawHash": "19a51c11eb8d28a453f0bb8b9978e9941c235c66",
+      "slug": "ysl-sz35-39-10cm-mns0711-3007250",
+      "parent_product_id": "3007250",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007272": {
+      "rawHash": "6d3643e4349fef6d7bccd12004884e1171b1d372",
+      "slug": "ysl-sz35-39-10cm-mns0710-3007272",
+      "parent_product_id": "3007272",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007278": {
+      "rawHash": "058ff0d406e5ffdf7d6c160366ddc878ce7129bb",
+      "slug": "ysl-sz35-39-10cm-mns0709-3007278",
+      "parent_product_id": "3007278",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007288": {
+      "rawHash": "9b98256cd1e3e5aa9c062d1d5ce19823bad4a349",
+      "slug": "dior-sz38-44-mns0702-3007288",
+      "parent_product_id": "3007288",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007290": {
+      "rawHash": "cc0b163c24e6d99ac0fb6755492a4f0d211e88e5",
+      "slug": "fendi-sz39-44-mns0703-3007290",
+      "parent_product_id": "3007290",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007292": {
+      "rawHash": "ea66c973ca3c05a53ab5a7d9399ff3939f82eb87",
+      "slug": "fendi-sz39-44-mns0702-3007292",
+      "parent_product_id": "3007292",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007294": {
+      "rawHash": "711b7d49f9244fe84d15f849ce5f94db9c90a340",
+      "slug": "fendi-sz39-44-mns0701-3007294",
+      "parent_product_id": "3007294",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007296": {
+      "rawHash": "6d527e9e8727b79e4ab17e76fa09993061750d56",
+      "slug": "lv-sz38-44-mns0705-3007296",
+      "parent_product_id": "3007296",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007298": {
+      "rawHash": "9e40018fecf1d1cc42d6d1faa513d2776bc23d17",
+      "slug": "lv-sz38-45-mns0706-3007298",
+      "parent_product_id": "3007298",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007300": {
+      "rawHash": "74c8ec51f7519a72b96eae2f767cc1e6ccf5a58e",
+      "slug": "numeris-sz38-45-mns0702-3007300",
+      "parent_product_id": "3007300",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007305": {
+      "rawHash": "5304066c99804e42f17198ce681b76b64e99a701",
+      "slug": "numeris-sz38-45-mns0701-3007305",
+      "parent_product_id": "3007305",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007332": {
+      "rawHash": "ad1cc8bd3f29aaf8a227000f0c31b1761b095ac6",
+      "slug": "prada-sz38-45-mns0705-3007332",
+      "parent_product_id": "3007332",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007338": {
+      "rawHash": "93a22bb223eb42cef16359027199460f906854a3",
+      "slug": "maison-margiela-sz35-40-38-48-mns0701-3007338",
+      "parent_product_id": "3007338",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007342": {
+      "rawHash": "458a16c79c8dd064b5511a57f9f0273cda78813b",
+      "slug": "maison-margiela-sz35-40-38-48-mns0702-3007342",
+      "parent_product_id": "3007342",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007350": {
+      "rawHash": "7b1905940d8fd5f3b07871bd6b5693b4d1935c2e",
+      "slug": "maison-margiela-sz35-40-38-48-mns0703-3007350",
+      "parent_product_id": "3007350",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007366": {
+      "rawHash": "6a3e1cdcd1da1af9b06426a9a82408ee107a6682",
+      "slug": "maison-margiela-sz35-40-38-48-mns0704-3007366",
+      "parent_product_id": "3007366",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007372": {
+      "rawHash": "2ac27c127b732069cc36483be02759700eae5c31",
+      "slug": "maison-margiela-sz35-40-38-48-mns0705-3007372",
+      "parent_product_id": "3007372",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007384": {
+      "rawHash": "428a0722f31fb6f1e75851437632fbfe74c30a7c",
+      "slug": "maison-margiela-sz35-40-38-48-mns0706-3007384",
+      "parent_product_id": "3007384",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007400": {
+      "rawHash": "02a71a71ad636293a6532e74150a3fae9d763e86",
+      "slug": "numeris-sz35-40-38-47-mns0711-3007400",
+      "parent_product_id": "3007400",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007416": {
+      "rawHash": "61d0bbb224cc69cb2c735393603444c59b36ba17",
+      "slug": "numeris-sz35-40-38-47-mns0710-3007416",
+      "parent_product_id": "3007416",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007418": {
+      "rawHash": "a48f38c614d69abc4a13ed9a21ca21f053709b76",
+      "slug": "numeris-sz35-40-38-47-mns0709-3007418",
+      "parent_product_id": "3007418",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007420": {
+      "rawHash": "398378a520ac62288306b8c9092daa1720bf3e6d",
+      "slug": "numeris-sz35-40-38-47-mns0708-3007420",
+      "parent_product_id": "3007420",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007422": {
+      "rawHash": "4811782fcdcbe7f920a779466ffe6d45f4f259f4",
+      "slug": "numeris-sz35-40-38-47-mns0707-3007422",
+      "parent_product_id": "3007422",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007424": {
+      "rawHash": "9202e32e8384b89d16e232a9ce7c6c59b37ab993",
+      "slug": "numeris-sz35-40-38-47-mns0706-3007424",
+      "parent_product_id": "3007424",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007426": {
+      "rawHash": "1eb5a9d9c8d27670825988be6c067b40182e2389",
+      "slug": "numeris-sz35-40-38-47-mns0705-3007426",
+      "parent_product_id": "3007426",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007428": {
+      "rawHash": "0bcc5ec3ef25eb4860cef8dc76bfa21d8d1e2723",
+      "slug": "numeris-sz35-40-38-47-mns0704-3007428",
+      "parent_product_id": "3007428",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007434": {
+      "rawHash": "5ce88a80f6193d3998bf5421b9488871933b6c14",
+      "slug": "numeris-sz35-40-38-47-mns0703-3007434",
+      "parent_product_id": "3007434",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007438": {
+      "rawHash": "80c43fa5754803c5125d7f4892127625aca2ad02",
+      "slug": "numeris-sz35-40-38-47-mns0702-3007438",
+      "parent_product_id": "3007438",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007446": {
+      "rawHash": "174a531f83b63d3cbb21163c9d8f690aca50cd8a",
+      "slug": "numeris-sz35-40-38-47-mns0701-3007446",
+      "parent_product_id": "3007446",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007450": {
+      "rawHash": "ae07a7deb9b966d610d51c1c78d5363370cf9d2e",
+      "slug": "numeris-sz35-40-38-49-mns0732-3007450",
+      "parent_product_id": "3007450",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007458": {
+      "rawHash": "e1fd02189a2dde6718e55f232fe577a9aec6b7be",
+      "slug": "numeris-sz35-40-38-49-mns0731-3007458",
+      "parent_product_id": "3007458",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007464": {
+      "rawHash": "05bb2904a3d8e76bf76108404833152d3fdea917",
+      "slug": "numeris-sz35-40-38-49-mns0730-3007464",
+      "parent_product_id": "3007464",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007466": {
+      "rawHash": "36c645b2d5fa23254b74c770efca8223e63d23a0",
+      "slug": "numeris-sz35-40-38-49-mns0729-3007466",
+      "parent_product_id": "3007466",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007468": {
+      "rawHash": "265dcd05fff955dac09d572ae64519c478555a07",
+      "slug": "numeris-sz35-40-38-49-mns0728-3007468",
+      "parent_product_id": "3007468",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007470": {
+      "rawHash": "635a530f77c0eb8b9585478ac5048e72d2ba52ad",
+      "slug": "numeris-sz35-40-38-49-mns0727-3007470",
+      "parent_product_id": "3007470",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007472": {
+      "rawHash": "6af138c7de34498a1f379b29d024546979918c34",
+      "slug": "numeris-sz35-40-38-49-mns0726-3007472",
+      "parent_product_id": "3007472",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007474": {
+      "rawHash": "c207eb3bdb8294dbb3afa4aa92f85b417ef82001",
+      "slug": "numeris-sz35-40-38-49-mns0725-3007474",
+      "parent_product_id": "3007474",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007476": {
+      "rawHash": "f34edf35813b5c9cc89c5021a103ee5b425ad90a",
+      "slug": "numeris-sz35-40-38-49-mns0724-3007476",
+      "parent_product_id": "3007476",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007478": {
+      "rawHash": "be48dbe7d84182b632ffaf7521c7cd9cd199fa8a",
+      "slug": "numeris-sz35-40-38-49-mns0723-3007478",
+      "parent_product_id": "3007478",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007480": {
+      "rawHash": "f5f5275985124e0cd75e04ff245449538f00156a",
+      "slug": "numeris-sz35-40-38-49-mns0722-3007480",
+      "parent_product_id": "3007480",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007482": {
+      "rawHash": "1d30c863e581c6534eaf40ba669f1d7013d8883d",
+      "slug": "numeris-sz35-40-38-49-mns0721-3007482",
+      "parent_product_id": "3007482",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007484": {
+      "rawHash": "e5cc9e52b89c87a1ff3ee0457c9e0fd2e117c402",
+      "slug": "numeris-sz35-40-38-49-mns0720-3007484",
+      "parent_product_id": "3007484",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007486": {
+      "rawHash": "9a64a8e24d4bc4dccf2a8281caf7bb0961efdf20",
+      "slug": "numeris-sz35-40-38-49-mns0719-3007486",
+      "parent_product_id": "3007486",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007488": {
+      "rawHash": "e6f7b874192f43d868d91e65af09d1d25b5f4767",
+      "slug": "numeris-sz35-40-38-49-mns0718-3007488",
+      "parent_product_id": "3007488",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007490": {
+      "rawHash": "78fe5d5d8d968628a96deb4071c900a620a63239",
+      "slug": "numeris-sz35-40-38-49-mns0717-3007490",
+      "parent_product_id": "3007490",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007492": {
+      "rawHash": "e6cf05c162f758db7f3d487875841879173c3c8a",
+      "slug": "numeris-sz35-40-38-49-mns0716-3007492",
+      "parent_product_id": "3007492",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007494": {
+      "rawHash": "27f668f9ac81c2ddb6bebe9937fb8fe71ac8bec2",
+      "slug": "numeris-sz35-40-38-49-mns0715-3007494",
+      "parent_product_id": "3007494",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007496": {
+      "rawHash": "ed3b08206a25d3841ea9727034a1c5ebc3ed71ab",
+      "slug": "numeris-sz35-40-38-49-mns0714-3007496",
+      "parent_product_id": "3007496",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007498": {
+      "rawHash": "40ace6323210254b08dfe55884a204e97bf5381d",
+      "slug": "numeris-sz35-40-38-49-mns0713-3007498",
+      "parent_product_id": "3007498",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007502": {
+      "rawHash": "5644f2dee7bb5f7eddf212b70e4a16b6e0bedb26",
+      "slug": "numeris-sz35-40-38-49-mns0712-3007502",
+      "parent_product_id": "3007502",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007504": {
+      "rawHash": "4fbe4e28f11e6edb6ef53a592f96b628b7ad02a3",
+      "slug": "numeris-sz35-49-mns0733-3007504",
+      "parent_product_id": "3007504",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007535": {
+      "rawHash": "e6d7512a7da014b54c738def8b43ca6328b7f0ec",
+      "slug": "dior-sz38-45-mns0705-3007535",
+      "parent_product_id": "3007535",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007536": {
+      "rawHash": "dfd3868ebfc48156de05c9b8a54fa5b0b8744f9c",
+      "slug": "dior-sz38-45-mns0704-3007536",
+      "parent_product_id": "3007536",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007539": {
+      "rawHash": "719b065063a6909aa55b105cf468e843a11026e7",
+      "slug": "dior-sz38-45-mns0703-3007539",
+      "parent_product_id": "3007539",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007552": {
+      "rawHash": "69fabfb448865ca102f7e1779f47dac4c700dd1c",
+      "slug": "orlebar-sz38-45-mns0701-3007552",
+      "parent_product_id": "3007552",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007564": {
+      "rawHash": "b90f70fb2bb789ef1afbff29eb3854217aeb72da",
+      "slug": "lv-sz35-39-mns0762-3007564",
+      "parent_product_id": "3007564",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007578": {
+      "rawHash": "a0144b8131d529962047b6dc3bbce61b517a894a",
+      "slug": "lv-sz35-39-mns0761-3007578",
+      "parent_product_id": "3007578",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3007592": {
+      "rawHash": "9c6e3963d09b317379143283c98b990c0d0ee421",
+      "slug": "lv-sz35-43-mns0763-3007592",
+      "parent_product_id": "3007592",
+      "firstSeen": "2026-08-08T04:35:54.532Z",
+      "lastSeen": "2026-08-08T04:35:54.532Z"
     }
   },
   "categories": [
-    "new-arrival-0804",
+    "new-arrival-0807",
     "factory-b-0806",
     "factory-c0805",
     "kid-shoes-0713",
@@ -3603,11 +4037,11 @@
     "chrome-hearts-2026-0606",
     "dymsolatey-2026-0803",
     "dg-2026-0802",
-    "dior-2026-0803",
+    "dior-2026-0807",
     "dsq-2026-0717",
     "diesel-2026-0728",
     "dymonlatry-2026-0803",
-    "fendi-2026-0802",
+    "fendi-2026-0807",
     "ferragamo-2026-0622",
     "fog-2026-0602",
     "ggdb-2026-0608",
@@ -3633,14 +4067,14 @@
     "miumiu-2026-0721",
     "moncler-2026-0612",
     "moschino-20250513",
-    "maison-margiela-2026-0728",
+    "maison-margiela-2026-0807",
     "magnanni-2026-0604",
     "marni-2026-0608",
     "moon-boot-20250412",
     "maison-mihara-yasuhiro-2026-0731",
     "newrock-2026-0731",
     "nike-2026-0624",
-    "numeris-2026-0608",
+    "numeris-2026-0807",
     "off-white-2026-0725",
     "on-2026-0722",
     "onitsuka-tiger-2026-0608",
@@ -3665,5 +4099,5 @@
     "zilli-2026-0606",
     "zara-2026-0725"
   ],
-  "updatedAt": "2026-08-07T05:15:47.432Z"
+  "updatedAt": "2026-08-08T04:35:54.532Z"
 }

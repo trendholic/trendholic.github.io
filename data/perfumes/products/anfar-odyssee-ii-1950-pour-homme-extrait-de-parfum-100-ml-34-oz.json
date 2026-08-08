@@ -1,0 +1,94 @@
+{
+  "slug": "anfar-odyssee-ii-1950-pour-homme-extrait-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Mens Perfume",
+  "source_category_original": "Mens Perfume",
+  "source_categories": [
+    {
+      "name": "Mens Perfume",
+      "slug": "mens-perfume",
+      "source_path": "Mens Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "mens-perfume"
+  ],
+  "source_product_id": "8695200448695",
+  "source_parent_product_id": "8695200448695",
+  "source_product_url": "https://habibiperfumes.store/products/anfar-odyssee-ii-1950-pour-homme-extrait-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/anfar-odyssee-ii-1950-pour-homme-extrait-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/anfar-odyssee-ii-1950-pour-homme-extrait-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/anfar-mens-odyssee-ii-extrait-de-parfum-spray-34-oz-fragrances-6292257644074.jpg?v=1785691306",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81xFXcUkzzL._SL1500.jpg?v=1785691305",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/811K3cqL8bL._SL1500.jpg?v=1785691305",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81eZrf1RI8L._SL1500.jpg?v=1785691306"
+  ],
+  "source_last_seen": "2026-08-08T04:41:05.212Z",
+  "name": "Anfar Odyssee II 1950 Pour Homme Extrait de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Anfar Odyssee II 1950 Pour Homme Extrait de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Anfar",
+  "sku": "6292257644074",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8695200448695",
+  "parent_product_id": "8695200448695",
+  "description": "Anfar Odyssee II 1950 Pour Homme is a men's Extrait de Parfum with a bright citrus-spice opening of bergamot, mandarin orange and pink pepper. Black currant and freesia add a fresh aromatic heart, while ambroxan, white musk and petitgrain give the fragrance a smooth masculine finish. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.50",
+      "compare_at_price": "34.99",
+      "sku": "6292257644074",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.50",
+  "compare_at_price": "34.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/anfar-odyssee-ii-1950-pour-homme-extrait-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/anfar-mens-odyssee-ii-extrait-de-parfum-spray-34-oz-fragrances-6292257644074.jpg?v=1785691306",
+      "content_hash": "d5672f3c5ce5220c219e4a6a485682cff9d6d7bb",
+      "alt": "Anfar Odyssee II 1950 Pour Homme Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/anfar-odyssee-ii-1950-pour-homme-extrait-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81xFXcUkzzL._SL1500.jpg?v=1785691305",
+      "content_hash": "8917e2552f3c3efa1717e9182930ee8c46ce45cd",
+      "alt": "Anfar Odyssee II 1950 Pour Homme Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/anfar-odyssee-ii-1950-pour-homme-extrait-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/811K3cqL8bL._SL1500.jpg?v=1785691305",
+      "content_hash": "04b03b2c1a4df2c1534e8acd1ce8dc7b24f9c9d5",
+      "alt": "Anfar Odyssee II 1950 Pour Homme Extrait de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/anfar-odyssee-ii-1950-pour-homme-extrait-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/81eZrf1RI8L._SL1500.jpg?v=1785691306",
+      "content_hash": "6118f5bdf51204b39740f91d28f91408271d5bbb",
+      "alt": "Anfar Odyssee II 1950 Pour Homme Extrait de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-08T04:41:05.212Z"
+}

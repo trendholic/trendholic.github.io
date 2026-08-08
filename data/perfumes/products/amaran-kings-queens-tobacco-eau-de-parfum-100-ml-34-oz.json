@@ -1,0 +1,94 @@
+{
+  "slug": "amaran-kings-queens-tobacco-eau-de-parfum-100-ml-34-oz",
+  "top_category": "Arabic Perfumes",
+  "source_site": "perfumes",
+  "source_domain": "habibiperfumes.store",
+  "source_top_category": "Arabic Perfumes",
+  "source_category": "Unisex Perfume",
+  "source_category_original": "Unisex Perfume",
+  "source_categories": [
+    {
+      "name": "Unisex Perfume",
+      "slug": "unisex-perfume",
+      "source_path": "Unisex Perfume",
+      "parent_path": null
+    }
+  ],
+  "source_category_slugs": [
+    "unisex-perfume"
+  ],
+  "source_product_id": "8695200710839",
+  "source_parent_product_id": "8695200710839",
+  "source_product_url": "https://habibiperfumes.store/products/amaran-kings-queens-tobacco-eau-de-parfum-100-ml-34-oz",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/amaran-kings-queens-tobacco-eau-de-parfum-100-ml-34-oz/",
+  "source_product_urls": [
+    "https://habibiperfumes.store/products/amaran-kings-queens-tobacco-eau-de-parfum-100-ml-34-oz"
+  ],
+  "source_image_urls": [
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/amaran-unisex-kings-queens-tobacco-edp-spray-34-oz-fragrances-6294019003051.jpg?v=1785691318",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amaran-Kings-and-Queens-Tobacco-eau-de-parfum-100ml_67d2d33b-f9cd-4726-90b1-05e519037c80.jpg?v=1785691318",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amaran-Kings-and-Queens-Tobacco-eau-de-parfum-100ml_d214fb4f-a1bd-4e73-a603-415931de8010.jpg?v=1785691318",
+    "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amaran-Kings-and-Queens-Tobacco-eau-de-parfum-100ml.jpg?v=1785691318"
+  ],
+  "source_last_seen": "2026-08-08T04:41:05.212Z",
+  "name": "Amaran Kings & Queens Tobacco Eau de Parfum 100 ml (3.4 oz)",
+  "english_product_name": "Amaran Kings & Queens Tobacco Eau de Parfum 100 ml (3.4 oz)",
+  "original_product_name": null,
+  "brand": "Amaran",
+  "sku": "6294019003051",
+  "model_number": null,
+  "product_code": null,
+  "product_id": "8695200710839",
+  "parent_product_id": "8695200710839",
+  "description": "Amaran Kings & Queens Tobacco Eau de Parfum is a warm smoky unisex fragrance. Ginger, citrus, artemisia and osmanthus open the scent, followed by tobacco, patchouli, guaiac wood and vetiver. Tonka bean and vanilla create a rich sweet base. Presented in a 100 ml (3.4 oz) bottle.",
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": "100 ml / 3.4 oz",
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "19.50",
+      "compare_at_price": "29.99",
+      "sku": "6294019003051",
+      "available": true
+    }
+  ],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": "19.50",
+  "compare_at_price": "29.99",
+  "currency": "USD",
+  "availability": "In stock",
+  "images": [
+    {
+      "src": "/data/perfumes/images/amaran-kings-queens-tobacco-eau-de-parfum-100-ml-34-oz-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/amaran-unisex-kings-queens-tobacco-edp-spray-34-oz-fragrances-6294019003051.jpg?v=1785691318",
+      "content_hash": "e79ce77ec6bb7a3205ad5cd53132e93a839847ca",
+      "alt": "Amaran Kings & Queens Tobacco Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/amaran-kings-queens-tobacco-eau-de-parfum-100-ml-34-oz-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amaran-Kings-and-Queens-Tobacco-eau-de-parfum-100ml_67d2d33b-f9cd-4726-90b1-05e519037c80.jpg?v=1785691318",
+      "content_hash": "1a71a7564104907d4c4673f47f8163ca4c984e05",
+      "alt": "Amaran Kings & Queens Tobacco Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/amaran-kings-queens-tobacco-eau-de-parfum-100-ml-34-oz-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amaran-Kings-and-Queens-Tobacco-eau-de-parfum-100ml_d214fb4f-a1bd-4e73-a603-415931de8010.jpg?v=1785691318",
+      "content_hash": "a2d195031b1e5e5b1a78df2ec3a0e4656ddfcfa6",
+      "alt": "Amaran Kings & Queens Tobacco Eau de Parfum 100 ml (3.4 oz)"
+    },
+    {
+      "src": "/data/perfumes/images/amaran-kings-queens-tobacco-eau-de-parfum-100-ml-34-oz-4.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Amaran-Kings-and-Queens-Tobacco-eau-de-parfum-100ml.jpg?v=1785691318",
+      "content_hash": "928a78fe9f0cb3322f3f389f92cc5f159c891530",
+      "alt": "Amaran Kings & Queens Tobacco Eau de Parfum 100 ml (3.4 oz)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-08T04:41:05.212Z"
+}

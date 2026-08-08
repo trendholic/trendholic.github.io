@@ -3,7 +3,7 @@
   "source": "apparel",
   "host": "tangma2088.com",
   "count": 56,
-  "updatedAt": "2026-08-07T05:00:06.287Z",
+  "updatedAt": "2026-08-08T04:16:21.974Z",
   "categories": [
     {
       "name": "2025 New",
@@ -48,8 +48,8 @@
       "parent_path": null
     },
     {
-      "name": "By Style 0806",
-      "slug": "by-style-0806",
+      "name": "By Style 0808",
+      "slug": "by-style-0808",
       "source_url": "https://tangma2088.com/categoryen_1580.html?path=0_1580",
       "source_path": "0_1580",
       "parent_path": "0"
@@ -62,8 +62,8 @@
       "parent_path": "0"
     },
     {
-      "name": "High Quality 0807",
-      "slug": "high-quality-0807",
+      "name": "High Quality 0808",
+      "slug": "high-quality-0808",
       "source_url": "https://tangma2088.com/categoryen_139496.html?path=0_139496",
       "source_path": "0_139496",
       "parent_path": "0"

@@ -34,7 +34,7 @@
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01.jpg?v=1780525102",
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/02.jpg?v=1780525102"
   ],
-  "source_last_seen": "2026-08-07T05:19:39.995Z",
+  "source_last_seen": "2026-08-08T04:41:05.212Z",
   "name": "Rayhaan Aquatica Eau de Parfum 100 ml (3.4 oz)",
   "english_product_name": "Rayhaan Aquatica Eau de Parfum 100 ml (3.4 oz)",
   "original_product_name": null,
@@ -56,7 +56,7 @@
       "price": "44.50",
       "compare_at_price": "49.99",
       "sku": "6297001571330",
-      "available": false
+      "available": true
     }
   ],
   "dimensions": null,
@@ -66,7 +66,7 @@
   "price": "44.50",
   "compare_at_price": "49.99",
   "currency": "USD",
-  "availability": "Out of stock",
+  "availability": "In stock",
   "images": [
     {
       "src": "/data/perfumes/images/rayhaan-aquatica-1.webp",
@@ -118,5 +118,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-08-07T05:19:39.995Z"
+  "synced_at": "2026-08-08T04:41:05.212Z"
 }

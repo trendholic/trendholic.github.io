@@ -1,0 +1,63 @@
+{
+  "slug": "fendi-sz39-44-mns0703-3007290",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "3007291",
+  "source_parent_product_id": "3007290",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_3007291.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz39-44-mns0703-3007290/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_3007291.html",
+    "https://shoes.tangma2088.com/productinfoen_3007290.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz39-44%20mns0703%20(1)_3007291.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz39-44%20mns0703%20(2)_3007290.jpg"
+  ],
+  "source_last_seen": "2026-08-08T04:35:54.532Z",
+  "name": "Fendi sz39-44 mns0703",
+  "english_product_name": "Fendi sz39-44 mns0703",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "3007290",
+  "parent_product_id": "3007290",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/fendi-sz39-44-mns0703-3007290-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz39-44%20mns0703%20(1)_3007291.jpg",
+      "content_hash": "2845a5c1ec3ab07c228958aaa9809ff6f2915ce0",
+      "alt": "Fendi sz39-44 mns0703"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz39-44-mns0703-3007290-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz39-44%20mns0703%20(2)_3007290.jpg",
+      "content_hash": "68c79ee82f80758ca220c08c3e3100f005cbaefc",
+      "alt": "Fendi sz39-44 mns0703"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-08T04:35:54.532Z"
+}

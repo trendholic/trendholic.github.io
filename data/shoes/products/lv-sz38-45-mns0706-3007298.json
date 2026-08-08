@@ -1,0 +1,63 @@
+{
+  "slug": "lv-sz38-45-mns0706-3007298",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "3007299",
+  "source_parent_product_id": "3007298",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_3007299.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/lv-sz38-45-mns0706-3007298/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_3007299.html",
+    "https://shoes.tangma2088.com/productinfoen_3007298.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz38-45%20mns0706%20(1)_3007299.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz38-45%20mns0706%20(2)_3007298.jpg"
+  ],
+  "source_last_seen": "2026-08-08T04:35:54.532Z",
+  "name": "LV sz38-45 mns0706",
+  "english_product_name": "LV sz38-45 mns0706",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "3007298",
+  "parent_product_id": "3007298",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/lv-sz38-45-mns0706-3007298-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz38-45%20mns0706%20(1)_3007299.jpg",
+      "content_hash": "caf64b3e5ce7845fb5bc1d613b0e8031bd99e41e",
+      "alt": "LV sz38-45 mns0706"
+    },
+    {
+      "src": "/data/shoes/images/lv-sz38-45-mns0706-3007298-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/LV%20sz38-45%20mns0706%20(2)_3007298.jpg",
+      "content_hash": "499d8273da96f9323d66eb24858aa19b568d7046",
+      "alt": "LV sz38-45 mns0706"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-08T04:35:54.532Z"
+}
