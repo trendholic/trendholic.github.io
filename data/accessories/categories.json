@@ -3,11 +3,11 @@
   "source": "accessories",
   "host": "acc.tangma2088.com",
   "count": 35,
-  "updatedAt": "2026-08-08T04:23:36.594Z",
+  "updatedAt": "2026-08-09T04:31:47.180Z",
   "categories": [
     {
-      "name": "New Arrival 0807",
-      "slug": "new-arrival-0807",
+      "name": "New Arrival 0808",
+      "slug": "new-arrival-0808",
       "source_url": "https://acc.tangma2088.com/categoryen_16511.html?path=0_16511",
       "source_path": "0_16511",
       "parent_path": "0"
@@ -27,8 +27,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Plain Glasses 0807",
-      "slug": "plain-glasses-0807",
+      "name": "Plain Glasses 0808",
+      "slug": "plain-glasses-0808",
       "source_url": "https://acc.tangma2088.com/categoryen_391.html?path=0_391",
       "source_path": "0_391",
       "parent_path": "0"
@@ -139,8 +139,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Umbrella 0726",
-      "slug": "umbrella-0726",
+      "name": "Umbrella 0808",
+      "slug": "umbrella-0808",
       "source_url": "https://acc.tangma2088.com/categoryen_278627.html?path=0_278627",
       "source_path": "0_278627",
       "parent_path": "0"
@@ -181,8 +181,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Thermos 0411",
-      "slug": "thermos-0411",
+      "name": "Thermos 0808",
+      "slug": "thermos-0808",
       "source_url": "https://acc.tangma2088.com/categoryen_275116.html?path=0_275116",
       "source_path": "0_275116",
       "parent_path": "0"

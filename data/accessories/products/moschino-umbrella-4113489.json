@@ -1,0 +1,63 @@
+{
+  "slug": "moschino-umbrella-4113489",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113490",
+  "source_parent_product_id": "4113489",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113490.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/moschino-umbrella-4113489/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113490.html",
+    "https://acc.tangma2088.com/productinfoen_4113489.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Moschino%20Umbrella%20(5)_4113489.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Moschino%20Umbrella%20(59)_4113490.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Moschino Umbrella",
+  "english_product_name": "Moschino Umbrella",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113489",
+  "parent_product_id": "4113489",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/moschino-umbrella-4113489-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Moschino%20Umbrella%20(5)_4113489.jpg",
+      "content_hash": "ecfbde9f8f035af98b741a473775280436d54509",
+      "alt": "Moschino Umbrella"
+    },
+    {
+      "src": "/data/accessories/images/moschino-umbrella-4113489-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Moschino%20Umbrella%20(59)_4113490.jpg",
+      "content_hash": "da05d36fde5ea681e0107831f4bcecaef6bad322",
+      "alt": "Moschino Umbrella"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

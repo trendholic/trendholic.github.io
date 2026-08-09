@@ -27,7 +27,7 @@
   "source_image_urls": [
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/01_128f2786-aeab-455f-ad43-b15d32006a35.png?v=1784662303"
   ],
-  "source_last_seen": "2026-08-08T04:41:05.212Z",
+  "source_last_seen": "2026-08-09T04:51:59.224Z",
   "name": "Rayhaan Obsidian, Italia & Terra Bundle",
   "english_product_name": "Rayhaan Obsidian, Italia & Terra Bundle",
   "original_product_name": null,
@@ -49,7 +49,7 @@
       "price": "109.50",
       "compare_at_price": "149.99",
       "sku": null,
-      "available": true
+      "available": false
     }
   ],
   "dimensions": null,
@@ -59,7 +59,7 @@
   "price": "109.50",
   "compare_at_price": "149.99",
   "currency": "USD",
-  "availability": "In stock",
+  "availability": "Out of stock",
   "images": [
     {
       "src": "/data/perfumes/images/rayhaan-obsidian-italia-and-terra-bundle-1.webp",
@@ -69,5 +69,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-08-08T04:41:05.212Z"
+  "synced_at": "2026-08-09T04:51:59.224Z"
 }

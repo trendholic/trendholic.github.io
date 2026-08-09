@@ -1,0 +1,71 @@
+{
+  "slug": "goyard-umbrella-4113415",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113417",
+  "source_parent_product_id": "4113415",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113417.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/goyard-umbrella-4113415/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113417.html",
+    "https://acc.tangma2088.com/productinfoen_4113416.html",
+    "https://acc.tangma2088.com/productinfoen_4113415.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Goyard%20Umbrella%20(93)_4113415.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Goyard%20Umbrella%20(141)_4113416.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Goyard%20Umbrella%20(230)_4113417.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Goyard Umbrella",
+  "english_product_name": "Goyard Umbrella",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113415",
+  "parent_product_id": "4113415",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/goyard-umbrella-4113415-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Goyard%20Umbrella%20(93)_4113415.jpg",
+      "content_hash": "95c242bef3b79a4bd084639ab4faac517729ba3b",
+      "alt": "Goyard Umbrella"
+    },
+    {
+      "src": "/data/accessories/images/goyard-umbrella-4113415-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Goyard%20Umbrella%20(141)_4113416.jpg",
+      "content_hash": "10ce1615476c47f05ae470428d0862f8130eb008",
+      "alt": "Goyard Umbrella"
+    },
+    {
+      "src": "/data/accessories/images/goyard-umbrella-4113415-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Goyard%20Umbrella%20(230)_4113417.jpg",
+      "content_hash": "5a2484a38c40ce5b56718722b2d0cb15b3ba7105",
+      "alt": "Goyard Umbrella"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

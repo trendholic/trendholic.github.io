@@ -1,0 +1,79 @@
+{
+  "slug": "fendi-sz35-40-xc1201-3010914",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "3010917",
+  "source_parent_product_id": "3010914",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_3010917.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz35-40-xc1201-3010914/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_3010917.html",
+    "https://shoes.tangma2088.com/productinfoen_3010916.html",
+    "https://shoes.tangma2088.com/productinfoen_3010915.html",
+    "https://shoes.tangma2088.com/productinfoen_3010914.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%20XC1201%20012332835_3010917.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%20XC1201%20022332834_3010916.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%20XC1201%20062332830_3010915.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%20XC1201%20082332828_3010914.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:47:44.980Z",
+  "name": "Fendi sz35-40 XC1201",
+  "english_product_name": "Fendi sz35-40 XC1201",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "3010914",
+  "parent_product_id": "3010914",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/fendi-sz35-40-xc1201-3010914-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%20XC1201%20012332835_3010917.jpg",
+      "content_hash": "d39a79c16e95de262a29c43a9bbe5e0d27f4a195",
+      "alt": "Fendi sz35-40 XC1201"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-40-xc1201-3010914-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%20XC1201%20022332834_3010916.jpg",
+      "content_hash": "235b8265854846c3869f7aca74a7f8da2239cdf5",
+      "alt": "Fendi sz35-40 XC1201"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-40-xc1201-3010914-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%20XC1201%20062332830_3010915.jpg",
+      "content_hash": "a29e218094d591163930c438615fba6f79ddf3d0",
+      "alt": "Fendi sz35-40 XC1201"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-40-xc1201-3010914-4.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%20XC1201%20082332828_3010914.jpg",
+      "content_hash": "41ee0c100a0cc8056fdfc798827b1a75b9c15fcc",
+      "alt": "Fendi sz35-40 XC1201"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:47:44.980Z"
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "rolex-40mm-22-sub-4113670",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113671",
+  "source_parent_product_id": "4113670",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113671.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-40mm-22-sub-4113670/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113671.html",
+    "https://acc.tangma2088.com/productinfoen_4113670.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2022-sub%20(2)_4113670.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2022-sub%20(4)_4113671.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 40mm 22-sub",
+  "english_product_name": "Rolex 40mm 22-sub",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113670",
+  "parent_product_id": "4113670",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-40mm-22-sub-4113670-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2022-sub%20(2)_4113670.jpg",
+      "content_hash": "0ed3499073a6e27e61cc904fb1972e5d182a6f9c",
+      "alt": "Rolex 40mm 22-sub"
+    },
+    {
+      "src": "/data/accessories/images/rolex-40mm-22-sub-4113670-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2022-sub%20(4)_4113671.jpg",
+      "content_hash": "d44e4bdecbf4e37bc1f15064e89dbac9b99b7263",
+      "alt": "Rolex 40mm 22-sub"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

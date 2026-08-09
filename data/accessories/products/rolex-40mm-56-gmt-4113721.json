@@ -1,0 +1,64 @@
+{
+  "slug": "rolex-40mm-56-gmt-4113721",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113722",
+  "source_parent_product_id": "4113721",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113722.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-40mm-56-gmt-4113721/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113722.html",
+    "https://acc.tangma2088.com/productinfoen_4113721.html",
+    "https://acc.tangma2088.com/productinfoen_4113720.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2056-GMT%20(7)_4113721.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2056-GMT%20(13)_4113722.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 40mm 56-GMT",
+  "english_product_name": "Rolex 40mm 56-GMT",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113721",
+  "parent_product_id": "4113721",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-40mm-56-gmt-4113721-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2056-GMT%20(7)_4113721.jpg",
+      "content_hash": "02be629166be48fc38298bc99e51a2a0f5dbcd30",
+      "alt": "Rolex 40mm 56-GMT"
+    },
+    {
+      "src": "/data/accessories/images/rolex-40mm-56-gmt-4113721-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2056-GMT%20(13)_4113722.jpg",
+      "content_hash": "edbe0429b1d131789274880879ce5b7762fac4b0",
+      "alt": "Rolex 40mm 56-GMT"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

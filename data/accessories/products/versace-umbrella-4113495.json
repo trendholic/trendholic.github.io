@@ -1,0 +1,64 @@
+{
+  "slug": "versace-umbrella-4113495",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113496",
+  "source_parent_product_id": "4113495",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113496.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/versace-umbrella-4113495/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113496.html",
+    "https://acc.tangma2088.com/productinfoen_4113495.html",
+    "https://acc.tangma2088.com/productinfoen_4113494.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Versace%20Umbrella%20(94)_4113495.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Versace%20Umbrella%20(233)_4113496.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Versace Umbrella",
+  "english_product_name": "Versace Umbrella",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113495",
+  "parent_product_id": "4113495",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/versace-umbrella-4113495-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Versace%20Umbrella%20(94)_4113495.jpg",
+      "content_hash": "7f952bc7fd6c790d5dbc0084b7a87e98f1a4b55f",
+      "alt": "Versace Umbrella"
+    },
+    {
+      "src": "/data/accessories/images/versace-umbrella-4113495-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Versace%20Umbrella%20(233)_4113496.jpg",
+      "content_hash": "760e9bd63484ae632d43ed8e2764589541f0a62c",
+      "alt": "Versace Umbrella"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

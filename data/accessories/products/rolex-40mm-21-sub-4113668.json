@@ -1,0 +1,63 @@
+{
+  "slug": "rolex-40mm-21-sub-4113668",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113669",
+  "source_parent_product_id": "4113668",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113669.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-40mm-21-sub-4113668/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113669.html",
+    "https://acc.tangma2088.com/productinfoen_4113668.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2021-sub%20(6)_4113668.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2021-sub%20(7)_4113669.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 40mm 21-sub",
+  "english_product_name": "Rolex 40mm 21-sub",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113668",
+  "parent_product_id": "4113668",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-40mm-21-sub-4113668-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2021-sub%20(6)_4113668.jpg",
+      "content_hash": "6e617f4fcb9b4b5eabeda307d71211f850df6ee1",
+      "alt": "Rolex 40mm 21-sub"
+    },
+    {
+      "src": "/data/accessories/images/rolex-40mm-21-sub-4113668-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2021-sub%20(7)_4113669.jpg",
+      "content_hash": "510a3756235def2683789cb712a5b700f5c16ae5",
+      "alt": "Rolex 40mm 21-sub"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

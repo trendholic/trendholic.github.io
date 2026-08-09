@@ -1,0 +1,63 @@
+{
+  "slug": "rolex-40mm-37-sub-4113707",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113708",
+  "source_parent_product_id": "4113707",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113708.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-40mm-37-sub-4113707/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113708.html",
+    "https://acc.tangma2088.com/productinfoen_4113707.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2037-sub%20(6)_4113707.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2037-sub%20(7)_4113708.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 40mm 37-sub",
+  "english_product_name": "Rolex 40mm 37-sub",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113707",
+  "parent_product_id": "4113707",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-40mm-37-sub-4113707-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2037-sub%20(6)_4113707.jpg",
+      "content_hash": "c4f9a84f8491f42ff835505bad091dbf815433ab",
+      "alt": "Rolex 40mm 37-sub"
+    },
+    {
+      "src": "/data/accessories/images/rolex-40mm-37-sub-4113707-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2037-sub%20(7)_4113708.jpg",
+      "content_hash": "36c4838dc8b606531ed81a6e57f619f840ebb210",
+      "alt": "Rolex 40mm 37-sub"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

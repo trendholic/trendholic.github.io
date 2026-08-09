@@ -1,0 +1,71 @@
+{
+  "slug": "ap-41mm-04-4113509",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113511",
+  "source_parent_product_id": "4113509",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113511.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/ap-41mm-04-4113509/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113511.html",
+    "https://acc.tangma2088.com/productinfoen_4113510.html",
+    "https://acc.tangma2088.com/productinfoen_4113509.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/AP%2041mm%2004%20(4)_4113509.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/AP%2041mm%2004%20(5)_4113510.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/AP%2041mm%2004%20(8)_4113511.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "AP 41mm 04",
+  "english_product_name": "AP 41mm 04",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113509",
+  "parent_product_id": "4113509",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/ap-41mm-04-4113509-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/AP%2041mm%2004%20(4)_4113509.jpg",
+      "content_hash": "353e732e76e7cf58ae60835bcc0c6f0db49a59e1",
+      "alt": "AP 41mm 04"
+    },
+    {
+      "src": "/data/accessories/images/ap-41mm-04-4113509-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/AP%2041mm%2004%20(5)_4113510.jpg",
+      "content_hash": "313f11c2e0085279f8c87396787bea053176c87e",
+      "alt": "AP 41mm 04"
+    },
+    {
+      "src": "/data/accessories/images/ap-41mm-04-4113509-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/AP%2041mm%2004%20(8)_4113511.jpg",
+      "content_hash": "8569fa336697d732050a39d15c31df8452ae33d1",
+      "alt": "AP 41mm 04"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

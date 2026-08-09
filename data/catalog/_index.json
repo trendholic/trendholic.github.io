@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-08T04:45:12.607Z",
+  "updatedAt": "2026-08-09T04:53:58.380Z",
   "topCategories": [
     {
       "name": "Apparel",
       "slug": "apparel",
-      "productCount": 619,
+      "productCount": 660,
       "subcategoriesDiscovered": 56
     },
     {
       "name": "Accessories",
       "slug": "accessories",
-      "productCount": 466,
+      "productCount": 557,
       "subcategoriesDiscovered": 35
     },
     {
       "name": "Bags",
       "slug": "bags",
-      "productCount": 133,
+      "productCount": 147,
       "subcategoriesDiscovered": 54
     },
     {
       "name": "Shoes",
       "slug": "shoes",
-      "productCount": 561,
-      "subcategoriesDiscovered": 96
+      "productCount": 612,
+      "subcategoriesDiscovered": 98
     },
     {
       "name": "Arabic Perfumes",
@@ -34,7 +34,7 @@
   ],
   "totals": {
     "topCategories": 5,
-    "products": 2284,
-    "subcategoriesDiscovered": 241
+    "products": 2481,
+    "subcategoriesDiscovered": 243
   }
 }

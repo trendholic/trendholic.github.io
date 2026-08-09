@@ -1,0 +1,63 @@
+{
+  "slug": "rolex-36mm-16-4113541",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113542",
+  "source_parent_product_id": "4113541",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113542.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-36mm-16-4113541/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113542.html",
+    "https://acc.tangma2088.com/productinfoen_4113541.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2036mm%2016%20(7)_4113541.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2036mm%2016%20(9)_4113542.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 36mm 16",
+  "english_product_name": "Rolex 36mm 16",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113541",
+  "parent_product_id": "4113541",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-36mm-16-4112237-7.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2036mm%2016%20(7)_4113541.jpg",
+      "content_hash": "f0b142fee19faf5965361ec80a63302fbdaa7284",
+      "alt": "Rolex 36mm 16"
+    },
+    {
+      "src": "/data/accessories/images/rolex-36mm-16-4113541-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2036mm%2016%20(9)_4113542.jpg",
+      "content_hash": "de24434c4fef0858b7f510568022a34c1dc3b8af",
+      "alt": "Rolex 36mm 16"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

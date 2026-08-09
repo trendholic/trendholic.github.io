@@ -1,0 +1,63 @@
+{
+  "slug": "prada-1ba038-22x15x13cm-ap-2021596",
+  "top_category": "Bags",
+  "source_site": "bags",
+  "source_domain": "bags.tangma2088.com",
+  "source_top_category": "Bags",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "2021597",
+  "source_parent_product_id": "2021596",
+  "source_product_url": "https://bags.tangma2088.com/productinfoen_2021597.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/prada-1ba038-22x15x13cm-ap-2021596/",
+  "source_product_urls": [
+    "https://bags.tangma2088.com/productinfoen_2021597.html",
+    "https://bags.tangma2088.com/productinfoen_2021596.html"
+  ],
+  "source_image_urls": [
+    "https://bags.tangma2088.com/upfile/product/202608/Prada%201BA038%2022x15x13cm%20AP51_2021596.jpg",
+    "https://bags.tangma2088.com/upfile/product/202608/Prada%201BA038%2022x15x13cm%20AP52_2021597.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:43:02.198Z",
+  "name": "Prada 1BA038 22x15x13cm AP",
+  "english_product_name": "Prada 1BA038 22x15x13cm AP",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "2021596",
+  "parent_product_id": "2021596",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/bags/images/prada-1ba038-22x15x13cm-ap-2021596-1.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202608/Prada%201BA038%2022x15x13cm%20AP51_2021596.jpg",
+      "content_hash": "d0823618b3a1ea5741c0b82f5a82a3746d19d37d",
+      "alt": "Prada 1BA038 22x15x13cm AP"
+    },
+    {
+      "src": "/data/bags/images/prada-1ba038-22x15x13cm-ap-2021596-2.webp",
+      "source_url": "https://bags.tangma2088.com/upfile/product/202608/Prada%201BA038%2022x15x13cm%20AP52_2021597.jpg",
+      "content_hash": "e8c79ccc4e6e0462e369cb27e716059da6fd460e",
+      "alt": "Prada 1BA038 22x15x13cm AP"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:43:02.198Z"
+}

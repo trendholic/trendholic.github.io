@@ -1,0 +1,63 @@
+{
+  "slug": "rolex-40mm-28-4113691",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113692",
+  "source_parent_product_id": "4113691",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113692.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-40mm-28-4113691/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113692.html",
+    "https://acc.tangma2088.com/productinfoen_4113691.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2028%20(6)_4113691.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2028%20(8)_4113692.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 40mm 28",
+  "english_product_name": "Rolex 40mm 28",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113691",
+  "parent_product_id": "4113691",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-40mm-28-4113691-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2028%20(6)_4113691.jpg",
+      "content_hash": "26ff1a75ce5fdfd7a79a30efe720a8904efebce2",
+      "alt": "Rolex 40mm 28"
+    },
+    {
+      "src": "/data/accessories/images/rolex-40mm-28-4113691-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2028%20(8)_4113692.jpg",
+      "content_hash": "2dd6d48232fa9d84ced3d4b49104e82456bffe00",
+      "alt": "Rolex 40mm 28"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

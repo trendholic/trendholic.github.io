@@ -2,19 +2,19 @@
   "top": "Shoes",
   "source": "shoes",
   "host": "shoes.tangma2088.com",
-  "count": 96,
-  "updatedAt": "2026-08-08T04:33:45.894Z",
+  "count": 98,
+  "updatedAt": "2026-08-09T04:45:18.295Z",
   "categories": [
     {
-      "name": "NEW ARRIVAL 0807",
-      "slug": "new-arrival-0807",
+      "name": "NEW ARRIVAL 0808",
+      "slug": "new-arrival-0808",
       "source_url": "https://shoes.tangma2088.com/categoryen_355.html?path=0_355",
       "source_path": "0_355",
       "parent_path": "0"
     },
     {
-      "name": "Factory B 0806",
-      "slug": "factory-b-0806",
+      "name": "Factory B 0808",
+      "slug": "factory-b-0808",
       "source_url": "https://shoes.tangma2088.com/categoryen_367.html?path=0_367",
       "source_path": "0_367",
       "parent_path": "0"
@@ -34,8 +34,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Gucci 2026 0803",
-      "slug": "gucci-2026-0803",
+      "name": "Gucci 2026 0808",
+      "slug": "gucci-2026-0808",
       "source_url": "https://shoes.tangma2088.com/categoryen_336.html?path=0_336",
       "source_path": "0_336",
       "parent_path": "0"
@@ -216,8 +216,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Chanel 2026 0807",
-      "slug": "chanel-2026-0807",
+      "name": "Chanel 2026 0808",
+      "slug": "chanel-2026-0808",
       "source_url": "https://shoes.tangma2088.com/categoryen_229.html?path=0_229",
       "source_path": "0_229",
       "parent_path": "0"
@@ -342,8 +342,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Hermes 2026 0804",
-      "slug": "hermes-2026-0804",
+      "name": "Hermes 2026 0808",
+      "slug": "hermes-2026-0808",
       "source_url": "https://shoes.tangma2088.com/categoryen_104.html?path=0_104",
       "source_path": "0_104",
       "parent_path": "0"
@@ -433,8 +433,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Loewe 2026 0729",
-      "slug": "loewe-2026-0729",
+      "name": "Loewe 2026 0808",
+      "slug": "loewe-2026-0808",
       "source_url": "https://shoes.tangma2088.com/categoryen_156405.html?path=0_156405",
       "source_path": "0_156405",
       "parent_path": "0"
@@ -514,6 +514,13 @@
       "slug": "numeris-2026-0807",
       "source_url": "https://shoes.tangma2088.com/categoryen_178671.html?path=0_178671",
       "source_path": "0_178671",
+      "parent_path": "0"
+    },
+    {
+      "name": "Orlebar 2026 0807",
+      "slug": "orlebar-2026-0807",
+      "source_url": "https://shoes.tangma2088.com/categoryen_182681.html?path=0_182681",
+      "source_path": "0_182681",
       "parent_path": "0"
     },
     {
@@ -612,6 +619,13 @@
       "slug": "tory-burch-2026-0802",
       "source_url": "https://shoes.tangma2088.com/categoryen_156346.html?path=0_156346",
       "source_path": "0_156346",
+      "parent_path": "0"
+    },
+    {
+      "name": "Untitlab 2026 0807",
+      "slug": "untitlab-2026-0807",
+      "source_url": "https://shoes.tangma2088.com/categoryen_182591.html?path=0_182591",
+      "source_path": "0_182591",
       "parent_path": "0"
     },
     {

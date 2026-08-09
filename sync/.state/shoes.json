@@ -3999,14 +3999,371 @@
       "parent_product_id": "3007592",
       "firstSeen": "2026-08-08T04:35:54.532Z",
       "lastSeen": "2026-08-08T04:35:54.532Z"
+    },
+    "3010673": {
+      "rawHash": "788a4a7715941e43af57f33fd4863b8fd39817f3",
+      "slug": "fendi-sz35-44-gdt0601-3010673",
+      "parent_product_id": "3010673",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010685": {
+      "rawHash": "d13b9185fd81c6d5d69166ed13f52386845e86ec",
+      "slug": "fendi-sz35-42-6c-mhf-1-3010685",
+      "parent_product_id": "3010685",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010686": {
+      "rawHash": "e92921994083aa8683f81aa286e3c020c962311b",
+      "slug": "fendi-sz35-42-6c-mhf-2-3010686",
+      "parent_product_id": "3010686",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010687": {
+      "rawHash": "01f468fe83e8bb93dbb3a4a54f7fb6a35bf5a44c",
+      "slug": "fendi-sz35-42-6c-mhf-3-3010687",
+      "parent_product_id": "3010687",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010688": {
+      "rawHash": "f7dcf4b6483595a9741b5467258ae299d49bf88e",
+      "slug": "fendi-sz35-42-6c-mhf-4-3010688",
+      "parent_product_id": "3010688",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010689": {
+      "rawHash": "61b5d68f2a79838bebfdd01c617056076cce5620",
+      "slug": "fendi-sz35-42-6c-mhf-5-3010689",
+      "parent_product_id": "3010689",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010690": {
+      "rawHash": "483cb4e3566059abdb99ca7a38fefdb6c5c28365",
+      "slug": "fendi-sz35-42-6c-mhf-6-3010690",
+      "parent_product_id": "3010690",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010691": {
+      "rawHash": "a53f0f3e8b545219b635c6ade06dbbc88021d399",
+      "slug": "fendi-sz35-42-6c-mhf-7-3010691",
+      "parent_product_id": "3010691",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010692": {
+      "rawHash": "2e36bcdbda3cc7162088b60bc9ae4bdffdb34fab",
+      "slug": "fendi-sz35-42-6c-mhf-8-3010692",
+      "parent_product_id": "3010692",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010693": {
+      "rawHash": "403b9dbe0517d3926ff899cfcb6a1867f660cde4",
+      "slug": "fendi-sz35-42-6c-mhf-9-3010693",
+      "parent_product_id": "3010693",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010694": {
+      "rawHash": "71588a0545922f82f1ac747a467eab6d3badf7b2",
+      "slug": "fendi-sz35-42-3c-nhf-1-3010694",
+      "parent_product_id": "3010694",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010695": {
+      "rawHash": "fec6cda2249122fec268ab5251f5da3d0ae2ec08",
+      "slug": "fendi-sz35-42-3c-nhf-2-3010695",
+      "parent_product_id": "3010695",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010696": {
+      "rawHash": "7dc4e9cc604a445eab92d58225c3cc3eab218ff2",
+      "slug": "fendi-sz35-42-3c-nhf-3-3010696",
+      "parent_product_id": "3010696",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010697": {
+      "rawHash": "8f23b394d6b4c654c2bb36176a852a9140f40018",
+      "slug": "fendi-sz35-42-3c-nhf-4-3010697",
+      "parent_product_id": "3010697",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010698": {
+      "rawHash": "80a3cf6585d1c32bcc2b002e45fadf69da73f172",
+      "slug": "fendi-sz35-42-3c-nhf-5-3010698",
+      "parent_product_id": "3010698",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010699": {
+      "rawHash": "eaa631c59e49e9ade67025f7f46bae924bf53012",
+      "slug": "fendi-sz35-42-3c-nhf-6-3010699",
+      "parent_product_id": "3010699",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010700": {
+      "rawHash": "49a8b7580a41b71c5da18d027365cce3a4a27983",
+      "slug": "fendi-sz35-42-3c-nhf-7-3010700",
+      "parent_product_id": "3010700",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010701": {
+      "rawHash": "042457771cdea86c02fc7bdbf8015407a0092da5",
+      "slug": "fendi-colors-070403-sz35-42ll-3010701",
+      "parent_product_id": "3010701",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010725": {
+      "rawHash": "7aa4db03e512ec2d2c951a379685ac76aa0f1c5e",
+      "slug": "fendi-sz35-45-gdt0403-3010725",
+      "parent_product_id": "3010725",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010742": {
+      "rawHash": "d85a5c8de268b0d0786f40e733d0774c7c1d0172",
+      "slug": "fendi-sz35-45-gdt0601-3010742",
+      "parent_product_id": "3010742",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010761": {
+      "rawHash": "4dc7e37ac217dd00ee6c798e182fb0b64cd13b20",
+      "slug": "fendi-sz35-45-gdt0603-3010761",
+      "parent_product_id": "3010761",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010773": {
+      "rawHash": "c55be7da15ce7b2f29e01918d2fcd64334fe06c9",
+      "slug": "fendi-sz35-46-7c-ll0801-3010773",
+      "parent_product_id": "3010773",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010800": {
+      "rawHash": "e74dbbb2fd0de659f2bac293c71eab672cd555f9",
+      "slug": "fendi-sz36-40-gdt0601-3010800",
+      "parent_product_id": "3010800",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010811": {
+      "rawHash": "ba570cd74675d29a2ef0f4c17f0bb81eada4a1c2",
+      "slug": "fendi-sz40-45-gdt0701-3010811",
+      "parent_product_id": "3010811",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010819": {
+      "rawHash": "aecd12cafee6631f376b9ea2677590a382845c48",
+      "slug": "fendi-sz35-40-2c-qm-3010819",
+      "parent_product_id": "3010819",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010823": {
+      "rawHash": "bbb12d965b18a63dfe5f43fcc31ea1d15c9aecc7",
+      "slug": "fendi-sz35-40-4c-wn0701-3010823",
+      "parent_product_id": "3010823",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010831": {
+      "rawHash": "e24ac2d63df8a214204c896c382938f930a1f2d5",
+      "slug": "fendi-sz35-40-5c-nw-3010831",
+      "parent_product_id": "3010831",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010841": {
+      "rawHash": "630a10e4ae3b7de394784619b9a076ef57501304",
+      "slug": "fendi-sz35-40-fs-3010841",
+      "parent_product_id": "3010841",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010849": {
+      "rawHash": "3deb211acc9b520b6cb45c942ac4c1860569d8b4",
+      "slug": "fendi-sz35-40-gdt-3010849",
+      "parent_product_id": "3010849",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010871": {
+      "rawHash": "eaf327b71a212d72cd38463c12531a6836988ee3",
+      "slug": "fendi-sz35-40-j1102-3010871",
+      "parent_product_id": "3010871",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010875": {
+      "rawHash": "fdfcb5a5ebe39db091f247b826642db254d462e0",
+      "slug": "fendi-sz35-40-j-3010875",
+      "parent_product_id": "3010875",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010879": {
+      "rawHash": "b7a49f0d0f798e3a660c87185e4378ad40ec8c0a",
+      "slug": "fendi-sz35-40-ll0801-3010879",
+      "parent_product_id": "3010879",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010885": {
+      "rawHash": "09234f2a26c1f610233870d371ccb12d7722cc94",
+      "slug": "fendi-sz35-40-ll-3010885",
+      "parent_product_id": "3010885",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010890": {
+      "rawHash": "e1b2eb32fd340fe1dc662997e879b129144109d0",
+      "slug": "fendi-sz35-40-4c-nhf-6-3010890",
+      "parent_product_id": "3010890",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010891": {
+      "rawHash": "0d31e70f2d9eb89e46453dcae6347cb57eec7e6f",
+      "slug": "fendi-sz35-40-4c-nhf-5-3010891",
+      "parent_product_id": "3010891",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010892": {
+      "rawHash": "ad41fc605f89b53ab55ebc1d9850e8407b21a31d",
+      "slug": "fendi-sz35-40-4c-nhf-3-3010892",
+      "parent_product_id": "3010892",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010894": {
+      "rawHash": "c30916db32dacfe830abc01d7da8368aa45e3af2",
+      "slug": "fendi-sz35-40-nw-3010894",
+      "parent_product_id": "3010894",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010906": {
+      "rawHash": "fb30f3bcfeac9e94f1f7265cfb62947d92e5cffc",
+      "slug": "fendi-sz35-40-ty-3010906",
+      "parent_product_id": "3010906",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010914": {
+      "rawHash": "1d0fc5e48235591b8b7305ae3a7086a1ba23a319",
+      "slug": "fendi-sz35-40-xc1201-3010914",
+      "parent_product_id": "3010914",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010918": {
+      "rawHash": "fa640758276f69aad272949408d1eac57a9bc52f",
+      "slug": "fendi-sz35-40-ym1001-3010918",
+      "parent_product_id": "3010918",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010924": {
+      "rawHash": "4c6714911839073de22d9e33572ac5beb9989e95",
+      "slug": "fendi-sz35-41-1c-gdt-3010924",
+      "parent_product_id": "3010924",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010927": {
+      "rawHash": "44f23a8010562ed9ace043133db14288b721e6a8",
+      "slug": "fendi-sz35-41-6c-nhf-8-3010927",
+      "parent_product_id": "3010927",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010928": {
+      "rawHash": "35a5b7888665eb5341d27f5a85bc456deb85b7a8",
+      "slug": "fendi-sz35-41-6c-nhf-7-3010928",
+      "parent_product_id": "3010928",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010929": {
+      "rawHash": "0e868b39da6ea2b3bf9fec06162e4018e000795e",
+      "slug": "fendi-sz35-41-6c-nhf-6-3010929",
+      "parent_product_id": "3010929",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010930": {
+      "rawHash": "f806253f9355ca2f899f5984f980ae312bb40aae",
+      "slug": "fendi-sz35-41-6c-nhf-5-3010930",
+      "parent_product_id": "3010930",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010932": {
+      "rawHash": "c41563207b969ad6c3217bc8b3a9aeb954e565c5",
+      "slug": "fendi-colors-030401-sz35-41gdt-3010932",
+      "parent_product_id": "3010932",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010938": {
+      "rawHash": "b34184aa785744846d07c4956e94b998ddd7d960",
+      "slug": "fendi-060801-sz35-41om-3010938",
+      "parent_product_id": "3010938",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010944": {
+      "rawHash": "40577dc65e376ba99fe824a60c9abcd93f7ee700",
+      "slug": "fendi-colors-030501-sz35-41xj-3010944",
+      "parent_product_id": "3010944",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010950": {
+      "rawHash": "b3f276976b38fa078bb78676d3e05f3c8079edce",
+      "slug": "fendi-sz35-42-7c-qm04010-3010950",
+      "parent_product_id": "3010950",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3010964": {
+      "rawHash": "3cba16ed03f6ed1c73c69f7956f70de077abe202",
+      "slug": "fendi-sz35-42-gdt0601-3010964",
+      "parent_product_id": "3010964",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
+    },
+    "3011045": {
+      "rawHash": "732af6918eebeb892cac53f47b1486ef24541b5d",
+      "slug": "lv-sz38-45-3011045",
+      "parent_product_id": "3011045",
+      "firstSeen": "2026-08-09T04:47:44.980Z",
+      "lastSeen": "2026-08-09T04:47:44.980Z"
     }
   },
   "categories": [
-    "new-arrival-0807",
-    "factory-b-0806",
+    "new-arrival-0808",
+    "factory-b-0808",
     "factory-c0805",
     "kid-shoes-0713",
-    "gucci-2026-0803",
+    "gucci-2026-0808",
     "louis-vittion-2026-0807",
     "alexander-mcqueen-2026-0728",
     "armani-2026-0730",
@@ -4032,7 +4389,7 @@
     "celine-20260319",
     "christian-louboutin-2026-0803",
     "casablanca-2026-0802",
-    "chanel-2026-0807",
+    "chanel-2026-0808",
     "coach-2026-0728",
     "chrome-hearts-2026-0606",
     "dymsolatey-2026-0803",
@@ -4050,7 +4407,7 @@
     "richard-2026-0530",
     "rickowens-2026-0606",
     "roger-vivier-2026-0725",
-    "hermes-2026-0804",
+    "hermes-2026-0808",
     "hogan-2026-0615",
     "jimmy-choo-20250628",
     "jil-sander-2026-0608",
@@ -4063,7 +4420,7 @@
     "le-silla-2026-0728",
     "lanvin-20260126",
     "loro-piana-2026-0802",
-    "loewe-2026-0729",
+    "loewe-2026-0808",
     "miumiu-2026-0721",
     "moncler-2026-0612",
     "moschino-20250513",
@@ -4075,6 +4432,7 @@
     "newrock-2026-0731",
     "nike-2026-0624",
     "numeris-2026-0807",
+    "orlebar-2026-0807",
     "off-white-2026-0725",
     "on-2026-0722",
     "onitsuka-tiger-2026-0608",
@@ -4089,6 +4447,7 @@
     "tom-ford-2026-0608",
     "tod-s-2026-0624",
     "tory-burch-2026-0802",
+    "untitlab-2026-0807",
     "ugg-20260204",
     "valentino-2026-0804",
     "versace-2026-0802",
@@ -4099,5 +4458,5 @@
     "zilli-2026-0606",
     "zara-2026-0725"
   ],
-  "updatedAt": "2026-08-08T04:35:54.532Z"
+  "updatedAt": "2026-08-09T04:47:44.980Z"
 }

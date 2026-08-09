@@ -1,0 +1,71 @@
+{
+  "slug": "tudor-40mm-03-4113528",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113530",
+  "source_parent_product_id": "4113528",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113530.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/tudor-40mm-03-4113528/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113530.html",
+    "https://acc.tangma2088.com/productinfoen_4113529.html",
+    "https://acc.tangma2088.com/productinfoen_4113528.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Tudor%2040mm%2003%20(4)_4113528.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Tudor%2040mm%2003%20(5)_4113529.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Tudor%2040mm%2003%20(9)_4113530.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Tudor 40mm 03",
+  "english_product_name": "Tudor 40mm 03",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113528",
+  "parent_product_id": "4113528",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/tudor-40mm-03-4113528-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Tudor%2040mm%2003%20(4)_4113528.jpg",
+      "content_hash": "277f31e6d535a37bd0db15ad740f996f87f15d09",
+      "alt": "Tudor 40mm 03"
+    },
+    {
+      "src": "/data/accessories/images/tudor-40mm-03-4113528-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Tudor%2040mm%2003%20(5)_4113529.jpg",
+      "content_hash": "7c6ac5dd758293e7fec4d4a861aaed4c9435d1a6",
+      "alt": "Tudor 40mm 03"
+    },
+    {
+      "src": "/data/accessories/images/tudor-40mm-03-4113528-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Tudor%2040mm%2003%20(9)_4113530.jpg",
+      "content_hash": "beee593cae5310de8425e78e7158c24d6d7ee9e8",
+      "alt": "Tudor 40mm 03"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "fendi-sz35-40-2c-qm-3010819",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "3010822",
+  "source_parent_product_id": "3010819",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_3010822.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz35-40-2c-qm-3010819/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_3010822.html",
+    "https://shoes.tangma2088.com/productinfoen_3010821.html",
+    "https://shoes.tangma2088.com/productinfoen_3010820.html",
+    "https://shoes.tangma2088.com/productinfoen_3010819.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%202C%20QM0501021424577_3010822.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%202C%20QM0501041424575_3010821.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%202C%20QM0501051424574_3010820.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%202C%20QM0501061424573_3010819.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:47:44.980Z",
+  "name": "Fendi sz35-40 2C QM",
+  "english_product_name": "Fendi sz35-40 2C QM",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "3010819",
+  "parent_product_id": "3010819",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/fendi-sz35-40-2c-qm-3010819-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%202C%20QM0501021424577_3010822.jpg",
+      "content_hash": "52519e5ec5fc50bd5479cedcb8c522a50cfdc6e4",
+      "alt": "Fendi sz35-40 2C QM"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-40-2c-qm-3010819-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%202C%20QM0501041424575_3010821.jpg",
+      "content_hash": "c89547eb547dcb1fab370b3c315a0b093805ae1b",
+      "alt": "Fendi sz35-40 2C QM"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-40-2c-qm-3010819-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%202C%20QM0501051424574_3010820.jpg",
+      "content_hash": "4f188319cd37a396186acdcb538f1458624fe5e9",
+      "alt": "Fendi sz35-40 2C QM"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-40-2c-qm-3010819-4.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%202C%20QM0501061424573_3010819.jpg",
+      "content_hash": "5712d2a4033b80fd98e608e6d61927e84ac543ca",
+      "alt": "Fendi sz35-40 2C QM"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:47:44.980Z"
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "fendi-sz35-42-6c-mhf-2-3010686",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "3010983",
+  "source_parent_product_id": "3010686",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_3010983.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz35-42-6c-mhf-2-3010686/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_3010983.html",
+    "https://shoes.tangma2088.com/productinfoen_3010686.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%206C%20mhf%20(2)11281941581144_3010983.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%206C%20mhf%20(2)11281941581144_3010686.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:47:44.980Z",
+  "name": "Fendi sz35-42 6C mhf (2)",
+  "english_product_name": "Fendi sz35-42 6C mhf (2)",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "3010686",
+  "parent_product_id": "3010686",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/fendi-sz35-42-6c-mhf-2-3010686-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%206C%20mhf%20(2)11281941581144_3010983.jpg",
+      "content_hash": "99097cfde467021c6b2e0624ef9e8f62eff70fa2",
+      "alt": "Fendi sz35-42 6C mhf (2)"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-42-6c-mhf-2-3010686-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%206C%20mhf%20(2)11281941581144_3010686.jpg",
+      "content_hash": "99097cfde467021c6b2e0624ef9e8f62eff70fa2",
+      "alt": "Fendi sz35-42 6C mhf (2)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:47:44.980Z"
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "rolex-36mm-32-4113558",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113559",
+  "source_parent_product_id": "4113558",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113559.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-36mm-32-4113558/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113559.html",
+    "https://acc.tangma2088.com/productinfoen_4113558.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2036mm%2032%20(6)_4113558.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2036mm%2032%20(7)_4113559.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 36mm 32",
+  "english_product_name": "Rolex 36mm 32",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113558",
+  "parent_product_id": "4113558",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-36mm-32-4112282-6.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2036mm%2032%20(6)_4113558.jpg",
+      "content_hash": "5b4a031e814671cc13264d2472bd75398457dffc",
+      "alt": "Rolex 36mm 32"
+    },
+    {
+      "src": "/data/accessories/images/rolex-36mm-32-4112282-7.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2036mm%2032%20(7)_4113559.jpg",
+      "content_hash": "bdf5dcd36d0dd44c8f14472dfab3e8c054a666f1",
+      "alt": "Rolex 36mm 32"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "rolex-41mm-68-exploer-4113748",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113749",
+  "source_parent_product_id": "4113748",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113749.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-41mm-68-exploer-4113748/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113749.html",
+    "https://acc.tangma2088.com/productinfoen_4113748.html",
+    "https://acc.tangma2088.com/productinfoen_4113747.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2041mm%2068-exploer%20(5)_4113748.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2041mm%2068-exploer%20(7)_4113749.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 41mm 68-exploer",
+  "english_product_name": "Rolex 41mm 68-exploer",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113748",
+  "parent_product_id": "4113748",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-41mm-68-exploer-4113748-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2041mm%2068-exploer%20(5)_4113748.jpg",
+      "content_hash": "01bc3faeb58ef87d6e628a05b47198d71e38af84",
+      "alt": "Rolex 41mm 68-exploer"
+    },
+    {
+      "src": "/data/accessories/images/rolex-41mm-68-exploer-4113748-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2041mm%2068-exploer%20(7)_4113749.jpg",
+      "content_hash": "711d2e5d2fe364bd6610cf520d44132a071177c8",
+      "alt": "Rolex 41mm 68-exploer"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "rolex-38mm-15-daytona-4113605",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113606",
+  "source_parent_product_id": "4113605",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113606.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-38mm-15-daytona-4113605/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113606.html",
+    "https://acc.tangma2088.com/productinfoen_4113605.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2038mm%2015-Daytona%20(7)_4113605.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2038mm%2015-Daytona%20(17)_4113606.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 38mm 15-Daytona",
+  "english_product_name": "Rolex 38mm 15-Daytona",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113605",
+  "parent_product_id": "4113605",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-38mm-15-daytona-4113605-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2038mm%2015-Daytona%20(7)_4113605.jpg",
+      "content_hash": "9088871d6d84166eacee2c4dc33b2cc05938a200",
+      "alt": "Rolex 38mm 15-Daytona"
+    },
+    {
+      "src": "/data/accessories/images/rolex-38mm-15-daytona-4113605-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2038mm%2015-Daytona%20(17)_4113606.jpg",
+      "content_hash": "8425f09d714195f4908ff08fc32cb7b8cc3ebc09",
+      "alt": "Rolex 38mm 15-Daytona"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

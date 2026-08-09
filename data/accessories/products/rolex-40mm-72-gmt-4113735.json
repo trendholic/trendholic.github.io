@@ -1,0 +1,63 @@
+{
+  "slug": "rolex-40mm-72-gmt-4113735",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113736",
+  "source_parent_product_id": "4113735",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113736.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-40mm-72-gmt-4113735/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113736.html",
+    "https://acc.tangma2088.com/productinfoen_4113735.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2072-GMT%20(6)_4113735.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2072-GMT%20(9)_4113736.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 40mm 72-GMT",
+  "english_product_name": "Rolex 40mm 72-GMT",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113735",
+  "parent_product_id": "4113735",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-40mm-72-gmt-4113735-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2072-GMT%20(6)_4113735.jpg",
+      "content_hash": "b9966d14c82a007292b55ec6fce46d9c0d110afc",
+      "alt": "Rolex 40mm 72-GMT"
+    },
+    {
+      "src": "/data/accessories/images/rolex-40mm-72-gmt-4113735-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2072-GMT%20(9)_4113736.jpg",
+      "content_hash": "f52a7defc05f02534949b8de52feff9e0229a73f",
+      "alt": "Rolex 40mm 72-GMT"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

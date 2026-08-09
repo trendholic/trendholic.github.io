@@ -1,0 +1,63 @@
+{
+  "slug": "rolex-36mm-47-explorer-4113578",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113579",
+  "source_parent_product_id": "4113578",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113579.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-36mm-47-explorer-4113578/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113579.html",
+    "https://acc.tangma2088.com/productinfoen_4113578.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2036mm%2047-explorer%20(5)_4113578.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2036mm%2047-explorer%20(6)_4113579.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 36mm 47-explorer",
+  "english_product_name": "Rolex 36mm 47-explorer",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113578",
+  "parent_product_id": "4113578",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-36mm-47-explorer-4112343-5.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2036mm%2047-explorer%20(5)_4113578.jpg",
+      "content_hash": "b3336b99c90b9ac07282d040a6986c7daad0b69d",
+      "alt": "Rolex 36mm 47-explorer"
+    },
+    {
+      "src": "/data/accessories/images/rolex-36mm-47-explorer-4112343-6.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2036mm%2047-explorer%20(6)_4113579.jpg",
+      "content_hash": "a136ab011482a1624d8496ec45e957681887d8ed",
+      "alt": "Rolex 36mm 47-explorer"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

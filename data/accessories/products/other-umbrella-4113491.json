@@ -1,0 +1,64 @@
+{
+  "slug": "other-umbrella-4113491",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113493",
+  "source_parent_product_id": "4113491",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113493.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/other-umbrella-4113491/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113493.html",
+    "https://acc.tangma2088.com/productinfoen_4113492.html",
+    "https://acc.tangma2088.com/productinfoen_4113491.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Other%20Umbrella%20(156)_4113491.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Other%20Umbrella%20(157)_4113492.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Other Umbrella",
+  "english_product_name": "Other Umbrella",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113491",
+  "parent_product_id": "4113491",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/other-umbrella-4113491-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Other%20Umbrella%20(156)_4113491.jpg",
+      "content_hash": "b6983b69b0a64c115af77835370a42c7e08c2843",
+      "alt": "Other Umbrella"
+    },
+    {
+      "src": "/data/accessories/images/other-umbrella-4113491-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Other%20Umbrella%20(157)_4113492.jpg",
+      "content_hash": "f130a41c3dec92ec588f36a61b6cec7b7531480f",
+      "alt": "Other Umbrella"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

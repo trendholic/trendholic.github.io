@@ -31,7 +31,7 @@
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/AVITAGE.jpg?v=1779128180",
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/Vintageradio1.jpg?v=1779128180"
   ],
-  "source_last_seen": "2026-08-08T04:41:05.212Z",
+  "source_last_seen": "2026-08-09T04:51:59.224Z",
   "name": "Lattafa Pride Vintage Radio Eau de Parfum 100 ml (3.4 oz)",
   "english_product_name": "Lattafa Pride Vintage Radio Eau de Parfum 100 ml (3.4 oz)",
   "original_product_name": null,
@@ -53,7 +53,7 @@
       "price": "29.50",
       "compare_at_price": "44.99",
       "sku": "6290360592909",
-      "available": true
+      "available": false
     }
   ],
   "dimensions": null,
@@ -63,7 +63,7 @@
   "price": "29.50",
   "compare_at_price": "44.99",
   "currency": "USD",
-  "availability": "In stock",
+  "availability": "Out of stock",
   "images": [
     {
       "src": "/data/perfumes/images/lattafa-pride-vintage-radio-eau-de-parfum-100-ml-34-oz-1.webp",
@@ -97,5 +97,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-08-08T04:41:05.212Z"
+  "synced_at": "2026-08-09T04:51:59.224Z"
 }

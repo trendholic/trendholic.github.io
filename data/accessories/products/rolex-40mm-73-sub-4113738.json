@@ -1,0 +1,64 @@
+{
+  "slug": "rolex-40mm-73-sub-4113738",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113739",
+  "source_parent_product_id": "4113738",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113739.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-40mm-73-sub-4113738/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113739.html",
+    "https://acc.tangma2088.com/productinfoen_4113738.html",
+    "https://acc.tangma2088.com/productinfoen_4113737.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2073-sub%20(5)_4113738.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2073-sub%20(8)_4113739.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 40mm 73-sub",
+  "english_product_name": "Rolex 40mm 73-sub",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113738",
+  "parent_product_id": "4113738",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-40mm-73-sub-4113738-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2073-sub%20(5)_4113738.jpg",
+      "content_hash": "993378c02ead3a0a838b9b88403dd512673bda26",
+      "alt": "Rolex 40mm 73-sub"
+    },
+    {
+      "src": "/data/accessories/images/rolex-40mm-73-sub-4113738-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2040mm%2073-sub%20(8)_4113739.jpg",
+      "content_hash": "1569f0ba4eb51bb3d627e83506eaeb2ff52a29d7",
+      "alt": "Rolex 40mm 73-sub"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

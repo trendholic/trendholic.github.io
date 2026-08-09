@@ -32,7 +32,7 @@
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamamBlackIntense2.webp?v=1778188120",
     "https://cdn.shopify.com/s/files/1/0691/0594/2711/files/LattafaMusamamBlackIntense.jpg?v=1778188120"
   ],
-  "source_last_seen": "2026-08-08T04:41:05.212Z",
+  "source_last_seen": "2026-08-09T04:51:59.224Z",
   "name": "Lattafa Musamam Black Intense Eau de Parfum 100 ml (3.4 oz)",
   "english_product_name": "Lattafa Musamam Black Intense Eau de Parfum 100 ml (3.4 oz)",
   "original_product_name": null,
@@ -54,7 +54,7 @@
       "price": "44.99",
       "compare_at_price": null,
       "sku": null,
-      "available": true
+      "available": false
     }
   ],
   "dimensions": null,
@@ -64,7 +64,7 @@
   "price": "44.99",
   "compare_at_price": null,
   "currency": "USD",
-  "availability": "In stock",
+  "availability": "Out of stock",
   "images": [
     {
       "src": "/data/perfumes/images/lattafa-musamam-black-intense-eau-de-parfum-100-ml-3-4-oz-1.webp",
@@ -104,5 +104,5 @@
     }
   ],
   "pdfs": [],
-  "synced_at": "2026-08-08T04:41:05.212Z"
+  "synced_at": "2026-08-09T04:51:59.224Z"
 }

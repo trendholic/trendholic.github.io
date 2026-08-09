@@ -1,0 +1,63 @@
+{
+  "slug": "fendi-sz35-42-3c-nhf-5-3010698",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "3010987",
+  "source_parent_product_id": "3010698",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_3010987.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz35-42-3c-nhf-5-3010698/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_3010987.html",
+    "https://shoes.tangma2088.com/productinfoen_3010698.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%203C%20nhf%20(5)11411381581135_3010987.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%203C%20nhf%20(5)11411381581135_3010698.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:47:44.980Z",
+  "name": "Fendi sz35-42 3C nhf (5)",
+  "english_product_name": "Fendi sz35-42 3C nhf (5)",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "3010698",
+  "parent_product_id": "3010698",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/fendi-sz35-42-3c-nhf-5-3010698-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%203C%20nhf%20(5)11411381581135_3010987.jpg",
+      "content_hash": "d63cb4b1c6ab5eddc188fbfc928a5c91bc43254d",
+      "alt": "Fendi sz35-42 3C nhf (5)"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-42-3c-nhf-5-3010698-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%203C%20nhf%20(5)11411381581135_3010698.jpg",
+      "content_hash": "d63cb4b1c6ab5eddc188fbfc928a5c91bc43254d",
+      "alt": "Fendi sz35-42 3C nhf (5)"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:47:44.980Z"
+}

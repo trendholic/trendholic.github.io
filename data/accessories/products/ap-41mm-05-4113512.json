@@ -1,0 +1,63 @@
+{
+  "slug": "ap-41mm-05-4113512",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113513",
+  "source_parent_product_id": "4113512",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113513.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/ap-41mm-05-4113512/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113513.html",
+    "https://acc.tangma2088.com/productinfoen_4113512.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/AP%2041mm%2005%20(5)_4113512.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/AP%2041mm%2005%20(6)_4113513.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "AP 41mm 05",
+  "english_product_name": "AP 41mm 05",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113512",
+  "parent_product_id": "4113512",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/ap-41mm-05-4113512-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/AP%2041mm%2005%20(5)_4113512.jpg",
+      "content_hash": "ac679b3f080ce1632cbbf34d59053d7b94470cd7",
+      "alt": "AP 41mm 05"
+    },
+    {
+      "src": "/data/accessories/images/ap-41mm-05-4113512-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/AP%2041mm%2005%20(6)_4113513.jpg",
+      "content_hash": "ce8d90ad8a29a0a12312369327b98d9cd6f4d261",
+      "alt": "AP 41mm 05"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}

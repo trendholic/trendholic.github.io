@@ -1,0 +1,63 @@
+{
+  "slug": "rolex-38mm-02-daytona-4113603",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4113604",
+  "source_parent_product_id": "4113603",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4113604.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/rolex-38mm-02-daytona-4113603/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4113604.html",
+    "https://acc.tangma2088.com/productinfoen_4113603.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2038mm%2002-Daytona%20(3)_4113603.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Rolex%2038mm%2002-Daytona%20(9)_4113604.jpg"
+  ],
+  "source_last_seen": "2026-08-09T04:33:59.564Z",
+  "name": "Rolex 38mm 02-Daytona",
+  "english_product_name": "Rolex 38mm 02-Daytona",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4113603",
+  "parent_product_id": "4113603",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/rolex-38mm-02-daytona-4112424-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2038mm%2002-Daytona%20(3)_4113603.jpg",
+      "content_hash": "a7dc4dd3e58ce81ce5a0cf6ee840a42d9f1682df",
+      "alt": "Rolex 38mm 02-Daytona"
+    },
+    {
+      "src": "/data/accessories/images/rolex-38mm-02-daytona-4112424-7.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Rolex%2038mm%2002-Daytona%20(9)_4113604.jpg",
+      "content_hash": "4ea2d10eb682e0a9f7c22ee19cc4014142be595f",
+      "alt": "Rolex 38mm 02-Daytona"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-09T04:33:59.564Z"
+}
