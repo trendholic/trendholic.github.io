@@ -1,0 +1,87 @@
+{
+  "slug": "prada-visor-4114996",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4115000",
+  "source_parent_product_id": "4114996",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4115000.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/prada-visor-4114996/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4115000.html",
+    "https://acc.tangma2088.com/productinfoen_4114999.html",
+    "https://acc.tangma2088.com/productinfoen_4114998.html",
+    "https://acc.tangma2088.com/productinfoen_4114997.html",
+    "https://acc.tangma2088.com/productinfoen_4114996.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Prada%20Visor%20(45)_4114996.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Prada%20Visor%20(51)_4114997.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Prada%20Visor%20(61)_4114998.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Prada%20Visor%20(76)_4114999.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Prada%20Visor%20(88)_4115000.jpg"
+  ],
+  "source_last_seen": "2026-08-10T05:00:16.363Z",
+  "name": "Prada Visor",
+  "english_product_name": "Prada Visor",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4114996",
+  "parent_product_id": "4114996",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/prada-visor-4114996-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Prada%20Visor%20(45)_4114996.jpg",
+      "content_hash": "28bd1a0262e6b83bbd8110577973f0fd4c6fa797",
+      "alt": "Prada Visor"
+    },
+    {
+      "src": "/data/accessories/images/prada-visor-4114996-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Prada%20Visor%20(51)_4114997.jpg",
+      "content_hash": "98b585d22932c852b47111044f0792b29ac7e0fb",
+      "alt": "Prada Visor"
+    },
+    {
+      "src": "/data/accessories/images/prada-visor-4114996-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Prada%20Visor%20(61)_4114998.jpg",
+      "content_hash": "b36f3ac6e75d99dde035a6ae74311519692015c0",
+      "alt": "Prada Visor"
+    },
+    {
+      "src": "/data/accessories/images/prada-visor-4114996-4.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Prada%20Visor%20(76)_4114999.jpg",
+      "content_hash": "e5658bfb1dee0ae98476d0c0ab8199f2878993bf",
+      "alt": "Prada Visor"
+    },
+    {
+      "src": "/data/accessories/images/prada-visor-4114996-5.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Prada%20Visor%20(88)_4115000.jpg",
+      "content_hash": "148af86565a6e7b12933daa008ad96f5287b39d7",
+      "alt": "Prada Visor"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-10T05:00:16.363Z"
+}

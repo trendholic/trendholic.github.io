@@ -1,0 +1,79 @@
+{
+  "slug": "fendi-0108-sz35-39xj-3014617",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "3014620",
+  "source_parent_product_id": "3014617",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_3014620.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-0108-sz35-39xj-3014617/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_3014620.html",
+    "https://shoes.tangma2088.com/productinfoen_3014619.html",
+    "https://shoes.tangma2088.com/productinfoen_3014618.html",
+    "https://shoes.tangma2088.com/productinfoen_3014617.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%200108%20sz35-39XJ011537886_3014620.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%200108%20sz35-39XJ051537882_3014619.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%200108%20sz35-39XJ061537881_3014618.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%200108%20sz35-39XJ081537879_3014617.jpg"
+  ],
+  "source_last_seen": "2026-08-10T05:10:12.804Z",
+  "name": "Fendi 0108 sz35-39XJ",
+  "english_product_name": "Fendi 0108 sz35-39XJ",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "3014617",
+  "parent_product_id": "3014617",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/fendi-0108-sz35-39xj-3014617-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%200108%20sz35-39XJ011537886_3014620.jpg",
+      "content_hash": "62eb157acc759cf358d9c055c5277555b7d65df0",
+      "alt": "Fendi 0108 sz35-39XJ"
+    },
+    {
+      "src": "/data/shoes/images/fendi-0108-sz35-39xj-3014617-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%200108%20sz35-39XJ051537882_3014619.jpg",
+      "content_hash": "69837bfa3b003eab04c970bf39aaac900bc6fecd",
+      "alt": "Fendi 0108 sz35-39XJ"
+    },
+    {
+      "src": "/data/shoes/images/fendi-0108-sz35-39xj-3014617-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%200108%20sz35-39XJ061537881_3014618.jpg",
+      "content_hash": "c3dd6640ab8d7d7c277f6b89c4c900b63582eb9f",
+      "alt": "Fendi 0108 sz35-39XJ"
+    },
+    {
+      "src": "/data/shoes/images/fendi-0108-sz35-39xj-3014617-4.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%200108%20sz35-39XJ081537879_3014617.jpg",
+      "content_hash": "eec6033a92e1de24392ff283992ce0245f86713e",
+      "alt": "Fendi 0108 sz35-39XJ"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-10T05:10:12.804Z"
+}

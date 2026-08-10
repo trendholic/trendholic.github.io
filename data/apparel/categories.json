@@ -3,7 +3,7 @@
   "source": "apparel",
   "host": "tangma2088.com",
   "count": 56,
-  "updatedAt": "2026-08-09T04:24:00.624Z",
+  "updatedAt": "2026-08-10T04:46:26.103Z",
   "categories": [
     {
       "name": "2025 New",
@@ -48,8 +48,8 @@
       "parent_path": null
     },
     {
-      "name": "By Style 0809",
-      "slug": "by-style-0809",
+      "name": "By Style 0810",
+      "slug": "by-style-0810",
       "source_url": "https://tangma2088.com/categoryen_1580.html?path=0_1580",
       "source_path": "0_1580",
       "parent_path": "0"
@@ -76,15 +76,15 @@
       "parent_path": "0"
     },
     {
-      "name": "Jacket 0808",
-      "slug": "jacket-0808",
+      "name": "Jacket 0810",
+      "slug": "jacket-0810",
       "source_url": "https://tangma2088.com/categoryen_394.html?path=0_394",
       "source_path": "0_394",
       "parent_path": "0"
     },
     {
-      "name": "Down Jacket 0720",
-      "slug": "down-jacket-0720",
+      "name": "Down Jacket 0810",
+      "slug": "down-jacket-0810",
       "source_url": "https://tangma2088.com/categoryen_87630.html?path=0_87630",
       "source_path": "0_87630",
       "parent_path": "0"
@@ -97,8 +97,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Spring Summer Kid Clothes 0807",
-      "slug": "spring-summer-kid-clothes-0807",
+      "name": "Spring Summer Kid Clothes 0809",
+      "slug": "spring-summer-kid-clothes-0809",
       "source_url": "https://tangma2088.com/categoryen_345535.html?path=0_345535",
       "source_path": "0_345535",
       "parent_path": "0"

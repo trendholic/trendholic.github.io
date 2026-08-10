@@ -1,0 +1,81 @@
+{
+  "slug": "fendi-sz35-40-3c-ll-3014724",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "3014729",
+  "source_parent_product_id": "3014724",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_3014729.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz35-40-3c-ll-3014724/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_3014729.html",
+    "https://shoes.tangma2088.com/productinfoen_3014728.html",
+    "https://shoes.tangma2088.com/productinfoen_3014727.html",
+    "https://shoes.tangma2088.com/productinfoen_3014726.html",
+    "https://shoes.tangma2088.com/productinfoen_3014725.html",
+    "https://shoes.tangma2088.com/productinfoen_3014724.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%203C%20LL0801061466933_3014729.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%203C%20LL0801081466931_3014727.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%203C%20LL0801101466929_3014726.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%203C%20LL0801121466927_3014724.jpg"
+  ],
+  "source_last_seen": "2026-08-10T05:10:12.804Z",
+  "name": "Fendi sz35-40 3C LL",
+  "english_product_name": "Fendi sz35-40 3C LL",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "3014724",
+  "parent_product_id": "3014724",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/fendi-sz35-40-3c-ll-3014724-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%203C%20LL0801061466933_3014729.jpg",
+      "content_hash": "64c279ef68465abc88dbada9c8718b566a611ccd",
+      "alt": "Fendi sz35-40 3C LL"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-40-3c-ll-3014724-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%203C%20LL0801081466931_3014727.jpg",
+      "content_hash": "21306b3987801b653f7f1c2c862a4afcd8190fec",
+      "alt": "Fendi sz35-40 3C LL"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-40-3c-ll-3014724-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%203C%20LL0801101466929_3014726.jpg",
+      "content_hash": "2bc0f79ecb69eb85f2ae4555f87ed5520772afc8",
+      "alt": "Fendi sz35-40 3C LL"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-40-3c-ll-3014724-4.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-40%203C%20LL0801121466927_3014724.jpg",
+      "content_hash": "d3c6569809b428a090786ec79aa2414cb6f7cc6e",
+      "alt": "Fendi sz35-40 3C LL"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-10T05:10:12.804Z"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "balenciaga-cap-4115001",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4115005",
+  "source_parent_product_id": "4115001",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4115005.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/balenciaga-cap-4115001/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4115005.html",
+    "https://acc.tangma2088.com/productinfoen_4115004.html",
+    "https://acc.tangma2088.com/productinfoen_4115003.html",
+    "https://acc.tangma2088.com/productinfoen_4115002.html",
+    "https://acc.tangma2088.com/productinfoen_4115001.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Balenciaga%20Cap%20(412)_4115001.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Balenciaga%20Cap%20(419)_4115002.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Balenciaga%20Cap%20(431)_4115003.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Balenciaga%20Cap%20(447)_4115004.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Balenciaga%20Cap%20(459)_4115005.jpg"
+  ],
+  "source_last_seen": "2026-08-10T05:00:16.363Z",
+  "name": "Balenciaga Cap",
+  "english_product_name": "Balenciaga Cap",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4115001",
+  "parent_product_id": "4115001",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/balenciaga-cap-4115001-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Balenciaga%20Cap%20(412)_4115001.jpg",
+      "content_hash": "3340536ba1cc82916e1057676512d7e795235ca4",
+      "alt": "Balenciaga Cap"
+    },
+    {
+      "src": "/data/accessories/images/balenciaga-cap-4115001-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Balenciaga%20Cap%20(419)_4115002.jpg",
+      "content_hash": "8a0e5a6449b4af1cb9928645c98433d13f1e1c73",
+      "alt": "Balenciaga Cap"
+    },
+    {
+      "src": "/data/accessories/images/balenciaga-cap-4115001-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Balenciaga%20Cap%20(431)_4115003.jpg",
+      "content_hash": "710cc9b25afa721aa2c0ea2621daae524df6f9b0",
+      "alt": "Balenciaga Cap"
+    },
+    {
+      "src": "/data/accessories/images/balenciaga-cap-4115001-4.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Balenciaga%20Cap%20(447)_4115004.jpg",
+      "content_hash": "aef7f3088f9c1158cbb2957a344f95fef8f48993",
+      "alt": "Balenciaga Cap"
+    },
+    {
+      "src": "/data/accessories/images/balenciaga-cap-4115001-5.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Balenciaga%20Cap%20(459)_4115005.jpg",
+      "content_hash": "388ffc6c512125a5c7c4e04cba72a7d323d91481",
+      "alt": "Balenciaga Cap"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-10T05:00:16.363Z"
+}

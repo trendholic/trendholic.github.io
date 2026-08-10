@@ -1,0 +1,72 @@
+{
+  "slug": "fendi-cap-4115040",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4115043",
+  "source_parent_product_id": "4115040",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4115043.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-cap-4115040/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4115043.html",
+    "https://acc.tangma2088.com/productinfoen_4115042.html",
+    "https://acc.tangma2088.com/productinfoen_4115041.html",
+    "https://acc.tangma2088.com/productinfoen_4115040.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Fendi%20Cap%20(838)_4115040.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Fendi%20Cap%20(855)_4115042.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Fendi%20Cap%20(864)_4115043.jpg"
+  ],
+  "source_last_seen": "2026-08-10T05:00:16.363Z",
+  "name": "Fendi Cap",
+  "english_product_name": "Fendi Cap",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4115040",
+  "parent_product_id": "4115040",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/fendi-cap-4115040-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Fendi%20Cap%20(838)_4115040.jpg",
+      "content_hash": "7c0b07abb58f3d19e4acded6fab87048cf25918c",
+      "alt": "Fendi Cap"
+    },
+    {
+      "src": "/data/accessories/images/fendi-cap-4115040-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Fendi%20Cap%20(855)_4115042.jpg",
+      "content_hash": "ff124f00240ca4ed7d2abb76afe4c78e72fc5180",
+      "alt": "Fendi Cap"
+    },
+    {
+      "src": "/data/accessories/images/fendi-cap-4115040-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Fendi%20Cap%20(864)_4115043.jpg",
+      "content_hash": "14f7c3aa428b4c2b7a9f9c10c7ef015ab6b3ee10",
+      "alt": "Fendi Cap"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-10T05:00:16.363Z"
+}

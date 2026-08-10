@@ -3,11 +3,11 @@
   "source": "accessories",
   "host": "acc.tangma2088.com",
   "count": 35,
-  "updatedAt": "2026-08-09T04:31:47.180Z",
+  "updatedAt": "2026-08-10T04:57:57.980Z",
   "categories": [
     {
-      "name": "New Arrival 0808",
-      "slug": "new-arrival-0808",
+      "name": "New Arrival 0809",
+      "slug": "new-arrival-0809",
       "source_url": "https://acc.tangma2088.com/categoryen_16511.html?path=0_16511",
       "source_path": "0_16511",
       "parent_path": "0"
@@ -55,8 +55,8 @@
       "parent_path": "0"
     },
     {
-      "name": "Caps 0803",
-      "slug": "caps-0803",
+      "name": "Caps 0808",
+      "slug": "caps-0808",
       "source_url": "https://acc.tangma2088.com/categoryen_385.html?path=0_385",
       "source_path": "0_385",
       "parent_path": "0"
@@ -76,8 +76,8 @@
       "parent_path": "0"
     },
     {
-      "name": "More Caps Hats 0803",
-      "slug": "more-caps-hats-0803",
+      "name": "More Caps Hats 0809",
+      "slug": "more-caps-hats-0809",
       "source_url": "https://acc.tangma2088.com/categoryen_386.html?path=0_386",
       "source_path": "0_386",
       "parent_path": "0"

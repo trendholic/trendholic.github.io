@@ -1,0 +1,79 @@
+{
+  "slug": "other-cap-4115106",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4115109",
+  "source_parent_product_id": "4115106",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4115109.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/other-cap-4115106/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4115109.html",
+    "https://acc.tangma2088.com/productinfoen_4115108.html",
+    "https://acc.tangma2088.com/productinfoen_4115107.html",
+    "https://acc.tangma2088.com/productinfoen_4115106.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/Other%20Cap%20(748)_4115106.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Other%20Cap%20(751)_4115107.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Other%20Cap%20(761)_4115108.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/Other%20Cap%20(771)_4115109.jpg"
+  ],
+  "source_last_seen": "2026-08-10T05:00:16.363Z",
+  "name": "Other Cap",
+  "english_product_name": "Other Cap",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4115106",
+  "parent_product_id": "4115106",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/other-cap-4115106-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Other%20Cap%20(748)_4115106.jpg",
+      "content_hash": "5da4c4daf1b370bc759f116f8fcad5c79c71e292",
+      "alt": "Other Cap"
+    },
+    {
+      "src": "/data/accessories/images/other-cap-4115106-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Other%20Cap%20(751)_4115107.jpg",
+      "content_hash": "2bf89a52d4728187393485bb874d1043fcb639a6",
+      "alt": "Other Cap"
+    },
+    {
+      "src": "/data/accessories/images/other-cap-4115106-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Other%20Cap%20(761)_4115108.jpg",
+      "content_hash": "f59c6e9e41edc0f1e62510daf5fa60b576db281d",
+      "alt": "Other Cap"
+    },
+    {
+      "src": "/data/accessories/images/other-cap-4115106-4.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/Other%20Cap%20(771)_4115109.jpg",
+      "content_hash": "dfba294f57910e1b918a0c11946a01ec7d5c74ee",
+      "alt": "Other Cap"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-10T05:00:16.363Z"
+}

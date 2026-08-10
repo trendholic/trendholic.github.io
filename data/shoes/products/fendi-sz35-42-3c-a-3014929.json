@@ -1,0 +1,79 @@
+{
+  "slug": "fendi-sz35-42-3c-a-3014929",
+  "top_category": "Shoes",
+  "source_site": "shoes",
+  "source_domain": "shoes.tangma2088.com",
+  "source_top_category": "Shoes",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "3014932",
+  "source_parent_product_id": "3014929",
+  "source_product_url": "https://shoes.tangma2088.com/productinfoen_3014932.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/fendi-sz35-42-3c-a-3014929/",
+  "source_product_urls": [
+    "https://shoes.tangma2088.com/productinfoen_3014932.html",
+    "https://shoes.tangma2088.com/productinfoen_3014931.html",
+    "https://shoes.tangma2088.com/productinfoen_3014930.html",
+    "https://shoes.tangma2088.com/productinfoen_3014929.html"
+  ],
+  "source_image_urls": [
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%203C%20A1029010212694561538374_3014932.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%203C%20A1029010612694521538370_3014931.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%203C%20A1029011112694471538365_3014930.jpg",
+    "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%203C%20A1029011312694451538363_3014929.jpg"
+  ],
+  "source_last_seen": "2026-08-10T05:10:12.804Z",
+  "name": "Fendi sz35-42 3C A",
+  "english_product_name": "Fendi sz35-42 3C A",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "3014929",
+  "parent_product_id": "3014929",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/shoes/images/fendi-sz35-42-3c-a-3014929-1.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%203C%20A1029010212694561538374_3014932.jpg",
+      "content_hash": "d3a2cf3dfe2df3a1b2025650e6aaebbfb74bac47",
+      "alt": "Fendi sz35-42 3C A"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-42-3c-a-3014929-2.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%203C%20A1029010612694521538370_3014931.jpg",
+      "content_hash": "5337f302f2ebf4e1dfa42e9ae3f904289e7c22ee",
+      "alt": "Fendi sz35-42 3C A"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-42-3c-a-3014929-3.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%203C%20A1029011112694471538365_3014930.jpg",
+      "content_hash": "04fd816185e0935ded7c8fec14f89eb6e5b84e49",
+      "alt": "Fendi sz35-42 3C A"
+    },
+    {
+      "src": "/data/shoes/images/fendi-sz35-42-3c-a-3014929-4.webp",
+      "source_url": "https://shoes.tangma2088.com/upfile/product/202608/Fendi%20sz35-42%203C%20A1029011312694451538363_3014929.jpg",
+      "content_hash": "09ff0fa1d328c5d629879d7bbaf11012e046eec7",
+      "alt": "Fendi sz35-42 3C A"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-10T05:10:12.804Z"
+}

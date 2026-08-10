@@ -1,0 +1,71 @@
+{
+  "slug": "chanel-beret-4114958",
+  "top_category": "Accessories",
+  "source_site": "accessories",
+  "source_domain": "acc.tangma2088.com",
+  "source_top_category": "Accessories",
+  "source_category": "New Products",
+  "source_category_original": "new",
+  "source_categories": [],
+  "source_category_slugs": [],
+  "source_product_id": "4114960",
+  "source_parent_product_id": "4114958",
+  "source_product_url": "https://acc.tangma2088.com/productinfoen_4114960.html",
+  "source_canonical_url": "https://trendholic.github.io/catalog/product/chanel-beret-4114958/",
+  "source_product_urls": [
+    "https://acc.tangma2088.com/productinfoen_4114960.html",
+    "https://acc.tangma2088.com/productinfoen_4114959.html",
+    "https://acc.tangma2088.com/productinfoen_4114958.html"
+  ],
+  "source_image_urls": [
+    "https://acc.tangma2088.com/upfile/product/202608/CHanel%20beret%20(33)_4114958.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/CHanel%20beret%20(37)_4114959.jpg",
+    "https://acc.tangma2088.com/upfile/product/202608/CHanel%20beret%20(40)_4114960.jpg"
+  ],
+  "source_last_seen": "2026-08-10T05:00:16.363Z",
+  "name": "CHanel beret",
+  "english_product_name": "CHanel beret",
+  "original_product_name": null,
+  "brand": null,
+  "sku": null,
+  "model_number": null,
+  "product_code": null,
+  "product_id": "4114958",
+  "parent_product_id": "4114958",
+  "description": null,
+  "features": [],
+  "specifications": null,
+  "materials": null,
+  "color": null,
+  "size": null,
+  "variants": [],
+  "dimensions": null,
+  "weight": null,
+  "packaging": null,
+  "moq": null,
+  "price": null,
+  "currency": null,
+  "availability": null,
+  "images": [
+    {
+      "src": "/data/accessories/images/chanel-beret-4114958-1.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/CHanel%20beret%20(33)_4114958.jpg",
+      "content_hash": "f82c9405b1394bbdc166ad765573120733380a8b",
+      "alt": "CHanel beret"
+    },
+    {
+      "src": "/data/accessories/images/chanel-beret-4114958-2.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/CHanel%20beret%20(37)_4114959.jpg",
+      "content_hash": "2c98164cc33bd8901e973b520c49f848e980c18c",
+      "alt": "CHanel beret"
+    },
+    {
+      "src": "/data/accessories/images/chanel-beret-4114958-3.webp",
+      "source_url": "https://acc.tangma2088.com/upfile/product/202608/CHanel%20beret%20(40)_4114960.jpg",
+      "content_hash": "dd35180ce6b29cb8a0867357f4b42ac2a7efb620",
+      "alt": "CHanel beret"
+    }
+  ],
+  "pdfs": [],
+  "synced_at": "2026-08-10T05:00:16.363Z"
+}

@@ -4039,20 +4039,195 @@
       "parent_product_id": "4113750",
       "firstSeen": "2026-08-09T04:33:59.564Z",
       "lastSeen": "2026-08-09T04:33:59.564Z"
+    },
+    "4114918": {
+      "rawHash": "a5eac539e097f8a8e044e5bfca923b542a6c3fd4",
+      "slug": "lv-top-hat-4114918",
+      "parent_product_id": "4114918",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4114921": {
+      "rawHash": "28a4c6b77e12c94f8026aff8af45a48a3c8d3fca",
+      "slug": "miumiu-top-hat-4114921",
+      "parent_product_id": "4114921",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4114929": {
+      "rawHash": "f4ffa9da5d561c5e350e9aa15fd046ade2a4ba78",
+      "slug": "moncler-top-hat-4114929",
+      "parent_product_id": "4114929",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4114933": {
+      "rawHash": "4bfa00dcbb2d8a27d872acb207bd124e17315d75",
+      "slug": "prada-top-hat-4114933",
+      "parent_product_id": "4114933",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4114958": {
+      "rawHash": "0f5d9902894e7f2dc762868ecb412657d8ad2879",
+      "slug": "chanel-beret-4114958",
+      "parent_product_id": "4114958",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4114961": {
+      "rawHash": "3d17fbfc1ad3a151c4fae7dd43e0cae58f929825",
+      "slug": "gucci-beret-4114961",
+      "parent_product_id": "4114961",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4114965": {
+      "rawHash": "312ed69d16b787649a996d7e06a2583ce365661e",
+      "slug": "lv-cap-4114965",
+      "parent_product_id": "4114965",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4114971": {
+      "rawHash": "1755b3fd4da9bdf334852dd7e639fa0a60163cda",
+      "slug": "chanel-visor-4114971",
+      "parent_product_id": "4114971",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4114983": {
+      "rawHash": "6e0bd40a427d0e327edafc7a4e7f85860bc56d2e",
+      "slug": "dior-visor-4114983",
+      "parent_product_id": "4114983",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4114991": {
+      "rawHash": "0a81dea7eaa234a48a7955120b8e7563f8479a27",
+      "slug": "hermes-visor-4114991",
+      "parent_product_id": "4114991",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4114996": {
+      "rawHash": "42b51ee9c80513614dfbdc870121634c61247c3b",
+      "slug": "prada-visor-4114996",
+      "parent_product_id": "4114996",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115001": {
+      "rawHash": "30972440f8edc9ffa1851fc6f841e8fbdab8ac96",
+      "slug": "balenciaga-cap-4115001",
+      "parent_product_id": "4115001",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115006": {
+      "rawHash": "379fa25e509f748e04baee607bd2baa02f62677a",
+      "slug": "celine-cap-4115006",
+      "parent_product_id": "4115006",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115018": {
+      "rawHash": "00423181ad8556285fe5b41b689550bf7957ff21",
+      "slug": "chanel-cap-4115018",
+      "parent_product_id": "4115018",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115027": {
+      "rawHash": "f1aed6ec750001215f95860ccbabad51b94d02f6",
+      "slug": "chrome-hearts-cap-4115027",
+      "parent_product_id": "4115027",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115035": {
+      "rawHash": "455d688ad6dd03a5b2840980a36a99de2a1b6048",
+      "slug": "dior-cap-4115035",
+      "parent_product_id": "4115035",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115040": {
+      "rawHash": "ea69813d0aec8031a0f3e123fd3374da71cd59e8",
+      "slug": "fendi-cap-4115040",
+      "parent_product_id": "4115040",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115044": {
+      "rawHash": "59fb9487f3303c1c86d53e768b79db4d1056c3ee",
+      "slug": "gucci-cap-4115044",
+      "parent_product_id": "4115044",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115085": {
+      "rawHash": "7a6ef62dc097965e6dfaa4c5145383466a10cbdb",
+      "slug": "moncler-cap-4115085",
+      "parent_product_id": "4115085",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115106": {
+      "rawHash": "b5b96e57e7b5c9b983fd2e41799ef971585525a8",
+      "slug": "other-cap-4115106",
+      "parent_product_id": "4115106",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115110": {
+      "rawHash": "67ea0dc9240e5f6fac7a979cd2f16eadfea230bd",
+      "slug": "prada-cap-4115110",
+      "parent_product_id": "4115110",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115119": {
+      "rawHash": "88bfb43538ff0145c7994c5accecad9dfa24dcdb",
+      "slug": "ysl-cap-4115119",
+      "parent_product_id": "4115119",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115146": {
+      "rawHash": "331148cb97a33247fa4d94042ddc8ccc11a090fb",
+      "slug": "chanel-top-hat-4115146",
+      "parent_product_id": "4115146",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115156": {
+      "rawHash": "95655dd6ddbde2193a67ef30c4a72e139a12c5bc",
+      "slug": "hermes-top-hat-4115156",
+      "parent_product_id": "4115156",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
+    },
+    "4115192": {
+      "rawHash": "a817a7208957a7162a25d79e67602525461fd658",
+      "slug": "loewe-top-hat-4115192",
+      "parent_product_id": "4115192",
+      "firstSeen": "2026-08-10T05:00:16.363Z",
+      "lastSeen": "2026-08-10T05:00:16.363Z"
     }
   },
   "categories": [
-    "new-arrival-0808",
+    "new-arrival-0809",
     "jewelry-0707",
     "glasses-0629",
     "plain-glasses-0808",
     "glasses-factory-0807",
     "belts-0806",
     "watches-0808",
-    "caps-0803",
+    "caps-0808",
     "bucket-hat-0803",
     "26-hat-0803",
-    "more-caps-hats-0803",
+    "more-caps-hats-0809",
     "perfume-0804",
     "sock-0806",
     "socks-0806",
@@ -4078,5 +4253,5 @@
     "underware-sleepware-0307",
     "sunglasses-a"
   ],
-  "updatedAt": "2026-08-09T04:33:59.564Z"
+  "updatedAt": "2026-08-10T05:00:16.363Z"
 }
