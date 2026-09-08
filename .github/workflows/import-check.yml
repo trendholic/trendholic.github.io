@@ -24,3 +24,8 @@ jobs:
         working-directory: sync
       - run: npm run check
         working-directory: sync
+      - run: npm run build:catalog
+        working-directory: sync
+      - run: npm run validate
+        working-directory: sync
+
