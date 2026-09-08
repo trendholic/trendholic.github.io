@@ -1,0 +1,4 @@
+# The private import interface is served only by its authenticated local server.
+# Existing storefront, catalog, data and deployment paths are unchanged.
+exclude:
+  - sync/src/import
