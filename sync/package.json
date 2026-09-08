@@ -10,10 +10,12 @@
     "sync:all": "node src/sync-all.js",
     "build:catalog": "node src/build-catalog.js",
     "validate": "node scripts/validate.js",
-    "test": "node --test src/grouping.test.mjs",
+    "test": "node --test src/grouping.test.mjs src/import/import.test.js",
+    "import:admin": "node src/import/server.js",
+    "test:import": "node --test src/import/import.test.js",
     "test:cart": "node scripts/test-cart.mjs",
     "sync:dry": "DRY_RUN=1 node src/index.js",
-    "check": "node --check src/index.js"
+    "check": "node --check src/index.js && node scripts/check-import.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

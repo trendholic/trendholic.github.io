@@ -70,8 +70,9 @@
     if(e.target.closest('[data-cart-close]')){closeDrawer();return}
     var addBtn=e.target.closest('.add-cart');
     if(addBtn){var box=addBtn.closest('.buy'),qin=box?box.querySelector('.q-in'):null,q=qin?parseInt(qin.value,10):1;
-      add({slug:addBtn.getAttribute('data-slug'),name:addBtn.getAttribute('data-name'),ref:addBtn.getAttribute('data-ref'),
-        price:addBtn.getAttribute('data-price'),currency:addBtn.getAttribute('data-currency'),
+      var variant=document.querySelector('.import-variant'),selected=variant&&variant.selectedOptions[0];
+      add({slug:addBtn.getAttribute('data-slug')+(selected?'--'+selected.value:''),name:addBtn.getAttribute('data-name')+(selected?' — '+selected.textContent:''),ref:addBtn.getAttribute('data-ref'),
+        price:selected?selected.getAttribute('data-price'):addBtn.getAttribute('data-price'),currency:addBtn.getAttribute('data-currency'),
         image:addBtn.getAttribute('data-image'),url:addBtn.getAttribute('data-url')},q);return}
     var row=e.target.closest('.cart-row');
     if(row){var slug=row.getAttribute('data-slug');
@@ -79,6 +80,8 @@
       if(e.target.closest('.q-inc')){var i=idx(load(),slug);setQty(slug,(load()[i].qty||0)+1);return}
       if(e.target.closest('.q-dec')){var j=idx(load(),slug);setQty(slug,(load()[j].qty||0)-1);return}}
   });
+  var variantSelect=document.querySelector('.import-variant');
+  if(variantSelect){var updateVariant=function(){var option=variantSelect.selectedOptions[0],price=document.querySelector('.info .price');if(price)price.textContent='$'+option.getAttribute('data-price')};variantSelect.addEventListener('change',updateVariant);updateVariant()}
   // product-page quantity stepper (buy box, not in cart drawer)
   document.querySelectorAll('.buy .qtyctl').forEach(function(ctl){
     var input=ctl.querySelector('.q-in');
