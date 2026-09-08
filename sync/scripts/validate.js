@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import CONFIG from "../config.js";
 import { slugify } from "../src/util.js";
+import { importedCatalog } from '../src/import/catalog.js';
 
 let errors = 0, warns = 0;
 const fail = (m) => { console.error("FAIL:", m); errors++; };
@@ -58,6 +59,13 @@ function main() {
       if (p.parent_product_id) { if (parentByTop.has(key)) fail(`duplicate physical product (same parent id) ${key}`); else parentByTop.set(key, p.slug); }
     }
   }
+  try {
+    const imported = importedCatalog(CONFIG.out.repoRoot, CONFIG.sources);
+    for (const products of imported.byTop.values()) for (const p of products) {
+      if (slugs.has(p.slug)) fail(`duplicate imported handle: ${p.slug}`);
+      slugs.add(p.slug); totalProducts++; totalImages += p.images.length;
+    }
+  } catch { fail('Imported catalog failed public schema/image validation'); }
   ok(`${totalProducts} physical products, ${totalImages} local images, ${sourcesWithProducts}/${CONFIG.sources.length} sources with products`);
   if (totalProducts === 0) fail("catalog has zero products — refusing to deploy an empty catalog");
 

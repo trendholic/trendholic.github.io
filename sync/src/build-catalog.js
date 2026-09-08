@@ -11,6 +11,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import CONFIG from "../config.js";
+import { importedCatalog } from "./import/catalog.js";
 import { slugify, truncate } from "./util.js";
 
 const dataDir = CONFIG.out.dataDir;
@@ -62,7 +63,7 @@ function page({ title, desc, canonical, ogImage, body, jsonld }) {
 <meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${esc(canonical)}">
 ${ogImage ? `<meta property="og:image" content="${esc(ogImage)}">` : ""}
 <link rel="stylesheet" href="/catalog/catalog.css">
-${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld)}</script>` : ""}
+${jsonld ? `<script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g, '\\u003c')}</script>` : ""}
 </head><body>
 <header class="cat-hd">
   <a class="brand" href="/catalog/"><b>TREND</b>HOLIC · Catalog</a>
@@ -97,14 +98,18 @@ function main() {
   const allRecords = [];
   const productsByTop = {};
 
-  for (const src of CONFIG.sources) {
+  const imported = importedCatalog(repo, CONFIG.sources);
+  const usedSlugs = new Set();
+  for (const src of imported.sources) {
     const topSlug = src.slug || slugify(src.top);
     const prodDir = path.join(dataDir, topSlug, "products");
     const cats = readJson(path.join(dataDir, topSlug, "categories.json"), { categories: [] });
     const products = [];
-    if (fs.existsSync(prodDir)) {
-      for (const f of fs.readdirSync(prodDir).filter((x) => x.endsWith(".json"))) {
-        const p = readJson(path.join(prodDir, f), null); if (!p) continue;
+    const existing = fs.existsSync(prodDir) ? fs.readdirSync(prodDir).filter(f => f.endsWith('.json')).map(f => readJson(path.join(prodDir, f), null)).filter(Boolean) : [];
+    {
+      for (const p of [...existing, ...(imported.byTop.get(topSlug) || [])]) {
+        if (usedSlugs.has(p.slug)) throw new Error('Duplicate catalog handle; build stopped');
+        usedSlugs.add(p.slug);
         p._url = `${cp}/product/${p.slug}/`;
         p._canonical = `${base}${cp}/product/${p.slug}/`;
         p._og = p.images?.[0]?.src ? base + p.images[0].src : null;
@@ -231,10 +236,10 @@ function main() {
         ...(p.sku ? { sku: String(p.sku) } : {}),
         ...(p.description ? { description: truncate(p.description, 300) } : {}),
         ...(p.price ? { offers: { "@type": "Offer", price: String(p.price), priceCurrency: p.currency || "USD",
-          availability: `https://schema.org/${p.availability === "Out of stock" ? "OutOfStock" : "InStock"}`, url: p._canonical } } : {}) };
+          ...(p.category_slug && !p.availability ? {} : { availability: `https://schema.org/${p.availability === "Out of stock" ? "OutOfStock" : "InStock"}` }), url: p._canonical } } : {}) };
       writeFile(path.join(repo, "catalog", "product", p.slug, "index.html"), page({
-        title: `${p.name} | TrendHolic ${p.top_category}`,
-        desc: truncate(`${p.name} — ${p.top_category} in the TrendHolic catalog.`, 155),
+        title: p.seo?.title || `${p.name} | TrendHolic ${p.top_category}`,
+        desc: p.seo?.description || truncate(`${p.name} — ${p.top_category} in the TrendHolic catalog.`, 155),
         canonical: p._canonical, ogImage: p._og, jsonld,
         body: `<nav class="crumb"><a href="${cp}/">Catalog</a> › <a href="${cp}/${t.slug}/">${esc(p.top_category)}</a> › <span>${esc(p.name)}</span></nav>
         <div class="detail">
@@ -246,10 +251,14 @@ function main() {
             <span class="tag">${esc(p.top_category)}</span><h1>${esc(p.name)}</h1>
             ${p.brand ? `<div class="p-brand">${esc(p.brand)}</div>` : ""}
             ${p.price ? `<div class="price">${curSym(p.currency)}${esc(p.price)}${p.compare_at_price && p.compare_at_price !== p.price ? ` <s>${curSym(p.currency)}${esc(p.compare_at_price)}</s>` : ""}</div>` : ""}
+            ${p.category_slug && p.variants?.length ? `<label>Choose an option <select class="import-variant">${p.variants.map(v => `<option value="${esc(v.id)}" data-price="${esc(v.price)}">${esc(v.options.map(o => o.name + ': ' + o.value).join(' / '))} — $${esc(v.price)}</option>`).join('')}</select></label>` : ""}
             <div class="buy">
               <div class="qtyctl"><button type="button" class="q-dec" aria-label="Decrease quantity">−</button><input class="q-in" type="number" min="1" value="1" aria-label="Quantity"><button type="button" class="q-inc" aria-label="Increase quantity">+</button></div>
               <button type="button" class="add-cart wa-add" data-slug="${esc(p.slug)}" data-name="${esc(p.name)}" data-ref="${esc(p.model_number || p.sku || p.parent_product_id || "")}" data-price="${esc(p.price ?? "")}" data-currency="${esc(curSym(p.currency))}" data-image="${esc(imgs[0]?.src || "")}" data-url="${esc(p._url)}">Add to Cart</button>
             </div>
+            ${p.category_slug && p.features?.length ? `<ul>${p.features.map(f => `<li>${esc(f)}</li>`).join('')}</ul>` : ""}
+            ${p.category_slug ? `<dl class="kv">${Object.entries(p.specifications || {}).map(([k,v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl>` : ""}
+            ${p.category_slug && p.packageContents?.length ? `<h2>Package Includes</h2><ul>${p.packageContents.map(v => `<li>${esc(v)}</li>`).join('')}</ul>` : ""}
             <dl class="kv">
               <dt>Brand</dt><dd>${na(p.brand)}</dd>
               ${p.size ? `<dt>Size</dt><dd>${na(p.size)}</dd>` : ""}
@@ -454,8 +463,9 @@ const CATALOG_CART_JS = `(function(){
     if(e.target.closest('[data-cart-close]')){closeDrawer();return}
     var addBtn=e.target.closest('.add-cart');
     if(addBtn){var box=addBtn.closest('.buy'),qin=box?box.querySelector('.q-in'):null,q=qin?parseInt(qin.value,10):1;
-      add({slug:addBtn.getAttribute('data-slug'),name:addBtn.getAttribute('data-name'),ref:addBtn.getAttribute('data-ref'),
-        price:addBtn.getAttribute('data-price'),currency:addBtn.getAttribute('data-currency'),
+      var variant=document.querySelector('.import-variant'),selected=variant&&variant.selectedOptions[0];
+      add({slug:addBtn.getAttribute('data-slug')+(selected?'--'+selected.value:''),name:addBtn.getAttribute('data-name')+(selected?' — '+selected.textContent:''),ref:addBtn.getAttribute('data-ref'),
+        price:selected?selected.getAttribute('data-price'):addBtn.getAttribute('data-price'),currency:addBtn.getAttribute('data-currency'),
         image:addBtn.getAttribute('data-image'),url:addBtn.getAttribute('data-url')},q);return}
     var row=e.target.closest('.cart-row');
     if(row){var slug=row.getAttribute('data-slug');
@@ -463,6 +473,8 @@ const CATALOG_CART_JS = `(function(){
       if(e.target.closest('.q-inc')){var i=idx(load(),slug);setQty(slug,(load()[i].qty||0)+1);return}
       if(e.target.closest('.q-dec')){var j=idx(load(),slug);setQty(slug,(load()[j].qty||0)-1);return}}
   });
+  var variantSelect=document.querySelector('.import-variant');
+  if(variantSelect){var updateVariant=function(){var option=variantSelect.selectedOptions[0],price=document.querySelector('.info .price');if(price)price.textContent='$'+option.getAttribute('data-price')};variantSelect.addEventListener('change',updateVariant);updateVariant()}
   // product-page quantity stepper (buy box, not in cart drawer)
   document.querySelectorAll('.buy .qtyctl').forEach(function(ctl){
     var input=ctl.querySelector('.q-in');
